@@ -48,36 +48,36 @@ STR_0046    :Rollchóstóir Titime Ingearaí
 STR_0047    :Meaisín Airgid
 STR_0048    :Casnóg
 STR_0049    :Teach na bPúcaí
-STR_0050    :First Aid Room
-STR_0051    :Circus
-STR_0052    :Ghost Train
-STR_0053    :Twister Rollchóstóir
-STR_0054    :Wooden Rollchóstóir
-STR_0055    :Side-Friction Rollchóstóir
-STR_0056    :Steel Wild Mouse
-STR_0057    :Multi-Dimension Rollchóstóir
-STR_0058    :Unknown Ride (38)
-STR_0059    :Flying Rollchóstóir
-STR_0060    :Unknown Ride (3A)
-STR_0061    :Virginia Reel
-STR_0062    :Splash Boats
-STR_0063    :Mini Helicopters
-STR_0064    :Lay-down Rollchóstóir
-STR_0065    :Suspended Monorail
-STR_0066    :Unknown Ride (40)
-STR_0067    :Reverser Rollchóstóir
-STR_0068    :Heartline Twister Coaster
-STR_0069    :Mini Golf
-STR_0070    :Giga Coaster
-STR_0071    :Roto-Drop
-STR_0072    :Flying Saucers
-STR_0073    :Crooked House
-STR_0074    :Monorail Cycles
-STR_0075    :Compact Inverted Coaster
-STR_0076    :Water Coaster
-STR_0077    :Air Powered Vertical Coaster
-STR_0078    :Inverted Hairpin Coaster
-STR_0079    :Magic Carpet
+STR_0050    :Seomra Garchabhrach
+STR_0051    :Sorcas
+STR_0052    :Traein Taibhse
+STR_0053    :Rollchóstóir Castóra
+STR_0054    :Rollchóstóir Adhmaid
+STR_0055    :Rollchóstóir Frithchuimilte Taoibh
+STR_0056    :Luch Fhiáin Cruaiche
+STR_0057    :Rollchóstóir Iltoiseach
+STR_0058    :Marcaíocht Anaithnid (38)
+STR_0059    :Rollchóstóir Eitilte
+STR_0060    :Marcaíocht Anaithnid (3A)
+STR_0061    :Ríl Virginia
+STR_0062    :Báid Steallta
+STR_0063    :Mionhéileacaptair
+STR_0064    :Rollchóstóir Luite
+STR_0065    :Aonráille Crochta
+STR_0066    :Marcaíocht Anaithnid (40)
+STR_0067    :Rollchóstóir Cúlaithe
+STR_0068    :Cóstóir Castóir Píblíne
+STR_0069    :Mionghalf
+STR_0070    :Gigeachóstóir
+STR_0071    :Rótathitim
+STR_0072    :Sásair Eitilte
+STR_0073    :Teach Cam
+STR_0074    :Rothair Aonráille
+STR_0075    :Dlúthchóstóir Inbhéartaithe
+STR_0076    :Cóstóir Uisce
+STR_0077    :Cóstóir Ingearach Aerchumhachta
+STR_0078    :Cóstóir Biorach Inbhéartaithe
+STR_0079    :Cairpéad Draíochta
 STR_0080    :Submarine Ride
 STR_0081    :River Rafts
 STR_0083    :Enterprise
