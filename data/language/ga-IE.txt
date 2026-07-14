@@ -92,14 +92,14 @@ STR_0096    :Rollchóstóir Clasaiceach Adhmaid
 STR_0097    :Rollchóstóir Clasaiceach Seasaimh
 STR_0098    :Rollchóstóir Lainseáilte LSM
 STR_0099    :Rollchóstóir Clasaiceach Castóra Adhmaid
-STR_0512    :A compact roller coaster with a spiral lift hill and smooth, twisting drops.
-STR_0513    :A looping roller coaster where the riders ride in a standing position
-STR_0514    :Trains suspended beneath the roller coaster track swing out to the side around corners
-STR_0515    :A steel roller coaster with trains that are held beneath the track, with many complex and twisting track elements
-STR_0516    :A gentle roller coaster for people who haven’t yet got the courage to face the larger rides
-STR_0517    :Passengers ride in miniature trains along a narrow-gauge railway track
-STR_0518    :Passengers travel in electric trains along a monorail track
-STR_0519    :Passengers ride in small cars hanging beneath the single-rail track, swinging freely from side to side around corners
+STR_0512    :Dlúthchóstóir le cnoc ardaithe bíseach agus titimí casta míne.
+STR_0513    :Rollchóstóir lúbach a marcaítear ina seasamh
+STR_0514    :Luascann traenacha atá crochta faoi ráille an rollchóstóra amach i leataobh timpeall coirnéal
+STR_0515    :Rollchóstóir cruaiche le traenacha a choinnítear faoin ráille, le mórán ball ráille casta coimpléascach
+STR_0516    :Rollchóstóir séimh do dhaoine nach bhfuil sé de mhisneach acu fós aghaidh a thabhairt ar na marcaíochtaí is mó
+STR_0517    :Marcaíonn paisinéirí i mionthraenacha feadh ráille iarnróid chaoil
+STR_0518    :Taistealaíonn paisinéirí i dtraenacha leictreacha feadh aonráille
+STR_0519    :Marcaíonn paisinéirí i mionghluaisteáin ar crochadh faoin ráille aonair, ag luascadh go saor ó thaobh go taobh timpeall coirnéal
 STR_0520    :A dock platform where guests can drive/row personal watercraft on a body of water
 STR_0521    :A fast and twisting roller coaster with tight turns and steep drops. Intensity is bound to be high.
 STR_0522    :A smaller roller coaster where the riders sit above the track with no car around them
