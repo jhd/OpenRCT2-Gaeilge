@@ -178,63 +178,63 @@ STR_0606    :An older-style wooden roller coaster with a fast and rough ride, wi
 STR_0607    :An intense, older-style steel looping roller coaster where the riders ride in a standing position
 STR_0608    :Roller coaster trains are accelerated by linear synchronous motors, speeding through tight twists and turns
 STR_0609    :An older-style wooden roller coaster with a fast and rough ride featuring articulated trains, plenty of air-time and twisting track
-STR_0767    :Guest {INT32}
-STR_0768    :Handyman {INT32}
-STR_0769    :Mechanic {INT32}
-STR_0770    :Security Guard {INT32}
-STR_0771    :Entertainer {INT32}
-STR_0777    :Unnamed park
-STR_0778    :Sign
-STR_0779    :1st
-STR_0780    :2nd
-STR_0781    :3rd
-STR_0782    :4th
-STR_0783    :5th
-STR_0784    :6th
-STR_0785    :7th
-STR_0786    :8th
-STR_0787    :9th
-STR_0788    :10th
-STR_0789    :11th
-STR_0790    :12th
-STR_0791    :13th
-STR_0792    :14th
-STR_0793    :15th
-STR_0794    :16th
-STR_0795    :17th
-STR_0796    :18th
-STR_0797    :19th
-STR_0798    :20th
-STR_0799    :21st
-STR_0800    :22nd
-STR_0801    :23rd
-STR_0802    :24th
-STR_0803    :25th
-STR_0804    :26th
-STR_0805    :27th
-STR_0806    :28th
-STR_0807    :29th
-STR_0808    :30th
-STR_0809    :31st
-STR_0810    :Jan
-STR_0811    :Feb
-STR_0812    :Mar
-STR_0813    :Apr
-STR_0814    :May
-STR_0815    :Jun
-STR_0816    :Jul
-STR_0817    :Aug
-STR_0818    :Sep
-STR_0819    :Oct
-STR_0820    :Nov
-STR_0821    :Dec
-STR_0822    :Unable to access graphic data file
-STR_0823    :Missing or inaccessible data file
+STR_0767    :Aoi {INT32}
+STR_0768    :Airíoch {INT32}
+STR_0769    :Meicneoir {INT32}
+STR_0770    :Garda slándála {INT32}
+STR_0771    :Fuirseoir {INT32}
+STR_0777    :Páirc gan ainm
+STR_0778    :Comhartha
+STR_0779    :1ú
+STR_0780    :2ú
+STR_0781    :3ú
+STR_0782    :4ú
+STR_0783    :5ú
+STR_0784    :6ú
+STR_0785    :7ú
+STR_0786    :8ú
+STR_0787    :9ú
+STR_0788    :10ú
+STR_0789    :11ú
+STR_0790    :12ú
+STR_0791    :13ú
+STR_0792    :14ú
+STR_0793    :15ú
+STR_0794    :16ú
+STR_0795    :17ú
+STR_0796    :18ú
+STR_0797    :19ú
+STR_0798    :20ú
+STR_0799    :21ú
+STR_0800    :22ú
+STR_0801    :23ú
+STR_0802    :24ú
+STR_0803    :25ú
+STR_0804    :26ú
+STR_0805    :27ú
+STR_0806    :28ú
+STR_0807    :29ú
+STR_0808    :30ú
+STR_0809    :31ú
+STR_0810    :Ean
+STR_0811    :Feabh
+STR_0812    :Márta
+STR_0813    :Aib
+STR_0814    :Beal
+STR_0815    :Meith
+STR_0816    :Iúil
+STR_0817    :Lún
+STR_0818    :MFómh
+STR_0819    :DFómh
+STR_0820    :Samh
+STR_0821    :Noll
+STR_0822    :Ní féidir comhad sonraí grafaicí a rochtain
+STR_0823    :Comhad sonraí ar iarraidh nó dorochtana
 STR_0824    :{BLACK}❌
-STR_0825    :Chosen name in use already
-STR_0826    :Too many names defined
-STR_0827    :Not enough cash - requires {CURRENCY2DP}
-STR_0828    :Close window
+STR_0825    :Ainm tofa in úsáid cheana féin
+STR_0826    :An iomarca ainmneacha sainmhínithe
+STR_0827    :Níl go leor airgid ann - teastaíonn {CURRENCY2DP}
+STR_0828    :Dún an fhuinneog
 STR_0829    :Window title - Drag this to move window
 STR_0830    :Zoom view in
 STR_0831    :Zoom view out
