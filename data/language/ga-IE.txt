@@ -235,33 +235,33 @@ STR_0825    :Ainm tofa in úsáid cheana féin
 STR_0826    :An iomarca ainmneacha sainmhínithe
 STR_0827    :Níl go leor airgid ann - teastaíonn {CURRENCY2DP}
 STR_0828    :Dún an fhuinneog
-STR_0829    :Window title - Drag this to move window
-STR_0830    :Zoom view in
-STR_0831    :Zoom view out
-STR_0832    :Rotate view 90° clockwise
-STR_0833    :Pause game
-STR_0834    :Disk and game options
+STR_0829    :Teideal na fuinneoige - tarraing é seo chun an fhuinneog a bhogadh
+STR_0830    :Zúmáil an t-amharc isteach
+STR_0831    :Zúmáil an t-amharc amach
+STR_0832    :Rothlaigh an t-amharc 90° deiseal
+STR_0833    :Cuir an cluiche ar sos
+STR_0834    :Roghanna diosca agus cluiche
 STR_0839    :{UINT16} × {UINT16}
-STR_0847    :About ‘OpenRCT2’
-STR_0850    :{WINDOW_COLOUR_2}Copyright © 2002 Chris Sawyer, all rights reserved
-STR_0851    :{WINDOW_COLOUR_2}Designed and programmed by Chris Sawyer
-STR_0852    :{WINDOW_COLOUR_2}Graphics by Simon Foster
-STR_0853    :{WINDOW_COLOUR_2}Sound and music by Allister Brimble
-STR_0854    :{WINDOW_COLOUR_2}Additional sounds recorded by David Ellis
-STR_0855    :{WINDOW_COLOUR_2}Representation by Jacqui Lyons at Marjacq Ltd.
-STR_0856    :{WINDOW_COLOUR_2}Thanks to:
-STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, and John Wardley
+STR_0847    :Maidir le ‘OpenRCT2’
+STR_0850    :{WINDOW_COLOUR_2}Cóipcheart © 2002 Chris Sawyer, gach ceart ar cosaint
+STR_0851    :{WINDOW_COLOUR_2}Dearadh agus ríomhchlárú le Chris Sawyer
+STR_0852    :{WINDOW_COLOUR_2}Grafaicí le Simon Foster
+STR_0853    :{WINDOW_COLOUR_2}Fuaim agus ceol le hAllister Brimble
+STR_0854    :{WINDOW_COLOUR_2}Fuaimeanna breise taifeadta le David Ellis
+STR_0855    :{WINDOW_COLOUR_2}Ionadaíocht le Jacqui Lyons ag Marjacq Ltd.
+STR_0856    :{WINDOW_COLOUR_2}Buíochas le:
+STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, agus John Wardley
 STR_0865    :{STRINGID}
 STR_0876    :{BLACK}▼
-STR_0877    :Too low!
-STR_0878    :Too high!
-STR_0879    :Can’t lower land here…
-STR_0880    :Can’t raise land here…
-STR_0881    :Object in the way
-STR_0882    :Load Game
-STR_0883    :Save Game
-STR_0884    :Load Landscape
-STR_0885    :Save Landscape
+STR_0877    :Ró-íseal!
+STR_0878    :Ró-ard!
+STR_0879    :Ní féidir talamh a ísliú anseo…
+STR_0880    :Ní féidir talamh a ardú anseo…
+STR_0881    :Réad sa bhealach
+STR_0882    :Lódáil Cluiche
+STR_0883    :Sábháil Cluiche
+STR_0884    :Lódáil Tírdhreach
+STR_0885    :Sábháil Tírdhreach
 STR_0887    :Quit Scenario Editor
 STR_0888    :Quit Track Designer
 STR_0889    :Quit Track Designs Manager
