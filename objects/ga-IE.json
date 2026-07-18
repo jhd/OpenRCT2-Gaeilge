@@ -5909,9 +5909,9 @@
     },
     "rct2tt.ride.bmvoctps": {
         "reference-name": "Blob from Outer Space",
-        "name": "Slaba ón Spás Amuigh",
+        "name": "Bloba ón Spás Amuigh",
         "reference-description": "A themed rotating observation cabin shaped like a blob from a sci-fi B-film",
-        "description": "Cábán breathnóireachta rothlach téamaithe i gcruth slaba as B-scannán ficsean eolaíochta",
+        "description": "Cábán breathnóireachta rothlach téamaithe i gcruth bloba as B-scannán ficsean eolaíochta",
         "reference-capacity": "32 passengers",
         "capacity": "32 phaisinéir"
     },
@@ -6171,7 +6171,7 @@
     },
     "rct2tt.ride.pterodac": {
         "reference-name": "Pterodactyl Trains",
-        "name": "Traenacha Teireadachtail",
+        "name": "Traenacha Pterodactyl",
         "reference-description": "Riders are held in comfortable seats below the track to give the ultimate prehistoric flying experience",
         "description": "Coinnítear na marcaigh i suíocháin chompordacha faoin ráille chun sáreispéireas réamhstairiúil eitilte a thabhairt",
         "reference-capacity": "4 passengers per car",
@@ -6257,7 +6257,7 @@
     },
     "rct2tt.ride.trebucht": {
         "reference-name": "Trebuchet Ride",
-        "name": "Marcaíocht Traibiúiséid",
+        "name": "Marcaíocht Crann Tabhaill",
         "reference-description": "Passengers ride in a carriage suspended by two large arms, based on a Dark Age siege weapon",
         "description": "Marcaíonn paisinéirí i gcarráiste ar crochadh ó dhá ghéag mhóra, bunaithe ar arm léigir ón Ré Dhorcha",
         "reference-capacity": "8 passengers",
@@ -6273,9 +6273,9 @@
     },
     "rct2tt.ride.trilobte": {
         "reference-name": "Trilobite Boats",
-        "name": "Báid Trílóibíte",
+        "name": "Báid Trilobite",
         "reference-description": "Trilobite-shaped roller coaster cars",
-        "description": "Gluaisteáin rollchóstóra i gcruth trílóibíte",
+        "description": "Gluaisteáin rollchóstóra i gcruth trilobite",
         "reference-capacity": "6 passengers per boat",
         "capacity": "6 phaisinéir sa bhád"
     },
@@ -8865,7 +8865,7 @@
     },
     "rct2ww.ride.junkswng": {
         "reference-name": "Chinese Junk Swing Ride",
-        "name": "Siúnca Luascach Síneach",
+        "name": "Marcaíocht Junk Luascach Síneach",
         "reference-description": "Ship is attached to an arm with a counterweight at the opposite end, and swings through a complete 360 degrees",
         "description": "Tá an long ceangailte de ghéag le frithmheáchan ag an gceann eile, agus luascann sí trí 360 céim iomlán",
         "reference-capacity": "12 passengers",
@@ -8945,7 +8945,7 @@
     },
     "rct2ww.ride.outriggr": {
         "reference-name": "Outrigger Canoes",
-        "name": "Canúnna Frithbhearta",
+        "name": "Canúnna le Baoi",
         "reference-description": "Long canoes which the passengers paddle themselves",
         "description": "Canúnna fada a chéaslaíonn na paisinéirí iad féin",
         "reference-capacity": "2 passengers per canoe",
