@@ -29,7 +29,7 @@
     },
     "official.terrain_edge.void": {
         "reference-name": "Void",
-        "name": "Void"
+        "name": "Folús"
     },
     "openrct2.footpath_railings.invisible": {
         "reference-name": "Invisible Railings",
@@ -77,19 +77,19 @@
     },
     "openrct2.station.noentrance": {
         "reference-name": "No entrance",
-        "name": "No entrance"
+        "name": "Gan bealach isteach"
     },
     "openrct2.station.noplatformnoentrance": {
         "reference-name": "No entrance, no platform",
-        "name": "No entrance, no platform"
+        "name": "Gan bealach isteach, gan ardán"
     },
     "openrct2.terrain_surface.void": {
         "reference-name": "Void",
-        "name": "Void"
+        "name": "Folús"
     },
     "rct1.audio.title": {
         "reference-name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes).",
-        "name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes)."
+        "name": "Ceol scáileáin teidil do RollerCoaster Tycoon (Loopy Landscapes)."
     },
     "rct1.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Sloped)",
@@ -629,15 +629,15 @@
     },
     "rct1.terrain_edge.brick": {
         "reference-name": "Brick",
-        "name": "Brick"
+        "name": "Bríce"
     },
     "rct1.terrain_edge.iron": {
         "reference-name": "Iron",
-        "name": "Iron"
+        "name": "Iarann"
     },
     "rct1.water.natural_water": {
         "reference-name": "Natural Water",
-        "name": "Natural Water"
+        "name": "Uisce Nádúrtha"
     },
     "rct1aa.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Square)",
@@ -1085,31 +1085,31 @@
     },
     "rct1aa.terrain_edge.grey": {
         "reference-name": "Stucco (Grey)",
-        "name": "Stucco (Grey)"
+        "name": "Stucó (Liath)"
     },
     "rct1aa.terrain_edge.red": {
         "reference-name": "Stucco (Red)",
-        "name": "Stucco (Red)"
+        "name": "Stucó (Dearg)"
     },
     "rct1aa.terrain_edge.yellow": {
         "reference-name": "Stucco (Yellow)",
-        "name": "Stucco (Yellow)"
+        "name": "Stucó (Buí)"
     },
     "rct1aa.terrain_surface.roof_red": {
         "reference-name": "Roof (Red)",
-        "name": "Roof (Red)"
+        "name": "Díon (Dearg)"
     },
     "rct1beta.terrain_edge.brick": {
         "reference-name": "Brick (Brown)",
-        "name": "Brick (Brown)"
+        "name": "Bríce (Donn)"
     },
     "rct1beta.terrain_edge.rock": {
         "reference-name": "Rock (Brown)",
-        "name": "Rock (Brown)"
+        "name": "Carraig (Donn)"
     },
     "rct1beta.terrain_surface.wildflowers": {
         "reference-name": "Wildflowers",
-        "name": "Wildflowers"
+        "name": "Bláthanna Fiáine"
     },
     "rct1dlc.scenario_meta.bobsled_roller_coaster_competition": {
         "reference-name": "Bobsleigh Roller Coaster Competition",
@@ -1609,39 +1609,39 @@
     },
     "rct1ll.terrain_edge.green": {
         "reference-name": "Stucco (Green)",
-        "name": "Stucco (Green)"
+        "name": "Stucó (Glas)"
     },
     "rct1ll.terrain_edge.purple": {
         "reference-name": "Stucco (Purple)",
-        "name": "Stucco (Purple)"
+        "name": "Stucó (Corcra)"
     },
     "rct1ll.terrain_edge.skyscraper_a": {
         "reference-name": "Skyscraper (A)",
-        "name": "Skyscraper (A)"
+        "name": "Ilstórach (A)"
     },
     "rct1ll.terrain_edge.skyscraper_b": {
         "reference-name": "Skyscraper (B)",
-        "name": "Skyscraper (B)"
+        "name": "Ilstórach (B)"
     },
     "rct1ll.terrain_edge.stone_brown": {
         "reference-name": "Sandstone (Brown)",
-        "name": "Sandstone (Brown)"
+        "name": "Gaineamhchloch (Donn)"
     },
     "rct1ll.terrain_edge.stone_grey": {
         "reference-name": "Sandstone (Grey)",
-        "name": "Sandstone (Grey)"
+        "name": "Gaineamhchloch (Liath)"
     },
     "rct1ll.terrain_surface.roof_grey": {
         "reference-name": "Roof (Grey)",
-        "name": "Roof (Grey)"
+        "name": "Díon (Liath)"
     },
     "rct1ll.terrain_surface.rust": {
         "reference-name": "Rust",
-        "name": "Rust"
+        "name": "Meirg"
     },
     "rct1ll.terrain_surface.wood": {
         "reference-name": "Wood",
-        "name": "Wood"
+        "name": "Adhmad"
     },
     "rct1tw.scenario_meta.taiwan_park": {
         "reference-name": "Taiwan Park",
@@ -1653,35 +1653,35 @@
     },
     "rct2.audio.base.rct2": {
         "reference-name": "Base audio for the game.",
-        "name": "Base audio for the game."
+        "name": "Bunfhuaimeanna an chluiche."
     },
     "rct2.audio.base.rctc": {
         "reference-name": "Base audio for the game.",
-        "name": "Base audio for the game."
+        "name": "Bunfhuaimeanna an chluiche."
     },
     "rct2.audio.circus": {
         "reference-name": "Ambient sound effects for the Circus attraction.",
-        "name": "Ambient sound effects for the Circus attraction."
+        "name": "Maisíochtaí fuaime timpeallacha don Sorcas."
     },
     "rct2.audio.title": {
         "reference-name": "Title screen music for RollerCoaster Tycoon 2.",
-        "name": "Title screen music for RollerCoaster Tycoon 2."
+        "name": "Ceol scáileáin teidil do RollerCoaster Tycoon 2."
     },
     "rct2.climate.cold": {
         "reference-name": "Cold",
-        "name": "Cold"
+        "name": "Fuar"
     },
     "rct2.climate.cool_and_wet": {
         "reference-name": "Cool and wet",
-        "name": "Cool and wet"
+        "name": "Fionnuar agus fliuch"
     },
     "rct2.climate.hot_and_dry": {
         "reference-name": "Hot and dry",
-        "name": "Hot and dry"
+        "name": "Te agus tirim"
     },
     "rct2.climate.warm": {
         "reference-name": "Warm",
-        "name": "Warm"
+        "name": "Bogthe"
     },
     "rct2.footpath_banner.bn1": {
         "reference-name": "Sign",
@@ -1865,131 +1865,131 @@
     },
     "rct2.music.candy": {
         "reference-name": "Candy style",
-        "name": "Candy style"
+        "name": "Nós Milseán"
     },
     "rct2.music.custom1": {
         "reference-name": "Legacy custom music 1",
-        "name": "Legacy custom music 1"
+        "name": "Ceol saincheaptha oidhreachta 1"
     },
     "rct2.music.custom2": {
         "reference-name": "Legacy custom music 2",
-        "name": "Legacy custom music 2"
+        "name": "Ceol saincheaptha oidhreachta 2"
     },
     "rct2.music.dodgems": {
         "reference-name": "Dodgems beat style",
-        "name": "Dodgems beat style"
+        "name": "Nós Buille Tuairtcharranna"
     },
     "rct2.music.egyptian": {
         "reference-name": "Egyptian style",
-        "name": "Egyptian style"
+        "name": "Nós Éigipteach"
     },
     "rct2.music.fairground": {
         "reference-name": "Fairground organ style",
-        "name": "Fairground organ style"
+        "name": "Nós Orgán Aonaigh"
     },
     "rct2.music.fantasy": {
         "reference-name": "Fantasy style",
-        "name": "Fantasy style"
+        "name": "Nós Fantaisíochta"
     },
     "rct2.music.gentle": {
         "reference-name": "Gentle style",
-        "name": "Gentle style"
+        "name": "Nós Séimh"
     },
     "rct2.music.horror": {
         "reference-name": "Horror style",
-        "name": "Horror style"
+        "name": "Nós Uafáis"
     },
     "rct2.music.ice": {
         "reference-name": "Ice style",
-        "name": "Ice style"
+        "name": "Nós Oighir"
     },
     "rct2.music.jungle": {
         "reference-name": "Jungle drums style",
-        "name": "Jungle drums style"
+        "name": "Nós Drumaí Dufaire"
     },
     "rct2.music.jurassic": {
         "reference-name": "Jurassic style",
-        "name": "Jurassic style"
+        "name": "Nós Jurassic"
     },
     "rct2.music.martian": {
         "reference-name": "Martian style",
-        "name": "Martian style"
+        "name": "Nós Marsach"
     },
     "rct2.music.mechanical": {
         "reference-name": "Mechanical style",
-        "name": "Mechanical style"
+        "name": "Nós Meicniúil"
     },
     "rct2.music.medieval": {
         "reference-name": "Medieval style",
-        "name": "Medieval style"
+        "name": "Nós Meánaoiseach"
     },
     "rct2.music.modern": {
         "reference-name": "Modern style",
-        "name": "Modern style"
+        "name": "Nós Nua-Aimseartha"
     },
     "rct2.music.organ": {
         "reference-name": "Organ style",
-        "name": "Organ style"
+        "name": "Nós Orgáin"
     },
     "rct2.music.oriental": {
         "reference-name": "Oriental style",
-        "name": "Oriental style"
+        "name": "Nós Oirthearach"
     },
     "rct2.music.pirate": {
         "reference-name": "Pirates style",
-        "name": "Pirates style"
+        "name": "Nós Foghlaithe Mara"
     },
     "rct2.music.ragtime": {
         "reference-name": "Ragtime style",
-        "name": "Ragtime style"
+        "name": "Nós Ragtime"
     },
     "rct2.music.rock1": {
         "reference-name": "Rock style",
-        "name": "Rock style"
+        "name": "Nós Rac"
     },
     "rct2.music.rock2": {
         "reference-name": "Rock style 2",
-        "name": "Rock style 2"
+        "name": "Nós Rac 2"
     },
     "rct2.music.rock3": {
         "reference-name": "Rock style 3",
-        "name": "Rock style 3"
+        "name": "Nós Rac 3"
     },
     "rct2.music.roman": {
         "reference-name": "Roman fanfare style",
-        "name": "Roman fanfare style"
+        "name": "Nós Fanfáir Rómhánach"
     },
     "rct2.music.snow": {
         "reference-name": "Snow style",
-        "name": "Snow style"
+        "name": "Nós Sneachta"
     },
     "rct2.music.space": {
         "reference-name": "Space style",
-        "name": "Space style"
+        "name": "Nós Spáis"
     },
     "rct2.music.summer": {
         "reference-name": "Summer style",
-        "name": "Summer style"
+        "name": "Nós Samhraidh"
     },
     "rct2.music.techno": {
         "reference-name": "Techno style",
-        "name": "Techno style"
+        "name": "Nós Techno"
     },
     "rct2.music.toyland": {
         "reference-name": "Toyland style",
-        "name": "Toyland style"
+        "name": "Nós Thír na mBréagán"
     },
     "rct2.music.urban": {
         "reference-name": "Urban style",
-        "name": "Urban style"
+        "name": "Nós Uirbeach"
     },
     "rct2.music.water": {
         "reference-name": "Water style",
-        "name": "Water style"
+        "name": "Nós Uisce"
     },
     "rct2.music.wildwest": {
         "reference-name": "Wild west style",
-        "name": "Wild west style"
+        "name": "Nós an Iarthair Fhiáin"
     },
     "rct2.park_entrance.pkemm": {
         "reference-name": "Park Entrance Gates",
@@ -2005,67 +2005,67 @@
     },
     "rct2.peep_animations.entertainer_astronaut": {
         "reference-name": "Astronaut costume",
-        "name": "Astronaut costume"
+        "name": "Culaith Spásaire"
     },
     "rct2.peep_animations.entertainer_bandit": {
         "reference-name": "Bandit costume",
-        "name": "Bandit costume"
+        "name": "Culaith Ropaire"
     },
     "rct2.peep_animations.entertainer_elephant": {
         "reference-name": "Elephant costume",
-        "name": "Elephant costume"
+        "name": "Culaith Eilifinte"
     },
     "rct2.peep_animations.entertainer_gorilla": {
         "reference-name": "Gorilla costume",
-        "name": "Gorilla costume"
+        "name": "Culaith Goraille"
     },
     "rct2.peep_animations.entertainer_knight": {
         "reference-name": "Knight costume",
-        "name": "Knight costume"
+        "name": "Culaith Ridire"
     },
     "rct2.peep_animations.entertainer_panda": {
         "reference-name": "Panda costume",
-        "name": "Panda costume"
+        "name": "Culaith Panda"
     },
     "rct2.peep_animations.entertainer_pirate": {
         "reference-name": "Pirate costume",
-        "name": "Pirate costume"
+        "name": "Culaith Foghlaí Mara"
     },
     "rct2.peep_animations.entertainer_roman": {
         "reference-name": "Roman costume",
-        "name": "Roman costume"
+        "name": "Culaith Rómhánaigh"
     },
     "rct2.peep_animations.entertainer_sheriff": {
         "reference-name": "Sheriff costume",
-        "name": "Sheriff costume"
+        "name": "Culaith Sirriam"
     },
     "rct2.peep_animations.entertainer_snowman": {
         "reference-name": "Snowman costume",
-        "name": "Snowman costume"
+        "name": "Culaith Fir Shneachta"
     },
     "rct2.peep_animations.entertainer_tiger": {
         "reference-name": "Tiger costume",
-        "name": "Tiger costume"
+        "name": "Culaith Tíogair"
     },
     "rct2.peep_animations.guest": {
         "reference-name": "Guest",
-        "name": "Guest"
+        "name": "Aoi"
     },
     "rct2.peep_animations.handyman": {
         "reference-name": "Handyman",
-        "name": "Handyman"
+        "name": "Airíoch"
     },
     "rct2.peep_animations.mechanic": {
         "reference-name": "Mechanic",
-        "name": "Mechanic"
+        "name": "Meicneoir"
     },
     "rct2.peep_animations.security": {
         "reference-name": "Security Guard",
-        "name": "Security Guard"
+        "name": "Garda Slándála"
     },
     "rct2.peep_names.original": {
         "reference-name": "Original peep names",
-        "name": "Original peep names"
+        "name": "Bunainmneacha na ndaoine"
     },
     "rct2.ride.4x4": {
         "reference-name": "Monster Trucks",
@@ -5585,31 +5585,31 @@
     },
     "rct2.station.abstract": {
         "reference-name": "Abstract",
-        "name": "Abstract"
+        "name": "Teibí"
     },
     "rct2.station.canvas_tent": {
         "reference-name": "Canvas Tent",
-        "name": "Canvas Tent"
+        "name": "Puball Canbháis"
     },
     "rct2.station.castle_brown": {
         "reference-name": "Castle (Brown)",
-        "name": "Castle (Brown)"
+        "name": "Caisleán (Donn)"
     },
     "rct2.station.castle_grey": {
         "reference-name": "Castle (Grey)",
-        "name": "Castle (Grey)"
+        "name": "Caisleán (Liath)"
     },
     "rct2.station.classical": {
         "reference-name": "Classical / Roman",
-        "name": "Classical / Roman"
+        "name": "Clasaiceach / Rómhánach"
     },
     "rct2.station.jungle": {
         "reference-name": "Jungle",
-        "name": "Jungle"
+        "name": "Dufair"
     },
     "rct2.station.log": {
         "reference-name": "Log Cabin",
-        "name": "Log Cabin"
+        "name": "Cábán Lomán"
     },
     "rct2.station.pagoda": {
         "reference-name": "Pagoda",
@@ -5617,115 +5617,115 @@
     },
     "rct2.station.plain": {
         "reference-name": "Plain",
-        "name": "Plain"
+        "name": "Simplí"
     },
     "rct2.station.snow": {
         "reference-name": "Snow / Ice",
-        "name": "Snow / Ice"
+        "name": "Sneachta / Oighear"
     },
     "rct2.station.space": {
         "reference-name": "Space",
-        "name": "Space"
+        "name": "Spás"
     },
     "rct2.station.wooden": {
         "reference-name": "Wooden",
-        "name": "Wooden"
+        "name": "Adhmad"
     },
     "rct2.terrain_edge.ice": {
         "reference-name": "Ice",
-        "name": "Ice"
+        "name": "Oighear"
     },
     "rct2.terrain_edge.rock": {
         "reference-name": "Rock",
-        "name": "Rock"
+        "name": "Carraig"
     },
     "rct2.terrain_edge.wood_black": {
         "reference-name": "Wood (black)",
-        "name": "Wood (black)"
+        "name": "Adhmad (dubh)"
     },
     "rct2.terrain_edge.wood_red": {
         "reference-name": "Wood (red)",
-        "name": "Wood (red)"
+        "name": "Adhmad (dearg)"
     },
     "rct2.terrain_surface.chequerboard": {
         "reference-name": "Chequerboard",
-        "name": "Chequerboard"
+        "name": "Clár Táiplise"
     },
     "rct2.terrain_surface.dirt": {
         "reference-name": "Dirt",
-        "name": "Dirt"
+        "name": "Créafóg"
     },
     "rct2.terrain_surface.grass": {
         "reference-name": "Grass",
-        "name": "Grass"
+        "name": "Féar"
     },
     "rct2.terrain_surface.grass_clumps": {
         "reference-name": "Grass Clumps",
-        "name": "Grass Clumps"
+        "name": "Tortóga Féir"
     },
     "rct2.terrain_surface.grid_green": {
         "reference-name": "Grid (Green)",
-        "name": "Grid (Green)"
+        "name": "Greille (Glas)"
     },
     "rct2.terrain_surface.grid_purple": {
         "reference-name": "Grid (Purple)",
-        "name": "Grid (Purple)"
+        "name": "Greille (Corcra)"
     },
     "rct2.terrain_surface.grid_red": {
         "reference-name": "Grid (Red)",
-        "name": "Grid (Red)"
+        "name": "Greille (Dearg)"
     },
     "rct2.terrain_surface.grid_yellow": {
         "reference-name": "Grid (Yellow)",
-        "name": "Grid (Yellow)"
+        "name": "Greille (Buí)"
     },
     "rct2.terrain_surface.ice": {
         "reference-name": "Ice",
-        "name": "Ice"
+        "name": "Oighear"
     },
     "rct2.terrain_surface.martian": {
         "reference-name": "Martian",
-        "name": "Martian"
+        "name": "Marsach"
     },
     "rct2.terrain_surface.rock": {
         "reference-name": "Rock",
-        "name": "Rock"
+        "name": "Carraig"
     },
     "rct2.terrain_surface.sand": {
         "reference-name": "Sand",
-        "name": "Sand"
+        "name": "Gaineamh"
     },
     "rct2.terrain_surface.sand_brown": {
         "reference-name": "Sand (Brown)",
-        "name": "Sand (Brown)"
+        "name": "Gaineamh (Donn)"
     },
     "rct2.terrain_surface.sand_red": {
         "reference-name": "Sand (Red)",
-        "name": "Sand (Red)"
+        "name": "Gaineamh (Dearg)"
     },
     "rct2.water.wtrcyan": {
         "reference-name": "Natural Water",
-        "name": "Natural Water"
+        "name": "Uisce Nádúrtha"
     },
     "rct2.water.wtrgreen": {
         "reference-name": "Acid Green Water",
-        "name": "Acid Green Water"
+        "name": "Uisce Aigéadghlas"
     },
     "rct2.water.wtrgreen_fix": {
         "reference-name": "Acid Green Water",
-        "name": "Acid Green Water"
+        "name": "Uisce Aigéadghlas"
     },
     "rct2.water.wtrgrn": {
         "reference-name": "Green Water",
-        "name": "Green Water"
+        "name": "Uisce Glas"
     },
     "rct2.water.wtrorng": {
         "reference-name": "Orange Water",
-        "name": "Orange Water"
+        "name": "Uisce Oráiste"
     },
     "rct2.water.wtrorng_fix": {
         "reference-name": "Orange Water",
-        "name": "Orange Water"
+        "name": "Uisce Oráiste"
     },
     "rct2dlc.footpath_item.litterpa": {
         "reference-name": "Panda Litter Bin",
@@ -5761,11 +5761,11 @@
     },
     "rct2dlc.water.wtrpink": {
         "reference-name": "Pink Water",
-        "name": "Pink Water"
+        "name": "Uisce Bándearg"
     },
     "rct2dlc.water.wtrpink_fix": {
         "reference-name": "Pink Water",
-        "name": "Pink Water"
+        "name": "Uisce Bándearg"
     },
     "rct2tt.footpath_item.firhydrt": {
         "reference-name": "Fire Hydrant",
