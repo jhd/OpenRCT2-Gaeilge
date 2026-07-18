@@ -1707,13 +1707,13 @@ STR_2396    :{BLACK}To achieve a monthly profit from food, drink and merchandise
 STR_2397    :None
 STR_2398    :Number of guests at a given date
 STR_2399    :Park value at a given date
-STR_2400    :Have fun
-STR_2401    :Build the best ride you can
-STR_2402    :Build 10 rollchóstóirí
-STR_2403    :Number of guests in park
-STR_2404    :Monthly income from ride tickets
-STR_2405    :Build 10 rollchóstóirí of a given length
-STR_2406    :Finish building 5 rollchóstóirí
+STR_2400    :Spraoi a bheith agat
+STR_2401    :An mharcaíocht is fearr is féidir leat a thógáil
+STR_2402    :10 rollchóstóir a thógáil
+STR_2403    :Líon na n-aíonna sa pháirc
+STR_2404    :Ioncam míosúil as ticéid mharcaíochta
+STR_2405    :10 rollchóstóir d'fhad áirithe a thógáil
+STR_2406    :Tógáil 5 rollchóstóir a chríochnú
 STR_2407    :Repay loan and achieve a given park value
 STR_2408    :Monthly profit from food/merchandise
 STR_2409    :{WINDOW_COLOUR_2}Marketing campaigns in operation
