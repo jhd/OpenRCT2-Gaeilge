@@ -1,15 +1,15 @@
 {
     "couger.scenery_wall.acww33": {
         "reference-name": "Wooden Post Wall",
-        "name": "Wooden Post Wall"
+        "name": "Balla Cuaillí Adhmaid"
     },
     "couger.scenery_wall.acwwf32": {
         "reference-name": "Wooden Post Wall",
-        "name": "Wooden Post Wall"
+        "name": "Balla Cuaillí Adhmaid"
     },
     "mamabear.scenery_wall.mg-prar": {
         "reference-name": "Wall with Passageway",
-        "name": "Wall with Passageway"
+        "name": "Balla le Pasáiste"
     },
     "official.scenery_small.support_structure_half": {
         "reference-name": "Support Structure",
@@ -17,15 +17,15 @@
     },
     "official.scenery_wall.post_flipped": {
         "reference-name": "Post",
-        "name": "Post"
+        "name": "Posta"
     },
     "official.scenery_wall.support_structure_full": {
         "reference-name": "Support Structure",
-        "name": "Support Structure"
+        "name": "Struchtúr Tacaíochta"
     },
     "official.scenery_wall.support_structure_half": {
         "reference-name": "Support Structure",
-        "name": "Support Structure"
+        "name": "Struchtúr Tacaíochta"
     },
     "official.terrain_edge.void": {
         "reference-name": "Void",
@@ -601,31 +601,31 @@
     },
     "rct1.scenery_wall.playing_card_wall_1": {
         "reference-name": "Playing Card Wall",
-        "name": "Playing Card Wall"
+        "name": "Balla Cártaí Imeartha"
     },
     "rct1.scenery_wall.playing_card_wall_2": {
         "reference-name": "Playing Card Wall",
-        "name": "Playing Card Wall"
+        "name": "Balla Cártaí Imeartha"
     },
     "rct1.scenery_wall.roman_column_wall": {
         "reference-name": "Roman Column Wall",
-        "name": "Roman Column Wall"
+        "name": "Balla Colún Rómhánach"
     },
     "rct1.scenery_wall.wooden_fence_brown": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Sconsa Adhmaid"
     },
     "rct1.scenery_wall.wooden_fence_brown_gate": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Sconsa Adhmaid"
     },
     "rct1.scenery_wall.wooden_fence_red": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Sconsa Adhmaid"
     },
     "rct1.scenery_wall.wooden_fence_white": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Sconsa Adhmaid"
     },
     "rct1.terrain_edge.brick": {
         "reference-name": "Brick",
@@ -1073,15 +1073,15 @@
     },
     "rct1aa.scenery_wall.glass_wall": {
         "reference-name": "Glass Wall",
-        "name": "Glass Wall"
+        "name": "Balla Gloine"
     },
     "rct1aa.scenery_wall.wooden_post_wall_1": {
         "reference-name": "Wooden Post Wall",
-        "name": "Wooden Post Wall"
+        "name": "Balla Cuaillí Adhmaid"
     },
     "rct1aa.scenery_wall.wooden_post_wall_2": {
         "reference-name": "Wooden Post Wall",
-        "name": "Wooden Post Wall"
+        "name": "Balla Cuaillí Adhmaid"
     },
     "rct1aa.terrain_edge.grey": {
         "reference-name": "Stucco (Grey)",
@@ -1601,11 +1601,11 @@
     },
     "rct1ll.scenery_wall.medieval_wooden_fence": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Sconsa Adhmaid"
     },
     "rct1ll.scenery_wall.wooden_fence_brown_snow": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Sconsa Adhmaid"
     },
     "rct1ll.terrain_edge.green": {
         "reference-name": "Stucco (Green)",
@@ -5081,507 +5081,507 @@
     },
     "rct2.scenery_wall.wallbadm": {
         "reference-name": "Badminton Racket",
-        "name": "Badminton Racket"
+        "name": "Raicéad Badmantain"
     },
     "rct2.scenery_wall.wallbb16": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallbb32": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallbb33": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallbb34": {
         "reference-name": "Stone Wall",
-        "name": "Stone Wall"
+        "name": "Balla Cloiche"
     },
     "rct2.scenery_wall.wallbb8": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallbr16": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallbr32": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallbr8": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallbrdr": {
         "reference-name": "Doorway",
-        "name": "Doorway"
+        "name": "Doras"
     },
     "rct2.scenery_wall.wallbrwn": {
         "reference-name": "Window",
-        "name": "Window"
+        "name": "Fuinneog"
     },
     "rct2.scenery_wall.wallcb16": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallcb32": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallcb8": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallcbdr": {
         "reference-name": "Doorway",
-        "name": "Doorway"
+        "name": "Doras"
     },
     "rct2.scenery_wall.wallcbpc": {
         "reference-name": "Portcullis Door",
-        "name": "Portcullis Door"
+        "name": "Geata Crochta"
     },
     "rct2.scenery_wall.wallcbwn": {
         "reference-name": "Window",
-        "name": "Window"
+        "name": "Fuinneog"
     },
     "rct2.scenery_wall.wallcf16": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallcf32": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallcf8": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallcfar": {
         "reference-name": "Wall Arch",
-        "name": "Wall Arch"
+        "name": "Áirse Balla"
     },
     "rct2.scenery_wall.wallcfdr": {
         "reference-name": "Doorway",
-        "name": "Doorway"
+        "name": "Doras"
     },
     "rct2.scenery_wall.wallcfpc": {
         "reference-name": "Portcullis Door",
-        "name": "Portcullis Door"
+        "name": "Geata Crochta"
     },
     "rct2.scenery_wall.wallcfwn": {
         "reference-name": "Window",
-        "name": "Window"
+        "name": "Fuinneog"
     },
     "rct2.scenery_wall.wallco16": {
         "reference-name": "Corrugated Steel Wall",
-        "name": "Corrugated Steel Wall"
+        "name": "Balla Cruaiche Rocaí"
     },
     "rct2.scenery_wall.wallcw32": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallcx32": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallcy32": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallcz32": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallgl16": {
         "reference-name": "Glass Wall",
-        "name": "Glass Wall"
+        "name": "Balla Gloine"
     },
     "rct2.scenery_wall.wallgl32": {
         "reference-name": "Glass Wall",
-        "name": "Glass Wall"
+        "name": "Balla Gloine"
     },
     "rct2.scenery_wall.wallgl8": {
         "reference-name": "Glass Wall",
-        "name": "Glass Wall"
+        "name": "Balla Gloine"
     },
     "rct2.scenery_wall.wallig16": {
         "reference-name": "Igloo Wall",
-        "name": "Igloo Wall"
+        "name": "Balla Íoglú"
     },
     "rct2.scenery_wall.wallig24": {
         "reference-name": "Igloo Wall",
-        "name": "Igloo Wall"
+        "name": "Balla Íoglú"
     },
     "rct2.scenery_wall.walljb16": {
         "reference-name": "Jellybean Wall",
-        "name": "Jellybean Wall"
+        "name": "Balla Pónairí Glóthaí"
     },
     "rct2.scenery_wall.walljn32": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.walllt32": {
         "reference-name": "Steel Latticework",
-        "name": "Steel Latticework"
+        "name": "Laitís Chruaiche"
     },
     "rct2.scenery_wall.wallmm16": {
         "reference-name": "Railings",
-        "name": "Railings"
+        "name": "Ráillí"
     },
     "rct2.scenery_wall.wallmm17": {
         "reference-name": "Railings",
-        "name": "Railings"
+        "name": "Ráillí"
     },
     "rct2.scenery_wall.wallmn32": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallnt32": {
         "reference-name": "Tennis Net Wall",
-        "name": "Tennis Net Wall"
+        "name": "Balla Líon Leadóige"
     },
     "rct2.scenery_wall.wallnt33": {
         "reference-name": "Tennis Net Wall",
-        "name": "Tennis Net Wall"
+        "name": "Balla Líon Leadóige"
     },
     "rct2.scenery_wall.wallpg32": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallpost": {
         "reference-name": "Post",
-        "name": "Post"
+        "name": "Posta"
     },
     "rct2.scenery_wall.wallpr32": {
         "reference-name": "Rigging",
-        "name": "Rigging"
+        "name": "Rigín"
     },
     "rct2.scenery_wall.wallpr33": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallpr34": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallpr35": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallrh32": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallrk32": {
         "reference-name": "Rock Wall",
-        "name": "Rock Wall"
+        "name": "Balla Carraige"
     },
     "rct2.scenery_wall.wallrs16": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallrs32": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallrs8": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallsc16": {
         "reference-name": "Railings",
-        "name": "Railings"
+        "name": "Ráillí"
     },
     "rct2.scenery_wall.wallsign": {
         "reference-name": "Scrolling Sign",
-        "name": "Scrolling Sign"
+        "name": "Comhartha Scrollaithe"
     },
     "rct2.scenery_wall.wallsk16": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallsk32": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallsp32": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallst16": {
         "reference-name": "Steel Wall",
-        "name": "Steel Wall"
+        "name": "Balla Cruaiche"
     },
     "rct2.scenery_wall.wallst32": {
         "reference-name": "Steel Wall",
-        "name": "Steel Wall"
+        "name": "Balla Cruaiche"
     },
     "rct2.scenery_wall.wallst8": {
         "reference-name": "Steel Wall",
-        "name": "Steel Wall"
+        "name": "Balla Cruaiche"
     },
     "rct2.scenery_wall.wallstfn": {
         "reference-name": "Steel Fence",
-        "name": "Steel Fence"
+        "name": "Sconsa Cruaiche"
     },
     "rct2.scenery_wall.wallstwn": {
         "reference-name": "Steel Wall",
-        "name": "Steel Wall"
+        "name": "Balla Cruaiche"
     },
     "rct2.scenery_wall.walltn32": {
         "reference-name": "Poles",
-        "name": "Poles"
+        "name": "Cuaillí"
     },
     "rct2.scenery_wall.walltxgt": {
         "reference-name": "‘Texas Giant’ Sign",
-        "name": "‘Texas Giant’ Sign"
+        "name": "Comhartha ‘Texas Giant’"
     },
     "rct2.scenery_wall.wallu132": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallu232": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wallwd16": {
         "reference-name": "Wooden Wall",
-        "name": "Wooden Wall"
+        "name": "Balla Adhmaid"
     },
     "rct2.scenery_wall.wallwd32": {
         "reference-name": "Wooden Wall",
-        "name": "Wooden Wall"
+        "name": "Balla Adhmaid"
     },
     "rct2.scenery_wall.wallwd33": {
         "reference-name": "Wooden Wall",
-        "name": "Wooden Wall"
+        "name": "Balla Adhmaid"
     },
     "rct2.scenery_wall.wallwd8": {
         "reference-name": "Wooden Wall",
-        "name": "Wooden Wall"
+        "name": "Balla Adhmaid"
     },
     "rct2.scenery_wall.wallwdps": {
         "reference-name": "Wooden Post Fence",
-        "name": "Wooden Post Fence"
+        "name": "Sconsa Cuaillí Adhmaid"
     },
     "rct2.scenery_wall.wallwf32": {
         "reference-name": "Waterfall",
-        "name": "Waterfall"
+        "name": "Eas"
     },
     "rct2.scenery_wall.wbr1": {
         "reference-name": "Brick Wall",
-        "name": "Brick Wall"
+        "name": "Balla Bríce"
     },
     "rct2.scenery_wall.wbr1a": {
         "reference-name": "Brick Wall",
-        "name": "Brick Wall"
+        "name": "Balla Bríce"
     },
     "rct2.scenery_wall.wbr2": {
         "reference-name": "Stone Wall",
-        "name": "Stone Wall"
+        "name": "Balla Cloiche"
     },
     "rct2.scenery_wall.wbr2a": {
         "reference-name": "Stone Wall",
-        "name": "Stone Wall"
+        "name": "Balla Cloiche"
     },
     "rct2.scenery_wall.wbr3": {
         "reference-name": "Stone Wall",
-        "name": "Stone Wall"
+        "name": "Balla Cloiche"
     },
     "rct2.scenery_wall.wbrg": {
         "reference-name": "Brick Wall",
-        "name": "Brick Wall"
+        "name": "Balla Bríce"
     },
     "rct2.scenery_wall.wbw": {
         "reference-name": "Bone Fence",
-        "name": "Bone Fence"
+        "name": "Sconsa Cnámh"
     },
     "rct2.scenery_wall.wc1": {
         "reference-name": "Castle Wall",
-        "name": "Castle Wall"
+        "name": "Balla Caisleáin"
     },
     "rct2.scenery_wall.wc10": {
         "reference-name": "Castle Wall",
-        "name": "Castle Wall"
+        "name": "Balla Caisleáin"
     },
     "rct2.scenery_wall.wc11": {
         "reference-name": "Castle Wall",
-        "name": "Castle Wall"
+        "name": "Balla Caisleáin"
     },
     "rct2.scenery_wall.wc12": {
         "reference-name": "Castle Wall",
-        "name": "Castle Wall"
+        "name": "Balla Caisleáin"
     },
     "rct2.scenery_wall.wc13": {
         "reference-name": "Castle Wall",
-        "name": "Castle Wall"
+        "name": "Balla Caisleáin"
     },
     "rct2.scenery_wall.wc14": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wc15": {
         "reference-name": "Wall",
-        "name": "Wall"
+        "name": "Balla"
     },
     "rct2.scenery_wall.wc16": {
         "reference-name": "Fence",
-        "name": "Fence"
+        "name": "Sconsa"
     },
     "rct2.scenery_wall.wc17": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Sconsa Adhmaid"
     },
     "rct2.scenery_wall.wc18": {
         "reference-name": "Wooden Post Wall",
-        "name": "Wooden Post Wall"
+        "name": "Balla Cuaillí Adhmaid"
     },
     "rct2.scenery_wall.wc2": {
         "reference-name": "Castle Wall",
-        "name": "Castle Wall"
+        "name": "Balla Caisleáin"
     },
     "rct2.scenery_wall.wc3": {
         "reference-name": "Roman Column Wall",
-        "name": "Roman Column Wall"
+        "name": "Balla Colún Rómhánach"
     },
     "rct2.scenery_wall.wc4": {
         "reference-name": "Castle Wall",
-        "name": "Castle Wall"
+        "name": "Balla Caisleáin"
     },
     "rct2.scenery_wall.wc5": {
         "reference-name": "Castle Wall",
-        "name": "Castle Wall"
+        "name": "Balla Caisleáin"
     },
     "rct2.scenery_wall.wc6": {
         "reference-name": "Castle Wall",
-        "name": "Castle Wall"
+        "name": "Balla Caisleáin"
     },
     "rct2.scenery_wall.wc7": {
         "reference-name": "Castle Wall",
-        "name": "Castle Wall"
+        "name": "Balla Caisleáin"
     },
     "rct2.scenery_wall.wc8": {
         "reference-name": "Castle Wall",
-        "name": "Castle Wall"
+        "name": "Balla Caisleáin"
     },
     "rct2.scenery_wall.wc9": {
         "reference-name": "Castle Wall",
-        "name": "Castle Wall"
+        "name": "Balla Caisleáin"
     },
     "rct2.scenery_wall.wch": {
         "reference-name": "Conifer Hedge",
-        "name": "Conifer Hedge"
+        "name": "Fál Buaircíneach"
     },
     "rct2.scenery_wall.wchg": {
         "reference-name": "Conifer Hedge",
-        "name": "Conifer Hedge"
+        "name": "Fál Buaircíneach"
     },
     "rct2.scenery_wall.wcw1": {
         "reference-name": "Playing Card Wall",
-        "name": "Playing Card Wall"
+        "name": "Balla Cártaí Imeartha"
     },
     "rct2.scenery_wall.wcw2": {
         "reference-name": "Playing Card Wall",
-        "name": "Playing Card Wall"
+        "name": "Balla Cártaí Imeartha"
     },
     "rct2.scenery_wall.wew": {
         "reference-name": "Egyptian Wall",
-        "name": "Egyptian Wall"
+        "name": "Balla Éigipteach"
     },
     "rct2.scenery_wall.wfw1": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Sconsa Adhmaid"
     },
     "rct2.scenery_wall.wfwg": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Sconsa Adhmaid"
     },
     "rct2.scenery_wall.wgw2": {
         "reference-name": "Glass Wall",
-        "name": "Glass Wall"
+        "name": "Balla Gloine"
     },
     "rct2.scenery_wall.whg": {
         "reference-name": "Hedge",
-        "name": "Hedge"
+        "name": "Fál"
     },
     "rct2.scenery_wall.whgg": {
         "reference-name": "Hedge",
-        "name": "Hedge"
+        "name": "Fál"
     },
     "rct2.scenery_wall.wjf": {
         "reference-name": "Jungle Fence",
-        "name": "Jungle Fence"
+        "name": "Sconsa Dufaire"
     },
     "rct2.scenery_wall.wmf": {
         "reference-name": "Mesh Fence",
-        "name": "Mesh Fence"
+        "name": "Sconsa Mogaill"
     },
     "rct2.scenery_wall.wmfg": {
         "reference-name": "Mesh Fence",
-        "name": "Mesh Fence"
+        "name": "Sconsa Mogaill"
     },
     "rct2.scenery_wall.wmw": {
         "reference-name": "Martian Wall",
-        "name": "Martian Wall"
+        "name": "Balla Marsach"
     },
     "rct2.scenery_wall.wmww": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Sconsa Adhmaid"
     },
     "rct2.scenery_wall.wpf": {
         "reference-name": "Fence",
-        "name": "Fence"
+        "name": "Sconsa"
     },
     "rct2.scenery_wall.wpfg": {
         "reference-name": "Fence",
-        "name": "Fence"
+        "name": "Sconsa"
     },
     "rct2.scenery_wall.wpw1": {
         "reference-name": "Wooden Post Wall",
-        "name": "Wooden Post Wall"
+        "name": "Balla Cuaillí Adhmaid"
     },
     "rct2.scenery_wall.wpw2": {
         "reference-name": "Wooden Post Wall",
-        "name": "Wooden Post Wall"
+        "name": "Balla Cuaillí Adhmaid"
     },
     "rct2.scenery_wall.wpw3": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Sconsa Adhmaid"
     },
     "rct2.scenery_wall.wrw": {
         "reference-name": "Roman Wall",
-        "name": "Roman Wall"
+        "name": "Balla Rómhánach"
     },
     "rct2.scenery_wall.wrwa": {
         "reference-name": "Roman Wall",
-        "name": "Roman Wall"
+        "name": "Balla Rómhánach"
     },
     "rct2.scenery_wall.wsw": {
         "reference-name": "Railings",
-        "name": "Railings"
+        "name": "Ráillí"
     },
     "rct2.scenery_wall.wsw1": {
         "reference-name": "Railings",
-        "name": "Railings"
+        "name": "Ráillí"
     },
     "rct2.scenery_wall.wsw2": {
         "reference-name": "Railings",
-        "name": "Railings"
+        "name": "Ráillí"
     },
     "rct2.scenery_wall.wswg": {
         "reference-name": "Railings",
-        "name": "Railings"
+        "name": "Ráillí"
     },
     "rct2.scenery_wall.wwtw": {
         "reference-name": "Tall Wooden Fence",
-        "name": "Tall Wooden Fence"
+        "name": "Sconsa Ard Adhmaid"
     },
     "rct2.scenery_wall.wwtwa": {
         "reference-name": "Wooden Fence Wall",
-        "name": "Wooden Fence Wall"
+        "name": "Balla Sconsa Adhmaid"
     },
     "rct2.station.abstract": {
         "reference-name": "Abstract",
@@ -8613,11 +8613,11 @@
     },
     "rct2tt.scenery_wall.jailxx19": {
         "reference-name": "Prison Fence",
-        "name": "Prison Fence"
+        "name": "Sconsa Príosúin"
     },
     "rct2tt.scenery_wall.mspkwa01": {
         "reference-name": "Spiked Fence",
-        "name": "Spiked Fence"
+        "name": "Sconsa Spíceach"
     },
     "rct2ww.park_entrance.africent": {
         "reference-name": "Africa Park Entrance",
@@ -11025,743 +11025,743 @@
     },
     "rct2ww.scenery_wall.tmarch1": {
         "reference-name": "Maharaja Palace Arch",
-        "name": "Maharaja Palace Arch"
+        "name": "Áirse Pálás Maharaja"
     },
     "rct2ww.scenery_wall.tmarch2": {
         "reference-name": "Maharaja Palace Arch",
-        "name": "Maharaja Palace Arch"
+        "name": "Áirse Pálás Maharaja"
     },
     "rct2ww.scenery_wall.w2corr01": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.w2corr02": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.w2corr03": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.w2corr04": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.w2corr05": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.w2corr06": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.w2corr07": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.w2corr08": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.w3corr01": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.w3corr02": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.w3corr03": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.w3corr04": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.w3corr05": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.w3corr06": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.w3corr07": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.w3corr08": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wallic10": {
         "reference-name": "Ice Wall",
-        "name": "Ice Wall"
+        "name": "Balla Oighir"
     },
     "rct2ww.scenery_wall.wallice1": {
         "reference-name": "Ice Wall",
-        "name": "Ice Wall"
+        "name": "Balla Oighir"
     },
     "rct2ww.scenery_wall.wallice2": {
         "reference-name": "Ice Wall",
-        "name": "Ice Wall"
+        "name": "Balla Oighir"
     },
     "rct2ww.scenery_wall.wallice3": {
         "reference-name": "Ice Wall",
-        "name": "Ice Wall"
+        "name": "Balla Oighir"
     },
     "rct2ww.scenery_wall.wallice4": {
         "reference-name": "Ice Wall",
-        "name": "Ice Wall"
+        "name": "Balla Oighir"
     },
     "rct2ww.scenery_wall.wallice5": {
         "reference-name": "Ice Wall",
-        "name": "Ice Wall"
+        "name": "Balla Oighir"
     },
     "rct2ww.scenery_wall.wallice6": {
         "reference-name": "Ice Wall",
-        "name": "Ice Wall"
+        "name": "Balla Oighir"
     },
     "rct2ww.scenery_wall.wallice7": {
         "reference-name": "Ice Wall",
-        "name": "Ice Wall"
+        "name": "Balla Oighir"
     },
     "rct2ww.scenery_wall.wallice8": {
         "reference-name": "Ice Wall",
-        "name": "Ice Wall"
+        "name": "Balla Oighir"
     },
     "rct2ww.scenery_wall.wallice9": {
         "reference-name": "Ice Wall",
-        "name": "Ice Wall"
+        "name": "Balla Oighir"
     },
     "rct2ww.scenery_wall.wallna01": {
         "reference-name": "Nautical Wall Piece",
-        "name": "Nautical Wall Piece"
+        "name": "Píosa Balla Muirí"
     },
     "rct2ww.scenery_wall.wallna02": {
         "reference-name": "Nautical Wall Piece",
-        "name": "Nautical Wall Piece"
+        "name": "Píosa Balla Muirí"
     },
     "rct2ww.scenery_wall.wallna03": {
         "reference-name": "Nautical Wall Piece",
-        "name": "Nautical Wall Piece"
+        "name": "Píosa Balla Muirí"
     },
     "rct2ww.scenery_wall.wallna04": {
         "reference-name": "Nautical Wall Piece",
-        "name": "Nautical Wall Piece"
+        "name": "Píosa Balla Muirí"
     },
     "rct2ww.scenery_wall.wallna05": {
         "reference-name": "Nautical Wall Piece",
-        "name": "Nautical Wall Piece"
+        "name": "Píosa Balla Muirí"
     },
     "rct2ww.scenery_wall.wallna06": {
         "reference-name": "Nautical Wall Piece",
-        "name": "Nautical Wall Piece"
+        "name": "Píosa Balla Muirí"
     },
     "rct2ww.scenery_wall.wallna07": {
         "reference-name": "Nautical Wall Piece",
-        "name": "Nautical Wall Piece"
+        "name": "Píosa Balla Muirí"
     },
     "rct2ww.scenery_wall.wallna08": {
         "reference-name": "Nautical Wall Piece",
-        "name": "Nautical Wall Piece"
+        "name": "Píosa Balla Muirí"
     },
     "rct2ww.scenery_wall.wallna09": {
         "reference-name": "Nautical Wall Piece",
-        "name": "Nautical Wall Piece"
+        "name": "Píosa Balla Muirí"
     },
     "rct2ww.scenery_wall.wallna10": {
         "reference-name": "Nautical Wall Piece",
-        "name": "Nautical Wall Piece"
+        "name": "Píosa Balla Muirí"
     },
     "rct2ww.scenery_wall.wallna11": {
         "reference-name": "Nautical Wall Piece",
-        "name": "Nautical Wall Piece"
+        "name": "Píosa Balla Muirí"
     },
     "rct2ww.scenery_wall.wallna12": {
         "reference-name": "Nautical Wall Piece",
-        "name": "Nautical Wall Piece"
+        "name": "Píosa Balla Muirí"
     },
     "rct2ww.scenery_wall.wallna13": {
         "reference-name": "Nautical Wall Piece",
-        "name": "Nautical Wall Piece"
+        "name": "Píosa Balla Muirí"
     },
     "rct2ww.scenery_wall.wallna14": {
         "reference-name": "Nautical Wall Piece",
-        "name": "Nautical Wall Piece"
+        "name": "Píosa Balla Muirí"
     },
     "rct2ww.scenery_wall.wbambo01": {
         "reference-name": "Bamboo Wall",
-        "name": "Bamboo Wall"
+        "name": "Balla Bambú"
     },
     "rct2ww.scenery_wall.wbambo02": {
         "reference-name": "Bamboo Wall",
-        "name": "Bamboo Wall"
+        "name": "Balla Bambú"
     },
     "rct2ww.scenery_wall.wbambo03": {
         "reference-name": "Bamboo Wall",
-        "name": "Bamboo Wall"
+        "name": "Balla Bambú"
     },
     "rct2ww.scenery_wall.wbambo04": {
         "reference-name": "Bamboo Wall",
-        "name": "Bamboo Wall"
+        "name": "Balla Bambú"
     },
     "rct2ww.scenery_wall.wbambo05": {
         "reference-name": "Bamboo Wall",
-        "name": "Bamboo Wall"
+        "name": "Balla Bambú"
     },
     "rct2ww.scenery_wall.wbambo11": {
         "reference-name": "Bamboo Wall",
-        "name": "Bamboo Wall"
+        "name": "Balla Bambú"
     },
     "rct2ww.scenery_wall.wbambo12": {
         "reference-name": "Bamboo Wall",
-        "name": "Bamboo Wall"
+        "name": "Balla Bambú"
     },
     "rct2ww.scenery_wall.wbambo13": {
         "reference-name": "Bamboo Wall",
-        "name": "Bamboo Wall"
+        "name": "Balla Bambú"
     },
     "rct2ww.scenery_wall.wbambo14": {
         "reference-name": "Bamboo Wall",
-        "name": "Bamboo Wall"
+        "name": "Balla Bambú"
     },
     "rct2ww.scenery_wall.wbambo15": {
         "reference-name": "Bamboo Wall",
-        "name": "Bamboo Wall"
+        "name": "Balla Bambú"
     },
     "rct2ww.scenery_wall.wbambo21": {
         "reference-name": "Bamboo Wall",
-        "name": "Bamboo Wall"
+        "name": "Balla Bambú"
     },
     "rct2ww.scenery_wall.wbambopc": {
         "reference-name": "Bamboo Wall",
-        "name": "Bamboo Wall"
+        "name": "Balla Bambú"
     },
     "rct2ww.scenery_wall.wbrick01": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Píosa Balla Bríce Dearg"
     },
     "rct2ww.scenery_wall.wbrick02": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Píosa Balla Bríce Dearg"
     },
     "rct2ww.scenery_wall.wbrick03": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Píosa Balla Bríce Dearg"
     },
     "rct2ww.scenery_wall.wbrick04": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Píosa Balla Bríce Dearg"
     },
     "rct2ww.scenery_wall.wbrick05": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Píosa Balla Bríce Dearg"
     },
     "rct2ww.scenery_wall.wbrick08": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Píosa Balla Bríce Dearg"
     },
     "rct2ww.scenery_wall.wbrick11": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Píosa Balla Bríce Dearg"
     },
     "rct2ww.scenery_wall.wbrick12": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Píosa Balla Bríce Dearg"
     },
     "rct2ww.scenery_wall.wbrick13": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Píosa Balla Bríce Dearg"
     },
     "rct2ww.scenery_wall.wcorr01": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wcorr02": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wcorr03": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wcorr04": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wcorr05": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wcorr06": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wcorr07": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wcorr08": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wcorr09": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wcorr10": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wcorr11": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wcorr12": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wcorr13": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wcorr14": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wcorr15": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wcorr16": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Píosa Balla Rocach"
     },
     "rct2ww.scenery_wall.wdrab01": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Píosa Balla Lachtna"
     },
     "rct2ww.scenery_wall.wdrab02": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Píosa Balla Lachtna"
     },
     "rct2ww.scenery_wall.wdrab03": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Píosa Balla Lachtna"
     },
     "rct2ww.scenery_wall.wdrab04": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Píosa Balla Lachtna"
     },
     "rct2ww.scenery_wall.wdrab05": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Píosa Balla Lachtna"
     },
     "rct2ww.scenery_wall.wdrab06": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Píosa Balla Lachtna"
     },
     "rct2ww.scenery_wall.wdrab07": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Píosa Balla Lachtna"
     },
     "rct2ww.scenery_wall.wdrab08": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Píosa Balla Lachtna"
     },
     "rct2ww.scenery_wall.wgeorg01": {
         "reference-name": "Georgian Wall Piece",
-        "name": "Georgian Wall Piece"
+        "name": "Píosa Balla Seoirseach"
     },
     "rct2ww.scenery_wall.wgeorg02": {
         "reference-name": "Georgian Ground Floor Wall Piece",
-        "name": "Georgian Ground Floor Wall Piece"
+        "name": "Píosa Balla Bunurláir Seoirseach"
     },
     "rct2ww.scenery_wall.wgeorg03": {
         "reference-name": "Georgian Wall Piece",
-        "name": "Georgian Wall Piece"
+        "name": "Píosa Balla Seoirseach"
     },
     "rct2ww.scenery_wall.wgeorg04": {
         "reference-name": "Georgian Ground Floor Wall Piece",
-        "name": "Georgian Ground Floor Wall Piece"
+        "name": "Píosa Balla Bunurláir Seoirseach"
     },
     "rct2ww.scenery_wall.wgeorg05": {
         "reference-name": "Georgian Wall Piece",
-        "name": "Georgian Wall Piece"
+        "name": "Píosa Balla Seoirseach"
     },
     "rct2ww.scenery_wall.wgeorg06": {
         "reference-name": "Georgian Ground Floor Wall Piece",
-        "name": "Georgian Ground Floor Wall Piece"
+        "name": "Píosa Balla Bunurláir Seoirseach"
     },
     "rct2ww.scenery_wall.wgwoc1": {
         "reference-name": "Great Wall Of China Front Wall Section",
-        "name": "Great Wall Of China Front Wall Section"
+        "name": "Mír Tosaigh Bhalla Mór na Síne"
     },
     "rct2ww.scenery_wall.wgwoc2": {
         "reference-name": "Great Wall Of China Rear Wall Section",
-        "name": "Great Wall Of China Rear Wall Section"
+        "name": "Mír Chúil Bhalla Mór na Síne"
     },
     "rct2ww.scenery_wall.wgwoc3": {
         "reference-name": "Great Wall Of China Step up Wall Section",
-        "name": "Great Wall Of China Step up Wall Section"
+        "name": "Mír Chéim Aníos Bhalla Mór na Síne"
     },
     "rct2ww.scenery_wall.wigloo1": {
         "reference-name": "Igloo Wall",
-        "name": "Igloo Wall"
+        "name": "Balla Íoglú"
     },
     "rct2ww.scenery_wall.wigloo2": {
         "reference-name": "Igloo Wall",
-        "name": "Igloo Wall"
+        "name": "Balla Íoglú"
     },
     "rct2ww.scenery_wall.wkreml07": {
         "reference-name": "St. Basil’s Cathedral Wall Piece",
-        "name": "St. Basil’s Cathedral Wall Piece"
+        "name": "Píosa Balla Ardeaglais Naomh Basil"
     },
     "rct2ww.scenery_wall.wkreml08": {
         "reference-name": "St. Basil’s Cathedral Wall Piece",
-        "name": "St. Basil’s Cathedral Wall Piece"
+        "name": "Píosa Balla Ardeaglais Naomh Basil"
     },
     "rct2ww.scenery_wall.wkreml09": {
         "reference-name": "St. Basil’s Cathedral Wall Piece",
-        "name": "St. Basil’s Cathedral Wall Piece"
+        "name": "Píosa Balla Ardeaglais Naomh Basil"
     },
     "rct2ww.scenery_wall.wkreml10": {
         "reference-name": "St. Basil’s Cathedral Wall Piece",
-        "name": "St. Basil’s Cathedral Wall Piece"
+        "name": "Píosa Balla Ardeaglais Naomh Basil"
     },
     "rct2ww.scenery_wall.wlog01": {
         "reference-name": "Log Cabin Wall Piece",
-        "name": "Log Cabin Wall Piece"
+        "name": "Píosa Balla Cábán Lomán"
     },
     "rct2ww.scenery_wall.wlog02": {
         "reference-name": "Log Cabin Wall Piece",
-        "name": "Log Cabin Wall Piece"
+        "name": "Píosa Balla Cábán Lomán"
     },
     "rct2ww.scenery_wall.wlog03": {
         "reference-name": "Log Cabin Wall Piece",
-        "name": "Log Cabin Wall Piece"
+        "name": "Píosa Balla Cábán Lomán"
     },
     "rct2ww.scenery_wall.wlog04": {
         "reference-name": "Log Cabin Wall Piece",
-        "name": "Log Cabin Wall Piece"
+        "name": "Píosa Balla Cábán Lomán"
     },
     "rct2ww.scenery_wall.wlog05": {
         "reference-name": "Log Cabin Wall Piece",
-        "name": "Log Cabin Wall Piece"
+        "name": "Píosa Balla Cábán Lomán"
     },
     "rct2ww.scenery_wall.wlog06": {
         "reference-name": "Log Cabin Wall Piece",
-        "name": "Log Cabin Wall Piece"
+        "name": "Píosa Balla Cábán Lomán"
     },
     "rct2ww.scenery_wall.wmarble1": {
         "reference-name": "Ornate Marble Wall",
-        "name": "Ornate Marble Wall"
+        "name": "Balla Marmair Ornáideach"
     },
     "rct2ww.scenery_wall.wmarble2": {
         "reference-name": "Ornate Marble Wall",
-        "name": "Ornate Marble Wall"
+        "name": "Balla Marmair Ornáideach"
     },
     "rct2ww.scenery_wall.wmarble3": {
         "reference-name": "Ornate Marble Wall",
-        "name": "Ornate Marble Wall"
+        "name": "Balla Marmair Ornáideach"
     },
     "rct2ww.scenery_wall.wmarble4": {
         "reference-name": "Ornate Marble Wall",
-        "name": "Ornate Marble Wall"
+        "name": "Balla Marmair Ornáideach"
     },
     "rct2ww.scenery_wall.wmarble5": {
         "reference-name": "Ornate Marble Wall",
-        "name": "Ornate Marble Wall"
+        "name": "Balla Marmair Ornáideach"
     },
     "rct2ww.scenery_wall.wmarble6": {
         "reference-name": "Ornate Marble Wall",
-        "name": "Ornate Marble Wall"
+        "name": "Balla Marmair Ornáideach"
     },
     "rct2ww.scenery_wall.wmarbpl1": {
         "reference-name": "Plain Marble Wall",
-        "name": "Plain Marble Wall"
+        "name": "Balla Marmair Simplí"
     },
     "rct2ww.scenery_wall.wmarbpl2": {
         "reference-name": "Plain Marble Wall",
-        "name": "Plain Marble Wall"
+        "name": "Balla Marmair Simplí"
     },
     "rct2ww.scenery_wall.wmarbpl3": {
         "reference-name": "Plain Marble Wall",
-        "name": "Plain Marble Wall"
+        "name": "Balla Marmair Simplí"
     },
     "rct2ww.scenery_wall.wmarbpl4": {
         "reference-name": "Plain Marble Wall",
-        "name": "Plain Marble Wall"
+        "name": "Balla Marmair Simplí"
     },
     "rct2ww.scenery_wall.wmarbpl5": {
         "reference-name": "Plain Marble Wall",
-        "name": "Plain Marble Wall"
+        "name": "Balla Marmair Simplí"
     },
     "rct2ww.scenery_wall.wmarbpl6": {
         "reference-name": "Plain Marble Wall",
-        "name": "Plain Marble Wall"
+        "name": "Balla Marmair Simplí"
     },
     "rct2ww.scenery_wall.wmarbpl7": {
         "reference-name": "Plain Marble Wall",
-        "name": "Plain Marble Wall"
+        "name": "Balla Marmair Simplí"
     },
     "rct2ww.scenery_wall.wmud01": {
         "reference-name": "Mud Wall Piece",
-        "name": "Mud Wall Piece"
+        "name": "Píosa Balla Láibe"
     },
     "rct2ww.scenery_wall.wmud02": {
         "reference-name": "Mud Wall Piece",
-        "name": "Mud Wall Piece"
+        "name": "Píosa Balla Láibe"
     },
     "rct2ww.scenery_wall.wmud03": {
         "reference-name": "Mud Wall Piece",
-        "name": "Mud Wall Piece"
+        "name": "Píosa Balla Láibe"
     },
     "rct2ww.scenery_wall.wmud04": {
         "reference-name": "Mud Wall Piece",
-        "name": "Mud Wall Piece"
+        "name": "Píosa Balla Láibe"
     },
     "rct2ww.scenery_wall.wmud05": {
         "reference-name": "Mud Wall Piece",
-        "name": "Mud Wall Piece"
+        "name": "Píosa Balla Láibe"
     },
     "rct2ww.scenery_wall.wmud06": {
         "reference-name": "Mud Wall Piece",
-        "name": "Mud Wall Piece"
+        "name": "Píosa Balla Láibe"
     },
     "rct2ww.scenery_wall.wmud07": {
         "reference-name": "Mud Wall Piece",
-        "name": "Mud Wall Piece"
+        "name": "Píosa Balla Láibe"
     },
     "rct2ww.scenery_wall.wmud08": {
         "reference-name": "Mud Wall Piece",
-        "name": "Mud Wall Piece"
+        "name": "Píosa Balla Láibe"
     },
     "rct2ww.scenery_wall.wpalm01": {
         "reference-name": "Cabana Wall Piece",
-        "name": "Cabana Wall Piece"
+        "name": "Píosa Balla Cabána"
     },
     "rct2ww.scenery_wall.wpalm02": {
         "reference-name": "Cabana Wall Piece",
-        "name": "Cabana Wall Piece"
+        "name": "Píosa Balla Cabána"
     },
     "rct2ww.scenery_wall.wpalm03": {
         "reference-name": "Cabana Wall Piece",
-        "name": "Cabana Wall Piece"
+        "name": "Píosa Balla Cabána"
     },
     "rct2ww.scenery_wall.wpalm04": {
         "reference-name": "Cabana Wall Piece",
-        "name": "Cabana Wall Piece"
+        "name": "Píosa Balla Cabána"
     },
     "rct2ww.scenery_wall.wpalm05": {
         "reference-name": "Cabana Wall Piece",
-        "name": "Cabana Wall Piece"
+        "name": "Píosa Balla Cabána"
     },
     "rct2ww.scenery_wall.wshogi01": {
         "reference-name": "Shōji Wall",
-        "name": "Shōji Wall"
+        "name": "Balla Shōji"
     },
     "rct2ww.scenery_wall.wshogi02": {
         "reference-name": "Shōji Wall",
-        "name": "Shōji Wall"
+        "name": "Balla Shōji"
     },
     "rct2ww.scenery_wall.wshogi03": {
         "reference-name": "Shōji Wall",
-        "name": "Shōji Wall"
+        "name": "Balla Shōji"
     },
     "rct2ww.scenery_wall.wshogi04": {
         "reference-name": "Shōji Wall",
-        "name": "Shōji Wall"
+        "name": "Balla Shōji"
     },
     "rct2ww.scenery_wall.wshogi05": {
         "reference-name": "Shōji Wall",
-        "name": "Shōji Wall"
+        "name": "Balla Shōji"
     },
     "rct2ww.scenery_wall.wshogi06": {
         "reference-name": "Shōji Wall",
-        "name": "Shōji Wall"
+        "name": "Balla Shōji"
     },
     "rct2ww.scenery_wall.wshogi07": {
         "reference-name": "Shōji Wall",
-        "name": "Shōji Wall"
+        "name": "Balla Shōji"
     },
     "rct2ww.scenery_wall.wshogi08": {
         "reference-name": "Shōji Wall",
-        "name": "Shōji Wall"
+        "name": "Balla Shōji"
     },
     "rct2ww.scenery_wall.wshogi09": {
         "reference-name": "Shōji Wall",
-        "name": "Shōji Wall"
+        "name": "Balla Shōji"
     },
     "rct2ww.scenery_wall.wshogi10": {
         "reference-name": "Shōji Wall",
-        "name": "Shōji Wall"
+        "name": "Balla Shōji"
     },
     "rct2ww.scenery_wall.wshogi11": {
         "reference-name": "Shōji Wall",
-        "name": "Shōji Wall"
+        "name": "Balla Shōji"
     },
     "rct2ww.scenery_wall.wshogi12": {
         "reference-name": "Shōji Wall",
-        "name": "Shōji Wall"
+        "name": "Balla Shōji"
     },
     "rct2ww.scenery_wall.wshogi13": {
         "reference-name": "Shōji Wall",
-        "name": "Shōji Wall"
+        "name": "Balla Shōji"
     },
     "rct2ww.scenery_wall.wshogi14": {
         "reference-name": "Shōji Wall",
-        "name": "Shōji Wall"
+        "name": "Balla Shōji"
     },
     "rct2ww.scenery_wall.wshogi15": {
         "reference-name": "Japanese Fence",
-        "name": "Japanese Fence"
+        "name": "Sconsa Seapánach"
     },
     "rct2ww.scenery_wall.wshogi16": {
         "reference-name": "Japanese Fence",
-        "name": "Japanese Fence"
+        "name": "Sconsa Seapánach"
     },
     "rct2ww.scenery_wall.wshogi17": {
         "reference-name": "Japanese Fence",
-        "name": "Japanese Fence"
+        "name": "Sconsa Seapánach"
     },
     "rct2ww.scenery_wall.wskysc01": {
         "reference-name": "Skyscraper Metal Set Wall Piece",
-        "name": "Skyscraper Metal Set Wall Piece"
+        "name": "Píosa Balla Tacar Miotail Ilstóraigh"
     },
     "rct2ww.scenery_wall.wskysc02": {
         "reference-name": "Skyscraper Metal Set Wall Piece",
-        "name": "Skyscraper Metal Set Wall Piece"
+        "name": "Píosa Balla Tacar Miotail Ilstóraigh"
     },
     "rct2ww.scenery_wall.wskysc03": {
         "reference-name": "Skyscraper Metal Set Wall Piece",
-        "name": "Skyscraper Metal Set Wall Piece"
+        "name": "Píosa Balla Tacar Miotail Ilstóraigh"
     },
     "rct2ww.scenery_wall.wskysc04": {
         "reference-name": "Skyscraper Lift Section Piece",
-        "name": "Skyscraper Lift Section Piece"
+        "name": "Píosa Mír Ardaitheora Ilstóraigh"
     },
     "rct2ww.scenery_wall.wskysc05": {
         "reference-name": "Skyscraper Lift Section Piece",
-        "name": "Skyscraper Lift Section Piece"
+        "name": "Píosa Mír Ardaitheora Ilstóraigh"
     },
     "rct2ww.scenery_wall.wskysc06": {
         "reference-name": "Sky Scraper Wall Piece",
-        "name": "Sky Scraper Wall Piece"
+        "name": "Píosa Balla Ilstóraigh"
     },
     "rct2ww.scenery_wall.wskysc07": {
         "reference-name": "Skyscraper Lift Section Piece",
-        "name": "Skyscraper Lift Section Piece"
+        "name": "Píosa Mír Ardaitheora Ilstóraigh"
     },
     "rct2ww.scenery_wall.wskysc08": {
         "reference-name": "Sky Scraper Wall Piece",
-        "name": "Sky Scraper Wall Piece"
+        "name": "Píosa Balla Ilstóraigh"
     },
     "rct2ww.scenery_wall.wskysc09": {
         "reference-name": "Sky Scraper Wall Piece",
-        "name": "Sky Scraper Wall Piece"
+        "name": "Píosa Balla Ilstóraigh"
     },
     "rct2ww.scenery_wall.wskysc10": {
         "reference-name": "Stone Skyscraper Wall Piece",
-        "name": "Stone Skyscraper Wall Piece"
+        "name": "Píosa Balla Ilstóraigh Cloiche"
     },
     "rct2ww.scenery_wall.wskysc11": {
         "reference-name": "Stone Skyscraper Wall Piece",
-        "name": "Stone Skyscraper Wall Piece"
+        "name": "Píosa Balla Ilstóraigh Cloiche"
     },
     "rct2ww.scenery_wall.wskysc12": {
         "reference-name": "Stone Skyscraper Wall Piece",
-        "name": "Stone Skyscraper Wall Piece"
+        "name": "Píosa Balla Ilstóraigh Cloiche"
     },
     "rct2ww.scenery_wall.wtudor01": {
         "reference-name": "Tudor Ground Floor Wall Piece",
-        "name": "Tudor Ground Floor Wall Piece"
+        "name": "Píosa Balla Bunurláir Túdarach"
     },
     "rct2ww.scenery_wall.wtudor02": {
         "reference-name": "Tudor Ground Floor Wall Piece",
-        "name": "Tudor Ground Floor Wall Piece"
+        "name": "Píosa Balla Bunurláir Túdarach"
     },
     "rct2ww.scenery_wall.wtudor03": {
         "reference-name": "Tudor Ground Floor Wall Piece",
-        "name": "Tudor Ground Floor Wall Piece"
+        "name": "Píosa Balla Bunurláir Túdarach"
     },
     "rct2ww.scenery_wall.wtudor04": {
         "reference-name": "Tudor Ground Floor Wall Piece",
-        "name": "Tudor Ground Floor Wall Piece"
+        "name": "Píosa Balla Bunurláir Túdarach"
     },
     "rct2ww.scenery_wall.wtudor05": {
         "reference-name": "Tudor Ground Floor Wall Piece",
-        "name": "Tudor Ground Floor Wall Piece"
+        "name": "Píosa Balla Bunurláir Túdarach"
     },
     "rct2ww.scenery_wall.wtudor06": {
         "reference-name": "Tudor Ground Floor Wall Piece",
-        "name": "Tudor Ground Floor Wall Piece"
+        "name": "Píosa Balla Bunurláir Túdarach"
     },
     "rct2ww.scenery_wall.wtudor07": {
         "reference-name": "Tudor Ground Floor Wall Piece",
-        "name": "Tudor Ground Floor Wall Piece"
+        "name": "Píosa Balla Bunurláir Túdarach"
     },
     "rct2ww.scenery_wall.wtudor08": {
         "reference-name": "Tudor Ground Floor Wall Piece",
-        "name": "Tudor Ground Floor Wall Piece"
+        "name": "Píosa Balla Bunurláir Túdarach"
     },
     "rct2ww.scenery_wall.wtudor09": {
         "reference-name": "Tudor Wall Piece",
-        "name": "Tudor Wall Piece"
+        "name": "Píosa Balla Túdarach"
     },
     "rct2ww.scenery_wall.wtudor10": {
         "reference-name": "Tudor Wall Piece",
-        "name": "Tudor Wall Piece"
+        "name": "Píosa Balla Túdarach"
     },
     "rct2ww.scenery_wall.wtudor11": {
         "reference-name": "Tudor Wall Piece",
-        "name": "Tudor Wall Piece"
+        "name": "Píosa Balla Túdarach"
     },
     "rct2ww.scenery_wall.wwdaub01": {
         "reference-name": "Wattle & Daub Wall",
-        "name": "Wattle & Daub Wall"
+        "name": "Balla Cliath is Dóib"
     },
     "rct2ww.scenery_wall.wwdaub02": {
         "reference-name": "Wattle & Daub Wall",
-        "name": "Wattle & Daub Wall"
+        "name": "Balla Cliath is Dóib"
     },
     "rct2ww.scenery_wall.wwdaub03": {
         "reference-name": "Wattle & Daub Wall",
-        "name": "Wattle & Daub Wall"
+        "name": "Balla Cliath is Dóib"
     },
     "rct2ww.scenery_wall.wwdaub04": {
         "reference-name": "Wattle & Daub Wall",
-        "name": "Wattle & Daub Wall"
+        "name": "Balla Cliath is Dóib"
     },
     "rct2ww.scenery_wall.wwdaub05": {
         "reference-name": "Wattle & Daub Wall",
-        "name": "Wattle & Daub Wall"
+        "name": "Balla Cliath is Dóib"
     },
     "rct2ww.scenery_wall.wwdaub06": {
         "reference-name": "Wattle & Daub Wall",
-        "name": "Wattle & Daub Wall"
+        "name": "Balla Cliath is Dóib"
     },
     "rct2ww.scenery_wall.wwdaub07": {
         "reference-name": "Wattle & Daub Wall",
-        "name": "Wattle & Daub Wall"
+        "name": "Balla Cliath is Dóib"
     },
     "rct2ww.scenery_wall.wwind03": {
         "reference-name": "Wind Sculpted Wall Piece",
-        "name": "Wind Sculpted Wall Piece"
+        "name": "Píosa Balla Gaothshnoite"
     },
     "rct2ww.scenery_wall.wwind04": {
         "reference-name": "Wind Sculpted Wall Piece",
-        "name": "Wind Sculpted Wall Piece"
+        "name": "Píosa Balla Gaothshnoite"
     },
     "rct2ww.scenery_wall.wwind05": {
         "reference-name": "Wind Sculpted Wall Piece",
-        "name": "Wind Sculpted Wall Piece"
+        "name": "Píosa Balla Gaothshnoite"
     },
     "rct2ww.scenery_wall.wwind06": {
         "reference-name": "Wind Sculpted Wall Piece",
-        "name": "Wind Sculpted Wall Piece"
+        "name": "Píosa Balla Gaothshnoite"
     },
     "toontowner.scenery_small.ttpirf02": {
         "reference-name": "Roof",
