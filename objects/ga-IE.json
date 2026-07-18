@@ -3557,39 +3557,39 @@
     },
     "rct2.scenery_large.badrack": {
         "reference-name": "Badminton Racket",
-        "name": "Badminton Racket"
+        "name": "Raicéad Badmantain"
     },
     "rct2.scenery_large.genstore": {
         "reference-name": "General Store",
-        "name": "General Store"
+        "name": "Siopa Ilearraí"
     },
     "rct2.scenery_large.glthent": {
         "reference-name": "‘Goliath’ Sign",
-        "name": "‘Goliath’ Sign"
+        "name": "Comhartha ‘Goliath’"
     },
     "rct2.scenery_large.mdsaent": {
         "reference-name": "‘Medusa’ Sign",
-        "name": "‘Medusa’ Sign"
+        "name": "Comhartha ‘Medusa’"
     },
     "rct2.scenery_large.nitroent": {
         "reference-name": "‘Nitro’ Sign",
-        "name": "‘Nitro’ Sign"
+        "name": "Comhartha ‘Nitro’"
     },
     "rct2.scenery_large.prship": {
         "reference-name": "Pirate Ship",
-        "name": "Pirate Ship"
+        "name": "Long Foghlaithe Mara"
     },
     "rct2.scenery_large.sah": {
         "reference-name": "House",
-        "name": "House"
+        "name": "Teach"
     },
     "rct2.scenery_large.sah2": {
         "reference-name": "House",
-        "name": "House"
+        "name": "Teach"
     },
     "rct2.scenery_large.sah3": {
         "reference-name": "Tenement",
-        "name": "Tenement"
+        "name": "Tionóntán"
     },
     "rct2.scenery_large.saloon": {
         "reference-name": "Saloon",
@@ -3597,75 +3597,75 @@
     },
     "rct2.scenery_large.scln": {
         "reference-name": "Colonnade",
-        "name": "Colonnade"
+        "name": "Colúnáid"
     },
     "rct2.scenery_large.scol": {
         "reference-name": "Roman Colosseum",
-        "name": "Roman Colosseum"
+        "name": "An Colasaem Rómhánach"
     },
     "rct2.scenery_large.sct": {
         "reference-name": "Tent",
-        "name": "Tent"
+        "name": "Puball"
     },
     "rct2.scenery_large.sdn1": {
         "reference-name": "Dinosaur",
-        "name": "Dinosaur"
+        "name": "Dineasár"
     },
     "rct2.scenery_large.sdn2": {
         "reference-name": "Dinosaur",
-        "name": "Dinosaur"
+        "name": "Dineasár"
     },
     "rct2.scenery_large.sdn3": {
         "reference-name": "Dinosaur",
-        "name": "Dinosaur"
+        "name": "Dineasár"
     },
     "rct2.scenery_large.sgp": {
         "reference-name": "Giant Pumpkin",
-        "name": "Giant Pumpkin"
+        "name": "Puimcín Ollmhór"
     },
     "rct2.scenery_large.shs1": {
         "reference-name": "Terraced House",
-        "name": "Terraced House"
+        "name": "Teach Sraithe"
     },
     "rct2.scenery_large.shs2": {
         "reference-name": "House",
-        "name": "House"
+        "name": "Teach"
     },
     "rct2.scenery_large.sip": {
         "reference-name": "Ice Palace",
-        "name": "Ice Palace"
+        "name": "Pálás Oighir"
     },
     "rct2.scenery_large.smb": {
         "reference-name": "Martian Building",
-        "name": "Martian Building"
+        "name": "Foirgneamh Marsach"
     },
     "rct2.scenery_large.smh1": {
         "reference-name": "Mine Hut",
-        "name": "Mine Hut"
+        "name": "Bothán Mianaigh"
     },
     "rct2.scenery_large.smh2": {
         "reference-name": "Mine Hut",
-        "name": "Mine Hut"
+        "name": "Bothán Mianaigh"
     },
     "rct2.scenery_large.smn1": {
         "reference-name": "Mine Shaft",
-        "name": "Mine Shaft"
+        "name": "Sloc Mianaigh"
     },
     "rct2.scenery_large.sob": {
         "reference-name": "Office Block",
-        "name": "Office Block"
+        "name": "Bloc Oifigí"
     },
     "rct2.scenery_large.soh1": {
         "reference-name": "House",
-        "name": "House"
+        "name": "Teach"
     },
     "rct2.scenery_large.soh2": {
         "reference-name": "House",
-        "name": "House"
+        "name": "Teach"
     },
     "rct2.scenery_large.soh3": {
         "reference-name": "House",
-        "name": "House"
+        "name": "Teach"
     },
     "rct2.scenery_large.spg": {
         "reference-name": "Pagoda",
@@ -3673,79 +3673,79 @@
     },
     "rct2.scenery_large.sps": {
         "reference-name": "Petrol station",
-        "name": "Petrol station"
+        "name": "Stáisiún Peitril"
     },
     "rct2.scenery_large.spyr": {
         "reference-name": "Pyramid",
-        "name": "Pyramid"
+        "name": "Pirimid"
     },
     "rct2.scenery_large.ssh": {
         "reference-name": "Space Capsule",
-        "name": "Space Capsule"
+        "name": "Capsúl Spáis"
     },
     "rct2.scenery_large.ssig1": {
         "reference-name": "Scrolling Sign",
-        "name": "Scrolling Sign"
+        "name": "Comhartha Scrollaithe"
     },
     "rct2.scenery_large.ssig2": {
         "reference-name": "3D Sign",
-        "name": "3D Sign"
+        "name": "Comhartha 3D"
     },
     "rct2.scenery_large.ssig3": {
         "reference-name": "Vertical 3D Sign",
-        "name": "Vertical 3D Sign"
+        "name": "Comhartha 3D Ingearach"
     },
     "rct2.scenery_large.ssig4": {
         "reference-name": "3D Sign",
-        "name": "3D Sign"
+        "name": "Comhartha 3D"
     },
     "rct2.scenery_large.ssk1": {
         "reference-name": "Skeleton",
-        "name": "Skeleton"
+        "name": "Cnámharlach"
     },
     "rct2.scenery_large.sspx": {
         "reference-name": "Sphinx",
-        "name": "Sphinx"
+        "name": "An Sfioncs"
     },
     "rct2.scenery_large.ssr": {
         "reference-name": "Space Rocket",
-        "name": "Space Rocket"
+        "name": "Roicéad Spáis"
     },
     "rct2.scenery_large.sst": {
         "reference-name": "Satellite",
-        "name": "Satellite"
+        "name": "Satailít"
     },
     "rct2.scenery_large.stb1": {
         "reference-name": "Castle Tower",
-        "name": "Castle Tower"
+        "name": "Túr Caisleáin"
     },
     "rct2.scenery_large.stb2": {
         "reference-name": "Castle Tower",
-        "name": "Castle Tower"
+        "name": "Túr Caisleáin"
     },
     "rct2.scenery_large.stg1": {
         "reference-name": "Castle Tower",
-        "name": "Castle Tower"
+        "name": "Túr Caisleáin"
     },
     "rct2.scenery_large.stg2": {
         "reference-name": "Castle Tower",
-        "name": "Castle Tower"
+        "name": "Túr Caisleáin"
     },
     "rct2.scenery_large.sth": {
         "reference-name": "Town Hall",
-        "name": "Town Hall"
+        "name": "Halla an Bhaile"
     },
     "rct2.scenery_large.svlc": {
         "reference-name": "Volcano",
-        "name": "Volcano"
+        "name": "Bolcán"
     },
     "rct2.scenery_large.tavern": {
         "reference-name": "Tavern",
-        "name": "Tavern"
+        "name": "Tábhairne"
     },
     "rct2.scenery_large.wwbank": {
         "reference-name": "Bank",
-        "name": "Bank"
+        "name": "Banc"
     },
     "rct2.scenery_small.allsort1": {
         "reference-name": "Candy",
@@ -6437,459 +6437,459 @@
     },
     "rct2tt.scenery_large.1950scar": {
         "reference-name": "1950s Car",
-        "name": "1950s Car"
+        "name": "Gluaisteán na 1950idí"
     },
     "rct2tt.scenery_large.4x4diner": {
         "reference-name": "Period Diner",
-        "name": "Period Diner"
+        "name": "Diner Seanré"
     },
     "rct2tt.scenery_large.4x4gmant": {
         "reference-name": "Giant Mangrove Tree",
-        "name": "Giant Mangrove Tree"
+        "name": "Crann Mangróibh Ollmhór"
     },
     "rct2tt.scenery_large.4x4stnhn": {
         "reference-name": "Stone Age Temple",
-        "name": "Stone Age Temple"
+        "name": "Teampall na Clochaoise"
     },
     "rct2tt.scenery_large.4x4trpit": {
         "reference-name": "Bubbling Tarpit",
-        "name": "Bubbling Tarpit"
+        "name": "Poll Tarra ag Boilgearnach"
     },
     "rct2tt.scenery_large.4x4volca": {
         "reference-name": "Volcano with small trees",
-        "name": "Volcano with small trees"
+        "name": "Bolcán le crainn bheaga"
     },
     "rct2tt.scenery_large.alencrsh": {
         "reference-name": "UFO Crash Site",
-        "name": "UFO Crash Site"
+        "name": "Láthair Timpiste UFO"
     },
     "rct2tt.scenery_large.alnstr08": {
         "reference-name": "Alien Structure Large",
-        "name": "Alien Structure Large"
+        "name": "Struchtúr Mór Eachtrán"
     },
     "rct2tt.scenery_large.alnstr09": {
         "reference-name": "Alien Structure Large",
-        "name": "Alien Structure Large"
+        "name": "Struchtúr Mór Eachtrán"
     },
     "rct2tt.scenery_large.alnstr10": {
         "reference-name": "Alien Structure Large",
-        "name": "Alien Structure Large"
+        "name": "Struchtúr Mór Eachtrán"
     },
     "rct2tt.scenery_large.alnstr11": {
         "reference-name": "Alien Skylight Large",
-        "name": "Alien Skylight Large"
+        "name": "Spéirléas Mór Eachtrán"
     },
     "rct2tt.scenery_large.artdec25": {
         "reference-name": "Art Deco Corner with Windows",
-        "name": "Art Deco Corner with Windows"
+        "name": "Cúinne Art Deco le Fuinneoga"
     },
     "rct2tt.scenery_large.artdec26": {
         "reference-name": "Art Deco Corner with Railings",
-        "name": "Art Deco Corner with Railings"
+        "name": "Cúinne Art Deco le Ráillí"
     },
     "rct2tt.scenery_large.artdec27": {
         "reference-name": "Art Deco Top Corner Section",
-        "name": "Art Deco Top Corner Section"
+        "name": "Mír Cúinne Bairr Art Deco"
     },
     "rct2tt.scenery_large.ashnymph": {
         "reference-name": "Ash Tree with Nymphs",
-        "name": "Ash Tree with Nymphs"
+        "name": "Crann Fuinseoige le Nimfeacha"
     },
     "rct2tt.scenery_large.bandbusx": {
         "reference-name": "Rock Band Tour Bus",
-        "name": "Rock Band Tour Bus"
+        "name": "Bus Camchuairte Rac-bhanna"
     },
     "rct2tt.scenery_large.bigdrums": {
         "reference-name": "Giant Drum Kit",
-        "name": "Giant Drum Kit"
+        "name": "Drumaí Ollmhóra"
     },
     "rct2tt.scenery_large.caventra": {
         "reference-name": "Cave Entrance",
-        "name": "Cave Entrance"
+        "name": "Béal Uaimhe"
     },
     "rct2tt.scenery_large.corns2x2": {
         "reference-name": "Roman Palace Corner Piece",
-        "name": "Roman Palace Corner Piece"
+        "name": "Píosa Cúinne Pálás Rómhánach"
     },
     "rct2tt.scenery_large.corvs2x2": {
         "reference-name": "Roman Palace Corner Piece",
-        "name": "Roman Palace Corner Piece"
+        "name": "Píosa Cúinne Pálás Rómhánach"
     },
     "rct2tt.scenery_large.cratr2x2": {
         "reference-name": "Small Meteor Crater",
-        "name": "Small Meteor Crater"
+        "name": "Cráitéar Beag Dreigite"
     },
     "rct2tt.scenery_large.cratr4x4": {
         "reference-name": "Large Meteor Crater",
-        "name": "Large Meteor Crater"
+        "name": "Cráitéar Mór Dreigite"
     },
     "rct2tt.scenery_large.crsss2x2": {
         "reference-name": "Roman Palace Cross Section",
-        "name": "Roman Palace Cross Section"
+        "name": "Mír Croise Pálás Rómhánach"
     },
     "rct2tt.scenery_large.crsvs2x2": {
         "reference-name": "Roman Palace Cross Section",
-        "name": "Roman Palace Cross Section"
+        "name": "Mír Croise Pálás Rómhánach"
     },
     "rct2tt.scenery_large.cyclopss": {
         "reference-name": "Cyclops Statue",
-        "name": "Cyclops Statue"
+        "name": "Dealbh Cioclóip"
     },
     "rct2tt.scenery_large.feastabl": {
         "reference-name": "Feast Table",
-        "name": "Feast Table"
+        "name": "Bord Féasta"
     },
     "rct2tt.scenery_large.footprnt": {
         "reference-name": "Giant Dinosaur Footprint",
-        "name": "Giant Dinosaur Footprint"
+        "name": "Lorg Coise Ollmhór Dineasáir"
     },
     "rct2tt.scenery_large.forbidft": {
         "reference-name": "Forbidden Fruit Tree",
-        "name": "Forbidden Fruit Tree"
+        "name": "Crann na dTorthaí Toirmiscthe"
     },
     "rct2tt.scenery_large.futsky20": {
         "reference-name": "Sandstone Skyscraper Bottom Inverted Corner",
-        "name": "Sandstone Skyscraper Bottom Inverted Corner"
+        "name": "Cúinne Inbhéartaithe Bun Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_large.futsky22": {
         "reference-name": "Sandstone Skyscraper Bottom Inverted Corner",
-        "name": "Sandstone Skyscraper Bottom Inverted Corner"
+        "name": "Cúinne Inbhéartaithe Bun Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_large.futsky24": {
         "reference-name": "Sandstone Skyscraper Bottom Inverted Corner",
-        "name": "Sandstone Skyscraper Bottom Inverted Corner"
+        "name": "Cúinne Inbhéartaithe Bun Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_large.futsky25": {
         "reference-name": "Sandstone Skyscraper Bottom Inverted Corner",
-        "name": "Sandstone Skyscraper Bottom Inverted Corner"
+        "name": "Cúinne Inbhéartaithe Bun Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_large.futsky26": {
         "reference-name": "Sandstone Skyscraper Bottom Inverted Corner",
-        "name": "Sandstone Skyscraper Bottom Inverted Corner"
+        "name": "Cúinne Inbhéartaithe Bun Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_large.futsky28": {
         "reference-name": "Sandstone Walkway T-Junction",
-        "name": "Sandstone Walkway T-Junction"
+        "name": "Gabhal T Siúláin Gaineamhchloiche"
     },
     "rct2tt.scenery_large.futsky30": {
         "reference-name": "Sandstone Walkway Corner",
-        "name": "Sandstone Walkway Corner"
+        "name": "Cúinne Siúláin Gaineamhchloiche"
     },
     "rct2tt.scenery_large.futsky31": {
         "reference-name": "Sandstone Walkway Cross Section",
-        "name": "Sandstone Walkway Cross Section"
+        "name": "Mír Croise Siúláin Gaineamhchloiche"
     },
     "rct2tt.scenery_large.futsky32": {
         "reference-name": "Sandstone Walkway End Section",
-        "name": "Sandstone Walkway End Section"
+        "name": "Mír Deiridh Siúláin Gaineamhchloiche"
     },
     "rct2tt.scenery_large.gbeetlex": {
         "reference-name": "1950s Car",
-        "name": "1950s Car"
+        "name": "Gluaisteán na 1950idí"
     },
     "rct2tt.scenery_large.ghotrod1": {
         "reference-name": "Hot Rod Car",
-        "name": "Hot Rod Car"
+        "name": "Gluaisteán Hot Rod"
     },
     "rct2tt.scenery_large.ghotrod2": {
         "reference-name": "Hot Rod Car",
-        "name": "Hot Rod Car"
+        "name": "Gluaisteán Hot Rod"
     },
     "rct2tt.scenery_large.gschlbus": {
         "reference-name": "School Bus",
-        "name": "School Bus"
+        "name": "Bus Scoile"
     },
     "rct2tt.scenery_large.hadesxxx": {
         "reference-name": "Hades Statue",
-        "name": "Hades Statue"
+        "name": "Dealbh Hades"
     },
     "rct2tt.scenery_large.histfix1": {
         "reference-name": "Alien Historical Structures",
-        "name": "Alien Historical Structures"
+        "name": "Struchtúir Stairiúla Eachtrán"
     },
     "rct2tt.scenery_large.histfix2": {
         "reference-name": "Alien Historical Structures",
-        "name": "Alien Historical Structures"
+        "name": "Struchtúir Stairiúla Eachtrán"
     },
     "rct2tt.scenery_large.hodshut1": {
         "reference-name": "Robin Hood’s Hut",
-        "name": "Robin Hood’s Hut"
+        "name": "Bothán Robin Hood"
     },
     "rct2tt.scenery_large.hodshut2": {
         "reference-name": "Robin Hood’s Hut",
-        "name": "Robin Hood’s Hut"
+        "name": "Bothán Robin Hood"
     },
     "rct2tt.scenery_large.hrbwal07": {
         "reference-name": "Harbour Wall Corner Piece",
-        "name": "Harbour Wall Corner Piece"
+        "name": "Píosa Cúinne Balla Cuain"
     },
     "rct2tt.scenery_large.hrbwal08": {
         "reference-name": "Harbour Wall Corner Piece",
-        "name": "Harbour Wall Corner Piece"
+        "name": "Píosa Cúinne Balla Cuain"
     },
     "rct2tt.scenery_large.hrbwal09": {
         "reference-name": "Harbour Wall with Dock",
-        "name": "Harbour Wall with Dock"
+        "name": "Balla Cuain le Duga"
     },
     "rct2tt.scenery_large.hrbwal11": {
         "reference-name": "Harbour Dock",
-        "name": "Harbour Dock"
+        "name": "Duga Cuain"
     },
     "rct2tt.scenery_large.jailxx17": {
         "reference-name": "Prison Door",
-        "name": "Prison Door"
+        "name": "Doras Príosúin"
     },
     "rct2tt.scenery_large.jailxx18": {
         "reference-name": "Prison Water Tower",
-        "name": "Prison Water Tower"
+        "name": "Túr Uisce Príosúin"
     },
     "rct2tt.scenery_large.jetplan1": {
         "reference-name": "Jet Aeroplane",
-        "name": "Jet Aeroplane"
+        "name": "Scairdeitleán"
     },
     "rct2tt.scenery_large.jetplan2": {
         "reference-name": "Jet Aeroplane",
-        "name": "Jet Aeroplane"
+        "name": "Scairdeitleán"
     },
     "rct2tt.scenery_large.jetplan3": {
         "reference-name": "Jet Aeroplane",
-        "name": "Jet Aeroplane"
+        "name": "Scairdeitleán"
     },
     "rct2tt.scenery_large.majoroak": {
         "reference-name": "Large Oak",
-        "name": "Large Oak"
+        "name": "Dair Mhór"
     },
     "rct2tt.scenery_large.mcastl01": {
         "reference-name": "Castle Inverted Corner",
-        "name": "Castle Inverted Corner"
+        "name": "Cúinne Inbhéartaithe Caisleáin"
     },
     "rct2tt.scenery_large.mcastl11": {
         "reference-name": "Castle Portcullis",
-        "name": "Castle Portcullis"
+        "name": "Geata Crochta Caisleáin"
     },
     "rct2tt.scenery_large.mcastl12": {
         "reference-name": "Castle Entrance",
-        "name": "Castle Entrance"
+        "name": "Bealach Isteach Caisleáin"
     },
     "rct2tt.scenery_large.mcastl13": {
         "reference-name": "Castle Tower Corner Piece",
-        "name": "Castle Tower Corner Piece"
+        "name": "Píosa Cúinne Túr Caisleáin"
     },
     "rct2tt.scenery_large.mcastl14": {
         "reference-name": "Castle Tower Corner Piece",
-        "name": "Castle Tower Corner Piece"
+        "name": "Píosa Cúinne Túr Caisleáin"
     },
     "rct2tt.scenery_large.mcastl15": {
         "reference-name": "Castle Tower Cross Piece",
-        "name": "Castle Tower Cross Piece"
+        "name": "Píosa Croise Túr Caisleáin"
     },
     "rct2tt.scenery_large.mcastl16": {
         "reference-name": "Castle Tower Straight Piece",
-        "name": "Castle Tower Straight Piece"
+        "name": "Píosa Díreach Túr Caisleáin"
     },
     "rct2tt.scenery_large.mcastl17": {
         "reference-name": "Castle Tower T Piece",
-        "name": "Castle Tower T Piece"
+        "name": "Píosa T Túr Caisleáin"
     },
     "rct2tt.scenery_large.mcastl18": {
         "reference-name": "Castle Tower T Piece",
-        "name": "Castle Tower T Piece"
+        "name": "Píosa T Túr Caisleáin"
     },
     "rct2tt.scenery_large.melmtree": {
         "reference-name": "Large Elm Tree",
-        "name": "Large Elm Tree"
+        "name": "Crann Leamháin Mór"
     },
     "rct2tt.scenery_large.metoan01": {
         "reference-name": "Meteor Crater Corner",
-        "name": "Meteor Crater Corner"
+        "name": "Cúinne Cráitéir Dreigite"
     },
     "rct2tt.scenery_large.metoan02": {
         "reference-name": "Meteor Crater Inverted Corner",
-        "name": "Meteor Crater Inverted Corner"
+        "name": "Cúinne Inbhéartaithe Cráitéir Dreigite"
     },
     "rct2tt.scenery_large.oldnyk20": {
         "reference-name": "New York Roof Piece",
-        "name": "New York Roof Piece"
+        "name": "Píosa Dín Nua-Eabhrac"
     },
     "rct2tt.scenery_large.oldnyk21": {
         "reference-name": "New York Wall Piece",
-        "name": "New York Wall Piece"
+        "name": "Píosa Balla Nua-Eabhrac"
     },
     "rct2tt.scenery_large.oldnyk22": {
         "reference-name": "New York Wall Piece",
-        "name": "New York Wall Piece"
+        "name": "Píosa Balla Nua-Eabhrac"
     },
     "rct2tt.scenery_large.oldnyk23": {
         "reference-name": "New York Wall Piece",
-        "name": "New York Wall Piece"
+        "name": "Píosa Balla Nua-Eabhrac"
     },
     "rct2tt.scenery_large.oldnyk24": {
         "reference-name": "New York Inverted Corner Roof",
-        "name": "New York Inverted Corner Roof"
+        "name": "Díon Cúinne Inbhéartaithe Nua-Eabhrac"
     },
     "rct2tt.scenery_large.oldnyk25": {
         "reference-name": "New York Roof Piece",
-        "name": "New York Roof Piece"
+        "name": "Píosa Dín Nua-Eabhrac"
     },
     "rct2tt.scenery_large.oldnyk26": {
         "reference-name": "New York Entrance",
-        "name": "New York Entrance"
+        "name": "Bealach Isteach Nua-Eabhrac"
     },
     "rct2tt.scenery_large.oldnyk27": {
         "reference-name": "New York Wall Piece",
-        "name": "New York Wall Piece"
+        "name": "Píosa Balla Nua-Eabhrac"
     },
     "rct2tt.scenery_large.oldnyk28": {
         "reference-name": "New York Wall Piece",
-        "name": "New York Wall Piece"
+        "name": "Píosa Balla Nua-Eabhrac"
     },
     "rct2tt.scenery_large.oldnyk29": {
         "reference-name": "New York Wall Piece",
-        "name": "New York Wall Piece"
+        "name": "Píosa Balla Nua-Eabhrac"
     },
     "rct2tt.scenery_large.oldnyk30": {
         "reference-name": "New York Wall Piece",
-        "name": "New York Wall Piece"
+        "name": "Píosa Balla Nua-Eabhrac"
     },
     "rct2tt.scenery_large.oldnyk32": {
         "reference-name": "New York Roof Piece",
-        "name": "New York Roof Piece"
+        "name": "Píosa Dín Nua-Eabhrac"
     },
     "rct2tt.scenery_large.peasthut": {
         "reference-name": "Peasant Hut",
-        "name": "Peasant Hut"
+        "name": "Bothán Tuathánaigh"
     },
     "rct2tt.scenery_large.peramob1": {
         "reference-name": "Period Automobile",
-        "name": "Period Automobile"
+        "name": "Mótarcharr Seanré"
     },
     "rct2tt.scenery_large.peramob2": {
         "reference-name": "Period Automobile",
-        "name": "Period Automobile"
+        "name": "Mótarcharr Seanré"
     },
     "rct2tt.scenery_large.perdtk01": {
         "reference-name": "Period Truck",
-        "name": "Period Truck"
+        "name": "Trucail Seanré"
     },
     "rct2tt.scenery_large.perdtk02": {
         "reference-name": "Period Truck",
-        "name": "Period Truck"
+        "name": "Trucail Seanré"
     },
     "rct2tt.scenery_large.ploughxx": {
         "reference-name": "Plough",
-        "name": "Plough"
+        "name": "Céachta"
     },
     "rct2tt.scenery_large.prdyacht": {
         "reference-name": "Period Sailing Yacht",
-        "name": "Period Sailing Yacht"
+        "name": "Luamh Seoil Seanré"
     },
     "rct2tt.scenery_large.psntwl26": {
         "reference-name": "Dark Age Village Roof Piece",
-        "name": "Dark Age Village Roof Piece"
+        "name": "Píosa Dín Sráidbhaile na Ré Dorcha"
     },
     "rct2tt.scenery_large.psntwl27": {
         "reference-name": "Dark Age Village Corner Roof Piece",
-        "name": "Dark Age Village Corner Roof Piece"
+        "name": "Píosa Dín Cúinne Sráidbhaile na Ré Dorcha"
     },
     "rct2tt.scenery_large.psntwl28": {
         "reference-name": "Dark Age Village Inverted Roof Piece",
-        "name": "Dark Age Village Inverted Roof Piece"
+        "name": "Píosa Dín Inbhéartaithe Sráidbhaile na Ré Dorcha"
     },
     "rct2tt.scenery_large.rdmet2x2": {
         "reference-name": "Small Red Meteor Crater",
-        "name": "Small Red Meteor Crater"
+        "name": "Cráitéar Beag Dearg Dreigite"
     },
     "rct2tt.scenery_large.rdmet4x4": {
         "reference-name": "Large Red Meteor Crater",
-        "name": "Large Red Meteor Crater"
+        "name": "Cráitéar Mór Dearg Dreigite"
     },
     "rct2tt.scenery_large.rdmeto01": {
         "reference-name": "Red Meteor Crater Corner",
-        "name": "Red Meteor Crater Corner"
+        "name": "Cúinne Cráitéir Dearg Dreigite"
     },
     "rct2tt.scenery_large.rdmeto02": {
         "reference-name": "Red Meteor Crater Corner",
-        "name": "Red Meteor Crater Corner"
+        "name": "Cúinne Cráitéir Dearg Dreigite"
     },
     "rct2tt.scenery_large.robncamp": {
         "reference-name": "Robin Hood’s Camp",
-        "name": "Robin Hood’s Camp"
+        "name": "Campa Robin Hood"
     },
     "rct2tt.scenery_large.romnc2x2": {
         "reference-name": "Roman Palace Corner Piece",
-        "name": "Roman Palace Corner Piece"
+        "name": "Píosa Cúinne Pálás Rómhánach"
     },
     "rct2tt.scenery_large.romne2x1": {
         "reference-name": "Roman Palace End Piece",
-        "name": "Roman Palace End Piece"
+        "name": "Píosa Deiridh Pálás Rómhánach"
     },
     "rct2tt.scenery_large.romnm2x2": {
         "reference-name": "Roman Palace Cross Section",
-        "name": "Roman Palace Cross Section"
+        "name": "Mír Croise Pálás Rómhánach"
     },
     "rct2tt.scenery_large.romns2x2": {
         "reference-name": "Roman Palace Straight Piece",
-        "name": "Roman Palace Straight Piece"
+        "name": "Píosa Díreach Pálás Rómhánach"
     },
     "rct2tt.scenery_large.romvc2x2": {
         "reference-name": "Roman Palace Corner Piece",
-        "name": "Roman Palace Corner Piece"
+        "name": "Píosa Cúinne Pálás Rómhánach"
     },
     "rct2tt.scenery_large.romve2x1": {
         "reference-name": "Roman Palace End Piece",
-        "name": "Roman Palace End Piece"
+        "name": "Píosa Deiridh Pálás Rómhánach"
     },
     "rct2tt.scenery_large.romvm2x2": {
         "reference-name": "Roman Palace Cross Section",
-        "name": "Roman Palace Cross Section"
+        "name": "Mír Croise Pálás Rómhánach"
     },
     "rct2tt.scenery_large.romvs2x2": {
         "reference-name": "Roman Palace Straight Piece",
-        "name": "Roman Palace Straight Piece"
+        "name": "Píosa Díreach Pálás Rómhánach"
     },
     "rct2tt.scenery_large.schnpit2": {
         "reference-name": "Seaplane Pits",
-        "name": "Seaplane Pits"
+        "name": "Duganna Muireitleán"
     },
     "rct2tt.scenery_large.schnpits": {
         "reference-name": "Seaplane Pits",
-        "name": "Seaplane Pits"
+        "name": "Duganna Muireitleán"
     },
     "rct2tt.scenery_large.schntent": {
         "reference-name": "Marquee",
-        "name": "Marquee"
+        "name": "Puball Mór"
     },
     "rct2tt.scenery_large.shipb4x4": {
         "reference-name": "Luxury Liner Bow",
-        "name": "Luxury Liner Bow"
+        "name": "Gob Línéir Ghalánta"
     },
     "rct2tt.scenery_large.shipm4x4": {
         "reference-name": "Luxury Liner Mid Section",
-        "name": "Luxury Liner Mid Section"
+        "name": "Meánchuid Línéir Ghalánta"
     },
     "rct2tt.scenery_large.ships4x4": {
         "reference-name": "Luxury Liner Stern",
-        "name": "Luxury Liner Stern"
+        "name": "Deireadh Línéir Ghalánta"
     },
     "rct2tt.scenery_large.strgs2x2": {
         "reference-name": "Roman Palace Straight Piece",
-        "name": "Roman Palace Straight Piece"
+        "name": "Píosa Díreach Pálás Rómhánach"
     },
     "rct2tt.scenery_large.strvs2x2": {
         "reference-name": "Roman Palace Straight Piece",
-        "name": "Roman Palace Straight Piece"
+        "name": "Píosa Díreach Pálás Rómhánach"
     },
     "rct2tt.scenery_large.tavernxx": {
         "reference-name": "Dark Ages Tavern",
-        "name": "Dark Ages Tavern"
+        "name": "Tábhairne na Ré Dorcha"
     },
     "rct2tt.scenery_large.travlr01": {
         "reference-name": "Traveller Van",
-        "name": "Traveller Van"
+        "name": "Veain Taistealaithe"
     },
     "rct2tt.scenery_large.travlr02": {
         "reference-name": "Microbus",
-        "name": "Microbus"
+        "name": "Mionbhus"
     },
     "rct2tt.scenery_small.1920slmp": {
         "reference-name": "Period Street Lamps",
@@ -9261,71 +9261,71 @@
     },
     "rct2ww.scenery_large.1x2abr01": {
         "reference-name": "Aboriginal Plain Tile",
-        "name": "Aboriginal Plain Tile"
+        "name": "Tíl Shimplí Bhundúchasach Astrálach"
     },
     "rct2ww.scenery_large.1x2abr02": {
         "reference-name": "Aboriginal Snake Artwork",
-        "name": "Aboriginal Snake Artwork"
+        "name": "Saothar Ealaíne Nathrach Bundúchasach Astrálach"
     },
     "rct2ww.scenery_large.1x2abr03": {
         "reference-name": "Aboriginal Spirit Artwork",
-        "name": "Aboriginal Spirit Artwork"
+        "name": "Saothar Ealaíne Spioraid Bundúchasach Astrálach"
     },
     "rct2ww.scenery_large.1x2azt01": {
         "reference-name": "Temple Wall Piece with Head",
-        "name": "Temple Wall Piece with Head"
+        "name": "Píosa Balla Teampaill le Ceann"
     },
     "rct2ww.scenery_large.1x2azt02": {
         "reference-name": "Temple Broken Wall Piece with Head",
-        "name": "Temple Broken Wall Piece with Head"
+        "name": "Píosa Balla Briste Teampaill le Ceann"
     },
     "rct2ww.scenery_large.1x2glama": {
         "reference-name": "Gold Llama",
-        "name": "Gold Llama"
+        "name": "Láma Óir"
     },
     "rct2ww.scenery_large.1x2lgchm": {
         "reference-name": "Log Cabin Side Chimney",
-        "name": "Log Cabin Side Chimney"
+        "name": "Simléar Taoibh Cábán Lomán"
     },
     "rct2ww.scenery_large.1x4brg01": {
         "reference-name": "Suspension Bridge Start side",
-        "name": "Suspension Bridge Start side"
+        "name": "Taobh Tosaigh Droichead Crochta"
     },
     "rct2ww.scenery_large.1x4brg02": {
         "reference-name": "Suspension Bridge Start side",
-        "name": "Suspension Bridge Start side"
+        "name": "Taobh Tosaigh Droichead Crochta"
     },
     "rct2ww.scenery_large.1x4brg03": {
         "reference-name": "Suspension Bridge Tower side",
-        "name": "Suspension Bridge Tower side"
+        "name": "Taobh Túir Droichead Crochta"
     },
     "rct2ww.scenery_large.1x4brg04": {
         "reference-name": "Suspension Bridge Tower side",
-        "name": "Suspension Bridge Tower side"
+        "name": "Taobh Túir Droichead Crochta"
     },
     "rct2ww.scenery_large.1x4brg05": {
         "reference-name": "Suspension Bridge Cable Section",
-        "name": "Suspension Bridge Cable Section"
+        "name": "Mír Cábla Droichead Crochta"
     },
     "rct2ww.scenery_large.3x3altre": {
         "reference-name": "Jungle Tree with Leopards",
-        "name": "Jungle Tree with Leopards"
+        "name": "Crann Dufaire le Liopaird"
     },
     "rct2ww.scenery_large.3x3atre1": {
         "reference-name": "Jungle Tree",
-        "name": "Jungle Tree"
+        "name": "Crann Dufaire"
     },
     "rct2ww.scenery_large.3x3atre2": {
         "reference-name": "Jungle Tree",
-        "name": "Jungle Tree"
+        "name": "Crann Dufaire"
     },
     "rct2ww.scenery_large.3x3atre3": {
         "reference-name": "Jungle Tree with Vines",
-        "name": "Jungle Tree with Vines"
+        "name": "Crann Dufaire le Féithleoga"
     },
     "rct2ww.scenery_large.3x3eucal": {
         "reference-name": "Eucalyptus Tree",
-        "name": "Eucalyptus Tree"
+        "name": "Crann Eoclaipe"
     },
     "rct2ww.scenery_large.3x3hmsen": {
         "reference-name": "HMS Endeavour",
@@ -9333,27 +9333,27 @@
     },
     "rct2ww.scenery_large.3x3mantr": {
         "reference-name": "Mangrove Tree",
-        "name": "Mangrove Tree"
+        "name": "Crann Mangróibh"
     },
     "rct2ww.scenery_large.50rocket": {
         "reference-name": "1950s Rocket",
-        "name": "1950s Rocket"
+        "name": "Roicéad na 1950idí"
     },
     "rct2ww.scenery_large.adultele": {
         "reference-name": "Adult Indian Elephant",
-        "name": "Adult Indian Elephant"
+        "name": "Eilifint Indiach Fhásta"
     },
     "rct2ww.scenery_large.afrclion": {
         "reference-name": "Lion",
-        "name": "Lion"
+        "name": "Leon"
     },
     "rct2ww.scenery_large.afrrhino": {
         "reference-name": "Rhino",
-        "name": "Rhino"
+        "name": "Srónbheannach"
     },
     "rct2ww.scenery_large.afrzebra": {
         "reference-name": "Zebra",
-        "name": "Zebra"
+        "name": "Séabra"
     },
     "rct2ww.scenery_large.atomium": {
         "reference-name": "Atomium",
@@ -9361,79 +9361,79 @@
     },
     "rct2ww.scenery_large.atractor": {
         "reference-name": "Tractor",
-        "name": "Tractor"
+        "name": "Tarracóir"
     },
     "rct2ww.scenery_large.bamborf1": {
         "reference-name": "Bamboo Roof Corner",
-        "name": "Bamboo Roof Corner"
+        "name": "Cúinne Dín Bambú"
     },
     "rct2ww.scenery_large.bamborf2": {
         "reference-name": "Bamboo Roof",
-        "name": "Bamboo Roof"
+        "name": "Díon Bambú"
     },
     "rct2ww.scenery_large.bamborf3": {
         "reference-name": "Bamboo Roof Inverted Corner",
-        "name": "Bamboo Roof Inverted Corner"
+        "name": "Cúinne Inbhéartaithe Dín Bambú"
     },
     "rct2ww.scenery_large.bigben": {
         "reference-name": "Big Ben and the Houses of Parliament",
-        "name": "Big Ben and the Houses of Parliament"
+        "name": "Big Ben agus Tithe na Parlaiminte"
     },
     "rct2ww.scenery_large.bigdish": {
         "reference-name": "Satellite Dish",
-        "name": "Satellite Dish"
+        "name": "Mias Satailíte"
     },
     "rct2ww.scenery_large.biggeosp": {
         "reference-name": "Big Geosphere",
-        "name": "Big Geosphere"
+        "name": "Geoisféar Mór"
     },
     "rct2ww.scenery_large.cdragon": {
         "reference-name": "Chinese Dragon",
-        "name": "Chinese Dragon"
+        "name": "Dragan Síneach"
     },
     "rct2ww.scenery_large.circus": {
         "reference-name": "Circus",
-        "name": "Circus"
+        "name": "Sorcas"
     },
     "rct2ww.scenery_large.cowboy01": {
         "reference-name": "Cowboy",
-        "name": "Cowboy"
+        "name": "Buachaill Bó"
     },
     "rct2ww.scenery_large.cowboy02": {
         "reference-name": "Cowboy",
-        "name": "Cowboy"
+        "name": "Buachaill Bó"
     },
     "rct2ww.scenery_large.damtower": {
         "reference-name": "Dam Tower",
-        "name": "Dam Tower"
+        "name": "Túr Damba"
     },
     "rct2ww.scenery_large.damtower_fix": {
         "reference-name": "Dam Tower",
-        "name": "Dam Tower"
+        "name": "Túr Damba"
     },
     "rct2ww.scenery_large.easerlnd": {
         "reference-name": "Easter Island Statue",
-        "name": "Easter Island Statue"
+        "name": "Dealbh Oileán na Cásca"
     },
     "rct2ww.scenery_large.eiffel": {
         "reference-name": "Eiffel Tower",
-        "name": "Eiffel Tower"
+        "name": "Túr Eiffel"
     },
     "rct2ww.scenery_large.evilsam": {
         "reference-name": "Evil Samurai",
-        "name": "Evil Samurai"
+        "name": "Samurai Olc"
     },
     "rct2ww.scenery_large.fatbudda": {
         "reference-name": "Fat Buddha",
-        "name": "Fat Buddha"
+        "name": "Búda Ramhar"
     },
     "rct2ww.scenery_large.gdstaue1": {
         "reference-name": "Gold Statue",
-        "name": "Gold Statue"
+        "name": "Dealbh Óir"
     },
     "rct2ww.scenery_large.gdstaue2": {
         "reference-name": "Gold Statue",
-        "name": "Gold Statue"
+        "name": "Dealbh Óir"
     },
     "rct2ww.scenery_large.geisha": {
         "reference-name": "Geisha",
@@ -9441,71 +9441,71 @@
     },
     "rct2ww.scenery_large.giraffe1": {
         "reference-name": "Giraffe",
-        "name": "Giraffe"
+        "name": "Sioráf"
     },
     "rct2ww.scenery_large.giraffe2": {
         "reference-name": "Giraffe",
-        "name": "Giraffe"
+        "name": "Sioráf"
     },
     "rct2ww.scenery_large.goldbuda": {
         "reference-name": "Golden Buddha",
-        "name": "Golden Buddha"
+        "name": "Búda Órga"
     },
     "rct2ww.scenery_large.goodsam": {
         "reference-name": "Good Samurai",
-        "name": "Good Samurai"
+        "name": "Samurai Maith"
     },
     "rct2ww.scenery_large.gwoctur1": {
         "reference-name": "Great Wall Of China Turret Straight",
-        "name": "Great Wall Of China Turret Straight"
+        "name": "Túirín Díreach Bhalla Mór na Síne"
     },
     "rct2ww.scenery_large.gwoctur2": {
         "reference-name": "Great Wall Of China Turret Corner",
-        "name": "Great Wall Of China Turret Corner"
+        "name": "Cúinne Túirín Bhalla Mór na Síne"
     },
     "rct2ww.scenery_large.helipad": {
         "reference-name": "Helipad",
-        "name": "Helipad"
+        "name": "Héileapad"
     },
     "rct2ww.scenery_large.hippo01": {
         "reference-name": "Hippo",
-        "name": "Hippo"
+        "name": "Dobhareach"
     },
     "rct2ww.scenery_large.hippo02": {
         "reference-name": "Hippo",
-        "name": "Hippo"
+        "name": "Dobhareach"
     },
     "rct2ww.scenery_large.icefor01": {
         "reference-name": "Ice Formation",
-        "name": "Ice Formation"
+        "name": "Foirmíocht Oighir"
     },
     "rct2ww.scenery_large.icefor02": {
         "reference-name": "Ice Formation",
-        "name": "Ice Formation"
+        "name": "Foirmíocht Oighir"
     },
     "rct2ww.scenery_large.indianst": {
         "reference-name": "Native American",
-        "name": "Native American"
+        "name": "Meiriceánach Dúchasach"
     },
     "rct2ww.scenery_large.largeju1": {
         "reference-name": "Large Rainforest Tree",
-        "name": "Large Rainforest Tree"
+        "name": "Crann Mór Foraoise Báistí"
     },
     "rct2ww.scenery_large.lincolns": {
         "reference-name": "Washington Statue",
-        "name": "Washington Statue"
+        "name": "Dealbh Washington"
     },
     "rct2ww.scenery_large.mbskyr01": {
         "reference-name": "Skyscraper Roof Piece",
-        "name": "Skyscraper Roof Piece"
+        "name": "Píosa Dín Ilstóraigh"
     },
     "rct2ww.scenery_large.mbskyr02": {
         "reference-name": "Skyscraper Tip",
-        "name": "Skyscraper Tip"
+        "name": "Rinn Ilstóraigh"
     },
     "rct2ww.scenery_large.ovrgrwnt": {
         "reference-name": "Old Overgrown Tree",
-        "name": "Old Overgrown Tree"
+        "name": "Seanchrann Mothrach"
     },
     "rct2ww.scenery_large.pagodam": {
         "reference-name": "Pagoda",
@@ -9517,7 +9517,7 @@
     },
     "rct2ww.scenery_large.pagodatw": {
         "reference-name": "Pagoda Tower",
-        "name": "Pagoda Tower"
+        "name": "Túr Pagoda"
     },
     "rct2ww.scenery_large.pogodal": {
         "reference-name": "Pagoda",
@@ -9525,47 +9525,47 @@
     },
     "rct2ww.scenery_large.radar": {
         "reference-name": "Radar Dish",
-        "name": "Radar Dish"
+        "name": "Mias Radair"
     },
     "rct2ww.scenery_large.rdrab01": {
         "reference-name": "Drab Large Tower Mid-Section",
-        "name": "Drab Large Tower Mid-Section"
+        "name": "Meánchuid Túir Mhóir Lachtna"
     },
     "rct2ww.scenery_large.rdrab02": {
         "reference-name": "Drab Large Tower Base",
-        "name": "Drab Large Tower Base"
+        "name": "Bun Túir Mhóir Lachtna"
     },
     "rct2ww.scenery_large.rdrab03": {
         "reference-name": "Drab Large Tower Top",
-        "name": "Drab Large Tower Top"
+        "name": "Barr Túir Mhóir Lachtna"
     },
     "rct2ww.scenery_large.rdrab04": {
         "reference-name": "Drab Large Tower Broken Base",
-        "name": "Drab Large Tower Broken Base"
+        "name": "Bun Briste Túir Mhóir Lachtna"
     },
     "rct2ww.scenery_large.redwood": {
         "reference-name": "Redwood Tree",
-        "name": "Redwood Tree"
+        "name": "Crann Seicéia"
     },
     "rct2ww.scenery_large.rkreml08": {
         "reference-name": "St. Basil’s Cathedral Large Tower Base",
-        "name": "St. Basil’s Cathedral Large Tower Base"
+        "name": "Bun Túir Mhóir Ardeaglais Naomh Basil"
     },
     "rct2ww.scenery_large.rkreml09": {
         "reference-name": "St. Basil’s Cathedral Large Tower Top",
-        "name": "St. Basil’s Cathedral Large Tower Top"
+        "name": "Barr Túir Mhóir Ardeaglais Naomh Basil"
     },
     "rct2ww.scenery_large.rkreml10": {
         "reference-name": "St. Basil’s Cathedral Large Tower Mid-Section",
-        "name": "St. Basil’s Cathedral Large Tower Mid-Section"
+        "name": "Meánchuid Túir Mhóir Ardeaglais Naomh Basil"
     },
     "rct2ww.scenery_large.rtudor05": {
         "reference-name": "Tudor Roof Piece",
-        "name": "Tudor Roof Piece"
+        "name": "Píosa Dín Túdarach"
     },
     "rct2ww.scenery_large.rtudor06": {
         "reference-name": "Tudor Roof Piece",
-        "name": "Tudor Roof Piece"
+        "name": "Píosa Dín Túdarach"
     },
     "rct2ww.scenery_large.shiva": {
         "reference-name": "Shiva",
@@ -9573,11 +9573,11 @@
     },
     "rct2ww.scenery_large.soflibrt": {
         "reference-name": "Statue of Liberty",
-        "name": "Statue of Liberty"
+        "name": "Dealbh na Saoirse"
     },
     "rct2ww.scenery_large.spaceorb": {
         "reference-name": "Space Orbs",
-        "name": "Space Orbs"
+        "name": "Meallta Spáis"
     },
     "rct2ww.scenery_large.sputnik": {
         "reference-name": "Sputnik",
@@ -9585,27 +9585,27 @@
     },
     "rct2ww.scenery_large.sunken": {
         "reference-name": "Sunken Ship",
-        "name": "Sunken Ship"
+        "name": "Long Bháite"
     },
     "rct2ww.scenery_large.tajmcbse": {
         "reference-name": "Maharaja Palace Tower Base",
-        "name": "Maharaja Palace Tower Base"
+        "name": "Bun Túir Pálás Maharaja"
     },
     "rct2ww.scenery_large.tajmcolm": {
         "reference-name": "Maharaja Palace Tower Column",
-        "name": "Maharaja Palace Tower Column"
+        "name": "Colún Túir Pálás Maharaja"
     },
     "rct2ww.scenery_large.tajmctop": {
         "reference-name": "Maharaja Palace Tower Top",
-        "name": "Maharaja Palace Tower Top"
+        "name": "Barr Túir Pálás Maharaja"
     },
     "rct2ww.scenery_large.tajmdome": {
         "reference-name": "Maharaja Palace Dome",
-        "name": "Maharaja Palace Dome"
+        "name": "Cruinneachán Pálás Maharaja"
     },
     "rct2ww.scenery_large.windmill": {
         "reference-name": "Windmill",
-        "name": "Windmill"
+        "name": "Muileann Gaoithe"
     },
     "rct2ww.scenery_small.1x1atre2": {
         "reference-name": "Vine Tree",
