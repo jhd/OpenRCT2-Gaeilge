@@ -1993,15 +1993,15 @@
     },
     "rct2.park_entrance.pkemm": {
         "reference-name": "Park Entrance Gates",
-        "name": "Park Entrance Gates"
+        "name": "Geataí Isteach na Páirce"
     },
     "rct2.park_entrance.pkent1": {
         "reference-name": "Traditional Park Entrance",
-        "name": "Traditional Park Entrance"
+        "name": "Bealach Isteach Traidisiúnta na Páirce"
     },
     "rct2.park_entrance.pkesfh": {
         "reference-name": "Park Entrance Building",
-        "name": "Park Entrance Building"
+        "name": "Foirgneamh Bealach Isteach na Páirce"
     },
     "rct2.peep_animations.entertainer_astronaut": {
         "reference-name": "Astronaut costume",
@@ -3441,119 +3441,119 @@
     },
     "rct2.scenery_group.scgabstr": {
         "reference-name": "Abstract Theming",
-        "name": "Abstract Theming"
+        "name": "Téamú Teibí"
     },
     "rct2.scenery_group.scgcandy": {
         "reference-name": "Giant Candy Theming",
-        "name": "Giant Candy Theming"
+        "name": "Téamú Milseán Ollmhór"
     },
     "rct2.scenery_group.scgclass": {
         "reference-name": "Classical/Roman Theming",
-        "name": "Classical/Roman Theming"
+        "name": "Téamú Clasaiceach/Rómhánach"
     },
     "rct2.scenery_group.scgegypt": {
         "reference-name": "Egyptian Theming",
-        "name": "Egyptian Theming"
+        "name": "Téamú Éigipteach"
     },
     "rct2.scenery_group.scgfence": {
         "reference-name": "Fences and Walls",
-        "name": "Fences and Walls"
+        "name": "Sconsaí agus Ballaí"
     },
     "rct2.scenery_group.scggardn": {
         "reference-name": "Gardens",
-        "name": "Gardens"
+        "name": "Gairdíní"
     },
     "rct2.scenery_group.scggiant": {
         "reference-name": "Giant Garden Theming",
-        "name": "Giant Garden Theming"
+        "name": "Téamú Gairdín Ollmhór"
     },
     "rct2.scenery_group.scghallo": {
         "reference-name": "Creepy Theming",
-        "name": "Creepy Theming"
+        "name": "Téamú Aduain"
     },
     "rct2.scenery_group.scgindus": {
         "reference-name": "Mechanical Theming",
-        "name": "Mechanical Theming"
+        "name": "Téamú Meicniúil"
     },
     "rct2.scenery_group.scgjungl": {
         "reference-name": "Jungle Theming",
-        "name": "Jungle Theming"
+        "name": "Téamú Dufaire"
     },
     "rct2.scenery_group.scgjuras": {
         "reference-name": "Jurassic Theming",
-        "name": "Jurassic Theming"
+        "name": "Téamú Iúrasach"
     },
     "rct2.scenery_group.scgmart": {
         "reference-name": "Martian Theming",
-        "name": "Martian Theming"
+        "name": "Téamú Marsach"
     },
     "rct2.scenery_group.scgmedie": {
         "reference-name": "Medieval Theming",
-        "name": "Medieval Theming"
+        "name": "Téamú Meánaoiseach"
     },
     "rct2.scenery_group.scgmine": {
         "reference-name": "Mine Theming",
-        "name": "Mine Theming"
+        "name": "Téamú Mianaigh"
     },
     "rct2.scenery_group.scgorien": {
         "reference-name": "Pagoda Theming",
-        "name": "Pagoda Theming"
+        "name": "Téamú Pagóide"
     },
     "rct2.scenery_group.scgpathx": {
         "reference-name": "Signs and Items for Footpaths",
-        "name": "Signs and Items for Footpaths"
+        "name": "Comharthaí agus Earraí do Chosáin"
     },
     "rct2.scenery_group.scgpirat": {
         "reference-name": "Pirates Theming",
-        "name": "Pirates Theming"
+        "name": "Téamú Foghlaithe Mara"
     },
     "rct2.scenery_group.scgshrub": {
         "reference-name": "Shrubs and Ornaments",
-        "name": "Shrubs and Ornaments"
+        "name": "Toir agus Maisiúcháin"
     },
     "rct2.scenery_group.scgsixfl": {
         "reference-name": "Six Flags Theming",
-        "name": "Six Flags Theming"
+        "name": "Téamú Six Flags"
     },
     "rct2.scenery_group.scgsnow": {
         "reference-name": "Snow and Ice Theming",
-        "name": "Snow and Ice Theming"
+        "name": "Téamú Sneachta agus Oighir"
     },
     "rct2.scenery_group.scgspace": {
         "reference-name": "Space Theming",
-        "name": "Space Theming"
+        "name": "Téamú Spáis"
     },
     "rct2.scenery_group.scgspook": {
         "reference-name": "Spooky Theming",
-        "name": "Spooky Theming"
+        "name": "Téamú Taibhsiúil"
     },
     "rct2.scenery_group.scgsport": {
         "reference-name": "Sports Theming",
-        "name": "Sports Theming"
+        "name": "Téamú Spóirt"
     },
     "rct2.scenery_group.scgtrees": {
         "reference-name": "Trees",
-        "name": "Trees"
+        "name": "Crainn"
     },
     "rct2.scenery_group.scgurban": {
         "reference-name": "Urban Theming",
-        "name": "Urban Theming"
+        "name": "Téamú Uirbeach"
     },
     "rct2.scenery_group.scgwalls": {
         "reference-name": "Walls and Roofs",
-        "name": "Walls and Roofs"
+        "name": "Ballaí agus Díonta"
     },
     "rct2.scenery_group.scgwater": {
         "reference-name": "Water Feature Theming",
-        "name": "Water Feature Theming"
+        "name": "Téamú Gnéithe Uisce"
     },
     "rct2.scenery_group.scgwond": {
         "reference-name": "Wonderland Theming",
-        "name": "Wonderland Theming"
+        "name": "Téamú Thír na nIontas"
     },
     "rct2.scenery_group.scgwwest": {
         "reference-name": "Wild West Theming",
-        "name": "Wild West Theming"
+        "name": "Téamú an Iarthair Fhiáin"
     },
     "rct2.scenery_large.badrack": {
         "reference-name": "Badminton Racket",
@@ -5749,7 +5749,7 @@
     },
     "rct2dlc.scenery_group.scgpanda": {
         "reference-name": "Panda Theming",
-        "name": "Panda Theming"
+        "name": "Téamú Panda"
     },
     "rct2dlc.scenery_small.bigpanda": {
         "reference-name": "Giant Panda",
@@ -5841,27 +5841,27 @@
     },
     "rct2tt.park_entrance.1920sent": {
         "reference-name": "Roaring Twenties Park Entrance",
-        "name": "Roaring Twenties Park Entrance"
+        "name": "Bealach Isteach Páirce na bhFichidí Fiáine"
     },
     "rct2tt.park_entrance.futurent": {
         "reference-name": "Futuristic Park Entrance",
-        "name": "Futuristic Park Entrance"
+        "name": "Bealach Isteach Páirce Todhchaíoch"
     },
     "rct2tt.park_entrance.gldyrent": {
         "reference-name": "Rock ’n’ Roll Park Entrance",
-        "name": "Rock ’n’ Roll Park Entrance"
+        "name": "Bealach Isteach Páirce Rac ’n’ Roll"
     },
     "rct2tt.park_entrance.jurasent": {
         "reference-name": "Prehistoric Entrance",
-        "name": "Prehistoric Entrance"
+        "name": "Bealach Isteach Réamhstairiúil"
     },
     "rct2tt.park_entrance.medientr": {
         "reference-name": "Dark Age Entrance",
-        "name": "Dark Age Entrance"
+        "name": "Bealach Isteach na Ré Dorcha"
     },
     "rct2tt.park_entrance.mythentr": {
         "reference-name": "Mythological Entrance",
-        "name": "Mythological Entrance"
+        "name": "Bealach Isteach Miotaseolaíoch"
     },
     "rct2tt.ride.1920racr": {
         "reference-name": "1920s Racing Cars",
@@ -6409,31 +6409,31 @@
     },
     "rct2tt.scenery_group.scg1920s": {
         "reference-name": "Roaring Twenties Theming",
-        "name": "Roaring Twenties Theming"
+        "name": "Téamú na bhFichidí Fiáine"
     },
     "rct2tt.scenery_group.scg1920w": {
         "reference-name": "Roaring Twenties Wall Sets",
-        "name": "Roaring Twenties Wall Sets"
+        "name": "Tacair Bhallaí na bhFichidí Fiáine"
     },
     "rct2tt.scenery_group.scg1960s": {
         "reference-name": "Rock ’n’ Roll Theming",
-        "name": "Rock ’n’ Roll Theming"
+        "name": "Téamú Rac ’n’ Roll"
     },
     "rct2tt.scenery_group.scgfutur": {
         "reference-name": "Future Theming",
-        "name": "Future Theming"
+        "name": "Téamú na Todhchaí"
     },
     "rct2tt.scenery_group.scgjurra": {
         "reference-name": "Prehistoric Theming",
-        "name": "Prehistoric Theming"
+        "name": "Téamú Réamhstairiúil"
     },
     "rct2tt.scenery_group.scgmediv": {
         "reference-name": "Dark Age Theming",
-        "name": "Dark Age Theming"
+        "name": "Téamú na Ré Dorcha"
     },
     "rct2tt.scenery_group.scgmytho": {
         "reference-name": "Mythological Theming",
-        "name": "Mythological Theming"
+        "name": "Téamú Miotaseolaíoch"
     },
     "rct2tt.scenery_large.1950scar": {
         "reference-name": "1950s Car",
@@ -8621,31 +8621,31 @@
     },
     "rct2ww.park_entrance.africent": {
         "reference-name": "Africa Park Entrance",
-        "name": "Africa Park Entrance"
+        "name": "Bealach Isteach Páirce na hAfraice"
     },
     "rct2ww.park_entrance.euroent": {
         "reference-name": "European Park Entrance",
-        "name": "European Park Entrance"
+        "name": "Bealach Isteach Páirce Eorpach"
     },
     "rct2ww.park_entrance.iceent": {
         "reference-name": "Ice Park Entrance",
-        "name": "Ice Park Entrance"
+        "name": "Bealach Isteach Páirce Oighir"
     },
     "rct2ww.park_entrance.japent": {
         "reference-name": "Japanese Park Entrance",
-        "name": "Japanese Park Entrance"
+        "name": "Bealach Isteach Páirce Seapánach"
     },
     "rct2ww.park_entrance.naent": {
         "reference-name": "North America Park Entrance",
-        "name": "North America Park Entrance"
+        "name": "Bealach Isteach Páirce Mheiriceá Thuaidh"
     },
     "rct2ww.park_entrance.ozentran": {
         "reference-name": "Australasian Park Entrance",
-        "name": "Australasian Park Entrance"
+        "name": "Bealach Isteach Páirce Astraláiseach"
     },
     "rct2ww.park_entrance.samerent": {
         "reference-name": "South American Park Entrance",
-        "name": "South American Park Entrance"
+        "name": "Bealach Isteach Páirce Mheiriceá Theas"
     },
     "rct2ww.ride.anaconda": {
         "reference-name": "Anaconda Trains",
@@ -9233,31 +9233,31 @@
     },
     "rct2ww.scenery_group.scgafric": {
         "reference-name": "Africa Theming",
-        "name": "Africa Theming"
+        "name": "Téamú na hAfraice"
     },
     "rct2ww.scenery_group.scgartic": {
         "reference-name": "Antarctic Theming",
-        "name": "Antarctic Theming"
+        "name": "Téamú an Antartaigh"
     },
     "rct2ww.scenery_group.scgasia": {
         "reference-name": "Asia Theming",
-        "name": "Asia Theming"
+        "name": "Téamú na hÁise"
     },
     "rct2ww.scenery_group.scgaustr": {
         "reference-name": "Australasian Theming",
-        "name": "Australasian Theming"
+        "name": "Téamú na hAstraláise"
     },
     "rct2ww.scenery_group.scgeurop": {
         "reference-name": "Europe Theming",
-        "name": "Europe Theming"
+        "name": "Téamú na hEorpa"
     },
     "rct2ww.scenery_group.scgnamrc": {
         "reference-name": "North America Theming",
-        "name": "North America Theming"
+        "name": "Téamú Mheiriceá Thuaidh"
     },
     "rct2ww.scenery_group.scgsamer": {
         "reference-name": "South America Theming",
-        "name": "South America Theming"
+        "name": "Téamú Mheiriceá Theas"
     },
     "rct2ww.scenery_large.1x2abr01": {
         "reference-name": "Aboriginal Plain Tile",
