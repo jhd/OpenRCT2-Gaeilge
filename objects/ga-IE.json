@@ -1253,7 +1253,7 @@
     },
     "rct1ll.footpath_railings.space": {
         "reference-name": "Space Style Railings (Grey)",
-        "name": "Ráillí Cosáin Spáis (Liath)"
+        "name": "Ráillí Cosáin ar Stíl Spáis (Liath)"
     },
     "rct1ll.footpath_surface.tiles_green": {
         "reference-name": "Green and Brown Tiled Footpath",
@@ -1689,15 +1689,15 @@
     },
     "rct2.footpath_banner.bn2": {
         "reference-name": "Jungle Style Sign",
-        "name": "Comhartha Dufaire"
+        "name": "Comhartha ar Stíl Dufaire"
     },
     "rct2.footpath_banner.bn3": {
         "reference-name": "Classical Style Sign",
-        "name": "Comhartha Clasaiceach"
+        "name": "Comhartha ar Stíl Chlasaiceach"
     },
     "rct2.footpath_banner.bn4": {
         "reference-name": "Egyptian Style Sign",
-        "name": "Comhartha Éigipteach"
+        "name": "Comhartha ar Stíl Éigipteach"
     },
     "rct2.footpath_banner.bn5": {
         "reference-name": "Wooden Sign",
@@ -1705,11 +1705,11 @@
     },
     "rct2.footpath_banner.bn6": {
         "reference-name": "Jurassic Style Sign",
-        "name": "Comhartha Jurassic"
+        "name": "Comhartha ar Stíl Jurassic"
     },
     "rct2.footpath_banner.bn7": {
         "reference-name": "Pagoda Style Sign",
-        "name": "Comhartha Pagoda"
+        "name": "Comhartha ar Stíl Pagoda"
     },
     "rct2.footpath_banner.bn8": {
         "reference-name": "Snow Covered Sign",
@@ -1717,7 +1717,7 @@
     },
     "rct2.footpath_banner.bn9": {
         "reference-name": "Space Style Sign",
-        "name": "Comhartha Spáis"
+        "name": "Comhartha ar Stíl Spáis"
     },
     "rct2.footpath_item.bench1": {
         "reference-name": "Bench",
@@ -1809,7 +1809,7 @@
     },
     "rct2.footpath_railings.space": {
         "reference-name": "Space Style Railings (Red)",
-        "name": "Ráillí Cosáin Spáis (Dearg)"
+        "name": "Ráillí Cosáin ar Stíl Spáis (Dearg)"
     },
     "rct2.footpath_railings.wood": {
         "reference-name": "Wooden Railings",
@@ -5777,7 +5777,7 @@
     },
     "rct2tt.footpath_railings.balustrade": {
         "reference-name": "Balustrade",
-        "name": "Slatbhalla"
+        "name": "Balastráid"
     },
     "rct2tt.footpath_railings.circuitboard": {
         "reference-name": "Circuit Board Railings",
@@ -5797,7 +5797,7 @@
     },
     "rct2tt.footpath_railings.rainbow": {
         "reference-name": "Rainbow Railings",
-        "name": "Ráillí Cosáin Bogha Báistí"
+        "name": "Ráillí Cosáin Tuar Ceatha"
     },
     "rct2tt.footpath_railings.rocky": {
         "reference-name": "Jungle Railings",
@@ -5829,11 +5829,11 @@
     },
     "rct2tt.footpath_surface.queue_rainbow": {
         "reference-name": "Rainbow Queue",
-        "name": "Scuaine Bogha Báistí"
+        "name": "Scuaine Tuar Ceatha"
     },
     "rct2tt.footpath_surface.rainbow": {
         "reference-name": "Rainbow Footpath",
-        "name": "Cosán Bogha Báistí"
+        "name": "Cosán Tuar Ceatha"
     },
     "rct2tt.footpath_surface.rocky": {
         "reference-name": "Rocky Footpath",
