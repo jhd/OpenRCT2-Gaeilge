@@ -33,15 +33,15 @@
     },
     "openrct2.footpath_railings.invisible": {
         "reference-name": "Invisible Railings",
-        "name": "Invisible Railings"
+        "name": "Ráillí Cosáin Dofheicthe"
     },
     "openrct2.footpath_surface.invisible": {
         "reference-name": "Invisible Footpath",
-        "name": "Invisible Footpath"
+        "name": "Cosán Dofheicthe"
     },
     "openrct2.footpath_surface.queue_invisible": {
         "reference-name": "Invisible Queue",
-        "name": "Invisible Queue"
+        "name": "Scuaine Dhofheicthe"
     },
     "openrct2.ride.alpine_coaster": {
         "reference-name": "Alpine Coaster Cars",
@@ -93,27 +93,27 @@
     },
     "rct1.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Sloped)",
-        "name": "Crazy Paving Footpath (Sloped)"
+        "name": "Cosán Pábhála Craiceáilte (Le Fána)"
     },
     "rct1.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Square)",
-        "name": "Dirt Footpath (Square)"
+        "name": "Cosán Créafóige (Cearnach)"
     },
     "rct1.footpath_surface.queue_blue": {
         "reference-name": "Blue Queue (Sloped)",
-        "name": "Blue Queue (Sloped)"
+        "name": "Scuaine Ghorm (Le Fána)"
     },
     "rct1.footpath_surface.road": {
         "reference-name": "Road",
-        "name": "Road"
+        "name": "Bóthar"
     },
     "rct1.footpath_surface.tarmac": {
         "reference-name": "Tarmac Footpath (Sloped)",
-        "name": "Tarmac Footpath (Sloped)"
+        "name": "Cosán Tarramhacadaim (Le Fána)"
     },
     "rct1.footpath_surface.tiles_brown": {
         "reference-name": "Brown Tiled Footpath",
-        "name": "Brown Tiled Footpath"
+        "name": "Cosán Tílithe Donn"
     },
     "rct1.ride.bobsleigh_trains": {
         "reference-name": "Bobsleigh Trains",
@@ -641,35 +641,35 @@
     },
     "rct1aa.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Square)",
-        "name": "Ash Footpath (Square)"
+        "name": "Cosán Luaithe (Cearnach)"
     },
     "rct1aa.footpath_surface.queue_green": {
         "reference-name": "Green Queue",
-        "name": "Green Queue"
+        "name": "Scuaine Ghlas"
     },
     "rct1aa.footpath_surface.queue_red": {
         "reference-name": "Red Queue (Sloped)",
-        "name": "Red Queue (Sloped)"
+        "name": "Scuaine Dhearg (Le Fána)"
     },
     "rct1aa.footpath_surface.queue_yellow": {
         "reference-name": "Yellow Queue (Sloped)",
-        "name": "Yellow Queue (Sloped)"
+        "name": "Scuaine Bhuí (Le Fána)"
     },
     "rct1aa.footpath_surface.tarmac_brown": {
         "reference-name": "Brown Tarmac Footpath (Sloped)",
-        "name": "Brown Tarmac Footpath (Sloped)"
+        "name": "Cosán Tarramhacadaim Donn (Le Fána)"
     },
     "rct1aa.footpath_surface.tarmac_green": {
         "reference-name": "Green Tarmac Footpath",
-        "name": "Green Tarmac Footpath"
+        "name": "Cosán Tarramhacadaim Glas"
     },
     "rct1aa.footpath_surface.tarmac_red": {
         "reference-name": "Red Tarmac Footpath (Sloped)",
-        "name": "Red Tarmac Footpath (Sloped)"
+        "name": "Cosán Tarramhacadaim Dearg (Le Fána)"
     },
     "rct1aa.footpath_surface.tiles_grey": {
         "reference-name": "Grey Tiled Footpath",
-        "name": "Grey Tiled Footpath"
+        "name": "Cosán Tílithe Liath"
     },
     "rct1aa.ride.bicycles": {
         "reference-name": "Bicycles",
@@ -1249,19 +1249,19 @@
     },
     "rct1ll.footpath_railings.bamboo": {
         "reference-name": "Bamboo Railings (Yellow)",
-        "name": "Bamboo Railings (Yellow)"
+        "name": "Ráillí Cosáin Bambú (Buí)"
     },
     "rct1ll.footpath_railings.space": {
         "reference-name": "Space Style Railings (Grey)",
-        "name": "Space Style Railings (Grey)"
+        "name": "Ráillí Cosáin Spáis (Liath)"
     },
     "rct1ll.footpath_surface.tiles_green": {
         "reference-name": "Green and Brown Tiled Footpath",
-        "name": "Green and Brown Tiled Footpath"
+        "name": "Cosán Tílithe Glas agus Donn"
     },
     "rct1ll.footpath_surface.tiles_red": {
         "reference-name": "Red and Brown Tiled Footpath",
-        "name": "Red and Brown Tiled Footpath"
+        "name": "Cosán Tílithe Dearg agus Donn"
     },
     "rct1ll.ride.4_across_inverted_trains": {
         "reference-name": "4-across Inverted Roller Coaster Trains",
@@ -1685,183 +1685,183 @@
     },
     "rct2.footpath_banner.bn1": {
         "reference-name": "Sign",
-        "name": "Sign"
+        "name": "Comhartha"
     },
     "rct2.footpath_banner.bn2": {
         "reference-name": "Jungle Style Sign",
-        "name": "Jungle Style Sign"
+        "name": "Comhartha Dufaire"
     },
     "rct2.footpath_banner.bn3": {
         "reference-name": "Classical Style Sign",
-        "name": "Classical Style Sign"
+        "name": "Comhartha Clasaiceach"
     },
     "rct2.footpath_banner.bn4": {
         "reference-name": "Egyptian Style Sign",
-        "name": "Egyptian Style Sign"
+        "name": "Comhartha Éigipteach"
     },
     "rct2.footpath_banner.bn5": {
         "reference-name": "Wooden Sign",
-        "name": "Wooden Sign"
+        "name": "Comhartha Adhmaid"
     },
     "rct2.footpath_banner.bn6": {
         "reference-name": "Jurassic Style Sign",
-        "name": "Jurassic Style Sign"
+        "name": "Comhartha Jurassic"
     },
     "rct2.footpath_banner.bn7": {
         "reference-name": "Pagoda Style Sign",
-        "name": "Pagoda Style Sign"
+        "name": "Comhartha Pagoda"
     },
     "rct2.footpath_banner.bn8": {
         "reference-name": "Snow Covered Sign",
-        "name": "Snow Covered Sign"
+        "name": "Comhartha faoi Shneachta"
     },
     "rct2.footpath_banner.bn9": {
         "reference-name": "Space Style Sign",
-        "name": "Space Style Sign"
+        "name": "Comhartha Spáis"
     },
     "rct2.footpath_item.bench1": {
         "reference-name": "Bench",
-        "name": "Bench"
+        "name": "Binse"
     },
     "rct2.footpath_item.benchlog": {
         "reference-name": "Bench",
-        "name": "Bench"
+        "name": "Binse"
     },
     "rct2.footpath_item.benchpl": {
         "reference-name": "Seats",
-        "name": "Seats"
+        "name": "Suíocháin"
     },
     "rct2.footpath_item.benchspc": {
         "reference-name": "Bench",
-        "name": "Bench"
+        "name": "Binse"
     },
     "rct2.footpath_item.benchstn": {
         "reference-name": "Stone Bench",
-        "name": "Stone Bench"
+        "name": "Binse Cloiche"
     },
     "rct2.footpath_item.jumpfnt1": {
         "reference-name": "Jumping Fountains",
-        "name": "Jumping Fountains"
+        "name": "Scairdeáin Léimneacha"
     },
     "rct2.footpath_item.jumpsnw1": {
         "reference-name": "Jumping Snowballs",
-        "name": "Jumping Snowballs"
+        "name": "Liathróidí Sneachta Léimneacha"
     },
     "rct2.footpath_item.lamp1": {
         "reference-name": "Lamp",
-        "name": "Lamp"
+        "name": "Lampa"
     },
     "rct2.footpath_item.lamp2": {
         "reference-name": "Lamp",
-        "name": "Lamp"
+        "name": "Lampa"
     },
     "rct2.footpath_item.lamp3": {
         "reference-name": "Lamp",
-        "name": "Lamp"
+        "name": "Lampa"
     },
     "rct2.footpath_item.lamp4": {
         "reference-name": "Lamp",
-        "name": "Lamp"
+        "name": "Lampa"
     },
     "rct2.footpath_item.lampdsy": {
         "reference-name": "Daisy Lamp",
-        "name": "Daisy Lamp"
+        "name": "Lampa Nóiníní"
     },
     "rct2.footpath_item.lamppir": {
         "reference-name": "Lamp",
-        "name": "Lamp"
+        "name": "Lampa"
     },
     "rct2.footpath_item.litter1": {
         "reference-name": "Litter Bin",
-        "name": "Litter Bin"
+        "name": "Bosca Bruscair"
     },
     "rct2.footpath_item.littermn": {
         "reference-name": "Litter Bin",
-        "name": "Litter Bin"
+        "name": "Bosca Bruscair"
     },
     "rct2.footpath_item.littersp": {
         "reference-name": "Litter Bin",
-        "name": "Litter Bin"
+        "name": "Bosca Bruscair"
     },
     "rct2.footpath_item.litterww": {
         "reference-name": "Litter Bin",
-        "name": "Litter Bin"
+        "name": "Bosca Bruscair"
     },
     "rct2.footpath_item.qtv1": {
         "reference-name": "Queue Line TV",
-        "name": "Queue Line TV"
+        "name": "Teilifís Scuaine"
     },
     "rct2.footpath_railings.bamboo_black": {
         "reference-name": "Bamboo Railings (Black)",
-        "name": "Bamboo Railings (Black)"
+        "name": "Ráillí Cosáin Bambú (Dubh)"
     },
     "rct2.footpath_railings.bamboo_brown": {
         "reference-name": "Bamboo Railings (Brown)",
-        "name": "Bamboo Railings (Brown)"
+        "name": "Ráillí Cosáin Bambú (Donn)"
     },
     "rct2.footpath_railings.concrete": {
         "reference-name": "Concrete Railings (Grey-Brown)",
-        "name": "Concrete Railings (Grey-Brown)"
+        "name": "Ráillí Cosáin Coincréite (Liathdhonn)"
     },
     "rct2.footpath_railings.concrete_green": {
         "reference-name": "Concrete Railings (Dark Green)",
-        "name": "Concrete Railings (Dark Green)"
+        "name": "Ráillí Cosáin Coincréite (Dúghlas)"
     },
     "rct2.footpath_railings.space": {
         "reference-name": "Space Style Railings (Red)",
-        "name": "Space Style Railings (Red)"
+        "name": "Ráillí Cosáin Spáis (Dearg)"
     },
     "rct2.footpath_railings.wood": {
         "reference-name": "Wooden Railings",
-        "name": "Wooden Railings"
+        "name": "Ráillí Cosáin Adhmaid"
     },
     "rct2.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Rounded)",
-        "name": "Ash Footpath (Rounded)"
+        "name": "Cosán Luaithe (Cruinn)"
     },
     "rct2.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Stairs)",
-        "name": "Crazy Paving Footpath (Stairs)"
+        "name": "Cosán Pábhála Craiceáilte (Staighre)"
     },
     "rct2.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Rounded)",
-        "name": "Dirt Footpath (Rounded)"
+        "name": "Cosán Créafóige (Cruinn)"
     },
     "rct2.footpath_surface.queue_blue": {
         "reference-name": "Blue Queue (Stairs)",
-        "name": "Blue Queue (Stairs)"
+        "name": "Scuaine Ghorm (Staighre)"
     },
     "rct2.footpath_surface.queue_green": {
         "reference-name": "Dark Green Queue",
-        "name": "Dark Green Queue"
+        "name": "Scuaine Dhúghlas"
     },
     "rct2.footpath_surface.queue_red": {
         "reference-name": "Red Queue (Stairs)",
-        "name": "Red Queue (Stairs)"
+        "name": "Scuaine Dhearg (Staighre)"
     },
     "rct2.footpath_surface.queue_yellow": {
         "reference-name": "Yellow Queue (Stairs)",
-        "name": "Yellow Queue (Stairs)"
+        "name": "Scuaine Bhuí (Staighre)"
     },
     "rct2.footpath_surface.road": {
         "reference-name": "Road",
-        "name": "Road"
+        "name": "Bóthar"
     },
     "rct2.footpath_surface.tarmac": {
         "reference-name": "Tarmac Footpath (Stairs)",
-        "name": "Tarmac Footpath (Stairs)"
+        "name": "Cosán Tarramhacadaim (Staighre)"
     },
     "rct2.footpath_surface.tarmac_brown": {
         "reference-name": "Brown Tarmac Footpath (Stairs)",
-        "name": "Brown Tarmac Footpath (Stairs)"
+        "name": "Cosán Tarramhacadaim Donn (Staighre)"
     },
     "rct2.footpath_surface.tarmac_green": {
         "reference-name": "Dark Green Tarmac Footpath",
-        "name": "Dark Green Tarmac Footpath"
+        "name": "Cosán Tarramhacadaim Dúghlas"
     },
     "rct2.footpath_surface.tarmac_red": {
         "reference-name": "Red Tarmac Footpath (Stairs)",
-        "name": "Red Tarmac Footpath (Stairs)"
+        "name": "Cosán Tarramhacadaim Dearg (Staighre)"
     },
     "rct2.music.candy": {
         "reference-name": "Candy style",
@@ -5729,7 +5729,7 @@
     },
     "rct2dlc.footpath_item.litterpa": {
         "reference-name": "Panda Litter Bin",
-        "name": "Panda Litter Bin"
+        "name": "Bosca Bruscair Panda"
     },
     "rct2dlc.ride.zpanda": {
         "reference-name": "Panda Trains",
@@ -5769,75 +5769,75 @@
     },
     "rct2tt.footpath_item.firhydrt": {
         "reference-name": "Fire Hydrant",
-        "name": "Fire Hydrant"
+        "name": "Hiodrant Dóiteáin"
     },
     "rct2tt.footpath_item.medbench": {
         "reference-name": "Benches",
-        "name": "Benches"
+        "name": "Binsí"
     },
     "rct2tt.footpath_railings.balustrade": {
         "reference-name": "Balustrade",
-        "name": "Balustrade"
+        "name": "Slatbhalla"
     },
     "rct2tt.footpath_railings.circuitboard": {
         "reference-name": "Circuit Board Railings",
-        "name": "Circuit Board Railings"
+        "name": "Ráillí Cosáin Ciorcaid"
     },
     "rct2tt.footpath_railings.circuitboard_invisible": {
         "reference-name": "Sky Walk",
-        "name": "Sky Walk"
+        "name": "Siúlán Spéire"
     },
     "rct2tt.footpath_railings.medieval": {
         "reference-name": "Medieval Railings",
-        "name": "Medieval Railings"
+        "name": "Ráillí Cosáin Meánaoiseacha"
     },
     "rct2tt.footpath_railings.pavement": {
         "reference-name": "Iron Railings",
-        "name": "Iron Railings"
+        "name": "Ráillí Cosáin Iarainn"
     },
     "rct2tt.footpath_railings.rainbow": {
         "reference-name": "Rainbow Railings",
-        "name": "Rainbow Railings"
+        "name": "Ráillí Cosáin Bogha Báistí"
     },
     "rct2tt.footpath_railings.rocky": {
         "reference-name": "Jungle Railings",
-        "name": "Jungle Railings"
+        "name": "Ráillí Cosáin Dufaire"
     },
     "rct2tt.footpath_surface.circuitboard": {
         "reference-name": "Circuit Footpath",
-        "name": "Circuit Footpath"
+        "name": "Cosán Ciorcaid"
     },
     "rct2tt.footpath_surface.medieval": {
         "reference-name": "Wooden Footpath",
-        "name": "Wooden Footpath"
+        "name": "Cosán Adhmaid"
     },
     "rct2tt.footpath_surface.mosaic": {
         "reference-name": "Mosaic Footpath",
-        "name": "Mosaic Footpath"
+        "name": "Cosán Mósáice"
     },
     "rct2tt.footpath_surface.pavement": {
         "reference-name": "Pavement",
-        "name": "Pavement"
+        "name": "Pábháil"
     },
     "rct2tt.footpath_surface.queue_circuitboard": {
         "reference-name": "Circuit Queue",
-        "name": "Circuit Queue"
+        "name": "Scuaine Chiorcaid"
     },
     "rct2tt.footpath_surface.queue_pavement": {
         "reference-name": "Pavement Queue",
-        "name": "Pavement Queue"
+        "name": "Scuaine Pábhála"
     },
     "rct2tt.footpath_surface.queue_rainbow": {
         "reference-name": "Rainbow Queue",
-        "name": "Rainbow Queue"
+        "name": "Scuaine Bogha Báistí"
     },
     "rct2tt.footpath_surface.rainbow": {
         "reference-name": "Rainbow Footpath",
-        "name": "Rainbow Footpath"
+        "name": "Cosán Bogha Báistí"
     },
     "rct2tt.footpath_surface.rocky": {
         "reference-name": "Rocky Footpath",
-        "name": "Rocky Footpath"
+        "name": "Cosán Creagach"
     },
     "rct2tt.park_entrance.1920sent": {
         "reference-name": "Roaring Twenties Park Entrance",
