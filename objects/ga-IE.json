@@ -2065,7 +2065,7 @@
     },
     "rct2.peep_names.original": {
         "reference-name": "Original peep names",
-        "name": "Bunainmneacha na ndaoine"
+        "name": "Bunainmneacha peep"
     },
     "rct2.ride.4x4": {
         "reference-name": "Monster Trucks",
@@ -9009,7 +9009,7 @@
     },
     "rct2ww.ride.skidoo": {
         "reference-name": "Snowmobile Dodgems",
-        "name": "Tuairtcharranna Carr Sneachta",
+        "name": "Tuairtcharranna Sneachta",
         "reference-description": "Guests slide around in snowmobile-shaped vehicles that they freely control",
         "description": "Sleamhnaíonn aíonna thart i bhfeithiclí i gcruth carr sneachta a stiúrann siad go saor",
         "reference-capacity": "1 person per car",
