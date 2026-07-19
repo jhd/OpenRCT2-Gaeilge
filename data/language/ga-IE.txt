@@ -2744,16 +2744,16 @@ STR_5645    :Chat
 STR_5646    :Terraform
 STR_5647    :Toggle Pause
 STR_5648    :Set Water Level
-STR_5649    :Create Ride
-STR_5650    :Remove Ride
-STR_5651    :Build Ride
-STR_5652    :Ride Properties
-STR_5653    :Scenery
-STR_5654    :Path
-STR_5655    :Guest
-STR_5656    :Staff
-STR_5657    :Park Properties
-STR_5658    :Park Funding
+STR_5649    :Cruthú marcaíochta
+STR_5650    :Baint marcaíochta
+STR_5651    :Tógáil marcaíochta
+STR_5652    :Airíonna marcaíochta
+STR_5653    :Radharcra
+STR_5654    :Cosán
+STR_5655    :Aoi
+STR_5656    :Foireann
+STR_5657    :Airíonna páirce
+STR_5658    :Ciste páirce
 STR_5659    :Kick Player
 STR_5660    :Modify Groups
 STR_5661    :Set Player Group
@@ -3456,25 +3456,25 @@ STR_6457    :Report a bug on GitHub
 STR_6458    :Follow this on Main View
 STR_6460    :D
 STR_6461    :Direction
-STR_6462    :Excitement
-STR_6463    :Excitement: {COMMA2DP32}
-STR_6464    :Intensity
-STR_6465    :Intensity: {COMMA2DP32}
-STR_6466    :Nausea
-STR_6467    :Nausea: {COMMA2DP32}
+STR_6462    :Sceitimíní
+STR_6463    :Sceitimíní: {COMMA2DP32}
+STR_6464    :Déine
+STR_6465    :Déine: {COMMA2DP32}
+STR_6466    :Masmas
+STR_6467    :Masmas: {COMMA2DP32}
 STR_6468    :Not Yet Known
 STR_6469    :Adjust smaller area of patrol area
 STR_6470    :Adjust larger area of patrol area
 STR_6471    :See-Through Vegetation
 STR_6472    :See-Through Vehicles
 STR_6473    :See-Through Supports
-STR_6474    :Invisible Guests
-STR_6475    :Invisible Staff
-STR_6476    :Invisible Vegetation
-STR_6477    :Invisible Scenery
-STR_6478    :Invisible Paths
-STR_6479    :Invisible Rides
-STR_6480    :Invisible Vehicles
+STR_6474    :Aíonna dofheicthe
+STR_6475    :Foireann dhofheicthe
+STR_6476    :Fásra dofheicthe
+STR_6477    :Radharcra dofheicthe
+STR_6478    :Cosáin dhofheicthe
+STR_6479    :Marcaíochtaí dofheicthe
+STR_6480    :Feithiclí dofheicthe
 STR_6481    :Transparency Options
 STR_6482    :Transparency Options
 STR_6483    :Open transparency options
