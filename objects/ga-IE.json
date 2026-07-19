@@ -4717,7 +4717,7 @@
     },
     "rct2.scenery_small.tmp": {
         "reference-name": "Monkey-Puzzle Tree",
-        "name": "Péine Sile"
+        "name": "Arócar"
     },
     "rct2.scenery_small.tms1": {
         "reference-name": "Toadstool",
@@ -7805,7 +7805,7 @@
     },
     "rct2tt.scenery_small.largecpu": {
         "reference-name": "Super Computer Large CPU",
-        "name": "LAP Mór Sár-ríomhaire"
+        "name": "CPU Mór Sár-ríomhaire"
     },
     "rct2tt.scenery_small.laserx01": {
         "reference-name": "Laser Fence",
@@ -8313,7 +8313,7 @@
     },
     "rct2tt.scenery_small.smallcpu": {
         "reference-name": "Super Computer Small CPU",
-        "name": "LAP Beag Sár-ríomhaire"
+        "name": "CPU Beag Sár-ríomhaire"
     },
     "rct2tt.scenery_small.smoksk01": {
         "reference-name": "Large Smoking Chimney",
@@ -9545,7 +9545,7 @@
     },
     "rct2ww.scenery_large.redwood": {
         "reference-name": "Redwood Tree",
-        "name": "Crann Seicéia"
+        "name": "Crónghiúis"
     },
     "rct2ww.scenery_large.rkreml08": {
         "reference-name": "St. Basil’s Cathedral Large Tower Base",
@@ -10109,7 +10109,7 @@
     },
     "rct2ww.scenery_small.rmud05": {
         "reference-name": "Wattle & Daub Roof",
-        "name": "Díon Cliath is Dóib"
+        "name": "Díon Caolaigh agus Dóibe"
     },
     "rct2ww.scenery_small.roofice1": {
         "reference-name": "Ice Roof",
@@ -10181,15 +10181,15 @@
     },
     "rct2ww.scenery_small.rwdaub01": {
         "reference-name": "Wattle & Daub Roof",
-        "name": "Díon Cliath is Dóib"
+        "name": "Díon Caolaigh agus Dóibe"
     },
     "rct2ww.scenery_small.rwdaub02": {
         "reference-name": "Wattle & Daub Roof",
-        "name": "Díon Cliath is Dóib"
+        "name": "Díon Caolaigh agus Dóibe"
     },
     "rct2ww.scenery_small.rwdaub03": {
         "reference-name": "Wattle & Daub Roof",
-        "name": "Díon Cliath is Dóib"
+        "name": "Díon Caolaigh agus Dóibe"
     },
     "rct2ww.scenery_small.sb1hspb1": {
         "reference-name": "Suspension Bridge Base Piece",
@@ -10685,119 +10685,119 @@
     },
     "rct2ww.scenery_small.wcuzco01": {
         "reference-name": "Monumental Wall Piece",
-        "name": "Píosa Balla Séadchomharthach"
+        "name": "Píosa Balla Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco02": {
         "reference-name": "Monumental Broken Wall Piece",
-        "name": "Píosa Balla Briste Séadchomharthach"
+        "name": "Píosa Balla Briste Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco03": {
         "reference-name": "Monumental Wall Piece",
-        "name": "Píosa Balla Séadchomharthach"
+        "name": "Píosa Balla Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco04": {
         "reference-name": "Monumental Broken Wall Piece",
-        "name": "Píosa Balla Briste Séadchomharthach"
+        "name": "Píosa Balla Briste Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco05": {
         "reference-name": "Monumental Wall Piece",
-        "name": "Píosa Balla Séadchomharthach"
+        "name": "Píosa Balla Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco06": {
         "reference-name": "Monumental Broken Wall Piece",
-        "name": "Píosa Balla Briste Séadchomharthach"
+        "name": "Píosa Balla Briste Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco07": {
         "reference-name": "Monumental Wall Piece",
-        "name": "Píosa Balla Séadchomharthach"
+        "name": "Píosa Balla Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco08": {
         "reference-name": "Monumental Broken Wall Piece",
-        "name": "Píosa Balla Briste Séadchomharthach"
+        "name": "Píosa Balla Briste Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco09": {
         "reference-name": "Monumental Wall Piece",
-        "name": "Píosa Balla Séadchomharthach"
+        "name": "Píosa Balla Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco10": {
         "reference-name": "Monumental Broken Wall Piece",
-        "name": "Píosa Balla Briste Séadchomharthach"
+        "name": "Píosa Balla Briste Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco11": {
         "reference-name": "Monumental Wall Piece",
-        "name": "Píosa Balla Séadchomharthach"
+        "name": "Píosa Balla Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco12": {
         "reference-name": "Monumental Broken Wall Piece",
-        "name": "Píosa Balla Briste Séadchomharthach"
+        "name": "Píosa Balla Briste Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco13": {
         "reference-name": "Monumental Broken Wall Piece",
-        "name": "Píosa Balla Briste Séadchomharthach"
+        "name": "Píosa Balla Briste Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco14": {
         "reference-name": "Monumental Broken Wall Piece",
-        "name": "Píosa Balla Briste Séadchomharthach"
+        "name": "Píosa Balla Briste Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco15": {
         "reference-name": "Monumental Broken Wall Piece",
-        "name": "Píosa Balla Briste Séadchomharthach"
+        "name": "Píosa Balla Briste Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco16": {
         "reference-name": "Monumental Broken Wall Piece",
-        "name": "Píosa Balla Briste Séadchomharthach"
+        "name": "Píosa Balla Briste Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco17": {
         "reference-name": "Monumental Wall Piece",
-        "name": "Píosa Balla Séadchomharthach"
+        "name": "Píosa Balla Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco18": {
         "reference-name": "Monumental Broken Wall Piece",
-        "name": "Píosa Balla Briste Séadchomharthach"
+        "name": "Píosa Balla Briste Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco19": {
         "reference-name": "Monumental Stairway Piece",
-        "name": "Píosa Staighre Séadchomharthach"
+        "name": "Píosa Staighre Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco20": {
         "reference-name": "Monumental Stairway Piece",
-        "name": "Píosa Staighre Séadchomharthach"
+        "name": "Píosa Staighre Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco21": {
         "reference-name": "Monumental Wall Corner Piece",
-        "name": "Píosa Cúinne Balla Séadchomharthach"
+        "name": "Píosa Cúinne Balla Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco22": {
         "reference-name": "Monumental Wall Corner Piece",
-        "name": "Píosa Cúinne Balla Séadchomharthach"
+        "name": "Píosa Cúinne Balla Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco23": {
         "reference-name": "Monumental Wall Corner Piece",
-        "name": "Píosa Cúinne Balla Séadchomharthach"
+        "name": "Píosa Cúinne Balla Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco24": {
         "reference-name": "Monumental Wall Corner Piece",
-        "name": "Píosa Cúinne Balla Séadchomharthach"
+        "name": "Píosa Cúinne Balla Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco25": {
         "reference-name": "Monumental Stairway Piece",
-        "name": "Píosa Staighre Séadchomharthach"
+        "name": "Píosa Staighre Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco26": {
         "reference-name": "Monumental Stairway Piece",
-        "name": "Píosa Staighre Séadchomharthach"
+        "name": "Píosa Staighre Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco27": {
         "reference-name": "Monumental Wall Piece",
-        "name": "Píosa Balla Séadchomharthach"
+        "name": "Píosa Balla Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzco28": {
         "reference-name": "Monumental Broken Wall Piece",
-        "name": "Píosa Balla Briste Séadchomharthach"
+        "name": "Píosa Balla Briste Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wcuzfoun": {
         "reference-name": "Monumental Fountain",
-        "name": "Scairdeán Séadchomharthach"
+        "name": "Scairdeán Leachta Cuimhneacháin"
     },
     "rct2ww.scenery_small.wdrab09": {
         "reference-name": "Drab Step-up Piece",
@@ -11721,31 +11721,31 @@
     },
     "rct2ww.scenery_wall.wwdaub01": {
         "reference-name": "Wattle & Daub Wall",
-        "name": "Balla Cliath is Dóib"
+        "name": "Balla Caolaigh agus Dóibe"
     },
     "rct2ww.scenery_wall.wwdaub02": {
         "reference-name": "Wattle & Daub Wall",
-        "name": "Balla Cliath is Dóib"
+        "name": "Balla Caolaigh agus Dóibe"
     },
     "rct2ww.scenery_wall.wwdaub03": {
         "reference-name": "Wattle & Daub Wall",
-        "name": "Balla Cliath is Dóib"
+        "name": "Balla Caolaigh agus Dóibe"
     },
     "rct2ww.scenery_wall.wwdaub04": {
         "reference-name": "Wattle & Daub Wall",
-        "name": "Balla Cliath is Dóib"
+        "name": "Balla Caolaigh agus Dóibe"
     },
     "rct2ww.scenery_wall.wwdaub05": {
         "reference-name": "Wattle & Daub Wall",
-        "name": "Balla Cliath is Dóib"
+        "name": "Balla Caolaigh agus Dóibe"
     },
     "rct2ww.scenery_wall.wwdaub06": {
         "reference-name": "Wattle & Daub Wall",
-        "name": "Balla Cliath is Dóib"
+        "name": "Balla Caolaigh agus Dóibe"
     },
     "rct2ww.scenery_wall.wwdaub07": {
         "reference-name": "Wattle & Daub Wall",
-        "name": "Balla Cliath is Dóib"
+        "name": "Balla Caolaigh agus Dóibe"
     },
     "rct2ww.scenery_wall.wwind03": {
         "reference-name": "Wind Sculpted Wall Piece",
