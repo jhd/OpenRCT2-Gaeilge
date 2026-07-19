@@ -591,110 +591,110 @@ STR_1219    :{BLACK}-
 STR_1220    :Exit only
 STR_1221    :No entrance
 STR_1222    :No exit
-STR_1223    :Transport rides
-STR_1224    :Gentle rides
+STR_1223    :Marcaíochtaí iompair
+STR_1224    :Marcaíochtaí séimhe
 STR_1225    :Rollchóstóirí
-STR_1226    :Thrill rides
-STR_1227    :Water rides
-STR_1228    :Shops & stalls
-STR_1229    :train
-STR_1230    :trains
-STR_1231    :Train
-STR_1232    :Trains
-STR_1233    :{COMMA16} train
-STR_1234    :{COMMA16} trains
-STR_1235    :Train {COMMA16}
-STR_1236    :boat
-STR_1237    :boats
-STR_1238    :Boat
-STR_1239    :Boats
-STR_1240    :{COMMA16} boat
-STR_1241    :{COMMA16} boats
-STR_1242    :Boat {COMMA16}
-STR_1243    :track
-STR_1244    :tracks
-STR_1245    :Track
-STR_1246    :Tracks
-STR_1247    :{COMMA16} track
-STR_1248    :{COMMA16} tracks
-STR_1249    :Track {COMMA16}
-STR_1250    :docking platform
-STR_1251    :docking platforms
-STR_1252    :Docking platform
-STR_1253    :Docking platforms
-STR_1254    :{COMMA16} docking platform
-STR_1255    :{COMMA16} docking platforms
-STR_1256    :Docking platform {COMMA16}
-STR_1257    :station
-STR_1258    :stations
-STR_1259    :Station
-STR_1260    :Stations
-STR_1261    :{COMMA16} station
-STR_1262    :{COMMA16} stations
-STR_1263    :Station {COMMA16}
-STR_1264    :car
-STR_1265    :cars
-STR_1266    :Car
-STR_1267    :Cars
-STR_1268    :{COMMA16} car
-STR_1269    :{COMMA16} cars
-STR_1270    :Car {COMMA16}
-STR_1271    :building
-STR_1272    :buildings
-STR_1273    :Building
-STR_1274    :Buildings
-STR_1275    :{COMMA16} building
-STR_1276    :{COMMA16} buildings
-STR_1277    :Building {COMMA16}
-STR_1278    :structure
-STR_1279    :structures
-STR_1280    :Structure
-STR_1281    :Structures
-STR_1282    :{COMMA16} structure
-STR_1283    :{COMMA16} structures
-STR_1284    :Structure {COMMA16}
-STR_1285    :ship
-STR_1286    :ships
-STR_1287    :Ship
-STR_1288    :Ships
-STR_1289    :{COMMA16} ship
-STR_1290    :{COMMA16} ships
-STR_1291    :Ship {COMMA16}
-STR_1292    :cabin
-STR_1293    :cabins
-STR_1294    :Cabin
-STR_1295    :Cabins
-STR_1296    :{COMMA16} cabin
-STR_1297    :{COMMA16} cabins
-STR_1298    :Cabin {COMMA16}
-STR_1299    :wheel
-STR_1300    :wheels
-STR_1301    :Wheel
-STR_1302    :Wheels
-STR_1303    :{COMMA16} wheel
-STR_1304    :{COMMA16} wheels
-STR_1305    :Wheel {COMMA16}
-STR_1306    :ring
-STR_1307    :rings
-STR_1308    :Ring
-STR_1309    :Rings
-STR_1310    :{COMMA16} ring
-STR_1311    :{COMMA16} rings
-STR_1312    :Ring {COMMA16}
-STR_1313    :player
-STR_1314    :players
-STR_1315    :Player
-STR_1316    :Players
-STR_1317    :{COMMA16} player
-STR_1318    :{COMMA16} players
-STR_1319    :Player {COMMA16}
-STR_1320    :course
-STR_1321    :courses
-STR_1322    :Course
-STR_1323    :Courses
-STR_1324    :{COMMA16} course
-STR_1325    :{COMMA16} courses
-STR_1326    :Course {COMMA16}
+STR_1226    :Marcaíochtaí corraitheacha
+STR_1227    :Marcaíochtaí uisce
+STR_1228    :Siopaí agus stainníní
+STR_1229    :traein
+STR_1230    :traenacha
+STR_1231    :Traein
+STR_1232    :Traenacha
+STR_1233    :{COMMA16} traein
+STR_1234    :{COMMA16} traenacha
+STR_1235    :Traein {COMMA16}
+STR_1236    :bád
+STR_1237    :báid
+STR_1238    :Bád
+STR_1239    :Báid
+STR_1240    :{COMMA16} bád
+STR_1241    :{COMMA16} báid
+STR_1242    :Bád {COMMA16}
+STR_1243    :ráille
+STR_1244    :ráillí
+STR_1245    :Ráille
+STR_1246    :Ráillí
+STR_1247    :{COMMA16} ráille
+STR_1248    :{COMMA16} ráillí
+STR_1249    :Ráille {COMMA16}
+STR_1250    :ardán duga
+STR_1251    :ardáin duga
+STR_1252    :Ardán duga
+STR_1253    :Ardáin duga
+STR_1254    :{COMMA16} ardán duga
+STR_1255    :{COMMA16} ardáin duga
+STR_1256    :Ardán duga {COMMA16}
+STR_1257    :stáisiún
+STR_1258    :stáisiúin
+STR_1259    :Stáisiún
+STR_1260    :Stáisiúin
+STR_1261    :{COMMA16} stáisiún
+STR_1262    :{COMMA16} stáisiúin
+STR_1263    :Stáisiún {COMMA16}
+STR_1264    :gluaisteán
+STR_1265    :gluaisteáin
+STR_1266    :Gluaisteán
+STR_1267    :Gluaisteáin
+STR_1268    :{COMMA16} gluaisteán
+STR_1269    :{COMMA16} gluaisteáin
+STR_1270    :Gluaisteán {COMMA16}
+STR_1271    :foirgneamh
+STR_1272    :foirgnimh
+STR_1273    :Foirgneamh
+STR_1274    :Foirgnimh
+STR_1275    :{COMMA16} foirgneamh
+STR_1276    :{COMMA16} foirgnimh
+STR_1277    :Foirgneamh {COMMA16}
+STR_1278    :struchtúr
+STR_1279    :struchtúir
+STR_1280    :Struchtúr
+STR_1281    :Struchtúir
+STR_1282    :{COMMA16} struchtúr
+STR_1283    :{COMMA16} struchtúir
+STR_1284    :Struchtúr {COMMA16}
+STR_1285    :long
+STR_1286    :longa
+STR_1287    :Long
+STR_1288    :Longa
+STR_1289    :{COMMA16} long
+STR_1290    :{COMMA16} longa
+STR_1291    :Long {COMMA16}
+STR_1292    :cábán
+STR_1293    :cábáin
+STR_1294    :Cábán
+STR_1295    :Cábáin
+STR_1296    :{COMMA16} cábán
+STR_1297    :{COMMA16} cábáin
+STR_1298    :Cábán {COMMA16}
+STR_1299    :roth
+STR_1300    :rothaí
+STR_1301    :Roth
+STR_1302    :Rothaí
+STR_1303    :{COMMA16} roth
+STR_1304    :{COMMA16} rothaí
+STR_1305    :Roth {COMMA16}
+STR_1306    :fáinne
+STR_1307    :fáinní
+STR_1308    :Fáinne
+STR_1309    :Fáinní
+STR_1310    :{COMMA16} fáinne
+STR_1311    :{COMMA16} fáinní
+STR_1312    :Fáinne {COMMA16}
+STR_1313    :imreoir
+STR_1314    :imreoirí
+STR_1315    :Imreoir
+STR_1316    :Imreoirí
+STR_1317    :{COMMA16} imreoir
+STR_1318    :{COMMA16} imreoirí
+STR_1319    :Imreoir {COMMA16}
+STR_1320    :cúrsa
+STR_1321    :cúrsaí
+STR_1322    :Cúrsa
+STR_1323    :Cúrsaí
+STR_1324    :{COMMA16} cúrsa
+STR_1325    :{COMMA16} cúrsaí
+STR_1326    :Cúrsa {COMMA16}
 STR_1327    :Rotate objects by 90°
 STR_1328    :Level land required
 STR_1329    :{WINDOW_COLOUR_2}Launch speed:
@@ -1524,10 +1524,10 @@ STR_2206    :Empty Drink Carton
 STR_2207    :Empty Juice Cup
 STR_2208    :Roast Sausage
 STR_2209    :Empty Bowl
-STR_2210    :Show list of handymen in park
-STR_2211    :Show list of mechanics in park
-STR_2212    :Show list of security guards in park
-STR_2213    :Show list of entertainers in park
+STR_2210    :Taispeáin liosta na n-airíoch sa pháirc
+STR_2211    :Taispeáin liosta na meicneoirí sa pháirc
+STR_2212    :Taispeáin liosta na ngardaí slándála sa pháirc
+STR_2213    :Taispeáin liosta na bhfuirseoirí sa pháirc
 STR_2214    :Construction not possible while game is paused!
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
 STR_2216    :{WINDOW_COLOUR_1}{COMMA16}°C
@@ -1965,41 +1965,41 @@ STR_2810    :{RED}Guests are thirsty and can’t find anywhere to buy drinks
 STR_2811    :{RED}Guests are complaining because they can’t find the toilets in your park
 STR_2812    :{RED}Guests are getting lost or stuck{NEWLINE}Check whether the layout of your footpaths needs improving to help the guests find their way around
 STR_2813    :{RED}Your park entrance fee is too high!{NEWLINE}Reduce your entrance fee or improve the value of the park to attract more guests
-STR_2814    :{WINDOW_COLOUR_2}Most untidy park award
-STR_2815    :{WINDOW_COLOUR_2}Tidiest park award
-STR_2816    :{WINDOW_COLOUR_2}Award for the park with the best rollchóstóirí
-STR_2817    :{WINDOW_COLOUR_2}Best value park award
-STR_2818    :{WINDOW_COLOUR_2}Most beautiful park award
-STR_2819    :{WINDOW_COLOUR_2}Worst value park award
-STR_2820    :{WINDOW_COLOUR_2}Safest park award
-STR_2821    :{WINDOW_COLOUR_2}Best staff award
-STR_2822    :{WINDOW_COLOUR_2}Best park food award
-STR_2823    :{WINDOW_COLOUR_2}Worst park food award
-STR_2824    :{WINDOW_COLOUR_2}Best park toilets award
-STR_2825    :{WINDOW_COLOUR_2}Most disappointing park award
-STR_2826    :{WINDOW_COLOUR_2}Best water rides award
-STR_2827    :{WINDOW_COLOUR_2}Best custom-designed rides award
-STR_2828    :{WINDOW_COLOUR_2}Most dazzling ride colour schemes award
-STR_2829    :{WINDOW_COLOUR_2}Most confusing park layout award
-STR_2830    :{WINDOW_COLOUR_2}Best gentle ride award
-STR_2831    :{TOPAZ}Your park has received an award for being ‘The most untidy park in the country’!
-STR_2832    :{TOPAZ}Your park has received an award for being ‘The tidiest park in the country’!
-STR_2833    :{TOPAZ}Your park has received an award for being ‘The park with the best roller coasters’!
-STR_2834    :{TOPAZ}Your park has received an award for being ‘The best value park in the country’!
-STR_2835    :{TOPAZ}Your park has received an award for being ‘The most beautiful park in the country’!
-STR_2836    :{TOPAZ}Your park has received an award for being ‘The worst value park in the country’!
-STR_2837    :{TOPAZ}Your park has received an award for being ‘The safest park in the country’!
-STR_2838    :{TOPAZ}Your park has received an award for being ‘The park with the best staff’!
-STR_2839    :{TOPAZ}Your park has received an award for being ‘The park with the best food in the country’!
-STR_2840    :{TOPAZ}Your park has received an award for being ‘The park with the worst food in the country’!
-STR_2841    :{TOPAZ}Your park has received an award for being ‘The park with the best toilet facilities in the country’!
-STR_2842    :{TOPAZ}Your park has received an award for being ‘The most disappointing park in the country’!
-STR_2843    :{TOPAZ}Your park has received an award for being ‘The park with the best water rides in the country’!
-STR_2844    :{TOPAZ}Your park has received an award for being ‘The park with the best custom-designed rides’!
-STR_2845    :{TOPAZ}Your park has received an award for being ‘The park with the most dazzling choice of colour schemes’!
-STR_2846    :{TOPAZ}Your park has received an award for being ‘The park with the most confusing layout’!
-STR_2847    :{TOPAZ}Your park has received an award for being ‘The park with the best gentle rides’!
-STR_2848    :{WINDOW_COLOUR_2}No recent awards
+STR_2814    :{WINDOW_COLOUR_2}Gradam na páirce is míshlachtmhaire
+STR_2815    :{WINDOW_COLOUR_2}Gradam na páirce is slachtmhaire
+STR_2816    :{WINDOW_COLOUR_2}Gradam na páirce leis na rollchóstóirí is fearr
+STR_2817    :{WINDOW_COLOUR_2}Gradam na páirce is fearr luach
+STR_2818    :{WINDOW_COLOUR_2}Gradam na páirce is áille
+STR_2819    :{WINDOW_COLOUR_2}Gradam na páirce is measa luach
+STR_2820    :{WINDOW_COLOUR_2}Gradam na páirce is sábháilte
+STR_2821    :{WINDOW_COLOUR_2}Gradam na foirne is fearr
+STR_2822    :{WINDOW_COLOUR_2}Gradam an bhia páirce is fearr
+STR_2823    :{WINDOW_COLOUR_2}Gradam an bhia páirce is measa
+STR_2824    :{WINDOW_COLOUR_2}Gradam na leithreas is fearr
+STR_2825    :{WINDOW_COLOUR_2}Gradam na páirce is mó díomá
+STR_2826    :{WINDOW_COLOUR_2}Gradam na marcaíochtaí uisce is fearr
+STR_2827    :{WINDOW_COLOUR_2}Gradam na marcaíochtaí saincheaptha is fearr
+STR_2828    :{WINDOW_COLOUR_2}Gradam na scéimeanna dathanna marcaíochta is dallraithí
+STR_2829    :{WINDOW_COLOUR_2}Gradam an leagain amach páirce is mearbhlaí
+STR_2830    :{WINDOW_COLOUR_2}Gradam na marcaíochta séimhe is fearr
+STR_2831    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc is míshlachtmhaire sa tír’!
+STR_2832    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc is slachtmhaire sa tír’!
+STR_2833    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis na rollchóstóirí is fearr’!
+STR_2834    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc is fearr luach sa tír’!
+STR_2835    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc is áille sa tír’!
+STR_2836    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc is measa luach sa tír’!
+STR_2837    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc is sábháilte sa tír’!
+STR_2838    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis an bhfoireann is fearr sa tír’!
+STR_2839    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis an mbia is fearr sa tír’!
+STR_2840    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis an mbia is measa sa tír’!
+STR_2841    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis na leithris is fearr sa tír’!
+STR_2842    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc is mó díomá sa tír’!
+STR_2843    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis na marcaíochtaí uisce is fearr sa tír’!
+STR_2844    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis na marcaíochtaí saincheaptha is fearr sa tír’!
+STR_2845    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis an rogha is dallraithí ar scéimeanna dathanna sa tír’!
+STR_2846    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis an leagan amach is mearbhlaí sa tír’!
+STR_2847    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis na marcaíochtaí séimhe is fearr sa tír’!
+STR_2848    :{WINDOW_COLOUR_2}Gan aon ghradam le déanaí
 STR_2849    :New scenario installed successfully
 STR_2850    :New track design installed successfully
 STR_2851    :Scenario already installed
