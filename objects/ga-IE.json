@@ -429,7 +429,7 @@
         "reference-park_name": "Bumbly Beach",
         "park_name": "Bumbly Beach",
         "reference-details": "Develop Bumbly Beach’s small amusement park into a thriving theme park",
-        "details": "Develop Bumbly Beach’s small amusement park into a thriving theme park"
+        "details": "Forbair páirc bheag siamsaíochta Bumbly Beach ina páirc théama rathúil"
     },
     "rct1.scenario_meta.crumbly_woods": {
         "reference-name": "Crumbly Woods",
@@ -437,7 +437,7 @@
         "reference-park_name": "Crumbly Woods",
         "park_name": "Crumbly Woods",
         "reference-details": "A large park with well-designed but rather old rides. Replace the old rides or add new rides to make the park more popular.",
-        "details": "A large park with well-designed but rather old rides. Replace the old rides or add new rides to make the park more popular."
+        "details": "Páirc mhór le marcaíochtaí dea-dheartha ach measartha sean. Athchuir na seanmharcaíochtaí nó cuir marcaíochtaí nua léi chun an pháirc a dhéanamh níos mó le rá."
     },
     "rct1.scenario_meta.diamond_heights": {
         "reference-name": "Diamond Heights",
@@ -445,7 +445,7 @@
         "reference-park_name": "Diamond Heights",
         "park_name": "Diamond Heights",
         "reference-details": "Diamond Heights is already a successful theme park with great rides - develop it to double its value",
-        "details": "Diamond Heights is already a successful theme park with great rides - develop it to double its value"
+        "details": "Tá Diamond Heights ina páirc théama rathúil cheana féin le sármharcaíochtaí - forbair í chun a luach a dhúbailt"
     },
     "rct1.scenario_meta.dynamite_dunes": {
         "reference-name": "Dynamite Dunes",
@@ -453,7 +453,7 @@
         "reference-park_name": "Dynamite Dunes",
         "park_name": "Dynamite Dunes",
         "reference-details": "Built in the middle of the desert, this theme park contains just one roller coaster but has space for expansion",
-        "details": "Built in the middle of the desert, this theme park contains just one roller coaster but has space for expansion"
+        "details": "Tógtha i lár an fhásaigh, níl sa pháirc théama seo ach aon rollchóstóir amháin ach tá spás inti le leathnú"
     },
     "rct1.scenario_meta.evergreen_gardens": {
         "reference-name": "Evergreen Gardens",
@@ -461,7 +461,7 @@
         "reference-park_name": "Evergreen Gardens",
         "park_name": "Evergreen Gardens",
         "reference-details": "Convert the beautiful Evergreen Gardens into a thriving theme park",
-        "details": "Convert the beautiful Evergreen Gardens into a thriving theme park"
+        "details": "Athraigh na Evergreen Gardens áille ina bpáirc théama rathúil"
     },
     "rct1.scenario_meta.forest_frontiers": {
         "reference-name": "Forest Frontiers",
@@ -469,7 +469,7 @@
         "reference-park_name": "Forest Frontiers",
         "park_name": "Forest Frontiers",
         "reference-details": "Deep in the forest, build a thriving theme park in a large cleared area",
-        "details": "Deep in the forest, build a thriving theme park in a large cleared area"
+        "details": "Domhain san fhoraois, tóg páirc théama rathúil i limistéar mór glanta"
     },
     "rct1.scenario_meta.ivory_towers": {
         "reference-name": "Ivory Towers",
@@ -477,7 +477,7 @@
         "reference-park_name": "Ivory Towers",
         "park_name": "Ivory Towers",
         "reference-details": "A well-established park, which has a few problems",
-        "details": "A well-established park, which has a few problems"
+        "details": "Páirc sheanbhunaithe, a bhfuil roinnt fadhbanna aici"
     },
     "rct1.scenario_meta.karts_coasters": {
         "reference-name": "Karts & Coasters",
@@ -485,7 +485,7 @@
         "reference-park_name": "Karts & Coasters",
         "park_name": "Karts & Coasters",
         "reference-details": "A large park hidden in the forest, with only go-kart tracks and wooden roller coasters",
-        "details": "A large park hidden in the forest, with only go-kart tracks and wooden roller coasters"
+        "details": "Páirc mhór i bhfolach san fhoraois, gan inti ach rásraonta cairtíní agus rollchóstóirí adhmaid"
     },
     "rct1.scenario_meta.katies_dreamland": {
         "reference-name": "Katie’s Dreamland",
@@ -493,7 +493,7 @@
         "reference-park_name": "Katie’s Dreamland",
         "park_name": "Katie’s Dreamland",
         "reference-details": "A small theme park with a few rides and room for expansion. Your aim is to double the park value.",
-        "details": "A small theme park with a few rides and room for expansion. Your aim is to double the park value."
+        "details": "Páirc bheag théama le roinnt marcaíochtaí agus slí le leathnú. Is é d’aidhm luach na páirce a dhúbailt."
     },
     "rct1.scenario_meta.leafy_lake": {
         "reference-name": "Leafy Lake",
@@ -501,7 +501,7 @@
         "reference-park_name": "Leafy Lake",
         "park_name": "Leafy Lake",
         "reference-details": "Starting from scratch, build a theme park around a large lake",
-        "details": "Starting from scratch, build a theme park around a large lake"
+        "details": "Ag tosú ón mbonn aníos, tóg páirc théama timpeall locha mhóir"
     },
     "rct1.scenario_meta.lightning_peaks": {
         "reference-name": "Lightning Peaks",
@@ -509,7 +509,7 @@
         "reference-park_name": "Lightning Peaks",
         "park_name": "Lightning Peaks",
         "reference-details": "The beautiful mountains of Lightning Peaks are popular with walkers and sightseers. Use the available land to attract a new thrill-seeking clientele.",
-        "details": "The beautiful mountains of Lightning Peaks are popular with walkers and sightseers. Use the available land to attract a new thrill-seeking clientele."
+        "details": "Tá an-tóir ag siúlóirí agus lucht fámaireachta ar shléibhte áille Lightning Peaks. Bain úsáid as an talamh atá ar fáil chun cliaint nua atá ar thóir scleondair a mhealladh."
     },
     "rct1.scenario_meta.mega_park": {
         "reference-name": "Mega Park",
@@ -517,7 +517,7 @@
         "reference-park_name": "Mega Park",
         "park_name": "Mega Park",
         "reference-details": "Just for fun!",
-        "details": "Just for fun!"
+        "details": "Ar mhaithe le spraoi amháin!"
     },
     "rct1.scenario_meta.mels_world": {
         "reference-name": "Mel’s World",
@@ -525,7 +525,7 @@
         "reference-park_name": "Mel’s World",
         "park_name": "Mel’s World",
         "reference-details": "This theme park has some well-designed modern rides, but plenty of space for expansion",
-        "details": "This theme park has some well-designed modern rides, but plenty of space for expansion"
+        "details": "Tá marcaíochtaí nua-aimseartha dea-dheartha sa pháirc théama seo, ach tá neart spáis inti le leathnú"
     },
     "rct1.scenario_meta.millennium_mines": {
         "reference-name": "Millennium Mines",
@@ -533,7 +533,7 @@
         "reference-park_name": "Millennium Mines",
         "park_name": "Millennium Mines",
         "reference-details": "Convert a large abandoned mine from a tourist attraction into a theme park",
-        "details": "Convert a large abandoned mine from a tourist attraction into a theme park"
+        "details": "Athraigh mianach mór tréigthe ó áit turasóireachta ina pháirc théama"
     },
     "rct1.scenario_meta.mystic_mountain": {
         "reference-name": "Mystic Mountain",
@@ -541,7 +541,7 @@
         "reference-park_name": "Mystic Mountain",
         "park_name": "Mystic Mountain",
         "reference-details": "In the hilly forests of Mystic Mountain, build a theme park from scratch",
-        "details": "In the hilly forests of Mystic Mountain, build a theme park from scratch"
+        "details": "I bhforaoisí cnocacha Mystic Mountain, tóg páirc théama ón mbonn aníos"
     },
     "rct1.scenario_meta.pacific_pyramids": {
         "reference-name": "Pacific Pyramids",
@@ -549,7 +549,7 @@
         "reference-park_name": "Pacific Pyramids",
         "park_name": "Pacific Pyramids",
         "reference-details": "Convert the Egyptian Ruins tourist attraction into a thriving theme park",
-        "details": "Convert the Egyptian Ruins tourist attraction into a thriving theme park"
+        "details": "Athraigh áit turasóireachta Fothracha na hÉigipte ina páirc théama rathúil"
     },
     "rct1.scenario_meta.paradise_pier": {
         "reference-name": "Paradise Pier",
@@ -557,7 +557,7 @@
         "reference-park_name": "Paradise Pier",
         "park_name": "Paradise Pier",
         "reference-details": "Convert this sleepy town’s pier into a thriving attraction",
-        "details": "Convert this sleepy town’s pier into a thriving attraction"
+        "details": "Athraigh cé an bhaile chodlataigh seo ina háit tarraingteach rathúil"
     },
     "rct1.scenario_meta.pokey_park": {
         "reference-name": "Pokey Park",
@@ -565,7 +565,7 @@
         "reference-park_name": "Pokey Park",
         "park_name": "Pokey Park",
         "reference-details": "A small, cramped amusement park which requires major expansion",
-        "details": "A small, cramped amusement park which requires major expansion"
+        "details": "Páirc bheag chúng siamsaíochta a bhfuil mórleathnú de dhíth uirthi"
     },
     "rct1.scenario_meta.rainbow_valley": {
         "reference-name": "Rainbow Valley",
@@ -573,7 +573,7 @@
         "reference-park_name": "Rainbow Valley",
         "park_name": "Rainbow Valley",
         "reference-details": "Rainbow Valley’s local authority won’t allow any landscape changes or large tree removal, but you must develop the area into a large theme park",
-        "details": "Rainbow Valley’s local authority won’t allow any landscape changes or large tree removal, but you must develop the area into a large theme park"
+        "details": "Ní cheadóidh údarás áitiúil Rainbow Valley aon athruithe tírdhreacha ná baint crann mór, ach caithfidh tú an ceantar a fhorbairt ina pháirc théama mhór"
     },
     "rct1.scenario_meta.thunder_rock": {
         "reference-name": "Thunder Rock",
@@ -581,7 +581,7 @@
         "reference-park_name": "Thunder Rock",
         "park_name": "Thunder Rock",
         "reference-details": "Thunder Rock stands in the middle of a desert and attracts many tourists. Use the available space to build rides to attract more people.",
-        "details": "Thunder Rock stands in the middle of a desert and attracts many tourists. Use the available space to build rides to attract more people."
+        "details": "Seasann Thunder Rock i lár fásaigh agus meallann sé go leor turasóirí. Bain úsáid as an spás atá ar fáil chun marcaíochtaí a thógáil agus níos mó daoine a mhealladh."
     },
     "rct1.scenario_meta.trinity_islands": {
         "reference-name": "Trinity Islands",
@@ -589,7 +589,7 @@
         "reference-park_name": "Trinity Islands",
         "park_name": "Trinity Islands",
         "reference-details": "Several islands form the basis for this new park",
-        "details": "Several islands form the basis for this new park"
+        "details": "Is é roinnt oileán bunús na páirce nuaí seo"
     },
     "rct1.scenario_meta.white_water_park": {
         "reference-name": "White Water Park",
@@ -597,7 +597,7 @@
         "reference-park_name": "White Water Park",
         "park_name": "White Water Park",
         "reference-details": "A park with some excellent water-based rides requires expansion",
-        "details": "A park with some excellent water-based rides requires expansion"
+        "details": "Tá páirc le sármharcaíochtaí uisce le leathnú"
     },
     "rct1.scenery_wall.playing_card_wall_1": {
         "reference-name": "Playing Card Wall",
@@ -837,7 +837,7 @@
         "reference-park_name": "Adrenaline Heights",
         "park_name": "Adrenaline Heights",
         "reference-details": "Build a park to appeal to the high-intensity thrill-seeking local people",
-        "details": "Build a park to appeal to the high-intensity thrill-seeking local people"
+        "details": "Tóg páirc a mheallfaidh muintir na háite atá ar thóir scleondair ard-déine"
     },
     "rct1aa.scenario_meta.barony_bridge": {
         "reference-name": "Barony Bridge",
@@ -845,7 +845,7 @@
         "reference-park_name": "Barony Bridge",
         "park_name": "Barony Bridge",
         "reference-details": "An old redundant bridge is yours to develop into an amusement park",
-        "details": "An old redundant bridge is yours to develop into an amusement park"
+        "details": "Is leatsa seandroichead iomarcach a fhorbairt ina pháirc siamsaíochta"
     },
     "rct1aa.scenario_meta.butterfly_dam": {
         "reference-name": "Butterfly Dam",
@@ -853,7 +853,7 @@
         "reference-park_name": "Butterfly Dam",
         "park_name": "Butterfly Dam",
         "reference-details": "The area around a dam is available for you to develop into an amusement park",
-        "details": "The area around a dam is available for you to develop into an amusement park"
+        "details": "Tá an limistéar timpeall damba ar fáil duit le forbairt ina pháirc siamsaíochta"
     },
     "rct1aa.scenario_meta.canary_mines": {
         "reference-name": "Canary Mines",
@@ -861,7 +861,7 @@
         "reference-park_name": "Canary Mines",
         "park_name": "Canary Mines",
         "reference-details": "This abandoned mine already has the makings of a tourist attraction with its miniature railway and a pair of vertical drop roller coasters",
-        "details": "This abandoned mine already has the makings of a tourist attraction with its miniature railway and a pair of vertical drop roller coasters"
+        "details": "Tá tús áite turasóireachta ag an mianach tréigthe seo cheana féin lena mhioniarnród agus a phéire rollchóstóirí titime ingearaí"
     },
     "rct1aa.scenario_meta.coaster_canyon": {
         "reference-name": "Coaster Canyon",
@@ -869,7 +869,7 @@
         "reference-park_name": "Coaster Canyon",
         "park_name": "Coaster Canyon",
         "reference-details": "A vast canyon is yours to turn into a theme park",
-        "details": "A vast canyon is yours to turn into a theme park"
+        "details": "Is leatsa cainneon ollmhór a iompú ina pháirc théama"
     },
     "rct1aa.scenario_meta.coaster_crazy": {
         "reference-name": "Coaster Crazy",
@@ -877,7 +877,7 @@
         "reference-park_name": "Coaster Crazy",
         "park_name": "Coaster Crazy",
         "reference-details": "You have limited funds but unlimited time to turn this mountainside area into a vast roller coaster park",
-        "details": "You have limited funds but unlimited time to turn this mountainside area into a vast roller coaster park"
+        "details": "Tá airgead teoranta agat ach am gan teorainn chun an limistéar seo ar thaobh sléibhe a iompú ina pháirc ollmhór rollchóstóirí"
     },
     "rct1aa.scenario_meta.fiasco_forest": {
         "reference-name": "Fiasco Forest",
@@ -885,7 +885,7 @@
         "reference-park_name": "Fiasco Forest",
         "park_name": "Fiasco Forest",
         "reference-details": "Full of badly designed and dangerous rides, you have a very limited budget and time to fix the problems and turn the park around",
-        "details": "Full of badly designed and dangerous rides, you have a very limited budget and time to fix the problems and turn the park around"
+        "details": "Lán de mharcaíochtaí atá droch-dheartha agus contúirteach, tá buiséad agus am an-teoranta agat chun na fadhbanna a réiteach agus an pháirc a chur ina ceart"
     },
     "rct1aa.scenario_meta.fruit_farm": {
         "reference-name": "Fruit Farm",
@@ -893,7 +893,7 @@
         "reference-park_name": "Fruit Farm",
         "park_name": "Fruit Farm",
         "reference-details": "A thriving fruit farm has built a railroad to boost its income, your job is to develop it into a full-blown amusement park",
-        "details": "A thriving fruit farm has built a railroad to boost its income, your job is to develop it into a full-blown amusement park"
+        "details": "Thóg feirm torthaí rathúil iarnród chun a hioncam a mhéadú; is é do jabsa í a fhorbairt ina páirc siamsaíochta iomlán"
     },
     "rct1aa.scenario_meta.fun_fortress": {
         "reference-name": "Fun Fortress",
@@ -901,7 +901,7 @@
         "reference-park_name": "Fun Fortress",
         "park_name": "Fun Fortress",
         "reference-details": "This castle is all yours to turn into a theme park",
-        "details": "This castle is all yours to turn into a theme park"
+        "details": "Is leatsa an caisleán seo ar fad le hiompú ina pháirc théama"
     },
     "rct1aa.scenario_meta.funtopia": {
         "reference-name": "Funtopia",
@@ -909,7 +909,7 @@
         "reference-park_name": "Funtopia",
         "park_name": "Funtopia",
         "reference-details": "Covering land both sides of a highway, this park has several rides already operating",
-        "details": "Covering land both sides of a highway, this park has several rides already operating"
+        "details": "Ag clúdach talamh ar dhá thaobh mórbhealaigh, tá roinnt marcaíochtaí ag feidhmiú sa pháirc seo cheana féin"
     },
     "rct1aa.scenario_meta.future_world": {
         "reference-name": "Future World",
@@ -917,7 +917,7 @@
         "reference-park_name": "Future World",
         "park_name": "Future World",
         "reference-details": "This futuristic park has plenty of space for new rides on its alien landscape",
-        "details": "This futuristic park has plenty of space for new rides on its alien landscape"
+        "details": "Tá neart spáis sa pháirc todhchaíoch seo do mharcaíochtaí nua ar a tírdhreach eachtrán"
     },
     "rct1aa.scenario_meta.gentle_glen": {
         "reference-name": "Gentle Glen",
@@ -925,7 +925,7 @@
         "reference-park_name": "Gentle Glen",
         "park_name": "Gentle Glen",
         "reference-details": "The local population prefer gentle and relaxing rides, so it is your job to expand this park to suit their tastes",
-        "details": "The local population prefer gentle and relaxing rides, so it is your job to expand this park to suit their tastes"
+        "details": "Is fearr le muintir na háite marcaíochtaí séimhe suaimhneacha, mar sin is é do jabsa an pháirc seo a leathnú chun freastal ar a mianta"
     },
     "rct1aa.scenario_meta.geoffrey_gardens": {
         "reference-name": "Geoffrey Gardens",
@@ -933,7 +933,7 @@
         "reference-park_name": "Geoffrey Gardens",
         "park_name": "Geoffrey Gardens",
         "reference-details": "A large garden park needs turning into a thriving theme park",
-        "details": "A large garden park needs turning into a thriving theme park"
+        "details": "Tá páirc mhór gairdíní le hiompú ina páirc théama rathúil"
     },
     "rct1aa.scenario_meta.giggle_downs": {
         "reference-name": "Giggle Downs",
@@ -941,7 +941,7 @@
         "reference-park_name": "Giggle Downs",
         "park_name": "Giggle Downs",
         "reference-details": "A four lane steeplechase ride is the centrepiece of this expanding park",
-        "details": "A four lane steeplechase ride is the centrepiece of this expanding park"
+        "details": "Is é léimrás ceithre lána croílár na páirce seo atá ag leathnú"
     },
     "rct1aa.scenario_meta.harmonic_hills": {
         "reference-name": "Harmonic Hills",
@@ -949,7 +949,7 @@
         "reference-park_name": "Harmonic Hills",
         "park_name": "Harmonic Hills",
         "reference-details": "The local authority won’t allow you to build above tree height in this park",
-        "details": "The local authority won’t allow you to build above tree height in this park"
+        "details": "Ní cheadóidh an t-údarás áitiúil duit tógáil os cionn airde na gcrann sa pháirc seo"
     },
     "rct1aa.scenario_meta.haunted_harbour": {
         "reference-name": "Haunted Harbour",
@@ -957,7 +957,7 @@
         "reference-park_name": "Haunted Harbour",
         "park_name": "Haunted Harbour",
         "reference-details": "The local authority has agreed to sell nearby land cheaply to this small seaside park, on the condition that certain rides are preserved",
-        "details": "The local authority has agreed to sell nearby land cheaply to this small seaside park, on the condition that certain rides are preserved"
+        "details": "Tá an t-údarás áitiúil sásta talamh in aice láimhe a dhíol go saor leis an bpáirc bheag chois farraige seo, ar an gcoinníoll go gcaomhnófar marcaíochtaí áirithe"
     },
     "rct1aa.scenario_meta.hydro_hills": {
         "reference-name": "Hydro Hills",
@@ -965,7 +965,7 @@
         "reference-park_name": "Hydro Hills",
         "park_name": "Hydro Hills",
         "reference-details": "A series of stepped lakes form the basis for this new park",
-        "details": "A series of stepped lakes form the basis for this new park"
+        "details": "Is é sraith lochanna céimnithe bunús na páirce nuaí seo"
     },
     "rct1aa.scenario_meta.jolly_jungle": {
         "reference-name": "Jolly Jungle",
@@ -973,7 +973,7 @@
         "reference-park_name": "Jolly Jungle",
         "park_name": "Jolly Jungle",
         "reference-details": "Deep in the jungle lies a large area of land ready to be turned into a theme park",
-        "details": "Deep in the jungle lies a large area of land ready to be turned into a theme park"
+        "details": "Domhain sa dufair tá limistéar mór talún réidh le hiompú ina pháirc théama"
     },
     "rct1aa.scenario_meta.magic_quarters": {
         "reference-name": "Magic Quarters",
@@ -981,7 +981,7 @@
         "reference-park_name": "Magic Quarters",
         "park_name": "Magic Quarters",
         "reference-details": "A large area of land has been cleared and partially themed ready for you to develop into a landscaped theme park",
-        "details": "A large area of land has been cleared and partially themed ready for you to develop into a landscaped theme park"
+        "details": "Glanadh limistéar mór talún agus cuireadh téamú páirteach air, réidh duit le forbairt ina pháirc théama tírdhreachtaithe"
     },
     "rct1aa.scenario_meta.mineral_park": {
         "reference-name": "Mineral Park",
@@ -989,7 +989,7 @@
         "reference-park_name": "Mineral Park",
         "park_name": "Mineral Park",
         "reference-details": "Turn this abandoned stone quarry into a place to attract thrill-seeking tourists",
-        "details": "Turn this abandoned stone quarry into a place to attract thrill-seeking tourists"
+        "details": "Athraigh an seanchairéal cloiche tréigthe seo ina áit a mheallfaidh turasóirí atá ar thóir scleondair"
     },
     "rct1aa.scenario_meta.pickle_park": {
         "reference-name": "Pickle Park",
@@ -997,7 +997,7 @@
         "reference-park_name": "Pickle Park",
         "park_name": "Pickle Park",
         "reference-details": "The local authority will not allow any kind of advertising or promotion, so this park must succeed by reputation only",
-        "details": "The local authority will not allow any kind of advertising or promotion, so this park must succeed by reputation only"
+        "details": "Ní cheadóidh an t-údarás áitiúil aon chineál fógraíochta ná bolscaireachta, mar sin caithfidh an pháirc seo rath a bhaint amach ar a cáil amháin"
     },
     "rct1aa.scenario_meta.roman_village": {
         "reference-name": "Roman Village",
@@ -1005,7 +1005,7 @@
         "reference-park_name": "Roman Village",
         "park_name": "Roman Village",
         "reference-details": "Develop this Roman-themed park by adding rides and roller coasters",
-        "details": "Develop this Roman-themed park by adding rides and roller coasters"
+        "details": "Forbair an pháirc seo ar théama Rómhánach trí mharcaíochtaí agus rollchóstóirí a chur léi"
     },
     "rct1aa.scenario_meta.rotting_heights": {
         "reference-name": "Rotting Heights",
@@ -1013,7 +1013,7 @@
         "reference-park_name": "Rotting Heights",
         "park_name": "Rotting Heights",
         "reference-details": "Overgrown and dilapidated, can you resurrect this once-great amusement park?",
-        "details": "Overgrown and dilapidated, can you resurrect this once-great amusement park?"
+        "details": "Mothrach agus ag titim as a chéile, an féidir leat an pháirc siamsaíochta seo a bhí iontach tráth a athbheochan?"
     },
     "rct1aa.scenario_meta.sprightly_park": {
         "reference-name": "Sprightly Park",
@@ -1021,7 +1021,7 @@
         "reference-park_name": "Sprightly Park",
         "park_name": "Sprightly Park",
         "reference-details": "This elderly park has many historical rides but is badly in debt",
-        "details": "This elderly park has many historical rides but is badly in debt"
+        "details": "Tá go leor marcaíochtaí stairiúla ag an tseanpháirc seo ach tá sí go dona i bhfiacha"
     },
     "rct1aa.scenario_meta.swamp_cove": {
         "reference-name": "Swamp Cove",
@@ -1029,7 +1029,7 @@
         "reference-park_name": "Swamp Cove",
         "park_name": "Swamp Cove",
         "reference-details": "Built partly on a series of small islands, this park already has a pair of large roller coasters as its centrepiece",
-        "details": "Built partly on a series of small islands, this park already has a pair of large roller coasters as its centrepiece"
+        "details": "Tógtha go páirteach ar shraith oileán beag, tá péire rollchóstóirí móra mar chroílár na páirce seo cheana féin"
     },
     "rct1aa.scenario_meta.three_monkeys_park": {
         "reference-name": "Three Monkeys Park",
@@ -1037,7 +1037,7 @@
         "reference-park_name": "Three Monkeys Park",
         "park_name": "Three Monkeys Park",
         "reference-details": "Central to this large developing park is a giant triple-track racing/duelling steel coaster",
-        "details": "Central to this large developing park is a giant triple-track racing/duelling steel coaster"
+        "details": "I gcroílár na páirce móire seo atá á forbairt tá cóstóir ollmhór cruaiche rásaíochta/comhraic trí ráille"
     },
     "rct1aa.scenario_meta.thunderstorm_park": {
         "reference-name": "Thunderstorm Park",
@@ -1045,7 +1045,7 @@
         "reference-park_name": "Thunderstorm Park",
         "park_name": "Thunderstorm Park",
         "reference-details": "The weather is so wet here that a giant pyramid has been built to allow some rides to be built under cover",
-        "details": "The weather is so wet here that a giant pyramid has been built to allow some rides to be built under cover"
+        "details": "Tá an aimsir chomh fliuch anseo gur tógadh pirimid ollmhór chun roinnt marcaíochtaí a thógáil faoi dhíon"
     },
     "rct1aa.scenario_meta.urban_park": {
         "reference-name": "Urban Park",
@@ -1053,7 +1053,7 @@
         "reference-park_name": "Urban Park",
         "park_name": "Urban Park",
         "reference-details": "A tiny park has done a deal with the nearby town to allow expansion through the town itself",
-        "details": "A tiny park has done a deal with the nearby town to allow expansion through the town itself"
+        "details": "Tá margadh déanta ag páirc bheag bhídeach leis an mbaile in aice láimhe chun leathnú tríd an mbaile féin a cheadú"
     },
     "rct1aa.scenario_meta.utopia_park": {
         "reference-name": "Utopia Park",
@@ -1061,7 +1061,7 @@
         "reference-park_name": "Utopia",
         "park_name": "Utopia",
         "reference-details": "An oasis in the middle of the desert provides an unusual opportunity to build an amusement park",
-        "details": "An oasis in the middle of the desert provides an unusual opportunity to build an amusement park"
+        "details": "Cuireann ósais i lár an fhásaigh deis neamhghnách ar fáil chun páirc siamsaíochta a thógáil"
     },
     "rct1aa.scenario_meta.whispering_cliffs": {
         "reference-name": "Whispering Cliffs",
@@ -1069,7 +1069,7 @@
         "reference-park_name": "Whispering Cliffs",
         "park_name": "Whispering Cliffs",
         "reference-details": "Develop the seaside cliffs into a thriving amusement park",
-        "details": "Develop the seaside cliffs into a thriving amusement park"
+        "details": "Forbair na haillte cois farraige ina bpáirc siamsaíochta rathúil"
     },
     "rct1aa.scenery_wall.glass_wall": {
         "reference-name": "Glass Wall",
@@ -1349,7 +1349,7 @@
         "reference-park_name": "Arid Heights",
         "park_name": "Arid Heights",
         "reference-details": "Free of any financial limits, your challenge is to develop this desert park while keeping the guests happy",
-        "details": "Free of any financial limits, your challenge is to develop this desert park while keeping the guests happy"
+        "details": "Saor ó aon srianta airgeadais, is é do dhúshlán an pháirc fhásaigh seo a fhorbairt agus na haíonna a choinneáil sásta"
     },
     "rct1ll.scenario_meta.blackpool_pleasure_beach": {
         "reference-name": "Blackpool Pleasure Beach",
@@ -1365,7 +1365,7 @@
         "reference-park_name": "Crater Lake",
         "park_name": "Crater Lake",
         "reference-details": "A large lake in an ancient crater is the setting for this park",
-        "details": "A large lake in an ancient crater is the setting for this park"
+        "details": "Is é loch mór i seanchráitéar suíomh na páirce seo"
     },
     "rct1ll.scenario_meta.crazy_craters": {
         "reference-name": "Crazy Craters",
@@ -1373,7 +1373,7 @@
         "reference-park_name": "Crazy Craters",
         "park_name": "Crazy Craters",
         "reference-details": "In a far-off world where money is not needed, you must build an entertainment centre to keep the people happy",
-        "details": "In a far-off world where money is not needed, you must build an entertainment centre to keep the people happy"
+        "details": "I ndomhan i bhfad i gcéin nach bhfuil airgead de dhíth ann, caithfidh tú ionad siamsaíochta a thógáil chun na daoine a choinneáil sásta"
     },
     "rct1ll.scenario_meta.dragons_cove": {
         "reference-name": "Dragon’s Cove",
@@ -1381,7 +1381,7 @@
         "reference-park_name": "Dragon’s Cove",
         "park_name": "Dragon’s Cove",
         "reference-details": "This sea-side cove is the setting for this coaster-building challenge",
-        "details": "This sea-side cove is the setting for this coaster-building challenge"
+        "details": "Is é an cuas cois farraige seo suíomh an dúshláin seo chun cóstóirí a thógáil"
     },
     "rct1ll.scenario_meta.dusty_desert": {
         "reference-name": "Dusty Desert",
@@ -1389,7 +1389,7 @@
         "reference-park_name": "Dusty Desert",
         "park_name": "Dusty Desert",
         "reference-details": "Five coasters require completion in this desert park",
-        "details": "Five coasters require completion in this desert park"
+        "details": "Tá cúig chóstóir le críochnú sa pháirc fhásaigh seo"
     },
     "rct1ll.scenario_meta.frightmare_hills": {
         "reference-name": "Frightmare Hills",
@@ -1397,7 +1397,7 @@
         "reference-park_name": "Frightmare Hills",
         "park_name": "Frightmare Hills",
         "reference-details": "A scary park with a giant centrepiece coaster",
-        "details": "A scary park with a giant centrepiece coaster"
+        "details": "Páirc scanrúil le cóstóir ollmhór mar chroílár"
     },
     "rct1ll.scenario_meta.good_knight_park": {
         "reference-name": "Good Knight Park",
@@ -1405,7 +1405,7 @@
         "reference-park_name": "Good Knight Park",
         "park_name": "Good Knight Park",
         "reference-details": "A castle with a pair of roller coasters needs developing into a larger theme park",
-        "details": "A castle with a pair of roller coasters needs developing into a larger theme park"
+        "details": "Tá caisleán le péire rollchóstóirí le forbairt ina pháirc théama níos mó"
     },
     "rct1ll.scenario_meta.grand_glacier": {
         "reference-name": "Grand Glacier",
@@ -1413,7 +1413,7 @@
         "reference-park_name": "Grand Glacier",
         "park_name": "Grand Glacier",
         "reference-details": "A glacier-filled valley is yours to develop into a theme park",
-        "details": "A glacier-filled valley is yours to develop into a theme park"
+        "details": "Is leatsa gleann lán d’oighearshruthanna a fhorbairt ina pháirc théama"
     },
     "rct1ll.scenario_meta.heidepark": {
         "reference-name": "Heide-Park",
@@ -1429,7 +1429,7 @@
         "reference-park_name": "Icarus Park",
         "park_name": "Icarus Park",
         "reference-details": "Develop this alien park to maximise its profit",
-        "details": "Develop this alien park to maximise its profit"
+        "details": "Forbair an pháirc eachtrán seo chun a brabús a uasmhéadú"
     },
     "rct1ll.scenario_meta.iceberg_islands": {
         "reference-name": "Iceberg Islands",
@@ -1437,7 +1437,7 @@
         "reference-park_name": "Iceberg Islands",
         "park_name": "Iceberg Islands",
         "reference-details": "A collection of icebergs make a cold setting for this ambitious theme park",
-        "details": "A collection of icebergs make a cold setting for this ambitious theme park"
+        "details": "Cruthaíonn bailiúchán cnoc oighir suíomh fuar don pháirc théama uaillmhianach seo"
     },
     "rct1ll.scenario_meta.icicle_worlds": {
         "reference-name": "Icicle Worlds",
@@ -1445,7 +1445,7 @@
         "reference-park_name": "Icicle Worlds",
         "park_name": "Icicle Worlds",
         "reference-details": "An icy landscape needs turning into a thriving theme park",
-        "details": "An icy landscape needs turning into a thriving theme park"
+        "details": "Tá tírdhreach oighreata le hiompú ina pháirc théama rathúil"
     },
     "rct1ll.scenario_meta.megaworld_park": {
         "reference-name": "Megaworld Park",
@@ -1453,7 +1453,7 @@
         "reference-park_name": "Megaworld Park",
         "park_name": "Megaworld Park",
         "reference-details": "A giant park already packed full of rides needs improving",
-        "details": "A giant park already packed full of rides needs improving"
+        "details": "Tá páirc ollmhór atá lán de mharcaíochtaí cheana féin le feabhsú"
     },
     "rct1ll.scenario_meta.micro_park": {
         "reference-name": "Micro Park",
@@ -1461,7 +1461,7 @@
         "reference-park_name": "Micro Park",
         "park_name": "Micro Park",
         "reference-details": "Try to create the world’s smallest profitable park",
-        "details": "Try to create the world’s smallest profitable park"
+        "details": "Déan iarracht an pháirc bhrabúsach is lú ar domhan a chruthú"
     },
     "rct1ll.scenario_meta.nevermore_park": {
         "reference-name": "Nevermore Park",
@@ -1469,7 +1469,7 @@
         "reference-park_name": "Nevermore Park",
         "park_name": "Nevermore Park",
         "reference-details": "A large park with a novel transportation system around its edge",
-        "details": "A large park with a novel transportation system around its edge"
+        "details": "Páirc mhór le córas iompair nuálach timpeall a himill"
     },
     "rct1ll.scenario_meta.octagon_park": {
         "reference-name": "Octagon Park",
@@ -1477,7 +1477,7 @@
         "reference-park_name": "Octagon Park",
         "park_name": "Octagon Park",
         "reference-details": "In this large park you must design and build ten large coasters",
-        "details": "In this large park you must design and build ten large coasters"
+        "details": "Sa pháirc mhór seo caithfidh tú deich gcóstóir mhóra a dhearadh agus a thógáil"
     },
     "rct1ll.scenario_meta.pacifica": {
         "reference-name": "Pacifica",
@@ -1485,7 +1485,7 @@
         "reference-park_name": "Pacifica",
         "park_name": "Pacifica",
         "reference-details": "This large island is all yours to develop as an amusement park",
-        "details": "This large island is all yours to develop as an amusement park"
+        "details": "Is leatsa an t-oileán mór seo ar fad le forbairt mar pháirc siamsaíochta"
     },
     "rct1ll.scenario_meta.paradise_pier_2": {
         "reference-name": "Paradise Pier 2",
@@ -1493,7 +1493,7 @@
         "reference-park_name": "Paradise Pier 2",
         "park_name": "Paradise Pier 2",
         "reference-details": "Paradise Pier has expanded its network of walkways over the sea, and your task is to expand the park to use the extra space",
-        "details": "Paradise Pier has expanded its network of walkways over the sea, and your task is to expand the park to use the extra space"
+        "details": "Tá Paradise Pier tar éis a líonra siúlán a leathnú amach os cionn na farraige, agus is é do thasc an pháirc a leathnú chun úsáid a bhaint as an spás breise"
     },
     "rct1ll.scenario_meta.pleasure_island": {
         "reference-name": "Pleasure Island",
@@ -1501,7 +1501,7 @@
         "reference-park_name": "Pleasure Island",
         "park_name": "Pleasure Island",
         "reference-details": "A long thin island makes a challenging setting to build a selection of coasters",
-        "details": "A long thin island makes a challenging setting to build a selection of coasters"
+        "details": "Cruthaíonn oileán fada caol suíomh dúshlánach chun rogha cóstóirí a thógáil"
     },
     "rct1ll.scenario_meta.razor_rocks": {
         "reference-name": "Razor Rocks",
@@ -1509,7 +1509,7 @@
         "reference-park_name": "Razor Rocks",
         "park_name": "Razor Rocks",
         "reference-details": "Your task is to build a massive coaster-filled park in amongst Razor Rocks",
-        "details": "Your task is to build a massive coaster-filled park in amongst Razor Rocks"
+        "details": "Is é do thasc páirc ollmhór lán de chóstóirí a thógáil i measc Razor Rocks"
     },
     "rct1ll.scenario_meta.southern_sands": {
         "reference-name": "Southern Sands",
@@ -1517,7 +1517,7 @@
         "reference-park_name": "Southern Sands",
         "park_name": "Southern Sands",
         "reference-details": "A desert park with some cleverly designed coasters is yours to expand",
-        "details": "A desert park with some cleverly designed coasters is yours to expand"
+        "details": "Is leatsa páirc fhásaigh le cóstóirí atá deartha go cliste a leathnú"
     },
     "rct1ll.scenario_meta.sunny_swamps": {
         "reference-name": "Sunny Swamps",
@@ -1525,7 +1525,7 @@
         "reference-park_name": "Sunny Swamps",
         "park_name": "Sunny Swamps",
         "reference-details": "This well-themed amusement park already has several rides, but has plenty of space for expansion",
-        "details": "This well-themed amusement park already has several rides, but has plenty of space for expansion"
+        "details": "Tá roinnt marcaíochtaí sa pháirc siamsaíochta dea-théamaithe seo cheana féin, ach tá neart spáis inti le leathnú"
     },
     "rct1ll.scenario_meta.terror_town": {
         "reference-name": "Terror Town",
@@ -1533,7 +1533,7 @@
         "reference-park_name": "Terror Town",
         "park_name": "Terror Town",
         "reference-details": "This urban area is all yours to develop into an amusement park",
-        "details": "This urban area is all yours to develop into an amusement park"
+        "details": "Is leatsa an ceantar uirbeach seo ar fad le forbairt ina pháirc siamsaíochta"
     },
     "rct1ll.scenario_meta.thunder_rocks": {
         "reference-name": "Thunder Rocks",
@@ -1541,7 +1541,7 @@
         "reference-park_name": "Thunder Rocks",
         "park_name": "Thunder Rocks",
         "reference-details": "Two large hunks of rock stick out of the sand, upon which the beginnings of a theme park are constructed",
-        "details": "Two large hunks of rock stick out of the sand, upon which the beginnings of a theme park are constructed"
+        "details": "Gobann dhá charraig mhóra aníos as an ngaineamh, agus tús páirce téama tógtha orthu"
     },
     "rct1ll.scenario_meta.tiny_towers": {
         "reference-name": "Tiny Towers",
@@ -1549,7 +1549,7 @@
         "reference-park_name": "Tiny Towers",
         "park_name": "Tiny Towers",
         "reference-details": "In this tiny park you must finish building the five existing coasters",
-        "details": "In this tiny park you must finish building the five existing coasters"
+        "details": "Sa pháirc bheag bhídeach seo caithfidh tú na cúig chóstóir atá ann a chríochnú"
     },
     "rct1ll.scenario_meta.urban_jungle": {
         "reference-name": "Urban Jungle",
@@ -1557,7 +1557,7 @@
         "reference-park_name": "Urban Jungle",
         "park_name": "Urban Jungle",
         "reference-details": "A giant abandoned skyscraper is a unique opportunity for a theme park developer",
-        "details": "A giant abandoned skyscraper is a unique opportunity for a theme park developer"
+        "details": "Is deis uathúil d’fhorbróir páirce téama é ilstórach ollmhór tréigthe"
     },
     "rct1ll.scenario_meta.venus_ponds": {
         "reference-name": "Venus Ponds",
@@ -1565,7 +1565,7 @@
         "reference-park_name": "Venus Ponds",
         "park_name": "Venus Ponds",
         "reference-details": "On a far-away planet this area of land needs turning into a theme park",
-        "details": "On a far-away planet this area of land needs turning into a theme park"
+        "details": "Ar phláinéad i bhfad i gcéin tá an limistéar talún seo le hiompú ina pháirc théama"
     },
     "rct1ll.scenario_meta.vertigo_views": {
         "reference-name": "Vertigo Views",
@@ -1573,7 +1573,7 @@
         "reference-park_name": "Vertigo Views",
         "park_name": "Vertigo Views",
         "reference-details": "This large park already has an excellent hyper-coaster, but your task is to massively increase its profit",
-        "details": "This large park already has an excellent hyper-coaster, but your task is to massively increase its profit"
+        "details": "Tá hipearchóstóir den scoth sa pháirc mhór seo cheana féin, ach is é do thasc a brabús a mhéadú go mór"
     },
     "rct1ll.scenario_meta.volcania": {
         "reference-name": "Volcania",
@@ -1581,7 +1581,7 @@
         "reference-park_name": "Volcania",
         "park_name": "Volcania",
         "reference-details": "A dormant volcano is the setting of this coaster-building challenge",
-        "details": "A dormant volcano is the setting of this coaster-building challenge"
+        "details": "Is é bolcán suanach suíomh an dúshláin seo chun cóstóirí a thógáil"
     },
     "rct1ll.scenario_meta.wacky_warren": {
         "reference-name": "Wacky Warren",
@@ -1589,7 +1589,7 @@
         "reference-park_name": "Wacky Warren",
         "park_name": "Wacky Warren",
         "reference-details": "A park which has much of its footpaths and coasters underground",
-        "details": "A park which has much of its footpaths and coasters underground"
+        "details": "Páirc a bhfuil cuid mhór dá cosáin agus dá cóstóirí faoi thalamh"
     },
     "rct1ll.scenario_meta.woodworm_park": {
         "reference-name": "Woodworm Park",
@@ -1597,7 +1597,7 @@
         "reference-park_name": "Woodworm Park",
         "park_name": "Woodworm Park",
         "reference-details": "This historical park is only allowed to build older-styled rides",
-        "details": "This historical park is only allowed to build older-styled rides"
+        "details": "Ní cheadaítear don pháirc stairiúil seo ach marcaíochtaí ar an sean-nós a thógáil"
     },
     "rct1ll.scenery_wall.medieval_wooden_fence": {
         "reference-name": "Wooden Fence",
@@ -3229,7 +3229,7 @@
         "reference-park_name": "Alpine Adventures",
         "park_name": "Alpine Adventures",
         "reference-details": "Convert a small mountain ski resort into a snow-themed amusement park",
-        "details": "Convert a small mountain ski resort into a snow-themed amusement park"
+        "details": "Athraigh ionad beag sciála sléibhe ina pháirc siamsaíochta ar théama sneachta"
     },
     "rct2.scenario_meta.amity_airfield": {
         "reference-name": "Amity Airfield",
@@ -3237,7 +3237,7 @@
         "reference-park_name": "Amity Airfield",
         "park_name": "Amity Airfield",
         "reference-details": "Build a flying-themed amusement park in this abandoned airport",
-        "details": "Build a flying-themed amusement park in this abandoned airport"
+        "details": "Tóg páirc siamsaíochta ar théama eitilte san aerfort tréigthe seo"
     },
     "rct2.scenario_meta.botany_breakers": {
         "reference-name": "Botany Breakers",
@@ -3245,7 +3245,7 @@
         "reference-park_name": "Botany Breakers",
         "park_name": "Botany Breakers",
         "reference-details": "Your challenge is to build a high-profit park on this paradise island",
-        "details": "Your challenge is to build a high-profit park on this paradise island"
+        "details": "Is é do dhúshlán páirc ardbhrabúis a thógáil ar an oileán paradais seo"
     },
     "rct2.scenario_meta.build_your_own_six_flags_belgium": {
         "reference-name": "Build your own Six Flags Belgium",
@@ -3253,7 +3253,7 @@
         "reference-park_name": "Six Flags Belgium",
         "park_name": "Six Flags Belgium",
         "reference-details": "Build your own version of this European Six Flags park",
-        "details": "Build your own version of this European Six Flags park"
+        "details": "Tóg do leagan féin den pháirc Eorpach Six Flags seo"
     },
     "rct2.scenario_meta.build_your_own_six_flags_great_adventure": {
         "reference-name": "Build your own Six Flags Great Adventure",
@@ -3261,7 +3261,7 @@
         "reference-park_name": "Six Flags Great Adventure",
         "park_name": "Six Flags Great Adventure",
         "reference-details": "Use your design skills to recreate this Six Flags park",
-        "details": "Use your design skills to recreate this Six Flags park"
+        "details": "Bain úsáid as do scileanna dearaidh chun an pháirc Six Flags seo a athchruthú"
     },
     "rct2.scenario_meta.build_your_own_six_flags_holland": {
         "reference-name": "Build your own Six Flags Holland",
@@ -3269,7 +3269,7 @@
         "reference-park_name": "Six Flags Holland",
         "park_name": "Six Flags Holland",
         "reference-details": "Build this European Six Flags park the way you want to",
-        "details": "Build this European Six Flags park the way you want to"
+        "details": "Tóg an pháirc Eorpach Six Flags seo mar is mian leat féin"
     },
     "rct2.scenario_meta.build_your_own_six_flags_magic_mountain": {
         "reference-name": "Build your own Six Flags Magic Mountain",
@@ -3277,7 +3277,7 @@
         "reference-park_name": "Six Flags Magic Mountain",
         "park_name": "Six Flags Magic Mountain",
         "reference-details": "Create your own version of this massive Six Flags park",
-        "details": "Create your own version of this massive Six Flags park"
+        "details": "Cruthaigh do leagan féin den pháirc ollmhór Six Flags seo"
     },
     "rct2.scenario_meta.build_your_own_six_flags_over_texas": {
         "reference-name": "Build your own Six Flags Over Texas",
@@ -3285,7 +3285,7 @@
         "reference-park_name": "Six Flags Over Texas",
         "park_name": "Six Flags Over Texas",
         "reference-details": "Starting from scratch, build the rides in this Six Flags park",
-        "details": "Starting from scratch, build the rides in this Six Flags park"
+        "details": "Ag tosú ón mbonn aníos, tóg na marcaíochtaí sa pháirc Six Flags seo"
     },
     "rct2.scenario_meta.build_your_own_six_flags_park": {
         "reference-name": "Build your own Six Flags Park",
@@ -3293,7 +3293,7 @@
         "reference-park_name": "Six Flags",
         "park_name": "Six Flags",
         "reference-details": "Build your own design of Six Flags park - either build rides from other Six Flags parks or design and build your own rides",
-        "details": "Build your own design of Six Flags park - either build rides from other Six Flags parks or design and build your own rides"
+        "details": "Tóg do dhearadh féin de pháirc Six Flags - tóg marcaíochtaí ó pháirceanna Six Flags eile nó dear agus tóg do mharcaíochtaí féin"
     },
     "rct2.scenario_meta.bumbly_bazaar": {
         "reference-name": "Bumbly Bazaar",
@@ -3301,7 +3301,7 @@
         "reference-park_name": "Bumbly Bazaar",
         "park_name": "Bumbly Bazaar",
         "reference-details": "Starting with a small market bazaar, your challenge is to increase the profit from shops and stalls by building rides and roller coasters to attract more customers",
-        "details": "Starting with a small market bazaar, your challenge is to increase the profit from shops and stalls by building rides and roller coasters to attract more customers"
+        "details": "Ag tosú le basár beag margaidh, is é do dhúshlán an brabús ó shiopaí agus ó stainníní a mhéadú trí mharcaíochtaí agus rollchóstóirí a thógáil chun níos mó custaiméirí a mhealladh"
     },
     "rct2.scenario_meta.crazy_castle": {
         "reference-name": "Crazy Castle",
@@ -3309,7 +3309,7 @@
         "reference-park_name": "Crazy Castle",
         "park_name": "Crazy Castle",
         "reference-details": "You have inherited a large castle. Your job is to convert it into a small theme park.",
-        "details": "You have inherited a large castle. Your job is to convert it into a small theme park."
+        "details": "Tá caisleán mór faighte le hoidhreacht agat. Is é do jabsa é a athrú ina pháirc bheag théama."
     },
     "rct2.scenario_meta.dusty_greens": {
         "reference-name": "Dusty Greens",
@@ -3317,7 +3317,7 @@
         "reference-park_name": "Dusty Greens",
         "park_name": "Dusty Greens",
         "reference-details": "Situated near a highway junction in the desert, Dusty Greens is an opportunity to develop a small golf resort into a thriving theme park",
-        "details": "Situated near a highway junction in the desert, Dusty Greens is an opportunity to develop a small golf resort into a thriving theme park"
+        "details": "Suite in aice le hacomhal mórbhealaigh san fhásach, is deis é Dusty Greens chun ionad beag gailf a fhorbairt ina pháirc théama rathúil"
     },
     "rct2.scenario_meta.electric_fields": {
         "reference-name": "Electric Fields",
@@ -3325,7 +3325,7 @@
         "reference-park_name": "Electric Fields",
         "park_name": "Electric Fields",
         "reference-details": "You have inherited a small farm, and your challenge is to build a small theme park amongst the fields and farm buildings",
-        "details": "You have inherited a small farm, and your challenge is to build a small theme park amongst the fields and farm buildings"
+        "details": "Tá feirm bheag faighte le hoidhreacht agat, agus is é do dhúshlán páirc bheag théama a thógáil i measc na ngort agus fhoirgnimh na feirme"
     },
     "rct2.scenario_meta.extreme_heights": {
         "reference-name": "Extreme Heights",
@@ -3333,7 +3333,7 @@
         "reference-park_name": "Extreme Heights",
         "park_name": "Extreme Heights",
         "reference-details": "Free of financial restrictions, your challenge is to expand this desert park to attract people seeking the ultimate thrills",
-        "details": "Free of financial restrictions, your challenge is to expand this desert park to attract people seeking the ultimate thrills"
+        "details": "Saor ó shrianta airgeadais, is é do dhúshlán an pháirc fhásaigh seo a leathnú chun daoine atá ar thóir an scleondair is airde a mhealladh"
     },
     "rct2.scenario_meta.factory_capers": {
         "reference-name": "Factory Capers",
@@ -3341,7 +3341,7 @@
         "reference-park_name": "Factory Capers",
         "park_name": "Factory Capers",
         "reference-details": "An abandoned factory complex is an opportunity to build a mechanical-themed amusement park",
-        "details": "An abandoned factory complex is an opportunity to build a mechanical-themed amusement park"
+        "details": "Is deis é coimpléasc monarchan tréigthe chun páirc siamsaíochta ar théama meicniúil a thógáil"
     },
     "rct2.scenario_meta.fungus_woods": {
         "reference-name": "Fungus Woods",
@@ -3349,7 +3349,7 @@
         "reference-park_name": "Fungus Woods",
         "park_name": "Fungus Woods",
         "reference-details": "Restricted to only older-style wooden rides, your challenge is to build a thriving theme park in Fungus Woods",
-        "details": "Restricted to only older-style wooden rides, your challenge is to build a thriving theme park in Fungus Woods"
+        "details": "Srianta le marcaíochtaí adhmaid ar an sean-nós amháin, is é do dhúshlán páirc théama rathúil a thógáil i Fungus Woods"
     },
     "rct2.scenario_meta.ghost_town": {
         "reference-name": "Ghost Town",
@@ -3357,7 +3357,7 @@
         "reference-park_name": "Ghost Town",
         "park_name": "Ghost Town",
         "reference-details": "Hired by a large amusement park chain, your task is to build them a giant roller coaster park around an abandoned mining town",
-        "details": "Hired by a large amusement park chain, your task is to build them a giant roller coaster park around an abandoned mining town"
+        "details": "Fostaithe ag slabhra mór páirceanna siamsaíochta, is é do thasc páirc ollmhór rollchóstóirí a thógáil dóibh timpeall baile mianadóireachta tréigthe"
     },
     "rct2.scenario_meta.gravity_gardens": {
         "reference-name": "Gravity Gardens",
@@ -3365,7 +3365,7 @@
         "reference-park_name": "Gravity Gardens",
         "park_name": "Gravity Gardens",
         "reference-details": "Your challenge is to build a roller coaster park in the beautiful Gravity Gardens. No other rides, just roller coasters!",
-        "details": "Your challenge is to build a roller coaster park in the beautiful Gravity Gardens. No other rides, just roller coasters!"
+        "details": "Is é do dhúshlán páirc rollchóstóirí a thógáil sna Gravity Gardens áille. Gan aon mharcaíochtaí eile, rollchóstóirí amháin!"
     },
     "rct2.scenario_meta.infernal_views": {
         "reference-name": "Infernal Views",
@@ -3373,7 +3373,7 @@
         "reference-park_name": "Infernal Views",
         "park_name": "Infernal Views",
         "reference-details": "A park nestled precariously on lava rock with streams of magma",
-        "details": "A park nestled precariously on lava rock with streams of magma"
+        "details": "Páirc atá neadaithe go guagach ar charraig laibhe le sruthanna magma"
     },
     "rct2.scenario_meta.lucky_lake": {
         "reference-name": "Lucky Lake",
@@ -3381,7 +3381,7 @@
         "reference-park_name": "Lucky Lake",
         "park_name": "Lucky Lake",
         "reference-details": "With unlimited funds but a challenging lake location, this park will be a challenge to expand and manage",
-        "details": "With unlimited funds but a challenging lake location, this park will be a challenge to expand and manage"
+        "details": "Le hairgead gan teorainn ach suíomh dúshlánach locha, beidh sé ina dhúshlán an pháirc seo a leathnú agus a bhainistiú"
     },
     "rct2.scenario_meta.rainbow_summit": {
         "reference-name": "Rainbow Summit",
@@ -3389,7 +3389,7 @@
         "reference-park_name": "Rainbow Summit",
         "park_name": "Rainbow Summit",
         "reference-details": "Built on a hillside, this park is forbidden from building anything tall. Can you expand the park and make it successful?",
-        "details": "Built on a hillside, this park is forbidden from building anything tall. Can you expand the park and make it successful?"
+        "details": "Tógtha ar thaobh cnoic, tá cosc ar an bpáirc seo aon rud ard a thógáil. An féidir leat an pháirc a leathnú agus rath a bhaint amach?"
     },
     "rct2.scenario_meta.six_flags_belgium": {
         "reference-name": "Six Flags Belgium",
@@ -3397,7 +3397,7 @@
         "reference-park_name": "Six Flags Belgium",
         "park_name": "Six Flags Belgium",
         "reference-details": "Try your hand at running and improving this Six Flags park",
-        "details": "Try your hand at running and improving this Six Flags park"
+        "details": "Bain triail as an bpáirc Six Flags seo a rith agus a fheabhsú"
     },
     "rct2.scenario_meta.six_flags_great_adventure": {
         "reference-name": "Six Flags Great Adventure",
@@ -3405,7 +3405,7 @@
         "reference-park_name": "Six Flags Great Adventure",
         "park_name": "Six Flags Great Adventure",
         "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!",
-        "details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!"
+        "details": "Tóg na marcaíochtaí Six Flags atá ar iarraidh, nó cruthaigh do dhearaí féin chun an pháirc a fheabhsú! Ach ná déan dearmad ar do sprioc dheiridh: níos mó aíonna a mhealladh chuig an bpáirc!"
     },
     "rct2.scenario_meta.six_flags_holland": {
         "reference-name": "Six Flags Holland",
@@ -3413,7 +3413,7 @@
         "reference-park_name": "Six Flags Holland",
         "park_name": "Six Flags Holland",
         "reference-details": "Try your hand at running and improving this Six Flags park",
-        "details": "Try your hand at running and improving this Six Flags park"
+        "details": "Bain triail as an bpáirc Six Flags seo a rith agus a fheabhsú"
     },
     "rct2.scenario_meta.six_flags_magic_mountain": {
         "reference-name": "Six Flags Magic Mountain",
@@ -3421,7 +3421,7 @@
         "reference-park_name": "Six Flags Magic Mountain",
         "park_name": "Six Flags Magic Mountain",
         "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to repay your loan while keeping the park value up!",
-        "details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to repay your loan while keeping the park value up!"
+        "details": "Tóg na marcaíochtaí Six Flags atá ar iarraidh, nó cruthaigh do dhearaí féin chun an pháirc a fheabhsú! Ach ná déan dearmad ar do sprioc dheiridh: d’iasacht a aisíoc agus luach na páirce a choinneáil ard!"
     },
     "rct2.scenario_meta.six_flags_over_texas": {
         "reference-name": "Six Flags Over Texas",
@@ -3429,7 +3429,7 @@
         "reference-park_name": "Six Flags Over Texas",
         "park_name": "Six Flags Over Texas",
         "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!",
-        "details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!"
+        "details": "Tóg na marcaíochtaí Six Flags atá ar iarraidh, nó cruthaigh do dhearaí féin chun an pháirc a fheabhsú! Ach ná déan dearmad ar do sprioc dheiridh: níos mó aíonna a mhealladh chuig an bpáirc!"
     },
     "rct2.scenario_meta.tycoon_park": {
         "reference-name": "Tycoon Park",
@@ -5745,7 +5745,7 @@
         "reference-park_name": "Panda World",
         "park_name": "Panda World",
         "reference-details": "Add more rides and attract more people to this panda-themed park",
-        "details": "Add more rides and attract more people to this panda-themed park"
+        "details": "Cuir tuilleadh marcaíochtaí léi agus meall níos mó daoine chuig an bpáirc seo ar théama panda"
     },
     "rct2dlc.scenery_group.scgpanda": {
         "reference-name": "Panda Theming",
@@ -6301,7 +6301,7 @@
         "reference-park_name": "Alcatraz",
         "park_name": "Alcatraz",
         "reference-details": "The infamous Prison Island - whose population once swelled with bootleggers and racketeers - is now up for sale. You’ve decided to convert it into a top tourist attraction, and money is no object",
-        "details": "The infamous Prison Island - whose population once swelled with bootleggers and racketeers - is now up for sale. You’ve decided to convert it into a top tourist attraction, and money is no object"
+        "details": "Tá Oileán an Phríosúin míchlúiteach - a raibh a dhaonra lán tráth de smuigléirí agus de chneámhairí - ar díol anois. Tá cinneadh déanta agat é a athrú ina phríomháit turasóireachta, agus is cuma faoin airgead"
     },
     "rct2tt.scenario_meta.animatronic_antics": {
         "reference-name": "Animatronic Antics",
@@ -6309,7 +6309,7 @@
         "reference-park_name": "Animatronic Antics",
         "park_name": "Animatronic Antics",
         "reference-details": "You have been given the task of running and improving an existing theme park, which has been built on an old film set. Build a tribute to the pioneering stop-motion animators who first brought mythical creatures to life on the silver screen.",
-        "details": "You have been given the task of running and improving an existing theme park, which has been built on an old film set. Build a tribute to the pioneering stop-motion animators who first brought mythical creatures to life on the silver screen."
+        "details": "Tugadh de chúram duit páirc théama atá ann cheana a rith agus a fheabhsú, páirc a tógadh ar sheanláithreán scannán. Tóg ómós do na ceannródaithe beochana stadghluaisne a thug créatúir mhiotasacha chun beatha ar an scáileán mór den chéad uair."
     },
     "rct2tt.scenario_meta.cliffside_castle": {
         "reference-name": "Cliffside Castle",
@@ -6317,7 +6317,7 @@
         "reference-park_name": "Cliffside Castle",
         "park_name": "Cliffside Castle",
         "reference-details": "Local members of the battle re-enactment society are rather serious about their hobby. They’ve entrusted you with the job of constructing a Dark Age theme park on the grounds of Cliffside Castle.",
-        "details": "Local members of the battle re-enactment society are rather serious about their hobby. They’ve entrusted you with the job of constructing a Dark Age theme park on the grounds of Cliffside Castle."
+        "details": "Tá baill áitiúla an chumainn athléirithe catha sách dáiríre faoina gcaitheamh aimsire. Chuir siad de chúram ort páirc théama de chuid na Ré Dorcha a thógáil ar thailte Cliffside Castle."
     },
     "rct2tt.scenario_meta.coastersaurus": {
         "reference-name": "Coastersaurus",
@@ -6325,7 +6325,7 @@
         "reference-park_name": "Coastersaurus",
         "park_name": "Coastersaurus",
         "reference-details": "You’ve been given the task of constructing a Jurassic era theme park. To optimize your visitors’ access to the exotic plant and animal exhibits, you will need to build rides going over and into the valley.",
-        "details": "You’ve been given the task of constructing a Jurassic era theme park. To optimize your visitors’ access to the exotic plant and animal exhibits, you will need to build rides going over and into the valley."
+        "details": "Tugadh de chúram duit páirc théama ó ré Jurassic a thógáil. Chun rochtain do chuairteoirí ar na taispeántais phlandaí agus ainmhithe coimhthíocha a bharrfheabhsú, beidh ort marcaíochtaí a thógáil os cionn an ghleanna agus isteach ann."
     },
     "rct2tt.scenario_meta.crater_carnage": {
         "reference-name": "Crater Carnage",
@@ -6333,7 +6333,7 @@
         "reference-park_name": "Crater Carnage",
         "park_name": "Crater Carnage",
         "reference-details": "You own a dusty old meteor crater. In the true entrepreneurial spirit, you’ve decided to construct an asteroid theme park and convert your seemingly worthless land into a sizeable fortune.",
-        "details": "You own a dusty old meteor crater. In the true entrepreneurial spirit, you’ve decided to construct an asteroid theme park and convert your seemingly worthless land into a sizeable fortune."
+        "details": "Is leatsa seanchráitéar deannachúil dreigite. De mheon fiontraíochta, tá cinneadh déanta agat páirc théama astaróideach a thógáil agus do thalamh gan mhaith de réir cosúlachta a athrú ina shaibhreas suntasach."
     },
     "rct2tt.scenario_meta.extraterrestrial_extravaganza": {
         "reference-name": "Extraterrestrial Extravaganza",
@@ -6341,7 +6341,7 @@
         "reference-park_name": "Extraterrestrial Extravaganza",
         "park_name": "Extraterrestrial Extravaganza",
         "reference-details": "Life has been discovered on a distant planet Build an alien theme park to cash in on the unprecedented wave of interest.",
-        "details": "Life has been discovered on a distant planet Build an alien theme park to cash in on the unprecedented wave of interest."
+        "details": "Tá beatha aimsithe ar phláinéad i gcéin. Tóg páirc théama eachtrán chun brabús a dhéanamh as an tonn spéise nach bhfacthas riamh cheana."
     },
     "rct2tt.scenario_meta.gemini_city": {
         "reference-name": "Gemini City",
@@ -6349,7 +6349,7 @@
         "reference-park_name": "Gemini City",
         "park_name": "Gemini City",
         "reference-details": "Show off your inventive, utopian vision of the future - come up with a futuristic park design that incorporates state-of-the-art attractions.",
-        "details": "Show off your inventive, utopian vision of the future - come up with a futuristic park design that incorporates state-of-the-art attractions."
+        "details": "Taispeáin d’fhís airgtheach útóipeach den todhchaí - ceap dearadh páirce todhchaíche le marcaíochtaí den scoth."
     },
     "rct2tt.scenario_meta.metropolis": {
         "reference-name": "Metropolis",
@@ -6357,7 +6357,7 @@
         "reference-park_name": "Metropolis",
         "park_name": "Metropolis",
         "reference-details": "You own an empty lot near the low-rise part of town. To squeeze the most out of your urban property, build a skyscraper theme park inspired by the soaring art deco architecture of the twenties.",
-        "details": "You own an empty lot near the low-rise part of town. To squeeze the most out of your urban property, build a skyscraper theme park inspired by the soaring art deco architecture of the twenties."
+        "details": "Tá láithreán folamh agat in aice leis an gcuid ísealfhoirgníochta den bhaile. Chun an tairbhe is mó a bhaint as do mhaoin uirbeach, tóg páirc théama ilstórach spreagtha ag ailtireacht ard art deco na bhfichidí."
     },
     "rct2tt.scenario_meta.mythological_madness": {
         "reference-name": "Mythological Madness",
@@ -6365,7 +6365,7 @@
         "reference-park_name": "Mythological Madness",
         "park_name": "Mythological Madness",
         "reference-details": "You own an island of particular archaeological value. You’ve decided to fund its preservation by constructing a theme park based on the area’s rich Mythological heritage.",
-        "details": "You own an island of particular archaeological value. You’ve decided to fund its preservation by constructing a theme park based on the area’s rich Mythological heritage."
+        "details": "Is leatsa oileán a bhfuil luach seandálaíochta ar leith aige. Tá cinneadh déanta agat a chaomhnú a mhaoiniú trí pháirc théama a thógáil bunaithe ar oidhreacht shaibhir Mhiotaseolaíoch an cheantair."
     },
     "rct2tt.scenario_meta.rock_n_roll_revival": {
         "reference-name": "Rock ‘n’ Roll Revival",
@@ -6373,7 +6373,7 @@
         "reference-park_name": "Rock ‘n’ Roll Revival",
         "park_name": "Rock ‘n’ Roll Revival",
         "reference-details": "This aging theme park has seen better days. Help the owner give it a retro rock ‘n’ roll makeover and turn the place into a successful venue.",
-        "details": "This aging theme park has seen better days. Help the owner give it a retro rock ‘n’ roll makeover and turn the place into a successful venue."
+        "details": "Tá laethanta níos fearr feicthe ag an tseanpháirc théama seo. Cabhraigh leis an úinéir athchóiriú retro rac ‘n’ roll a dhéanamh uirthi agus áit rathúil a dhéanamh di."
     },
     "rct2tt.scenario_meta.rocky_rambles": {
         "reference-name": "Rocky Rambles",
@@ -6381,7 +6381,7 @@
         "reference-park_name": "Rocky Rambles",
         "park_name": "Rocky Rambles",
         "reference-details": "To thwart the highway developers and preserve the mysterious ancient stone circles, you will need to construct a Stone Age theme park and turn a profit. However, attracting visitors may pose a challenge, as the terrain is a tad inhospitable.",
-        "details": "To thwart the highway developers and preserve the mysterious ancient stone circles, you will need to construct a Stone Age theme park and turn a profit. However, attracting visitors may pose a challenge, as the terrain is a tad inhospitable."
+        "details": "Chun na forbróirí mórbhealaigh a chosc agus na ciorcail rúndiamhra ársa cloiche a chaomhnú, beidh ort páirc théama de chuid na Clochaoise a thógáil agus brabús a dhéanamh. Ach d’fhéadfadh sé a bheith deacair cuairteoirí a mhealladh, mar tá an tír-raon rud beag doicheallach."
     },
     "rct2tt.scenario_meta.schneider_shores": {
         "reference-name": "Schneider Shores",
@@ -6389,7 +6389,7 @@
         "reference-park_name": "Schneider Shores",
         "park_name": "Schneider Shores",
         "reference-details": "The 75th anniversary of your grandfather’s Schneider Cup victory is coming up in a few years. You’re going to honour his achievement by building a theme park based on the famous seaplane race.",
-        "details": "The 75th anniversary of your grandfather’s Schneider Cup victory is coming up in a few years. You’re going to honour his achievement by building a theme park based on the famous seaplane race."
+        "details": "Beidh comóradh 75 bliain bhua do sheanathar i gCorn Schneider ann i gceann cúpla bliain. Tá tú chun ómós a thabhairt dá éacht trí pháirc théama a thógáil bunaithe ar an rás cáiliúil muireitleán."
     },
     "rct2tt.scenario_meta.sherwood_forest": {
         "reference-name": "Sherwood Forest",
@@ -6397,7 +6397,7 @@
         "reference-park_name": "Sherwood Forest",
         "park_name": "Sherwood Forest",
         "reference-details": "To liberate wealth from the rich and distribute it to the needy, you and your Merry Men have decided to build a theme park in Sherwood Forest.",
-        "details": "To liberate wealth from the rich and distribute it to the needy, you and your Merry Men have decided to build a theme park in Sherwood Forest."
+        "details": "Chun saibhreas a fhuascailt ó na boic mhóra agus é a roinnt ar na daoine bochta, tá cinneadh déanta agat féin agus ag do Mheitheal Mheidhreach páirc théama a thógáil i Sherwood Forest."
     },
     "rct2tt.scenario_meta.woodstock": {
         "reference-name": "Woodstock",
@@ -6405,7 +6405,7 @@
         "reference-park_name": "Woodstock",
         "park_name": "Woodstock",
         "reference-details": "A large annual music festival takes place on your land. Build a hip theme park to keep the free-spirited audience entertained.",
-        "details": "A large annual music festival takes place on your land. Build a hip theme park to keep the free-spirited audience entertained."
+        "details": "Bíonn féile mhór cheoil ar siúl ar do chuid talún gach bliain. Tóg páirc théama fhaiseanta chun siamsaíocht a choinneáil leis an lucht féachana saorspioradach."
     },
     "rct2tt.scenery_group.scg1920s": {
         "reference-name": "Roaring Twenties Theming",
@@ -9101,7 +9101,7 @@
         "reference-park_name": "Ayers Adventure",
         "park_name": "Ayers Adventure",
         "reference-details": "You are helping Aboriginal people to build a park as part of a cultural awareness program. You need to get a large number of guests to educate them in the unique heritage of the Aboriginal people.",
-        "details": "You are helping Aboriginal people to build a park as part of a cultural awareness program. You need to get a large number of guests to educate them in the unique heritage of the Aboriginal people."
+        "details": "Tá tú ag cabhrú le Bundúchasaigh na hAstráile páirc a thógáil mar chuid de chlár feasachta cultúrtha. Caithfidh tú líon mór aíonna a fháil chun oideachas a chur orthu faoi oidhreacht uathúil na mBundúchasach."
     },
     "rct2ww.scenario_meta.beach_barbecue_blast": {
         "reference-name": "Beach Barbecue Blast",
@@ -9109,7 +9109,7 @@
         "reference-park_name": "Beach Barbecue Blast",
         "park_name": "Beach Barbecue Blast",
         "reference-details": "A local entrepreneur’s sealife park has gone bust. You already operate a small park and buy the other park from the construction company. Develop a big combined park.",
-        "details": "A local entrepreneur’s sealife park has gone bust. You already operate a small park and buy the other park from the construction company. Develop a big combined park."
+        "details": "Theip ar pháirc mhara fiontraí áitiúil. Tá páirc bheag agat cheana féin agus ceannaíonn tú an pháirc eile ón gcomhlacht tógála. Forbair páirc mhór chomhcheangailte."
     },
     "rct2ww.scenario_meta.canyon_calamities": {
         "reference-name": "Canyon Calamities",
@@ -9117,7 +9117,7 @@
         "reference-park_name": "Canyon Calamities",
         "park_name": "Canyon Calamities",
         "reference-details": "You have to build a park on limited land either side of this natural treasure - you do have the opportunity to buy neighbouring land from the Native American Indians. You need to complete the objective to sustain the local town’s population.",
-        "details": "You have to build a park on limited land either side of this natural treasure - you do have the opportunity to buy neighbouring land from the Native American Indians. You need to complete the objective to sustain the local town’s population."
+        "details": "Caithfidh tú páirc a thógáil ar thalamh teoranta ar dhá thaobh na seoide nádúrtha seo - tá deis agat talamh comharsanachta a cheannach ó na Meiriceánaigh Dhúchasacha. Caithfidh tú an cuspóir a chomhlíonadh chun daonra an bhaile áitiúil a choinneáil."
     },
     "rct2ww.scenario_meta.european_extravaganza": {
         "reference-name": "European Extravaganza",
@@ -9125,7 +9125,7 @@
         "reference-park_name": "European Extravaganza",
         "park_name": "European Extravaganza",
         "reference-details": "You have been brought in to take over a European Cultural Visitor Attraction and must increase the number of guests in order to pay back the EU subsidy by the end of the current European parliament term.",
-        "details": "You have been brought in to take over a European Cultural Visitor Attraction and must increase the number of guests in order to pay back the EU subsidy by the end of the current European parliament term."
+        "details": "Tugadh isteach thú chun Áit Chultúrtha Eorpach do Chuairteoirí a ghlacadh ar láimh agus caithfidh tú líon na n-aíonna a mhéadú chun fóirdheontas an AE a aisíoc faoi dheireadh théarma reatha Pharlaimint na hEorpa."
     },
     "rct2ww.scenario_meta.from_the_ashes": {
         "reference-name": "From the Ashes",
@@ -9133,7 +9133,7 @@
         "reference-park_name": "From the Ashes",
         "park_name": "From the Ashes",
         "reference-details": "An old park has fallen into disrepair. You gain a European Union grant to return this deprived area to its former glory! You need to renovate the park and repay the grant.",
-        "details": "An old park has fallen into disrepair. You gain a European Union grant to return this deprived area to its former glory! You need to renovate the park and repay the grant."
+        "details": "Tá seanpháirc imithe ó mhaith. Faigheann tú deontas ón Aontas Eorpach chun an ceantar díothach seo a thabhairt ar ais chuig a sheanghlóir! Ní mór duit an pháirc a athchóiriú agus an deontas a aisíoc."
     },
     "rct2ww.scenario_meta.great_wall_of_china": {
         "reference-name": "Great Wall of China",
@@ -9141,7 +9141,7 @@
         "reference-park_name": "Great Wall of China",
         "park_name": "Great Wall of China",
         "reference-details": "The authorities have decided to enhance tourism around the Great Wall by building a theme park on the adjacent land. Money is no object!",
-        "details": "The authorities have decided to enhance tourism around the Great Wall by building a theme park on the adjacent land. Money is no object!"
+        "details": "Tá cinneadh déanta ag na húdaráis borradh a chur faoin turasóireacht timpeall an Bhalla Mhóir trí pháirc théama a thógáil ar an talamh in aice láimhe. Is cuma faoin airgead!"
     },
     "rct2ww.scenario_meta.icy_adventures": {
         "reference-name": "Icy Adventures",
@@ -9149,7 +9149,7 @@
         "reference-park_name": "Icy Adventures",
         "park_name": "Icy Adventures",
         "reference-details": "The environment agency has turned to you to transform an old oil refinery ecological eyesore into a top tourist attraction. Land is cheap but loan interest is high. You can sell the old buildings for salvage.",
-        "details": "The environment agency has turned to you to transform an old oil refinery ecological eyesore into a top tourist attraction. Land is cheap but loan interest is high. You can sell the old buildings for salvage."
+        "details": "Tá an ghníomhaireacht chomhshaoil ag iarraidh ort seanscaglann ola atá ina smál éiceolaíoch a athrú ina príomháit turasóireachta. Tá talamh saor ach tá ús ard ar iasachtaí. Is féidir leat na seanfhoirgnimh a dhíol mar tharrtháil."
     },
     "rct2ww.scenario_meta.lost_city_founder": {
         "reference-name": "Lost City Founder",
@@ -9157,7 +9157,7 @@
         "reference-park_name": "Lost City Founder",
         "park_name": "Lost City Founder",
         "reference-details": "To further boost local tourism you must construct a park that is in tune with its surroundings.",
-        "details": "To further boost local tourism you must construct a park that is in tune with its surroundings."
+        "details": "Chun borradh breise a chur faoi thurasóireacht na háite caithfidh tú páirc a thógáil atá ag teacht lena timpeallacht."
     },
     "rct2ww.scenario_meta.mines_of_africa": {
         "reference-name": "Mines of Africa",
@@ -9165,7 +9165,7 @@
         "reference-park_name": "Mines of Africa",
         "park_name": "Mines of Africa",
         "reference-details": "You inherited a disused diamond mine, and find a valuable diamond.  You decide to invest that money to build a world-famous theme park.",
-        "details": "You inherited a disused diamond mine, and find a valuable diamond.  You decide to invest that money to build a world-famous theme park."
+        "details": "Fuair tú seanmhianach diamant le hoidhreacht, agus aimsíonn tú diamant luachmhar. Socraíonn tú an t-airgead sin a infheistiú chun páirc théama a mbeidh cáil dhomhanda uirthi a thógáil."
     },
     "rct2ww.scenario_meta.mirage_madness": {
         "reference-name": "Mirage Madness",
@@ -9173,7 +9173,7 @@
         "reference-park_name": "Mirage Madness",
         "park_name": "Mirage Madness",
         "reference-details": "A desert Oasis has been discovered and would provide a beautiful location for a park. Transport to the oasis has been provided.",
-        "details": "A desert Oasis has been discovered and would provide a beautiful location for a park. Transport to the oasis has been provided."
+        "details": "Thángthas ar ósais fhásaigh a chuirfeadh suíomh álainn ar fáil do pháirc. Tá iompar go dtí an ósais curtha ar fáil."
     },
     "rct2ww.scenario_meta.okinawa_coast": {
         "reference-name": "Okinawa Coast",
@@ -9181,7 +9181,7 @@
         "reference-park_name": "Okinawa Coast",
         "park_name": "Okinawa Coast",
         "reference-details": "An existing park has run out of space. Your only option is to build out into the sea, and so you have taken out a loan. Height restrictions on your building are enforced due to foundations and earthquake risk.",
-        "details": "An existing park has run out of space. Your only option is to build out into the sea, and so you have taken out a loan. Height restrictions on your building are enforced due to foundations and earthquake risk."
+        "details": "Tá easpa spáis ag páirc atá ann cheana. Níl de rogha agat ach tógáil amach san fharraige, agus mar sin tá iasacht tógtha agat. Cuirtear srianta airde i bhfeidhm ar do chuid tógála mar gheall ar bhunsraitheanna agus baol creathanna talún."
     },
     "rct2ww.scenario_meta.over_the_edge": {
         "reference-name": "Over the Edge",
@@ -9189,7 +9189,7 @@
         "reference-park_name": "Over the Edge",
         "park_name": "Over the Edge",
         "reference-details": "A dam has been built offering abundant, cheap hydroelectric power with which to run a park. You need to reach a high park value to help repay the loan for the dam.",
-        "details": "A dam has been built offering abundant, cheap hydroelectric power with which to run a park. You need to reach a high park value to help repay the loan for the dam."
+        "details": "Tógadh damba a sholáthraíonn cumhacht hidrileictreach flúirseach shaor chun páirc a rith. Ní mór duit luach ard páirce a bhaint amach chun cabhrú le hiasacht an damba a aisíoc."
     },
     "rct2ww.scenario_meta.park_maharaja": {
         "reference-name": "Park Maharaja",
@@ -9197,7 +9197,7 @@
         "reference-park_name": "Park Maharaja",
         "park_name": "Park Maharaja",
         "reference-details": "You have been commissioned by the Maharaja to bring entertainment to the large local population. Build a park inspired by the Maharaja’s palace.",
-        "details": "You have been commissioned by the Maharaja to bring entertainment to the large local population. Build a park inspired by the Maharaja’s palace."
+        "details": "Tá an Maharaja tar éis tú a choimisiúnú chun siamsaíocht a thabhairt don daonra mór áitiúil. Tóg páirc spreagtha ag pálás an Maharaja."
     },
     "rct2ww.scenario_meta.rainforest_romp": {
         "reference-name": "Rainforest Romp",
@@ -9205,7 +9205,7 @@
         "reference-park_name": "Rainforest Romp",
         "park_name": "Rainforest Romp",
         "reference-details": "Space is limited in the precious rainforest - you must cram as much as possible into the existing clearing, in order to provide a viable alternative to the local timber industry.",
-        "details": "Space is limited in the precious rainforest - you must cram as much as possible into the existing clearing, in order to provide a viable alternative to the local timber industry."
+        "details": "Tá spás teoranta san fhoraois bháistí luachmhar - caithfidh tú an oiread agus is féidir a bhrú isteach sa réiteach atá ann, chun rogha inmharthana a chur ar fáil in ionad thionscal adhmaid na háite."
     },
     "rct2ww.scenario_meta.rollercoaster_heaven": {
         "reference-name": "Rollercoaster Heaven",
@@ -9213,7 +9213,7 @@
         "reference-park_name": "Rollercoaster Heaven",
         "park_name": "Rollercoaster Heaven",
         "reference-details": "You are a successful business tycoon on long sabbatical who desires to use this time transforming the city park into Rollercoaster Heaven. Money is no object!",
-        "details": "You are a successful business tycoon on long sabbatical who desires to use this time transforming the city park into Rollercoaster Heaven. Money is no object!"
+        "details": "Is toicí rathúil gnó thú atá ar shabóid fhada agus is mian leat an t-am seo a chaitheamh ag athrú pháirc na cathrach ina Rollercoaster Heaven. Is cuma faoin airgead!"
     },
     "rct2ww.scenario_meta.sugarloaf_shores": {
         "reference-name": "Sugarloaf Shores",
@@ -9221,7 +9221,7 @@
         "reference-park_name": "Sugarloaf Shores",
         "park_name": "Sugarloaf Shores",
         "reference-details": "You run a small park near Rio but the bank has called in your loan. You need to quickly increase your earning capacity to repay this unexpected debt.",
-        "details": "You run a small park near Rio but the bank has called in your loan. You need to quickly increase your earning capacity to repay this unexpected debt."
+        "details": "Tá páirc bheag agat in aice le Rio ach tá an banc ag éileamh d’iasachta ar ais. Caithfidh tú do chumas tuillimh a mhéadú go tapa chun an fiach gan choinne seo a aisíoc."
     },
     "rct2ww.scenario_meta.wacky_waikiki": {
         "reference-name": "Wacky Waikiki",
@@ -9229,7 +9229,7 @@
         "reference-park_name": "Wacky Waikiki",
         "park_name": "Wacky Waikiki",
         "reference-details": "The people of Hawaii are bored of surfing and are looking for something more intense. You need to build a park with this in mind to keep the area’s tourist attraction rating high.",
-        "details": "The people of Hawaii are bored of surfing and are looking for something more intense. You need to build a park with this in mind to keep the area’s tourist attraction rating high."
+        "details": "Tá muintir Haváí bréan den surfáil agus iad ag lorg rud éigin níos déine. Caithfidh tú páirc a thógáil leis seo san áireamh chun rátáil turasóireachta an cheantair a choinneáil ard."
     },
     "rct2ww.scenery_group.scgafric": {
         "reference-name": "Africa Theming",
@@ -11857,7 +11857,7 @@
         "reference-park_name": "Winter Wonderland",
         "park_name": "Winter Wonderland",
         "reference-details": "Mum built this scene under our tree. Now she wants a park made in it! Can you help?",
-        "details": "Mum built this scene under our tree. Now she wants a park made in it! Can you help?"
+        "details": "Thóg Mam an radharc seo faoinár gcrann. Anois tá páirc uaithi ann! An féidir leat cabhrú?"
     },
     "uces.scenario_meta.bigrock_blast": {
         "reference-name": "Bigrock Blast",
@@ -11865,7 +11865,7 @@
         "reference-park_name": "Bigrock Blast",
         "park_name": "Bigrock Blast",
         "reference-details": "After an explosion at the Bigrock Mining Co., the people of Bigrock have to build an amusement park to keep their town alive.",
-        "details": "After an explosion at the Bigrock Mining Co., the people of Bigrock have to build an amusement park to keep their town alive."
+        "details": "Tar éis pléasctha ag Bigrock Mining Co., caithfidh muintir Bigrock páirc siamsaíochta a thógáil chun a mbaile a choinneáil beo."
     },
     "uces.scenario_meta.camp_mockingbird": {
         "reference-name": "Camp Mockingbird",
@@ -11873,7 +11873,7 @@
         "reference-park_name": "Camp Mockingbird",
         "park_name": "Camp Mockingbird",
         "reference-details": "Only $500/week to this summer camp! Break open your bank and then have fun and build a park.",
-        "details": "Only $500/week to this summer camp! Break open your bank and then have fun and build a park."
+        "details": "Gan ach $500 sa tseachtain ar an gcampa samhraidh seo! Bris do bhosca airgid agus ansin bain spraoi as agus tóg páirc."
     },
     "uces.scenario_meta.cemetery_ridge": {
         "reference-name": "Cemetery Ridge",
@@ -11881,7 +11881,7 @@
         "reference-park_name": "Cemetery Ridge",
         "park_name": "Cemetery Ridge",
         "reference-details": "This is Halloween, UCES Halloween, pumpkins scream in the dead of night! This graveyard is in trouble and it’s up to you to save it, while letting the dead rest in peace! Can you keep the ghosts in their graves and bring chills to your customers?",
-        "details": "This is Halloween, UCES Halloween, pumpkins scream in the dead of night! This graveyard is in trouble and it’s up to you to save it, while letting the dead rest in peace! Can you keep the ghosts in their graves and bring chills to your customers?"
+        "details": "Oíche Shamhna atá ann, Oíche Shamhna UCES, scréachann puimcíní i marbh na hoíche! Tá an reilig seo i dtrioblóid agus is fútsa atá sé í a shábháil, agus na mairbh a ligean chun suaimhnis! An féidir leat na taibhsí a choinneáil ina n-uaigheanna agus creathanna a chur ar do chustaiméirí?"
     },
     "uces.scenario_meta.choochoo_town": {
         "reference-name": "Choo-Choo Town",
@@ -11889,7 +11889,7 @@
         "reference-park_name": "Choo-Choo Town",
         "park_name": "Choo-Choo Town",
         "reference-details": "Mommy! Daddy! I want to go to Choo-Choo Town!",
-        "details": "Mommy! Daddy! I want to go to Choo-Choo Town!"
+        "details": "A Mhamaí! A Dhaidí! Ba mhaith liom dul go Choo-Choo Town!"
     },
     "uces.scenario_meta.dragon_islands": {
         "reference-name": "Dragon Islands",
@@ -11897,7 +11897,7 @@
         "reference-park_name": "Dragon Islands",
         "park_name": "Dragon Islands",
         "reference-details": "Dragon Islands? I’m not sure I want to go there…",
-        "details": "Dragon Islands? I’m not sure I want to go there…"
+        "details": "Dragon Islands? Níl mé cinnte gur mhaith liom dul ann…"
     },
     "uces.scenario_meta.kiddie_karnival_ii": {
         "reference-name": "Kiddie Karnival II",
@@ -11905,7 +11905,7 @@
         "reference-park_name": "Kiddie Karnival",
         "park_name": "Kiddie Karnival",
         "reference-details": "Hey kids! Let’s have fun!",
-        "details": "Hey kids! Let’s have fun!"
+        "details": "Hé, a pháistí! Bainigí spraoi as!"
     },
     "uces.scenario_meta.luna_park_cleveland": {
         "reference-name": "Luna Park, Cleveland",
@@ -11913,7 +11913,7 @@
         "reference-park_name": "Luna Park",
         "park_name": "Luna Park",
         "reference-details": "As it was on its opening day - 18 May 1905.",
-        "details": "As it was on its opening day - 18 May 1905."
+        "details": "Mar a bhí sí ar lá a hoscailte - 18 Bealtaine 1905."
     },
     "uces.scenario_meta.mount_vesuvius": {
         "reference-name": "Mount Vesuvius",
@@ -11921,7 +11921,7 @@
         "reference-park_name": "Mount Vesuvius",
         "park_name": "Mount Vesuvius",
         "reference-details": "Pompeii and Herculaneum were buried by Mt. Vesuvius in 79 A.D. Visit the excavations and build a park!",
-        "details": "Pompeii and Herculaneum were buried by Mt. Vesuvius in 79 A.D. Visit the excavations and build a park!"
+        "details": "Adhlacadh Pompeii agus Herculaneum ag Sliabh Veasúiv sa bhliain 79 A.D. Tabhair cuairt ar na tochailtí agus tóg páirc!"
     },
     "uces.scenario_meta.niagara_falls_gorge": {
         "reference-name": "Niagara Falls & Gorge",
@@ -11929,7 +11929,7 @@
         "reference-park_name": "Niagara Falls",
         "park_name": "Niagara Falls",
         "reference-details": "American Falls, Bridal Falls & Canadian Horseshoe Falls on the Niagara Frontier, 1850.",
-        "details": "American Falls, Bridal Falls & Canadian Horseshoe Falls on the Niagara Frontier, 1850."
+        "details": "American Falls, Bridal Falls agus Canadian Horseshoe Falls ar theorainn Niagara, 1850."
     },
     "uces.scenario_meta.rocky_mountain_miners": {
         "reference-name": "Rocky Mountain Miners",
@@ -11937,7 +11937,7 @@
         "reference-park_name": "Rocky Mountain Miners",
         "park_name": "Rocky Mountain Miners",
         "reference-details": "A rockslide damaged your railway. Your workers have gone prospecting. Is there gold in roller coasters?",
-        "details": "A rockslide damaged your railway. Your workers have gone prospecting. Is there gold in roller coasters?"
+        "details": "Rinne maidhm charraige damáiste do d’iarnród. Tá do chuid oibrithe imithe ag sirtheoireacht. An bhfuil ór sna rollchóstóirí?"
     },
     "uces.scenario_meta.sand_dune": {
         "reference-name": "Sand Dune",
@@ -11945,7 +11945,7 @@
         "reference-park_name": "Sand Dune",
         "park_name": "Sand Dune",
         "reference-details": "As the owner of a small park, you bought a large piece of land along the beach to expand and attract more guests to visit the beautiful sand dunes, but beware: you cannot disturb those ecologically fragile sand dunes.",
-        "details": "As the owner of a small park, you bought a large piece of land along the beach to expand and attract more guests to visit the beautiful sand dunes, but beware: you cannot disturb those ecologically fragile sand dunes."
+        "details": "Mar úinéir páirce bige, cheannaigh tú píosa mór talún feadh na trá chun leathnú agus níos mó aíonna a mhealladh chuig na dumhcha áille gainimh, ach seachain: ní féidir leat cur isteach ar na dumhcha gainimh sin atá leochaileach ó thaobh éiceolaíochta de."
     },
     "uces.scenario_meta.the_lighthouse_of_alexandria": {
         "reference-name": "The Lighthouse of Alexandria",
@@ -11953,7 +11953,7 @@
         "reference-park_name": "The Lighthouse of Alexandria",
         "park_name": "The Lighthouse of Alexandria",
         "reference-details": "Alexander built the city; Greeks, Romans, Egyptians left their mark. But the biggest honor was a Wonder of the Ancient World - the Lighthouse. Visit and make a park!",
-        "details": "Alexander built the city; Greeks, Romans, Egyptians left their mark. But the biggest honor was a Wonder of the Ancient World - the Lighthouse. Visit and make a park!"
+        "details": "Thóg Alastar an chathair; d’fhág Gréagaigh, Rómhánaigh agus Éigiptigh a lorg uirthi. Ach ba í an onóir ba mhó Iontas den Domhan Ársa - an Teach Solais. Tabhair cuairt agus déan páirc!"
     },
     "uces.scenario_meta.the_sandbox": {
         "reference-name": "The Sandbox",
@@ -11961,7 +11961,7 @@
         "reference-park_name": "The Sandbox",
         "park_name": "The Sandbox",
         "reference-details": "What everyone wants - a sandbox! So grab your l’il pail and shovel and build a park!",
-        "details": "What everyone wants - a sandbox! So grab your l’il pail and shovel and build a park!"
+        "details": "An rud atá ó chách - bosca gainimh! Beir ar do bhuicéidín agus do shluasaidín agus tóg páirc!"
     },
     "uces.scenario_meta.the_time_machine": {
         "reference-name": "The Time Machine",
@@ -11969,7 +11969,7 @@
         "reference-park_name": "The Time Machine",
         "park_name": "The Time Machine",
         "reference-details": "The Time Machine. Build to go - when you want, where you want. Eternity awaits. It’s all relative.",
-        "details": "The Time Machine. Build to go - when you want, where you want. Eternity awaits. It’s all relative."
+        "details": "An Meaisín Ama. Tóg é le himeacht - cathain is mian leat, cibé áit is mian leat. Tá an tsíoraíocht ag fanacht. Tá sé ar fad coibhneasta."
     },
     "uces.scenario_meta.tower_of_babel": {
         "reference-name": "Tower of Babel",
@@ -11977,7 +11977,7 @@
         "reference-park_name": "Tower of Babel",
         "park_name": "Tower of Babel",
         "reference-details": "Whoaa! Look where the time machine took us now! Where did everybody go?",
-        "details": "Whoaa! Look where the time machine took us now! Where did everybody go?"
+        "details": "Whoaa! Féach cá bhfuil an meaisín ama tar éis muid a thabhairt anois! Cá ndeachaigh gach duine?"
     },
     "uces.scenario_meta.transformation": {
         "reference-name": "Transformation",
@@ -11985,7 +11985,7 @@
         "reference-park_name": "Transformation",
         "park_name": "Transformation",
         "reference-details": "We were expecting you…",
-        "details": "We were expecting you…"
+        "details": "Bhíomar ag súil leat…"
     },
     "uces.scenario_meta.urbis_incognitus": {
         "reference-name": "Urbis Incognitus",
@@ -11993,6 +11993,6 @@
         "reference-park_name": "Urbis Incognitus",
         "park_name": "Urbis Incognitus",
         "reference-details": "The Romans are tired of boring gladiator fights. Give them a better thrill, turn a Roman city into the greatest amusement park of all time!",
-        "details": "The Romans are tired of boring gladiator fights. Give them a better thrill, turn a Roman city into the greatest amusement park of all time!"
+        "details": "Tá na Rómhánaigh bréan de throideanna leadránacha gliaireoirí. Tabhair scleondar níos fearr dóibh, athraigh cathair Rómhánach ina páirc siamsaíochta is fearr riamh!"
     }
 }
