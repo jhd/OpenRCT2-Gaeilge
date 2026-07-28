@@ -353,7 +353,7 @@ STR_0976    :Leithris agus Bothanna Eolais
 STR_0977    :Marcaíochtaí iompair nua
 STR_0978    :Marcaíochtaí séimhe nua
 STR_0979    :Rollchóstóirí nua
-STR_0980    :Marcaíochtaí corraitheacha nua
+STR_0980    :Marcaíochtaí fiáine nua
 STR_0981    :Marcaíochtaí uisce nua
 STR_0982    :Siopaí agus Stainníní nua
 STR_0983    :Taighde agus Forbairt
@@ -594,7 +594,7 @@ STR_1222    :No exit
 STR_1223    :Marcaíochtaí iompair
 STR_1224    :Marcaíochtaí séimhe
 STR_1225    :Rollchóstóirí
-STR_1226    :Marcaíochtaí corraitheacha
+STR_1226    :Marcaíochtaí fiáine
 STR_1227    :Marcaíochtaí uisce
 STR_1228    :Siopaí agus stainníní
 STR_1229    :traein
@@ -1769,7 +1769,7 @@ STR_2469    :Roghnú leibhéal taighde agus forbartha
 STR_2470    :Taighde marcaíochtaí iompair nua
 STR_2471    :Taighde marcaíochtaí séimhe nua
 STR_2472    :Taighde rollchóstóirí nua
-STR_2473    :Taighde marcaíochtaí corraitheacha nua
+STR_2473    :Taighde marcaíochtaí fiáine nua
 STR_2474    :Taighde marcaíochtaí uisce nua
 STR_2475    :Taighde siopaí agus stainníní nua
 STR_2476    :Taighde radharcra agus téamú nua
@@ -2472,9 +2472,9 @@ STR_5267    :Culture and Units
 STR_5268    :Audio
 STR_5269    :Controls
 STR_5270    :Miscellaneous
-STR_5272    :Small Scenery
-STR_5273    :Large Scenery
-STR_5274    :Footpath
+STR_5272    :Radharcra beag
+STR_5273    :Radharcra mór
+STR_5274    :Cosán
 STR_5275    :Search for Objects
 STR_5276    :Enter the name of an object to search for
 STR_5277    :Clear
@@ -2491,11 +2491,11 @@ STR_5289    :No breakdowns available for this ride
 STR_5290    :Fix ride
 STR_5291    :Can’t force breakdown
 STR_5292    :Force a breakdown
-STR_5293    :Close ride/attraction
-STR_5294    :Test ride/attraction
-STR_5295    :Open ride/attraction
-STR_5296    :Close park
-STR_5297    :Open park
+STR_5293    :Dún marcaíocht/díol spéise
+STR_5294    :Tástáil marcaíocht/díol spéise
+STR_5295    :Oscail marcaíocht/díol spéise
+STR_5296    :Dún páirc
+STR_5297    :Oscail páirc
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
 STR_5300    :Quick fire staff
@@ -3066,18 +3066,18 @@ STR_6014    :Guests will only pay entrance tickets for rides and services.{NEWLI
 STR_6015    :Sloped
 STR_6016    :Modify Tile
 STR_6017    :Please slow down
-STR_6018    :Construction - Turn left
-STR_6019    :Construction - Turn right
-STR_6020    :Construction - Use default track
-STR_6021    :Construction - Slope down
-STR_6022    :Construction - Slope up
-STR_6023    :Construction - Toggle chain lift
-STR_6024    :Construction - Bank left
-STR_6025    :Construction - Bank right
-STR_6026    :Construction - Previous track
-STR_6027    :Construction - Next track
-STR_6028    :Construction - Build current
-STR_6029    :Construction - Demolish current
+STR_6018    :Tógáil - Cas ar chlé
+STR_6019    :Tógáil - Cas ar dheis
+STR_6020    :Tógáil - Úsáid an ráille réamhshocraithe
+STR_6021    :Tógáil - Fána anuas
+STR_6022    :Tógáil - Fána aníos
+STR_6023    :Tógáil - Scoránaigh ardaitheoir slabhra
+STR_6024    :Tógáil - Claon ar chlé
+STR_6025    :Tógáil - Claon ar dheis
+STR_6026    :Tógáil - Ráille roimhe
+STR_6027    :Tógáil - Ráille ina dhiaidh
+STR_6028    :Tógáil - Tógáil láithreach
+STR_6029    :Tógáil - Scartáil láithreach
 STR_6030    :Scenery picker. Click any scenery on the map to select the same piece for construction.
 STR_6031    :Server Description:
 STR_6032    :Server Greeting:
@@ -3214,12 +3214,12 @@ STR_6188    :Vomit
 STR_6189    :Duck
 STR_6191    :Surface
 STR_6192    :Wall
-STR_6193    :{COMMA16} guest
-STR_6194    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} guest
-STR_6195    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} guest
-STR_6196    :{BLACK}Year:
-STR_6197    :{BLACK}Month:
-STR_6198    :{BLACK}Day:
+STR_6193    :{COMMA16} aoi
+STR_6194    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} aoi
+STR_6195    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} aoi
+STR_6196    :{BLACK}Bliain:
+STR_6197    :{BLACK}Mí:
+STR_6198    :{BLACK}Lá:
 STR_6199    :Set date
 STR_6200    :Reset date
 STR_6201    :{MONTH}
