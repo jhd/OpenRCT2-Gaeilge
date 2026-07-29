@@ -1189,42 +1189,42 @@ STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA32} guests
 STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA32} guests
 STR_1849    :{WINDOW_COLOUR_2}Play music
 STR_1850    :Select whether music should be played for this ride
-STR_1851    :{WINDOW_COLOUR_2}Running cost: {BLACK}{CURRENCY2DP} per hour
-STR_1852    :{WINDOW_COLOUR_2}Running cost: {BLACK}Unknown
-STR_1853    :{WINDOW_COLOUR_2}Built: {BLACK}This Year
-STR_1854    :{WINDOW_COLOUR_2}Built: {BLACK}Last Year
-STR_1855    :{WINDOW_COLOUR_2}Built: {BLACK}{COMMA16} Years Ago
-STR_1856    :{WINDOW_COLOUR_2}Profit per item sold: {BLACK}{CURRENCY2DP}
-STR_1857    :{WINDOW_COLOUR_2}Loss per item sold: {BLACK}{CURRENCY2DP}
-STR_1858    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY2DP} per month
-STR_1859    :Handymen
-STR_1860    :Mechanics
-STR_1861    :Security Guards
-STR_1862    :Entertainers
-STR_1863    :Handyman
-STR_1864    :Mechanic
-STR_1865    :Security Guard
-STR_1866    :Entertainer
+STR_1851    :{WINDOW_COLOUR_2}Costas reatha: {BLACK}{CURRENCY2DP} san uair
+STR_1852    :{WINDOW_COLOUR_2}Costas reatha: {BLACK}Anaithnid
+STR_1853    :{WINDOW_COLOUR_2}Tógtha: {BLACK}An bhliain seo
+STR_1854    :{WINDOW_COLOUR_2}Tógtha: {BLACK}An bhliain seo caite
+STR_1855    :{WINDOW_COLOUR_2}Tógtha: {BLACK}{COMMA16} Bliana ó shin
+STR_1856    :{WINDOW_COLOUR_2}Brabús ar gach mír dhíolta: {BLACK}{CURRENCY2DP}
+STR_1857    :{WINDOW_COLOUR_2}Caillteanas ar gach mír dhíolta: {BLACK}{CURRENCY2DP}
+STR_1858    :{WINDOW_COLOUR_2}Costas: {BLACK}{CURRENCY2DP} sa mhí
+STR_1859    :Airígh
+STR_1860    :Meicneoirí
+STR_1861    :Gardaí Slándála
+STR_1862    :Fuirseoirí
+STR_1863    :Airíoch
+STR_1864    :Meicneoir
+STR_1865    :Garda Slándála
+STR_1866    :Fuirseoir
 STR_1867    :{BLACK}{COMMA32} {STRINGID}
-STR_1868    :Can’t change number of rotations…
-STR_1869    :{WINDOW_COLOUR_2}Number of rotations:
-STR_1870    :Number of complete rotations
-STR_1873    :{WINDOW_COLOUR_2}Income: {BLACK}{CURRENCY2DP} per hour
-STR_1874    :{WINDOW_COLOUR_2}Profit: {BLACK}{CURRENCY2DP} per hour
-STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Inspect Rides
-STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}Fix Rides
-STR_1878    :{WINDOW_COLOUR_2}Inspection:
-STR_1879    :Every 10 minutes
-STR_1880    :Every 20 minutes
-STR_1881    :Every 30 minutes
-STR_1882    :Every 45 minutes
-STR_1883    :Every hour
-STR_1884    :Every 2 hours
-STR_1885    :Never
-STR_1886    :Inspecting {STRINGID}
-STR_1887    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}{COMMA16} minutes
-STR_1888    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}more than 4 hours
-STR_1889    :{WINDOW_COLOUR_2}Down-Time: {MOVE_X}{255}{BLACK}{COMMA16}%
+STR_1868    :Ní féidir líon na rothluithe a athrú…
+STR_1869    :{WINDOW_COLOUR_2}Líon na rothluithe:
+STR_1870    :Líon na rothluithe iomlána
+STR_1873    :{WINDOW_COLOUR_2}Ioncam: {BLACK}{CURRENCY2DP} san uair
+STR_1874    :{WINDOW_COLOUR_2}Brabús: {BLACK}{CURRENCY2DP} san uair
+STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Scrúdaigh Marcaíochtaí
+STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}Deisigh Marcaíochtaí
+STR_1878    :{WINDOW_COLOUR_2}Scrúdú:
+STR_1879    :Gach 10 nóiméad
+STR_1880    :Gach 20 nóiméad
+STR_1881    :Gach 30 nóiméad
+STR_1882    :Gach 45 nóiméad
+STR_1883    :Gach uair
+STR_1884    :Gach 2 uair
+STR_1885    :Gan scrúdú
+STR_1886    :Ag scrúdú {STRINGID}
+STR_1887    :{WINDOW_COLOUR_2}Am ón scrúdú deireanach: {BLACK}{COMMA16} nóiméad
+STR_1888    :{WINDOW_COLOUR_2}Am ón scrúdú deireanach: {BLACK}níos mó ná 4 uair
+STR_1889    :{WINDOW_COLOUR_2}Am díomhaoin: {MOVE_X}{255}{BLACK}{COMMA16}%
 STR_1890    :Select how often a mechanic should check this ride
 STR_1891    :No {STRINGID} in park yet!
 STR_1894    :{WINDOW_COLOUR_2}{STRINGID} sold: {BLACK}{COMMA32}
