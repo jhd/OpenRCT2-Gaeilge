@@ -846,28 +846,28 @@ STR_1476    :{WINDOW_COLOUR_2}Rátáil déine: {BLACK}Gan fáil fós
 STR_1477    :{WINDOW_COLOUR_2}Rátáil déine: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
 STR_1478    :{WINDOW_COLOUR_2}Rátáil masmais: {BLACK}{COMMA2DP32}  ({STRINGID})
 STR_1479    :{WINDOW_COLOUR_2}Rátáil masmais: {BLACK}Gan fáil fós
-STR_1480    :“I can’t afford {STRINGID}”
-STR_1481    :“I’ve spent all my money”
-STR_1482    :“I feel sick”
-STR_1483    :“I feel very sick”
-STR_1484    :“I want to go on something more thrilling than {STRINGID}”
-STR_1485    :“{STRINGID} looks too intense for me”
-STR_1486    :“I haven’t finished my {STRINGID} yet”
-STR_1487    :“Just looking at {STRINGID} makes me feel sick”
-STR_1488    :“I’m not paying that much to go on {STRINGID}”
-STR_1489    :“I want to go home”
-STR_1490    :“{STRINGID} is really good value”
-STR_1491    :“I’ve already got {STRINGID}”
-STR_1492    :“I can’t afford {STRINGID}”
-STR_1493    :“I’m not hungry”
-STR_1494    :“I’m not thirsty”
-STR_1495    :“Help! I’m drowning!”
-STR_1496    :“I’m lost!”
-STR_1497    :“{STRINGID} was great”
-STR_1498    :“I’ve been queuing for {STRINGID} for ages”
-STR_1499    :“I’m tired”
-STR_1500    :“I’m hungry”
-STR_1501    :“I’m thirsty”
+STR_1480    :“Níl mé in acmhainn {STRINGID}”
+STR_1481    :“Chaith mé mo chuid airgid ar fad”
+STR_1482    :“Tá masmas orm”
+STR_1483    :“Tá an-mhasmas orm”
+STR_1484    :“Ba mhaith liom dul ar rud níos fiáine ná {STRINGID}”
+STR_1485    :“Tá cuma ródhian ar {STRINGID} domsa”
+STR_1486    :“Níl mo {STRINGID} críochnaithe fós”
+STR_1487    :“Cuireann an t-amharc ar {STRINGID} masmas orm”
+STR_1488    :“Níl mé ag íoc an méid sin chun dul ar {STRINGID}”
+STR_1489    :“Ba mhaith liom dul abhaile”
+STR_1490    :“Tá luach an-mhaith ar {STRINGID}”
+STR_1491    :“Tá {STRINGID} agam cheana féin”
+STR_1492    :“Níl mé in acmhainn {STRINGID}”
+STR_1493    :“Níl ocras orm”
+STR_1494    :“Níl tart orm”
+STR_1495    :“Fóir orm! Táim á bhá!”
+STR_1496    :“Táim caillte!”
+STR_1497    :“Bhí {STRINGID} iontach”
+STR_1498    :“Táim i scuaine do {STRINGID} le fada an lá”
+STR_1499    :“Tá tuirse orm”
+STR_1500    :“Tá ocras orm”
+STR_1501    :“Tá tart orm”
 STR_1502    :“I need to go to the toilet”
 STR_1503    :“I can’t find {STRINGID}”
 STR_1504    :“I’m not paying that much to use {STRINGID}”
