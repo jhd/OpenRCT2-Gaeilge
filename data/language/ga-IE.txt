@@ -1989,7 +1989,7 @@ STR_2834    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháir
 STR_2835    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc is áille sa tír’!
 STR_2836    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc is measa luach sa tír’!
 STR_2837    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc is sábháilte sa tír’!
-STR_2838    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis an bhfoireann is fearr sa tír’!
+STR_2838    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis an bhfoireann is fearr’!
 STR_2839    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis an mbia is fearr sa tír’!
 STR_2840    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis an mbia is measa sa tír’!
 STR_2841    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis na leithris is fearr sa tír’!
