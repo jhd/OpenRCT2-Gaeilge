@@ -1550,18 +1550,18 @@ STR_2232    :Cable lift hill
 STR_2233    :Park information
 STR_2234    :Recent Messages
 STR_2235    :{STRINGID} {STRINGID}
-STR_2236    :January
-STR_2237    :February
-STR_2238    :March
-STR_2239    :April
-STR_2240    :May
-STR_2241    :June
-STR_2242    :July
-STR_2243    :August
-STR_2244    :September
-STR_2245    :October
-STR_2246    :November
-STR_2247    :December
+STR_2236    :Eanáir
+STR_2237    :Feabhra
+STR_2238    :Márta
+STR_2239    :Aibreán
+STR_2240    :Bealtaine
+STR_2241    :Meitheamh
+STR_2242    :Iúil
+STR_2243    :Lúnasa
+STR_2244    :Meán Fómhair
+STR_2245    :Deireadh Fómhair
+STR_2246    :Samhain
+STR_2247    :Nollaig
 STR_2248    :Can’t demolish ride/attraction…
 STR_2249    :{BABYBLUE}New ride/attraction now available:{NEWLINE}{STRINGID}
 STR_2250    :{BABYBLUE}New scenery/theming now available:{NEWLINE}{STRINGID}
@@ -1573,7 +1573,7 @@ STR_2255    :Rollchóstóirí
 STR_2256    :Marcaíochtaí Fiáine
 STR_2257    :Marcaíochtaí Uisce
 STR_2258    :Siopaí agus Stainníní
-STR_2259    :Radharcra & Téamú
+STR_2259    :Radharcra agus Téamú
 STR_2260    :No funding
 STR_2261    :Minimum funding
 STR_2262    :Normal funding
