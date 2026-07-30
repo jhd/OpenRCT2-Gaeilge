@@ -1567,13 +1567,13 @@ STR_2249    :{BABYBLUE}New ride/attraction now available:{NEWLINE}{STRINGID}
 STR_2250    :{BABYBLUE}New scenery/theming now available:{NEWLINE}{STRINGID}
 STR_2251    :Can only be built on paths!
 STR_2252    :Can only be built across paths!
-STR_2253    :Transport Rides
-STR_2254    :Gentle Rides
+STR_2253    :Marcaíochtaí Iompair
+STR_2254    :Marcaíochtaí Séimhe
 STR_2255    :Rollchóstóirí
-STR_2256    :Thrill Rides
-STR_2257    :Water Rides
-STR_2258    :Shops & Stalls
-STR_2259    :Scenery & Theming
+STR_2256    :Marcaíochtaí Fiáine
+STR_2257    :Marcaíochtaí Uisce
+STR_2258    :Siopaí agus Stainníní
+STR_2259    :Radharcra & Téamú
 STR_2260    :No funding
 STR_2261    :Minimum funding
 STR_2262    :Normal funding
@@ -1592,13 +1592,13 @@ STR_2274    :Show details of this invention or development
 STR_2275    :Show funding and options for research & development
 STR_2276    :Show research & development status
 STR_2277    :Unknown
-STR_2278    :Transport Ride
-STR_2279    :Gentle Ride
+STR_2278    :Marcaíocht Iompair
+STR_2279    :Marcaíocht Shéimh
 STR_2280    :Rollchóstóir
-STR_2281    :Thrill Ride
-STR_2282    :Water Ride
-STR_2283    :Shop/Stall
-STR_2284    :Scenery/Theming
+STR_2281    :Marcaíocht Fhiáin
+STR_2282    :Marcaíocht Uisce
+STR_2283    :Siopa/Stainnín
+STR_2284    :Radharcra/Téamú
 STR_2285    :Initial research
 STR_2286    :Designing
 STR_2287    :Completing design
