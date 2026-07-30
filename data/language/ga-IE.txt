@@ -881,35 +881,35 @@ STR_1511    :“Tá an cosán seo déistineach”
 STR_1512    :“Tá sé róphlódaithe anseo”
 STR_1513    :“Tá an chreachadóireacht anseo an-dona”
 STR_1514    :“Radharcra iontach!”
-STR_1515    :“This park is really clean and tidy”
-STR_1516    :“The jumping fountains are great”
-STR_1517    :“The music is nice here”
-STR_1518    :“This balloon from {STRINGID} is really good value”
-STR_1519    :“This cuddly toy from {STRINGID} is really good value”
-STR_1520    :“This park map from {STRINGID} is really good value”
-STR_1521    :“This on-ride photo from {STRINGID} is really good value”
-STR_1522    :“This umbrella from {STRINGID} is really good value”
-STR_1523    :“This drink from {STRINGID} is really good value”
-STR_1524    :“This burger from {STRINGID} is really good value”
-STR_1525    :“These chips from {STRINGID} are really good value”
-STR_1526    :“This ice cream from {STRINGID} is really good value”
-STR_1527    :“This candyfloss from {STRINGID} is really good value”
+STR_1515    :“Tá an pháirc seo an-ghlan agus néata”
+STR_1516    :“Tá na fuaráin léimneacha iontach”
+STR_1517    :“Tá an ceol anseo deas”
+STR_1518    :“Tá luach an-mhaith ar an mbalún seo as {STRINGID}”
+STR_1519    :“Tá luach an-mhaith ar an mbréagán bog seo as {STRINGID}”
+STR_1520    :“Tá luach an-mhaith ar an mapa páirce seo as {STRINGID}”
+STR_1521    :“Tá luach an-mhaith ar an ngrianghraf marcaíochta seo as {STRINGID}”
+STR_1522    :“Tá luach an-mhaith ar an scáth fearthainne seo as {STRINGID}”
+STR_1523    :“Tá luach an-mhaith ar an deoch seo as {STRINGID}”
+STR_1524    :“Tá luach an-mhaith ar an mburgar seo as {STRINGID}”
+STR_1525    :“Tá luach an-mhaith ar na sceallóga seo as {STRINGID}”
+STR_1526    :“Tá luach an-mhaith ar an uachtar reoite seo as {STRINGID}”
+STR_1527    :“Tá luach an-mhaith ar an bhflas candaí seo as {STRINGID}”
 STR_1528    :
 STR_1529    :
 STR_1530    :
-STR_1531    :“This pizza from {STRINGID} is really good value”
+STR_1531    :“Tá luach an-mhaith ar an bpíotsa seo as {STRINGID}”
 STR_1532    :
-STR_1533    :“This popcorn from {STRINGID} is really good value”
-STR_1534    :“This hot dog from {STRINGID} is really good value”
-STR_1535    :“This tentacle from {STRINGID} is really good value”
-STR_1536    :“This hat from {STRINGID} is really good value”
-STR_1537    :“This toffee apple from {STRINGID} is really good value”
-STR_1538    :“This T-shirt from {STRINGID} is really good value”
-STR_1539    :“This doughnut from {STRINGID} is really good value”
-STR_1540    :“This coffee from {STRINGID} is really good value”
+STR_1533    :“Tá luach an-mhaith ar an ngrán rósta seo as {STRINGID}”
+STR_1534    :“Tá luach an-mhaith ar an mbrocaire te seo as {STRINGID}”
+STR_1535    :“Tá luach an-mhaith ar an mbraiteog seo as {STRINGID}”
+STR_1536    :“Tá luach an-mhaith ar an hata seo as {STRINGID}”
+STR_1537    :“Tá luach an-mhaith ar an úll taifí seo as {STRINGID}”
+STR_1538    :“Tá luach an-mhaith ar an T-léine seo as {STRINGID}”
+STR_1539    :“Tá luach an-mhaith ar an taoschnó seo as {STRINGID}”
+STR_1540    :“Tá luach an-mhaith ar an gcaife seo as {STRINGID}”
 STR_1541    :
-STR_1542    :“This fried chicken from {STRINGID} is really good value”
-STR_1543    :“This lemonade from {STRINGID} is really good value”
+STR_1542    :“Tá luach an-mhaith ar an tsicín friochta seo as {STRINGID}”
+STR_1543    :“Tá luach an-mhaith ar an líomanáid seo as {STRINGID}”
 STR_1544    :
 STR_1545    :
 STR_1546    :
