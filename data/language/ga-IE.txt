@@ -1995,10 +1995,10 @@ STR_2840    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháir
 STR_2841    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis na leithris is fearr sa tír’!
 STR_2842    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc is mó díomá sa tír’!
 STR_2843    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis na marcaíochtaí uisce is fearr sa tír’!
-STR_2844    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis na marcaíochtaí saincheaptha is fearr sa tír’!
-STR_2845    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis an rogha is dallraithí ar scéimeanna dathanna sa tír’!
-STR_2846    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis an leagan amach is mearbhlaí sa tír’!
-STR_2847    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis na marcaíochtaí séimhe is fearr sa tír’!
+STR_2844    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis na marcaíochtaí saincheaptha is fearr’!
+STR_2845    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis an rogha is dallraithí ar scéimeanna dathanna’!
+STR_2846    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis an leagan amach is mearbhlaí’!
+STR_2847    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis na marcaíochtaí séimhe is fearr’!
 STR_2848    :{WINDOW_COLOUR_2}Gan aon ghradam le déanaí
 STR_2849    :New scenario installed successfully
 STR_2850    :New track design installed successfully
