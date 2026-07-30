@@ -868,19 +868,19 @@ STR_1498    :“Táim i scuaine do {STRINGID} le fada an lá”
 STR_1499    :“Tá tuirse orm”
 STR_1500    :“Tá ocras orm”
 STR_1501    :“Tá tart orm”
-STR_1502    :“I need to go to the toilet”
-STR_1503    :“I can’t find {STRINGID}”
-STR_1504    :“I’m not paying that much to use {STRINGID}”
-STR_1505    :“I’m not going on {STRINGID} while it’s raining”
-STR_1506    :“The litter here is really bad”
-STR_1507    :“I can’t find the park exit”
-STR_1508    :“I want to get off {STRINGID}”
-STR_1509    :“I want to get out of {STRINGID}”
-STR_1510    :“I’m not going on {STRINGID} - it isn’t safe”
-STR_1511    :“This path is disgusting”
-STR_1512    :“It’s too crowded here”
-STR_1513    :“The vandalism here is really bad”
-STR_1514    :“Great scenery!”
+STR_1502    :“Caithfidh mé dul go dtí an leithreas”
+STR_1503    :“Ní féidir liom {STRINGID} a aimsiú”
+STR_1504    :“Níl mé ag íoc an méid sin chun {STRINGID} a úsáid”
+STR_1505    :“Nílim ag dul ar {STRINGID} fad atá sé ag cur báistí”
+STR_1506    :“Tá an bruscar anseo an-dona”
+STR_1507    :“Ní féidir liom bealach amach na páirce a aimsiú”
+STR_1508    :“Ba mhaith liom tuirlingt de {STRINGID}”
+STR_1509    :“Ba mhaith liom dul amach as {STRINGID}”
+STR_1510    :“Nílim ag dul ar {STRINGID} - níl sé sábháilte”
+STR_1511    :“Tá an cosán seo déistineach”
+STR_1512    :“Tá sé róphlódaithe anseo”
+STR_1513    :“Tá an chreachadóireacht anseo an-dona”
+STR_1514    :“Radharcra iontach!”
 STR_1515    :“This park is really clean and tidy”
 STR_1516    :“The jumping fountains are great”
 STR_1517    :“The music is nice here”
