@@ -870,7 +870,7 @@ STR_1500    :“Tá ocras orm”
 STR_1501    :“Tá tart orm”
 STR_1502    :“Caithfidh mé dul go dtí an leithreas”
 STR_1503    :“Ní féidir liom {STRINGID} a aimsiú”
-STR_1504    :“Níl mé ag íoc an méid sin chun {STRINGID} a úsáid”
+STR_1504    :“Nílim ag íoc an méid sin chun {STRINGID} a úsáid”
 STR_1505    :“Nílim ag dul ar {STRINGID} fad atá sé ag cur báistí”
 STR_1506    :“Tá an bruscar anseo an-dona”
 STR_1507    :“Ní féidir liom bealach amach na páirce a aimsiú”
@@ -916,34 +916,34 @@ STR_1546    :
 STR_1547    :
 STR_1548    :
 STR_1549    :
-STR_1550    :“Wow!”
-STR_1551    :“I have the strangest feeling someone is watching me”
-STR_1552    :“I’m not paying that much for a balloon from {STRINGID}”
-STR_1553    :“I’m not paying that much for a cuddly toy from {STRINGID}”
-STR_1554    :“I’m not paying that much for a park map from {STRINGID}”
-STR_1555    :“I’m not paying that much for an on-ride photo from {STRINGID}”
-STR_1556    :“I’m not paying that much for an umbrella from {STRINGID}”
-STR_1557    :“I’m not paying that much for a drink from {STRINGID}”
-STR_1558    :“I’m not paying that much for a burger from {STRINGID}”
-STR_1559    :“I’m not paying that much for chips from {STRINGID}”
-STR_1560    :“I’m not paying that much for an ice cream from {STRINGID}”
-STR_1561    :“I’m not paying that much for candyfloss from {STRINGID}”
+STR_1550    :“M'anam!”
+STR_1551    :“Tá an mothú is aistí agam go bhfuil duine éigin ag faire orm”
+STR_1552    :“Nílim ag íoc an méid sin ar bhalún as {STRINGID}”
+STR_1553    :“Nílim ag íoc an méid sin ar bhréagán bog as {STRINGID}”
+STR_1554    :“Nílim ag íoc an méid sin ar mhapa páirce as {STRINGID}”
+STR_1555    :“Nílim ag íoc an méid sin ar ghrianghraf marcaíochta as {STRINGID}”
+STR_1556    :“Nílim ag íoc an méid sin ar scáth fearthainne as {STRINGID}”
+STR_1557    :“Nílim ag íoc an méid sin ar dheoch as {STRINGID}”
+STR_1558    :“Nílim ag íoc an méid sin ar bhurgar as {STRINGID}”
+STR_1559    :“Nílim ag íoc an méid sin ar sceallóga as {STRINGID}”
+STR_1560    :“Nílim ag íoc an méid sin ar uachtar reoite as {STRINGID}”
+STR_1561    :“Nílim ag íoc an méid sin ar fhlas candaí as {STRINGID}”
 STR_1562    :
 STR_1563    :
 STR_1564    :
-STR_1565    :“I’m not paying that much for pizza from {STRINGID}”
+STR_1565    :“Nílim ag íoc an méid sin ar phíotsa as {STRINGID}”
 STR_1566    :
-STR_1567    :“I’m not paying that much for popcorn from {STRINGID}”
-STR_1568    :“I’m not paying that much for a hot dog from {STRINGID}”
-STR_1569    :“I’m not paying that much for tentacle from {STRINGID}”
-STR_1570    :“I’m not paying that much for a hat from {STRINGID}”
-STR_1571    :“I’m not paying that much for a toffee apple from {STRINGID}”
-STR_1572    :“I’m not paying that much for a T-shirt from {STRINGID}”
-STR_1573    :“I’m not paying that much for a doughnut from {STRINGID}”
-STR_1574    :“I’m not paying that much for coffee from {STRINGID}”
+STR_1567    :“Nílim ag íoc an méid sin ar ghrán rósta as {STRINGID}”
+STR_1568    :“Nílim ag íoc an méid sin ar bhrocaire te as {STRINGID}”
+STR_1569    :“Nílim ag íoc an méid sin ar bhraiteog as {STRINGID}”
+STR_1570    :“Nílim ag íoc an méid sin ar hata as {STRINGID}”
+STR_1571    :“Nílim ag íoc an méid sin ar úll taifí as {STRINGID}”
+STR_1572    :“Nílim ag íoc an méid sin ar T-léine as {STRINGID}”
+STR_1573    :“Nílim ag íoc an méid sin ar thaoschnó as {STRINGID}”
+STR_1574    :“Nílim ag íoc an méid sin ar chaife as {STRINGID}”
 STR_1575    :
-STR_1576    :“I’m not paying that much for fried chicken from {STRINGID}”
-STR_1577    :“I’m not paying that much for lemonade from {STRINGID}”
+STR_1576    :“Nílim ag íoc an méid sin ar shicín friochta as {STRINGID}”
+STR_1577    :“Nílim ag íoc an méid sin ar líomanáid as {STRINGID}”
 STR_1578    :
 STR_1579    :
 STR_1580    :
