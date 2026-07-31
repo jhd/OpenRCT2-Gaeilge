@@ -1021,11 +1021,11 @@ STR_1653    :“…agus seo muid ar {STRINGID}!”
 STR_1654    :{WINDOW_COLOUR_2}Smaointe le déanaí:
 STR_1655    :Tóg cosán ar thalamh
 STR_1656    :Tóg cosán droichid nó tolláin
-STR_1657    :{WINDOW_COLOUR_2}Marcaíocht tosaíochta
+STR_1657    :{WINDOW_COLOUR_2}Rogha marcaíochta
 STR_1658    :{WINDOW_COLOUR_2}déine: {BLACK}níos lú ná {COMMA16}
 STR_1659    :{WINDOW_COLOUR_2}déine: {BLACK}idir {COMMA16} agus {COMMA16}
 STR_1660    :{WINDOW_COLOUR_2}déine: {BLACK}níos mó ná {COMMA16}
-STR_1661    :{WINDOW_COLOUR_2}Rogha masmais: {BLACK}{STRINGID}
+STR_1661    :{WINDOW_COLOUR_2}Fulaingt masmais: {BLACK}{STRINGID}
 STR_1662    :{WINDOW_COLOUR_2}Sonas:
 STR_1663    :{WINDOW_COLOUR_2}Masmas:
 STR_1664    :{WINDOW_COLOUR_2}Fuinneamh:
