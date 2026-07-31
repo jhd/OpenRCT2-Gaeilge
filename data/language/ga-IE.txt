@@ -950,27 +950,27 @@ STR_1580    :
 STR_1581    :
 STR_1582    :
 STR_1583    :
-STR_1584    :“This on-ride photo from {STRINGID} is really good value”
-STR_1585    :“This on-ride photo from {STRINGID} is really good value”
-STR_1586    :“This on-ride photo from {STRINGID} is really good value”
-STR_1587    :“This pretzel from {STRINGID} is really good value”
-STR_1588    :“This hot chocolate from {STRINGID} is really good value”
-STR_1589    :“This iced tea from {STRINGID} is really good value”
-STR_1590    :“This funnel cake from {STRINGID} is really good value”
-STR_1591    :“These sunglasses from {STRINGID} are really good value”
-STR_1592    :“These beef noodles from {STRINGID} are really good value”
-STR_1593    :“These fried rice noodles from {STRINGID} are really good value”
-STR_1594    :“This wonton soup from {STRINGID} is really good value”
-STR_1595    :“This meatball soup from {STRINGID} is really good value”
-STR_1596    :“This fruit juice from {STRINGID} is really good value”
-STR_1597    :“This soybean milk from {STRINGID} is really good value”
-STR_1598    :“This sujeonggwa from {STRINGID} is really good value”
-STR_1599    :“This sub sandwich from {STRINGID} is really good value”
-STR_1600    :“This cookie from {STRINGID} is really good value”
+STR_1584    :“Tá luach an-mhaith ar an ngrianghraf marcaíochta seo as {STRINGID}”
+STR_1585    :“Tá luach an-mhaith ar an ngrianghraf marcaíochta seo as {STRINGID}”
+STR_1586    :“Tá luach an-mhaith ar an ngrianghraf marcaíochta seo as {STRINGID}”
+STR_1587    :“Tá luach an-mhaith ar an bpreatsal seo as {STRINGID}”
+STR_1588    :“Tá luach an-mhaith ar an tseacláid te seo as {STRINGID}”
+STR_1589    :“Tá luach an-mhaith ar an tae oighrithe seo as {STRINGID}”
+STR_1590    :“Tá luach an-mhaith ar an gcáca fuidrimh seo as {STRINGID}”
+STR_1591    :“Tá luach an-mhaith ar na spéaclaí gréine seo as {STRINGID}”
+STR_1592    :“Tá luach an-mhaith ar na núdail mairteola seo as {STRINGID}”
+STR_1593    :“Tá luach an-mhaith ar na núdail ríse friochta seo as {STRINGID}”
+STR_1594    :“Tá luach an-mhaith ar an anraith wonton seo as {STRINGID}”
+STR_1595    :“Tá luach an-mhaith ar an anraith feoilmheall seo as {STRINGID}”
+STR_1596    :“Tá luach an-mhaith ar an tsú torthaí seo as {STRINGID}”
+STR_1597    :“Tá luach an-mhaith ar an mbainne pónaire soighe seo as {STRINGID}”
+STR_1598    :“Tá luach an-mhaith ar an tsujeonggwa seo as {STRINGID}”
+STR_1599    :“Tá luach an-mhaith ar an bhfo-cheapaire seo as {STRINGID}”
+STR_1600    :“Tá luach an-mhaith ar an mbriosca seo as {STRINGID}”
 STR_1601    :
 STR_1602    :
 STR_1603    :
-STR_1604    :“This roast sausage from {STRINGID} is really good value”
+STR_1604    :“Tá luach an-mhaith ar an ispín rósta seo as {STRINGID}”
 STR_1605    :
 STR_1606    :
 STR_1607    :
@@ -982,27 +982,27 @@ STR_1612    :
 STR_1613    :
 STR_1614    :
 STR_1615    :
-STR_1616    :“I’m not paying that much for an on-ride photo from {STRINGID}”
-STR_1617    :“I’m not paying that much for an on-ride photo from {STRINGID}”
-STR_1618    :“I’m not paying that much for an on-ride photo from {STRINGID}”
-STR_1619    :“I’m not paying that much for a pretzel from {STRINGID}”
-STR_1620    :“I’m not paying that much for hot chocolate from {STRINGID}”
-STR_1621    :“I’m not paying that much for iced tea from {STRINGID}”
-STR_1622    :“I’m not paying that much for a funnel cake from {STRINGID}”
-STR_1623    :“I’m not paying that much for sunglasses from {STRINGID}”
-STR_1624    :“I’m not paying that much for beef noodles from {STRINGID}”
-STR_1625    :“I’m not paying that much for fried rice noodles from {STRINGID}”
-STR_1626    :“I’m not paying that much for wonton soup from {STRINGID}”
-STR_1627    :“I’m not paying that much for meatball soup from {STRINGID}”
-STR_1628    :“I’m not paying that much for fruit juice from {STRINGID}”
-STR_1629    :“I’m not paying that much for soybean milk from {STRINGID}”
-STR_1630    :“I’m not paying that much for sujeonggwa from {STRINGID}”
-STR_1631    :“I’m not paying that much for a sub sandwich from {STRINGID}”
-STR_1632    :“I’m not paying that much for a cookie from {STRINGID}”
+STR_1616    :“Nílim ag íoc an méid sin ar ghrianghraf marcaíochta as {STRINGID}”
+STR_1617    :“Nílim ag íoc an méid sin ar ghrianghraf marcaíochta as {STRINGID}”
+STR_1618    :“Nílim ag íoc an méid sin ar ghrianghraf marcaíochta as {STRINGID}”
+STR_1619    :“Nílim ag íoc an méid sin ar phreatsal as {STRINGID}”
+STR_1620    :“Nílim ag íoc an méid sin ar sheacláid te as {STRINGID}”
+STR_1621    :“Nílim ag íoc an méid sin ar thae oighrithe as {STRINGID}”
+STR_1622    :“Nílim ag íoc an méid sin ar cháca fuidrimh as {STRINGID}”
+STR_1623    :“Nílim ag íoc an méid sin ar spéaclaí gréine as {STRINGID}”
+STR_1624    :“Nílim ag íoc an méid sin ar núdail mairteola as {STRINGID}”
+STR_1625    :“Nílim ag íoc an méid sin ar núdail ríse friochta as {STRINGID}”
+STR_1626    :“Nílim ag íoc an méid sin ar anraith wonton as {STRINGID}”
+STR_1627    :“Nílim ag íoc an méid sin ar anraith feoilmheall as {STRINGID}”
+STR_1628    :“Nílim ag íoc an méid sin ar shú torthaí as {STRINGID}”
+STR_1629    :“Nílim ag íoc an méid sin ar bhainne pónaire soighe as {STRINGID}”
+STR_1630    :“Nílim ag íoc an méid sin ar shujeonggwa as {STRINGID}”
+STR_1631    :“Nílim ag íoc an méid sin ar fho-cheapaire as {STRINGID}”
+STR_1632    :“Nílim ag íoc an méid sin ar bhriosca as {STRINGID}”
 STR_1633    :
 STR_1634    :
 STR_1635    :
-STR_1636    :“I’m not paying that much for a roast sausage from {STRINGID}”
+STR_1636    :“Nílim ag íoc an méid sin ar ispín rósta as {STRINGID}”
 STR_1637    :
 STR_1638    :
 STR_1639    :
@@ -1014,28 +1014,28 @@ STR_1644    :
 STR_1645    :
 STR_1646    :
 STR_1647    :
-STR_1648    :“Help! Put me down!”
-STR_1649    :“I’m running out of cash!”
-STR_1650    :“Wow! A new ride being built!”
-STR_1653    :“…and here we are on {STRINGID}!”
-STR_1654    :{WINDOW_COLOUR_2}Recent thoughts:
-STR_1655    :Construct footpath on land
-STR_1656    :Construct bridge or tunnel footpath
-STR_1657    :{WINDOW_COLOUR_2}Preferred ride
-STR_1658    :{WINDOW_COLOUR_2}intensity: {BLACK}less than {COMMA16}
-STR_1659    :{WINDOW_COLOUR_2}intensity: {BLACK}between {COMMA16} and {COMMA16}
-STR_1660    :{WINDOW_COLOUR_2}intensity: {BLACK}more than {COMMA16}
-STR_1661    :{WINDOW_COLOUR_2}Nausea tolerance: {BLACK}{STRINGID}
-STR_1662    :{WINDOW_COLOUR_2}Happiness:
-STR_1663    :{WINDOW_COLOUR_2}Nausea:
-STR_1664    :{WINDOW_COLOUR_2}Energy:
-STR_1665    :{WINDOW_COLOUR_2}Hunger:
-STR_1666    :{WINDOW_COLOUR_2}Thirst:
-STR_1667    :{WINDOW_COLOUR_2}Toilet:
-STR_1668    :{WINDOW_COLOUR_2}Satisfaction: {BLACK}Unknown
-STR_1669    :{WINDOW_COLOUR_2}Satisfaction: {BLACK}{COMMA16}%
-STR_1670    :{WINDOW_COLOUR_2}Total customers: {BLACK}{COMMA32}
-STR_1671    :{WINDOW_COLOUR_2}Total profit: {BLACK}{CURRENCY2DP}
+STR_1648    :“Fóir orm! Cuir síos mé!”
+STR_1649    :“Tá mo cuid airgid ag trá!”
+STR_1650    :“M'anam! Marcaíocht nua á tógáil!”
+STR_1653    :“…agus seo muid ar {STRINGID}!”
+STR_1654    :{WINDOW_COLOUR_2}Smaointe le déanaí:
+STR_1655    :Tóg cosán ar thalamh
+STR_1656    :Tóg cosán droichid nó tolláin
+STR_1657    :{WINDOW_COLOUR_2}Marcaíocht tosaíochta
+STR_1658    :{WINDOW_COLOUR_2}déine: {BLACK}níos lú ná {COMMA16}
+STR_1659    :{WINDOW_COLOUR_2}déine: {BLACK}idir {COMMA16} agus {COMMA16}
+STR_1660    :{WINDOW_COLOUR_2}déine: {BLACK}níos mó ná {COMMA16}
+STR_1661    :{WINDOW_COLOUR_2}Rogha masmais: {BLACK}{STRINGID}
+STR_1662    :{WINDOW_COLOUR_2}Sonas:
+STR_1663    :{WINDOW_COLOUR_2}Masmas:
+STR_1664    :{WINDOW_COLOUR_2}Fuinneamh:
+STR_1665    :{WINDOW_COLOUR_2}Ocras:
+STR_1666    :{WINDOW_COLOUR_2}Tart:
+STR_1667    :{WINDOW_COLOUR_2}Leithreas:
+STR_1668    :{WINDOW_COLOUR_2}Sásamh: {BLACK}Anaithnid
+STR_1669    :{WINDOW_COLOUR_2}Sásamh: {BLACK}{COMMA16}%
+STR_1670    :{WINDOW_COLOUR_2}Iomlán custaiméirí: {BLACK}{COMMA32}
+STR_1671    :{WINDOW_COLOUR_2}Iomlán brabúis: {BLACK}{CURRENCY2DP}
 STR_1672    :Brakes
 STR_1673    :Spinning Control Toggle Track
 STR_1674    :Brake speed
