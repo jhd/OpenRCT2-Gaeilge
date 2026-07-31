@@ -2528,13 +2528,13 @@ STR_5348    :Ride cheats
 STR_5349    :All Rides
 STR_5350    :Max
 STR_5351    :Min
-STR_5352    :{BLACK}Happiness:
-STR_5353    :{BLACK}Energy:
-STR_5354    :{BLACK}Hunger:
-STR_5355    :{BLACK}Thirst:
-STR_5356    :{BLACK}Nausea:
-STR_5357    :{BLACK}Nausea tolerance:
-STR_5358    :{BLACK}Toilet:
+STR_5352    :{BLACK}Sonas:
+STR_5353    :{BLACK}Fuinneamh:
+STR_5354    :{BLACK}Ocras:
+STR_5355    :{BLACK}Tart:
+STR_5356    :{BLACK}Masmas:
+STR_5357    :{BLACK}Fulaingt masmais:
+STR_5358    :{BLACK}Leithreas:
 STR_5359    :Remove guests
 STR_5360    :Removes all guests from the map
 STR_5361    :Add to guest inventory
