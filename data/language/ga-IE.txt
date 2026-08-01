@@ -262,15 +262,15 @@ STR_0882    :Lódáil Cluiche
 STR_0883    :Sábháil Cluiche
 STR_0884    :Lódáil Tírdhreach
 STR_0885    :Sábháil Tírdhreach
-STR_0887    :Quit Scenario Editor
-STR_0888    :Quit Track Designer
-STR_0889    :Quit Track Designs Manager
-STR_0891    :Screenshot
-STR_0892    :Screenshot saved to disk as ‘{STRINGID}’
-STR_0893    :Screenshot failed!
-STR_0894    :Landscape data area full!
-STR_0895    :Can’t build partly above and partly below ground
-STR_0896    :{STRING} Construction
+STR_0887    :Scoir Eagarthóir Cnámhscéalta
+STR_0888    :Scoir Dearthóir Ráillí
+STR_0889    :Scoir Bainisteoir Dearthaí Ráillí
+STR_0891    :Gabháil scáileáin
+STR_0892    :Sábháladh gabháil scáileáin ar diosca mar ‘{STRINGID}’
+STR_0893    :Theip ar an ngabháil scáileáin!
+STR_0894    :Limistéar sonraí tírdhreacha lán!
+STR_0895    :Ní féidir tógáil leath os cionn talún agus leath faoi thalamh
+STR_0896    :Tógáil {STRING}
 STR_0897    :Direction
 STR_0898    :Left-hand curve
 STR_0899    :Right-hand curve
