@@ -363,31 +363,31 @@ STR_0986    :{BLACK}{CURRENCY2DP}
 STR_0987    :An iomarca marcaíochtaí/díol spéise
 STR_0988    :Ní féidir marcaíocht/díol spéise nua a chruthú…
 STR_0989    :{STRINGID}
-STR_0990    :Construction
-STR_0991    :Station platform
-STR_0992    :Demolish entire ride/attraction
-STR_0993    :Demolish ride/attraction
-STR_0994    :Demolish
-STR_0995    :{WINDOW_COLOUR_1}Are you sure you want to completely demolish {STRINGID}?
-STR_0996    :Overall view
-STR_0997    :View selection
-STR_0998    :No more stations allowed on this ride
-STR_0999    :Requires a station platform
-STR_1000    :Track is not a complete circuit
-STR_1001    :Track unsuitable for type of train
-STR_1002    :Can’t open {STRINGID}…
-STR_1003    :Can’t test {STRINGID}…
-STR_1004    :Can’t close {STRINGID}…
-STR_1005    :Can’t start construction on {STRINGID}…
-STR_1006    :Must be closed first
-STR_1007    :Unable to create enough vehicles
-STR_1008    :Open, close, or test ride/attraction
-STR_1009    :Open or close all rides/attractions
-STR_1010    :Open or close park
-STR_1011    :Close all
-STR_1012    :Open all
-STR_1013    :Close park
-STR_1014    :Open park
+STR_0990    :Tógáil
+STR_0991    :Ardán stáisiúin
+STR_0992    :Scartáil marcaíocht/díol spéise ar fad
+STR_0993    :Scartáil marcaíocht/díol spéise
+STR_0994    :Scartáil
+STR_0995    :{WINDOW_COLOUR_1}An bhfuil tú cinnte gur mhaith leat {STRINGID} a scartáil ar fad?
+STR_0996    :Amharc foriomlán
+STR_0997    :Roghnú amhairc
+STR_0998    :Ní cheadaítear níos mó stáisiún ar an marcaíocht seo
+STR_0999    :Teastaíonn ardán stáisiúin
+STR_1000    :Ní cúrsa iomlán é an ráille
+STR_1001    :Ráille mí-oiriúnach do shaghas traenach
+STR_1002    :Ní féidir {STRINGID} a oscailt…
+STR_1003    :Ní féidir {STRINGID} a thástáil…
+STR_1004    :Ní féidir {STRINGID} a dhúnadh…
+STR_1005    :Ní féidir tógáil a thosú ar {STRINGID}…
+STR_1006    :Caithfear é a dhúnadh ar dtús
+STR_1007    :Ní féidir go leor feithiclí a chruthú
+STR_1008    :Oscail, dún, nó tástáil marcaíocht/díol spéise
+STR_1009    :Oscail nó dún gach marcaíocht/díol spéise
+STR_1010    :Oscail nó dún páirc
+STR_1011    :Dún iad uile
+STR_1012    :Oscail iad uile
+STR_1013    :Dún páirc
+STR_1014    :Oscail páirc
 STR_1015    :Unable to operate with more than one station platform in this mode
 STR_1016    :Unable to operate with less than two stations in this mode
 STR_1017    :Can’t change operating mode…
