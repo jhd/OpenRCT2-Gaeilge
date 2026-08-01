@@ -271,22 +271,22 @@ STR_0893    :Theip ar an ngabháil scáileáin!
 STR_0894    :Limistéar sonraí tírdhreacha lán!
 STR_0895    :Ní féidir tógáil leath os cionn talún agus leath faoi thalamh
 STR_0896    :Tógáil {STRING}
-STR_0897    :Direction
-STR_0898    :Left-hand curve
-STR_0899    :Right-hand curve
-STR_0900    :Left-hand curve (small radius)
-STR_0901    :Right-hand curve (small radius)
-STR_0902    :Left-hand curve (very small radius)
-STR_0903    :Right-hand curve (very small radius)
-STR_0904    :Left-hand curve (large radius)
-STR_0905    :Right-hand curve (large radius)
-STR_0906    :Straight
-STR_0907    :Slope
-STR_0908    :Roll/Banking
-STR_0909    :Seat Rot.
-STR_0910    :Roll for left-hand curve
-STR_0911    :Roll for right-hand curve
-STR_0912    :No roll
+STR_0897    :Treo
+STR_0898    :Cuar ar chlé
+STR_0899    :Cuar ar dheis
+STR_0900    :Cuar ar chlé (ga beag)
+STR_0901    :Cuar ar dheis (ga beag)
+STR_0902    :Cuar ar chlé (ga an-bheag)
+STR_0903    :Cuar ar dheis (ga an-bheag)
+STR_0904    :Cuar ar chlé (ga mór)
+STR_0905    :Cuar ar dheis (ga mór)
+STR_0906    :Díreach
+STR_0907    :Fána
+STR_0908    :Rolladh/Claon
+STR_0909    :Casadh Suíocháin
+STR_0910    :Rolladh do chuar ar chlé
+STR_0911    :Rolladh do chuar ar dheis
+STR_0912    :Gan rolladh
 STR_0913    :Move to previous section
 STR_0914    :Move to next section
 STR_0915    :Construct the selected section
