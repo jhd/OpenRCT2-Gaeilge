@@ -257,7 +257,7 @@ STR_0877    :Ró-íseal!
 STR_0878    :Ró-ard!
 STR_0879    :Ní féidir talamh a ísliú anseo…
 STR_0880    :Ní féidir talamh a ardú anseo…
-STR_0881    :Réad sa bhealach
+STR_0881    :Réad sa stlí
 STR_0882    :Lódáil Cluiche
 STR_0883    :Sábháil Cluiche
 STR_0884    :Lódáil Tírdhreach
@@ -287,48 +287,48 @@ STR_0909    :Casadh Suíocháin
 STR_0910    :Rolladh do chuar ar chlé
 STR_0911    :Rolladh do chuar ar dheis
 STR_0912    :Gan rolladh
-STR_0913    :Move to previous section
-STR_0914    :Move to next section
-STR_0915    :Construct the selected section
-STR_0916    :Remove the highlighted section
-STR_0917    :Vertical drop
-STR_0918    :Steep slope down
-STR_0919    :Slope down
-STR_0920    :Level
-STR_0921    :Slope up
-STR_0922    :Steep slope up
-STR_0923    :Vertical rise
-STR_0924    :Helix down
-STR_0925    :Helix up
-STR_0926    :Can’t remove this…
-STR_0927    :Can’t construct this here…
-STR_0928    :Chain lift, to pull cars up slopes
-STR_0929    :‘S’ Bend (left)
-STR_0930    :‘S’ Bend (right)
-STR_0931    :Vertical Loop (left)
-STR_0932    :Vertical Loop (right)
-STR_0933    :Raise or lower land first
-STR_0934    :Ride entrance in the way
-STR_0935    :Ride exit in the way
-STR_0936    :Park entrance in the way
-STR_0937    :View options
-STR_0938    :Adjust land height and slope
-STR_0939    :Underground/Inside View
-STR_0940    :Hide Base Land
-STR_0941    :Hide Vertical Faces
-STR_0942    :See-Through Rides
-STR_0943    :See-Through Scenery
-STR_0944    :Save
-STR_0945    :Don’t Save
-STR_0946    :Cancel
-STR_0947    :Save this before loading?
-STR_0948    :Save this before quitting?
-STR_0949    :Save this before quitting?
-STR_0950    :Load Game
-STR_0951    :Quit Game
-STR_0952    :Quit Game
-STR_0953    :Load Landscape
-STR_0955    :Select seat rotation angle for this track section
+STR_0913    :Bog go dtí an mhír roimhe
+STR_0914    :Bog go dtí an mhír ina diaidh
+STR_0915    :Tóg an mhír roghnaithe
+STR_0916    :Bain an mhír aibhsithe
+STR_0917    :Titim ingearach
+STR_0918    :Fána ghéar síos
+STR_0919    :Fána síos
+STR_0920    :Leibhéal
+STR_0921    :Fána suas
+STR_0922    :Fána ghéar suas
+STR_0923    :Ardú ingearach
+STR_0924    :Héilics síos
+STR_0925    :Héilics suas
+STR_0926    :Ní féidir é seo a bhaint…
+STR_0927    :Ní féidir é seo a thógáil anseo…
+STR_0928    :Ardaitheoir slabhra, chun gluaisteáin a tharraingt suas fánaí
+STR_0929    :Cor ‘S’ (ar chlé)
+STR_0930    :Cor ‘S’ (ar dheis)
+STR_0931    :Lúb ingearach (ar chlé)
+STR_0932    :Lúb ingearach (ar dheis)
+STR_0933    :Ardaigh nó ísligh talamh ar dtús
+STR_0934    :Bealach isteach marcaíochta sa tslí
+STR_0935    :Bealach amach marcaíochta sa tslí
+STR_0936    :Bealach isteach páirce sa tslí
+STR_0937    :Roghanna amhairc
+STR_0938    :Coigeartaigh airde agus fána talaimh
+STR_0939    :Amharc Faoi thalamh/Istigh
+STR_0940    :Folaigh Buntalamh
+STR_0941    :Folaigh Aghaidheanna Ingearacha
+STR_0942    :Marcaíochtaí Trédhearacha
+STR_0943    :Radharcra Trédhearach
+STR_0944    :Sábháil
+STR_0945    :Ná Sábháil
+STR_0946    :Cealaigh
+STR_0947    :Sábháil é seo roimh lódáil?
+STR_0948    :Sábháil é seo roimh scor?
+STR_0949    :Sábháil é seo roimh scor?
+STR_0950    :Lódáil Cluiche
+STR_0951    :Scoir Cluiche
+STR_0952    :Scoir Cluiche
+STR_0953    :Lódáil Tírdhreach
+STR_0955    :Roghnaigh uillinn casadh suíocháin don mhír ráille seo
 STR_0956    :-180°
 STR_0957    :-135°
 STR_0958    :-90°
