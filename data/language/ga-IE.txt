@@ -409,19 +409,19 @@ STR_1034    :Ní féidir é seo a thógáil ach ar thalamh!
 STR_1035    :Ní cheadóidh an t-údarás áitiúil tógáil os cionn airde crann!
 STR_1036    :Lódáil Cluiche
 STR_1037    :Lódáil Tírdhreach
-STR_1038    :Convert saved game to scenario
-STR_1039    :Install new track design
-STR_1040    :Save Game
-STR_1041    :Save Scenario
-STR_1042    :Save Landscape
-STR_1043    :OpenRCT2 Saved Game
-STR_1044    :OpenRCT2 Scenario File
-STR_1045    :OpenRCT2 Landscape File
-STR_1046    :OpenRCT2 Track Design File
-STR_1047    :Game save failed!
-STR_1048    :Scenario save failed!
-STR_1049    :Landscape save failed!
-STR_1050    :Failed to load…{NEWLINE}File contains invalid data!
+STR_1038    :Comhshóigh cluiche sábháilte go cnámhscéal
+STR_1039    :Suiteáil dearadh ráille nua
+STR_1040    :Sábháil Cluiche
+STR_1041    :Sábháil Cnámhscéal
+STR_1042    :Sábháil Tírdhreach
+STR_1043    :Cluiche Sábháilte OpenRCT2
+STR_1044    :Comhad Cnámhscéil OpenRCT2
+STR_1045    :Comhad Tírdhreacha OpenRCT2
+STR_1046    :Comhad Deartha Ráille OpenRCT2
+STR_1047    :Theip ar shábháil an chluiche!
+STR_1048    :Theip ar shábháil an chnámhscéil!
+STR_1049    :Theip ar shábháil an tírdhreacha!
+STR_1050    :Theip ar lódáil…{NEWLINE}Tá sonraí neamhbhailí sa chomhad!
 STR_1051    :Invisible Supports
 STR_1052    :Invisible People
 STR_1053    :Rides/attractions in park
