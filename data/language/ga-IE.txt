@@ -422,13 +422,13 @@ STR_1047    :Theip ar shábháil an chluiche!
 STR_1048    :Theip ar shábháil an chnámhscéil!
 STR_1049    :Theip ar shábháil an tírdhreacha!
 STR_1050    :Theip ar lódáil…{NEWLINE}Tá sonraí neamhbhailí sa chomhad!
-STR_1051    :Invisible Supports
-STR_1052    :Invisible People
-STR_1053    :Rides/attractions in park
-STR_1054    :Name ride/attraction
-STR_1055    :Name person
-STR_1056    :Name staff member
-STR_1057    :Ride/attraction name
+STR_1051    :Tacaí Dofheicthe
+STR_1052    :Daoine Dofheicthe
+STR_1053    :Marcaíochtaí/díol spéise sa pháirc
+STR_1054    :Ainmnigh marcaíocht/díol spéise
+STR_1055    :Ainmnigh duine
+STR_1056    :Ainmnigh ball foirne
+STR_1057    :Ainm marcaíochta/díola spéise
 STR_1058    :Enter new name for this ride/attraction:
 STR_1059    :Can’t rename ride/attraction…
 STR_1060    :Invalid ride/attraction name
