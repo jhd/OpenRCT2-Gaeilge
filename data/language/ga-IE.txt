@@ -432,22 +432,22 @@ STR_1057    :Ainm marcaíochta/díola spéise
 STR_1058    :Iontráil ainm nua ar an marcaíocht/díol spéise seo:
 STR_1059    :Ní féidir marcaíocht/díol spéise a athainmniú…
 STR_1060    :Ainm marcaíochta/díola spéise neamhbhailí
-STR_1061    :Normal mode
-STR_1062    :Continuous circuit mode
-STR_1063    :Reverse-Incline launched shuttle mode
-STR_1064    :Powered launch (passing station)
-STR_1065    :Shuttle mode
-STR_1066    :Boat hire mode
-STR_1067    :Upward launch
-STR_1068    :Rotating lift mode
-STR_1069    :Station to station mode
-STR_1070    :Single ride per admission
-STR_1071    :Unlimited rides per admission
-STR_1072    :Maze mode
-STR_1073    :Race mode
-STR_1074    :Bumper-car mode
-STR_1075    :Swing mode
-STR_1076    :Shop stall mode
+STR_1061    :Mód normálta
+STR_1062    :Mód cúrsa leanúnaigh
+STR_1063    :Mód tointeála lainseáilte cúlchlaon
+STR_1064    :Lainseál cumhachtaithe (thar an stáisiún)
+STR_1065    :Mód tointeála
+STR_1066    :Mód báid ar cíos
+STR_1067    :Lainseál suas
+STR_1068    :Mód ardaitheora rothlaigh
+STR_1069    :Mód stáisiúin go stáisiún
+STR_1070    :Marcaíocht amháin sa chead isteach
+STR_1071    :Marcaíochtaí neamhtheoranta sa chead isteach
+STR_1072    :Mód cathrach ghríobháin
+STR_1073    :Mód rásaíochta
+STR_1074    :Mód tuairtcharranna
+STR_1075    :Mód luascáin
+STR_1076    :Mód siopa stainnín
 STR_1077    :Rotation mode
 STR_1078    :Forward rotation
 STR_1079    :Backward rotation
