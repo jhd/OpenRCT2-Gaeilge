@@ -257,7 +257,7 @@ STR_0877    :Ró-íseal!
 STR_0878    :Ró-ard!
 STR_0879    :Ní féidir talamh a ísliú anseo…
 STR_0880    :Ní féidir talamh a ardú anseo…
-STR_0881    :Réad sa stlí
+STR_0881    :Réad sa tslí
 STR_0882    :Lódáil Cluiche
 STR_0883    :Sábháil Cluiche
 STR_0884    :Lódáil Tírdhreach
@@ -429,9 +429,9 @@ STR_1054    :Ainmnigh marcaíocht/díol spéise
 STR_1055    :Ainmnigh duine
 STR_1056    :Ainmnigh ball foirne
 STR_1057    :Ainm marcaíochta/díola spéise
-STR_1058    :Enter new name for this ride/attraction:
-STR_1059    :Can’t rename ride/attraction…
-STR_1060    :Invalid ride/attraction name
+STR_1058    :Iontráil ainm nua ar an marcaíocht/díol spéise seo:
+STR_1059    :Ní féidir marcaíocht/díol spéise a athainmniú…
+STR_1060    :Ainm marcaíochta/díola spéise neamhbhailí
 STR_1061    :Normal mode
 STR_1062    :Continuous circuit mode
 STR_1063    :Reverse-Incline launched shuttle mode
@@ -585,12 +585,12 @@ STR_1213    :Select minimum length of time to wait before departing
 STR_1214    :Select maximum length of time to wait before departing
 STR_1215    :{WINDOW_COLOUR_2}Synchronise with adjacent stations
 STR_1216    :Select whether to synchronise departure with all adjacent stations (for ‘racing’)
-STR_1217    :{COMMA16} seconds
+STR_1217    :{COMMA16} soicindí
 STR_1218    :{BLACK}+
 STR_1219    :{BLACK}-
-STR_1220    :Exit only
-STR_1221    :No entrance
-STR_1222    :No exit
+STR_1220    :Slí amach amháin
+STR_1221    :Gan bealach isteach
+STR_1222    :Gan bealach amach
 STR_1223    :Marcaíochtaí iompair
 STR_1224    :Marcaíochtaí séimhe
 STR_1225    :Rollchóstóirí
