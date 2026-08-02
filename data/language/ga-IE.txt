@@ -398,14 +398,14 @@ STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_1024    :{COMMA16} gluaisteán sa traein
 STR_1025    :{COMMA16} gluaisteáin sa traein
 STR_1026    :Ardán stáisiúin rófhada!
-STR_1027    :Locate this on Main View
-STR_1028    :Off edge of map!
-STR_1029    :Cannot build partly above and partly below water!
-STR_1030    :Can only build this underwater!
-STR_1031    :Can’t build this underwater!
-STR_1032    :Can only build this on water!
-STR_1033    :Can only build this above ground!
-STR_1034    :Can only build this on land!
+STR_1027    :Aimsigh é seo ar an bpríomhamharc
+STR_1028    :As imeall an mhapa!
+STR_1029    :Ní féidir tógáil leath os cionn uisce agus leath faoi uisce!
+STR_1030    :Ní féidir é seo a thógáil ach faoi uisce!
+STR_1031    :Ní féidir é seo a thógáil faoi uisce!
+STR_1032    :Ní féidir é seo a thógáil ach ar uisce!
+STR_1033    :Ní féidir é seo a thógáil ach os cionn talún!
+STR_1034    :Ní féidir é seo a thógáil ach ar thalamh!
 STR_1035    :Local authority won’t allow construction above tree-height!
 STR_1036    :Load Game
 STR_1037    :Load Landscape
