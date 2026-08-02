@@ -1885,21 +1885,21 @@ STR_2706    :Never
 STR_2707    :Use system file browser
 STR_2708    :{WINDOW_COLOUR_1}Are you sure you want to overwrite {STRINGID}?
 STR_2709    :Overwrite
-STR_2720    :{UINT16}sec
-STR_2721    :{UINT16}secs
-STR_2722    :{UINT16}min:{UINT16}sec
-STR_2723    :{UINT16}min:{UINT16}secs
-STR_2724    :{UINT16}mins:{UINT16}sec
-STR_2725    :{UINT16}mins:{UINT16}secs
-STR_2726    :{UINT16}min
-STR_2727    :{UINT16}mins
-STR_2728    :{UINT16}hour:{UINT16}min
-STR_2729    :{UINT16}hour:{UINT16}mins
-STR_2730    :{UINT16}hours:{UINT16}min
-STR_2731    :{UINT16}hours:{UINT16}mins
+STR_2720    :{UINT16}soic
+STR_2721    :{UINT16}soic
+STR_2722    :{UINT16}nóim:{UINT16}soic
+STR_2723    :{UINT16}nóim:{UINT16}soic
+STR_2724    :{UINT16}nóim:{UINT16}soic
+STR_2725    :{UINT16}nóim:{UINT16}soic
+STR_2726    :{UINT16}nóim
+STR_2727    :{UINT16}nóim
+STR_2728    :{UINT16}uair:{UINT16}nóim
+STR_2729    :{UINT16}uair:{UINT16}nóim
+STR_2730    :{UINT16}uair:{UINT16}nóim
+STR_2731    :{UINT16}uair:{UINT16}nóim
 STR_2732    :{COMMA32} ft
 STR_2733    :{COMMA32} m
-STR_2734    :{COMMA16} mph
+STR_2734    :{COMMA16} msu
 STR_2735    :{COMMA16} km/h
 # Used only as part of label-value pair.
 STR_2736    :{MONTH}, Year {COMMA16}
