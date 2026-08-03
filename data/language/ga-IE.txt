@@ -1289,32 +1289,32 @@ STR_1955    :{WINDOW_COLOUR_2}Number of circuits:
 STR_1956    :Number of circuits of track per ride
 STR_1958    :{COMMA16}
 STR_1959    :Can’t change number of circuits…
-STR_1960    :{WINDOW_COLOUR_2}Balloon price:
-STR_1961    :{WINDOW_COLOUR_2}Cuddly Toy price:
-STR_1962    :{WINDOW_COLOUR_2}Park Map price:
-STR_1963    :{WINDOW_COLOUR_2}On-Ride Photo price:
-STR_1964    :{WINDOW_COLOUR_2}Umbrella price:
-STR_1965    :{WINDOW_COLOUR_2}Drink price:
-STR_1966    :{WINDOW_COLOUR_2}Burger price:
-STR_1967    :{WINDOW_COLOUR_2}Chips price:
-STR_1968    :{WINDOW_COLOUR_2}Ice Cream price:
-STR_1969    :{WINDOW_COLOUR_2}Candyfloss price:
+STR_1960    :{WINDOW_COLOUR_2}Praghas balúin:
+STR_1961    :{WINDOW_COLOUR_2}Praghas bréagáin bhoig:
+STR_1962    :{WINDOW_COLOUR_2}Praghas mapa páirce:
+STR_1963    :{WINDOW_COLOUR_2}Praghas grianghraif marcaíochta:
+STR_1964    :{WINDOW_COLOUR_2}Praghas scátha fearthainne:
+STR_1965    :{WINDOW_COLOUR_2}Praghas dí:
+STR_1966    :{WINDOW_COLOUR_2}Praghas burgair:
+STR_1967    :{WINDOW_COLOUR_2}Praghas sceallóg:
+STR_1968    :{WINDOW_COLOUR_2}Praghas uachtair reoite:
+STR_1969    :{WINDOW_COLOUR_2}Praghas flais candaí:
 STR_1970    :{WINDOW_COLOUR_2}
 STR_1971    :{WINDOW_COLOUR_2}
 STR_1972    :{WINDOW_COLOUR_2}
-STR_1973    :{WINDOW_COLOUR_2}Pizza price:
+STR_1973    :{WINDOW_COLOUR_2}Praghas píotsa:
 STR_1974    :{WINDOW_COLOUR_2}
-STR_1975    :{WINDOW_COLOUR_2}Popcorn price:
-STR_1976    :{WINDOW_COLOUR_2}Hot Dog price:
-STR_1977    :{WINDOW_COLOUR_2}Tentacle price:
-STR_1978    :{WINDOW_COLOUR_2}Hat price:
-STR_1979    :{WINDOW_COLOUR_2}Toffee Apple price:
-STR_1980    :{WINDOW_COLOUR_2}T-Shirt price:
-STR_1981    :{WINDOW_COLOUR_2}Doughnut price:
-STR_1982    :{WINDOW_COLOUR_2}Coffee price:
+STR_1975    :{WINDOW_COLOUR_2}Praghas gráin rósta:
+STR_1976    :{WINDOW_COLOUR_2}Praghas brocaire the:
+STR_1977    :{WINDOW_COLOUR_2}Praghas braiteoige:
+STR_1978    :{WINDOW_COLOUR_2}Praghas hata:
+STR_1979    :{WINDOW_COLOUR_2}Praghas úill taifí:
+STR_1980    :{WINDOW_COLOUR_2}Praghas T-léine:
+STR_1981    :{WINDOW_COLOUR_2}Praghas taoschnó:
+STR_1982    :{WINDOW_COLOUR_2}Praghas caife:
 STR_1983    :{WINDOW_COLOUR_2}
-STR_1984    :{WINDOW_COLOUR_2}Fried Chicken price:
-STR_1985    :{WINDOW_COLOUR_2}Lemonade price:
+STR_1984    :{WINDOW_COLOUR_2}Praghas sicín friochta:
+STR_1985    :{WINDOW_COLOUR_2}Praghas líomanáide:
 STR_1986    :{WINDOW_COLOUR_2}
 STR_1987    :{WINDOW_COLOUR_2}
 STR_1988    :Balloon
