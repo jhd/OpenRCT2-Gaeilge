@@ -1317,62 +1317,62 @@ STR_1984    :{WINDOW_COLOUR_2}Praghas sicín friochta:
 STR_1985    :{WINDOW_COLOUR_2}Praghas líomanáide:
 STR_1986    :{WINDOW_COLOUR_2}
 STR_1987    :{WINDOW_COLOUR_2}
-STR_1988    :Balloon
-STR_1989    :Cuddly Toy
-STR_1990    :Park Map
-STR_1991    :On-Ride Photo
-STR_1992    :Umbrella
-STR_1993    :Drink
-STR_1994    :Burger
-STR_1995    :Chips
-STR_1996    :Ice Cream
-STR_1997    :Candyfloss
-STR_1998    :Empty Can
-STR_1999    :Rubbish
-STR_2000    :Empty Burger Box
-STR_2001    :Pizza
-STR_2002    :Voucher
-STR_2003    :Popcorn
-STR_2004    :Hot Dog
-STR_2005    :Tentacle
-STR_2006    :Hat
-STR_2007    :Toffee Apple
-STR_2008    :T-Shirt
-STR_2009    :Doughnut
-STR_2010    :Coffee
-STR_2011    :Empty Cup
-STR_2012    :Fried Chicken
-STR_2013    :Lemonade
-STR_2014    :Empty Box
-STR_2015    :Empty Bottle
-STR_2016    :Balloons
-STR_2017    :Cuddly Toys
-STR_2018    :Park Maps
-STR_2019    :On-Ride Photos
-STR_2020    :Umbrellas
-STR_2021    :Drinks
-STR_2022    :Burgers
-STR_2023    :Chips
-STR_2024    :Ice Creams
-STR_2025    :Candyfloss
-STR_2026    :Empty Cans
-STR_2027    :Rubbish
-STR_2028    :Empty Burger Boxes
-STR_2029    :Pizzas
-STR_2030    :Vouchers
-STR_2031    :Popcorn
-STR_2032    :Hot Dogs
-STR_2033    :Tentacles
-STR_2034    :Hats
-STR_2035    :Toffee Apples
-STR_2036    :T-Shirts
-STR_2037    :Doughnuts
-STR_2038    :Coffees
-STR_2039    :Empty Cups
-STR_2040    :Fried Chicken
-STR_2041    :Lemonade
-STR_2042    :Empty Boxes
-STR_2043    :Empty Bottles
+STR_1988    :Balún
+STR_1989    :Bréagán Bog
+STR_1990    :Mapa Páirce
+STR_1991    :Grianghraf Marcaíochta
+STR_1992    :Scáth Fearthainne
+STR_1993    :Deoch
+STR_1994    :Burgar
+STR_1995    :Sceallóga
+STR_1996    :Uachtar Reoite
+STR_1997    :Flas Candaí
+STR_1998    :Canna Folamh
+STR_1999    :Bruscar
+STR_2000    :Bosca Burgair Folamh
+STR_2001    :Píotsa
+STR_2002    :Dearbhán
+STR_2003    :Grán Rósta
+STR_2004    :Brocaire Te
+STR_2005    :Braiteog
+STR_2006    :Hata
+STR_2007    :Úll Taifí
+STR_2008    :T-léine
+STR_2009    :Taoschnó
+STR_2010    :Caife
+STR_2011    :Cupa Folamh
+STR_2012    :Sicín Friochta
+STR_2013    :Líomanáid
+STR_2014    :Bosca Folamh
+STR_2015    :Buidéal Folamh
+STR_2016    :Balúin
+STR_2017    :Bréagáin Bhoga
+STR_2018    :Mapaí Páirce
+STR_2019    :Grianghraif Marcaíochta
+STR_2020    :Scáthanna Fearthainne
+STR_2021    :Deochanna
+STR_2022    :Burgair
+STR_2023    :Sceallóga
+STR_2024    :Uachtair Reoite
+STR_2025    :Flas Candaí
+STR_2026    :Cannaí Folmha
+STR_2027    :Bruscar
+STR_2028    :Boscaí Burgair Folmha
+STR_2029    :Píotsaí
+STR_2030    :Dearbháin
+STR_2031    :Grán Rósta
+STR_2032    :Brocairí Te
+STR_2033    :Braiteoga
+STR_2034    :Hataí
+STR_2035    :Úlla Taifí
+STR_2036    :T-léinte
+STR_2037    :Taoschnónna
+STR_2038    :Caifí
+STR_2039    :Cupanna Folmha
+STR_2040    :Sicín Friochta
+STR_2041    :Líomanáid
+STR_2042    :Boscaí Folmha
+STR_2043    :Buidéil Folmha
 STR_2044    :a Balloon
 STR_2045    :a Cuddly Toy
 STR_2046    :a Park Map
