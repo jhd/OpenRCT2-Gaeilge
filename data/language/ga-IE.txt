@@ -1562,11 +1562,11 @@ STR_2244    :Meán Fómhair
 STR_2245    :Deireadh Fómhair
 STR_2246    :Samhain
 STR_2247    :Nollaig
-STR_2248    :Can’t demolish ride/attraction…
-STR_2249    :{BABYBLUE}New ride/attraction now available:{NEWLINE}{STRINGID}
-STR_2250    :{BABYBLUE}New scenery/theming now available:{NEWLINE}{STRINGID}
-STR_2251    :Can only be built on paths!
-STR_2252    :Can only be built across paths!
+STR_2248    :Ní féidir marcaíocht/díol spéise a scartáil…
+STR_2249    :{BABYBLUE}Marcaíocht/díol spéise nua ar fáil anois:{NEWLINE}{STRINGID}
+STR_2250    :{BABYBLUE}Radharcra/téamú nua ar fáil anois:{NEWLINE}{STRINGID}
+STR_2251    :Ní féidir é seo a thógáil ach ar chosáin!
+STR_2252    :Ní féidir é seo a thógáil ach trasna cosán!
 STR_2253    :Marcaíochtaí Iompair
 STR_2254    :Marcaíochtaí Séimhe
 STR_2255    :Rollchóstóirí
