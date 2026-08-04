@@ -1528,27 +1528,27 @@ STR_2210    :Taispeáin liosta na n-airíoch sa pháirc
 STR_2211    :Taispeáin liosta na meicneoirí sa pháirc
 STR_2212    :Taispeáin liosta na ngardaí slándála sa pháirc
 STR_2213    :Taispeáin liosta na bhfuirseoirí sa pháirc
-STR_2214    :Construction not possible while game is paused!
+STR_2214    :Ní féidir tógáil nuair a bhíonn an cluiche curtha ar sos!
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
 STR_2216    :{WINDOW_COLOUR_1}{COMMA16}°C
 STR_2217    :{WINDOW_COLOUR_1}{COMMA16}°F
-STR_2218    :{RED}{STRINGID} on {STRINGID} hasn’t returned to the {STRINGID} yet!{NEWLINE}Check whether it is stuck or has stalled
-STR_2219    :{RED}{COMMA16} people have died in an accident on {STRINGID}
-STR_2220    :{WINDOW_COLOUR_2}Park Rating: {BLACK}{COMMA16}
-STR_2221    :Park Rating: {COMMA16}
+STR_2218    :{RED}Níl {STRINGID} ar {STRINGID} tagtha ar ais go dtí an {STRINGID} fós!{NEWLINE}Seiceáil an bhfuil sé sáinnithe nó stadta
+STR_2219    :{RED}Fuair {COMMA16} duine bás i dtimpiste ar {STRINGID}
+STR_2220    :{WINDOW_COLOUR_2}Rátáil Páirce: {BLACK}{COMMA16}
+STR_2221    :Rátáil Páirce: {COMMA16}
 STR_2222    :{BLACK}{STRINGID}
-STR_2223    :{WINDOW_COLOUR_2}Guests in park: {BLACK}{COMMA32}
-STR_2224    :{WINDOW_COLOUR_2}Cash: {BLACK}{CURRENCY2DP}
-STR_2225    :{WINDOW_COLOUR_2}Cash: {RED}{CURRENCY2DP}
-STR_2226    :{WINDOW_COLOUR_2}Park value: {BLACK}{CURRENCY}
-STR_2227    :{WINDOW_COLOUR_2}Company value: {BLACK}{CURRENCY}
-STR_2228    :{WINDOW_COLOUR_2}Last month’s profit from food/drink and{NEWLINE}merchandise sales: {BLACK}{CURRENCY}
-STR_2229    :Slope up to vertical
-STR_2230    :Vertical track
-STR_2231    :Holding brake for drop
-STR_2232    :Cable lift hill
-STR_2233    :Park information
-STR_2234    :Recent Messages
+STR_2223    :{WINDOW_COLOUR_2}Aíonna sa pháirc: {BLACK}{COMMA32}
+STR_2224    :{WINDOW_COLOUR_2}Airgead: {BLACK}{CURRENCY2DP}
+STR_2225    :{WINDOW_COLOUR_2}Airgead: {RED}{CURRENCY2DP}
+STR_2226    :{WINDOW_COLOUR_2}Luach Páirce: {BLACK}{CURRENCY}
+STR_2227    :{WINDOW_COLOUR_2}Luach Comhlachta: {BLACK}{CURRENCY}
+STR_2228    :{WINDOW_COLOUR_2}Brabús na míosa seo caite as bia/deoch agus{NEWLINE}díolacháin marsantachta: {BLACK}{CURRENCY}
+STR_2229    :Fána suas go hingearach
+STR_2230    :Ráille Ingearach
+STR_2231    :Coscán coinneála do thitim
+STR_2232    :Cnoc ardaithe cábla
+STR_2233    :Eolas Páirce
+STR_2234    :Teachtaireachtaí Le Déanaí
 STR_2235    :{STRINGID} {STRINGID}
 STR_2236    :Eanáir
 STR_2237    :Feabhra
