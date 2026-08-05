@@ -1574,24 +1574,24 @@ STR_2256    :Marcaíochtaí Fiáine
 STR_2257    :Marcaíochtaí Uisce
 STR_2258    :Siopaí agus Stainníní
 STR_2259    :Radharcra agus Téamú
-STR_2260    :No funding
-STR_2261    :Minimum funding
-STR_2262    :Normal funding
-STR_2263    :Maximum funding
-STR_2264    :Research funding
-STR_2265    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY} per month
-STR_2266    :Research priorities
-STR_2267    :Currently in development
-STR_2268    :Last development
-STR_2269    :{WINDOW_COLOUR_2}Type: {BLACK}{STRINGID}
-STR_2270    :{WINDOW_COLOUR_2}Progress: {BLACK}{STRINGID}
-STR_2271    :{WINDOW_COLOUR_2}Expected: {BLACK}{STRINGID}
-STR_2272    :{WINDOW_COLOUR_2}Ride/attraction:{NEWLINE}{BLACK}{STRINGID}
-STR_2273    :{WINDOW_COLOUR_2}Scenery/theming:{NEWLINE}{BLACK}{STRINGID}
-STR_2274    :Show details of this invention or development
-STR_2275    :Show funding and options for research & development
-STR_2276    :Show research & development status
-STR_2277    :Unknown
+STR_2260    :Gan chiste
+STR_2261    :Íoschiste
+STR_2262    :Gnáthchiste
+STR_2263    :Uaschiste
+STR_2264    :Ciste taighde
+STR_2265    :{WINDOW_COLOUR_2}Costas: {BLACK}{CURRENCY} sa mhí
+STR_2266    :Tosaíochtaí taighde
+STR_2267    :An fhorbairt faoi láthair
+STR_2268    :An fhorbairt is déanaí
+STR_2269    :{WINDOW_COLOUR_2}Saghas: {BLACK}{STRINGID}
+STR_2270    :{WINDOW_COLOUR_2}Dul chun cinn: {BLACK}{STRINGID}
+STR_2271    :{WINDOW_COLOUR_2}Ag súil leis: {BLACK}{STRINGID}
+STR_2272    :{WINDOW_COLOUR_2}Marcaíocht/díol spéise:{NEWLINE}{BLACK}{STRINGID}
+STR_2273    :{WINDOW_COLOUR_2}Radharcra/téamú:{NEWLINE}{BLACK}{STRINGID}
+STR_2274    :Taispeáin sonraí faoin aireagán nó faoin bhforbairt seo
+STR_2275    :Taispeáin ciste agus roghanna le haghaidh taighde agus forbartha
+STR_2276    :Taispeáin stádas taighde agus forbartha
+STR_2277    :Anaithnid
 STR_2278    :Marcaíocht Iompair
 STR_2279    :Marcaíocht Shéimh
 STR_2280    :Rollchóstóir
