@@ -1298,7 +1298,7 @@ STR_1965    :{WINDOW_COLOUR_2}Praghas Dí:
 STR_1966    :{WINDOW_COLOUR_2}Praghas Burgair:
 STR_1967    :{WINDOW_COLOUR_2}Praghas Sceallóg:
 STR_1968    :{WINDOW_COLOUR_2}Praghas Uachtair Reoite:
-STR_1969    :{WINDOW_COLOUR_2}Praghas Flais Candaí:
+STR_1969    :{WINDOW_COLOUR_2}Praghas Flasa Candaí:
 STR_1970    :{WINDOW_COLOUR_2}
 STR_1971    :{WINDOW_COLOUR_2}
 STR_1972    :{WINDOW_COLOUR_2}
@@ -1369,8 +1369,8 @@ STR_2036    :T-léinte
 STR_2037    :Taoschnónna
 STR_2038    :Caifí
 STR_2039    :Cupanna Folmha
-STR_2040    :Sicín Friochta
-STR_2041    :Líomanáid
+STR_2040    :Sicíní Friochta
+STR_2041    :Líomanáidí
 STR_2042    :Boscaí Folmha
 STR_2043    :Buidéil Folmha
 STR_2044    :Balún
@@ -1382,7 +1382,7 @@ STR_2049    :Deoch
 STR_2050    :Burgar
 STR_2051    :Roinnt Sceallóg
 STR_2052    :Uachtar Reoite
-STR_2053    :Roinnt Flais Candaí
+STR_2053    :Roinnt Flasa Candaí
 STR_2054    :Canna Folamh
 STR_2055    :Roinnt Bruscair
 STR_2056    :Bosca Burgair Folamh
@@ -1448,82 +1448,82 @@ STR_2118    :{WINDOW_COLOUR_2}
 STR_2119    :{WINDOW_COLOUR_2}
 STR_2120    :{WINDOW_COLOUR_2}Praghas Ispín Rósta:
 STR_2121    :{WINDOW_COLOUR_2}
-STR_2125    :Pretzel
-STR_2126    :Hot Chocolate
-STR_2127    :Iced Tea
-STR_2128    :Funnel Cake
-STR_2129    :Sunglasses
-STR_2130    :Beef Noodles
-STR_2131    :Fried Rice Noodles
-STR_2132    :Wonton Soup
-STR_2133    :Meatball Soup
-STR_2134    :Fruit Juice
-STR_2135    :Soybean Milk
+STR_2125    :Preatsal
+STR_2126    :Seacláid Te
+STR_2127    :Tae Oighrithe
+STR_2128    :Cáca Fuidrimh
+STR_2129    :Spéaclaí Gréine
+STR_2130    :Núdail Mairteola
+STR_2131    :Núdail Ríse Friochta
+STR_2132    :Anraith Wonton
+STR_2133    :Anraith Feoilmheall
+STR_2134    :Sú Torthaí
+STR_2135    :Bainne Pónaire Soighe
 STR_2136    :Sujeonggwa
-STR_2137    :Sub Sandwich
-STR_2138    :Cookie
-STR_2139    :Empty Bowl
-STR_2140    :Empty Drink Carton
-STR_2141    :Empty Juice Cup
-STR_2142    :Roast Sausage
-STR_2143    :Empty Bowl
-STR_2147    :Pretzels
-STR_2148    :Hot Chocolates
-STR_2149    :Iced Teas
-STR_2150    :Funnel Cakes
-STR_2151    :Sunglasses
-STR_2152    :Beef Noodles
-STR_2153    :Fried Rice Noodles
-STR_2154    :Wonton Soups
-STR_2155    :Meatball Soups
-STR_2156    :Fruit Juices
-STR_2157    :Soybean Milks
+STR_2137    :Fo-cheapaire
+STR_2138    :Briosca
+STR_2139    :Babhla Folamh
+STR_2140    :Cartán Dí Folamh
+STR_2141    :Cupa Sú Folamh
+STR_2142    :Ispín Rósta
+STR_2143    :Babhla Folamh
+STR_2147    :Preatsail
+STR_2148    :Seacláidí Te
+STR_2149    :Taenna Oighrithe
+STR_2150    :Cácaí Fuidrimh
+STR_2151    :Spéaclaí Gréine
+STR_2152    :Núdail Mairteola
+STR_2153    :Núdail Ríse Friochta
+STR_2154    :Anraithí Wonton
+STR_2155    :Anraithí Feoilmheall
+STR_2156    :Súnna Torthaí
+STR_2157    :Bainne Pónaire Soighe
 STR_2158    :Sujeonggwa
-STR_2159    :Sub Sandwiches
-STR_2160    :Cookies
-STR_2161    :Empty Bowls
-STR_2162    :Empty Drink Cartons
-STR_2163    :Empty Juice cups
-STR_2164    :Roast Sausages
-STR_2165    :Empty Bowls
-STR_2169    :a Pretzel
-STR_2170    :a Hot Chocolate
-STR_2171    :an Iced Tea
-STR_2172    :a Funnel Cake
-STR_2173    :a pair of Sunglasses
-STR_2174    :some Beef Noodles
-STR_2175    :some Fried Rice Noodles
-STR_2176    :some Wonton Soup
-STR_2177    :some Meatball Soup
-STR_2178    :a Fruit Juice
-STR_2179    :some Soybean Milk
-STR_2180    :some Sujeonggwa
-STR_2181    :a Sub Sandwich
-STR_2182    :a Cookie
-STR_2183    :an Empty Bowl
-STR_2184    :an Empty Drink Carton
-STR_2185    :an Empty Juice Cup
-STR_2186    :a Roast Sausage
-STR_2187    :an Empty Bowl
-STR_2191    :Pretzel
-STR_2192    :Hot Chocolate
-STR_2193    :Iced Tea
-STR_2194    :Funnel Cake
-STR_2195    :Sunglasses
-STR_2196    :Beef Noodles
-STR_2197    :Fried Rice Noodles
-STR_2198    :Wonton Soup
-STR_2199    :Meatball Soup
-STR_2200    :Fruit Juice
-STR_2201    :Soybean Milk
+STR_2159    :Fo-cheapairí
+STR_2160    :Brioscaí
+STR_2161    :Babhlaí Folmha
+STR_2162    :Cartáin Dí Folmha
+STR_2163    :Cupanna Sú Folmha
+STR_2164    :Ispíní Rósta
+STR_2165    :Babhlaí Folmha
+STR_2169    :Preatsal
+STR_2170    :Seacláid Te
+STR_2171    :Tae Oighrithe
+STR_2172    :Cáca Fuidrimh
+STR_2173    :Péire Spéaclaí Gréine
+STR_2174    :Roinnt Núdal Mairteola
+STR_2175    :Roinnt Núdal Ríse Friochta
+STR_2176    :Roinnt Anraith Wonton
+STR_2177    :Roinnt Anraith Feoilmheall
+STR_2178    :Sú Torthaí
+STR_2179    :Roinnt Bainne Pónaire Soighe
+STR_2180    :Roinnt Sujeonggwa
+STR_2181    :Fo-cheapaire
+STR_2182    :Briosca
+STR_2183    :Babhla Folamh
+STR_2184    :Cartán Dí Folamh
+STR_2185    :Cupa Sú Folamh
+STR_2186    :Ispín Rósta
+STR_2187    :Babhla Folamh
+STR_2191    :Preatsal
+STR_2192    :Seacláid Te
+STR_2193    :Tae Oighrithe
+STR_2194    :Cáca Fuidrimh
+STR_2195    :Spéaclaí Gréine
+STR_2196    :Núdail Mairteola
+STR_2197    :Núdail Ríse Friochta
+STR_2198    :Anraith Wonton
+STR_2199    :Anraith Feoilmheall
+STR_2200    :Sú Torthaí
+STR_2201    :Bainne Pónaire Soighe
 STR_2202    :Sujeonggwa
-STR_2203    :Sub Sandwich
-STR_2204    :Cookie
-STR_2205    :Empty Bowl
-STR_2206    :Empty Drink Carton
-STR_2207    :Empty Juice Cup
-STR_2208    :Roast Sausage
-STR_2209    :Empty Bowl
+STR_2203    :Fo-cheapaire
+STR_2204    :Briosca
+STR_2205    :Babhla Folamh
+STR_2206    :Cartán Dí Folamh
+STR_2207    :Cupa Sú Folamh
+STR_2208    :Ispín Rósta
+STR_2209    :Babhla Folamh
 STR_2210    :Taispeáin liosta na n-airíoch sa pháirc
 STR_2211    :Taispeáin liosta na meicneoirí sa pháirc
 STR_2212    :Taispeáin liosta na ngardaí slándála sa pháirc
