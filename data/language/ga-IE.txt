@@ -1289,32 +1289,32 @@ STR_1955    :{WINDOW_COLOUR_2}Number of circuits:
 STR_1956    :Number of circuits of track per ride
 STR_1958    :{COMMA16}
 STR_1959    :Can’t change number of circuits…
-STR_1960    :{WINDOW_COLOUR_2}Praghas balúin:
-STR_1961    :{WINDOW_COLOUR_2}Praghas bréagáin bhoig:
-STR_1962    :{WINDOW_COLOUR_2}Praghas mapa páirce:
-STR_1963    :{WINDOW_COLOUR_2}Praghas grianghraif marcaíochta:
-STR_1964    :{WINDOW_COLOUR_2}Praghas scátha fearthainne:
-STR_1965    :{WINDOW_COLOUR_2}Praghas dí:
-STR_1966    :{WINDOW_COLOUR_2}Praghas burgair:
-STR_1967    :{WINDOW_COLOUR_2}Praghas sceallóg:
-STR_1968    :{WINDOW_COLOUR_2}Praghas uachtair reoite:
-STR_1969    :{WINDOW_COLOUR_2}Praghas flais candaí:
+STR_1960    :{WINDOW_COLOUR_2}Praghas Balúin:
+STR_1961    :{WINDOW_COLOUR_2}Praghas Bréagáin Bhoig:
+STR_1962    :{WINDOW_COLOUR_2}Praghas Mapa Páirce:
+STR_1963    :{WINDOW_COLOUR_2}Praghas Grianghraif Marcaíochta:
+STR_1964    :{WINDOW_COLOUR_2}Praghas Scátha Fearthainne:
+STR_1965    :{WINDOW_COLOUR_2}Praghas Dí:
+STR_1966    :{WINDOW_COLOUR_2}Praghas Burgair:
+STR_1967    :{WINDOW_COLOUR_2}Praghas Sceallóg:
+STR_1968    :{WINDOW_COLOUR_2}Praghas Uachtair Reoite:
+STR_1969    :{WINDOW_COLOUR_2}Praghas Flais Candaí:
 STR_1970    :{WINDOW_COLOUR_2}
 STR_1971    :{WINDOW_COLOUR_2}
 STR_1972    :{WINDOW_COLOUR_2}
-STR_1973    :{WINDOW_COLOUR_2}Praghas píotsa:
+STR_1973    :{WINDOW_COLOUR_2}Praghas Píotsa:
 STR_1974    :{WINDOW_COLOUR_2}
-STR_1975    :{WINDOW_COLOUR_2}Praghas gráin rósta:
-STR_1976    :{WINDOW_COLOUR_2}Praghas brocaire the:
-STR_1977    :{WINDOW_COLOUR_2}Praghas braiteoige:
-STR_1978    :{WINDOW_COLOUR_2}Praghas hata:
-STR_1979    :{WINDOW_COLOUR_2}Praghas úill taifí:
+STR_1975    :{WINDOW_COLOUR_2}Praghas Gráin Rósta:
+STR_1976    :{WINDOW_COLOUR_2}Praghas Brocaire The:
+STR_1977    :{WINDOW_COLOUR_2}Praghas Braiteoige:
+STR_1978    :{WINDOW_COLOUR_2}Praghas Hata:
+STR_1979    :{WINDOW_COLOUR_2}Praghas Úill Taifí:
 STR_1980    :{WINDOW_COLOUR_2}Praghas T-léine:
-STR_1981    :{WINDOW_COLOUR_2}Praghas taoschnó:
-STR_1982    :{WINDOW_COLOUR_2}Praghas caife:
+STR_1981    :{WINDOW_COLOUR_2}Praghas Taoschnó:
+STR_1982    :{WINDOW_COLOUR_2}Praghas Caife:
 STR_1983    :{WINDOW_COLOUR_2}
-STR_1984    :{WINDOW_COLOUR_2}Praghas sicín friochta:
-STR_1985    :{WINDOW_COLOUR_2}Praghas líomanáide:
+STR_1984    :{WINDOW_COLOUR_2}Praghas Sicín Friochta:
+STR_1985    :{WINDOW_COLOUR_2}Praghas Líomanáide:
 STR_1986    :{WINDOW_COLOUR_2}
 STR_1987    :{WINDOW_COLOUR_2}
 STR_1988    :Balún
@@ -1373,80 +1373,80 @@ STR_2040    :Sicín Friochta
 STR_2041    :Líomanáid
 STR_2042    :Boscaí Folmha
 STR_2043    :Buidéil Folmha
-STR_2044    :a Balloon
-STR_2045    :a Cuddly Toy
-STR_2046    :a Park Map
-STR_2047    :an On-Ride Photo
-STR_2048    :an Umbrella
-STR_2049    :a Drink
-STR_2050    :a Burger
-STR_2051    :some Chips
-STR_2052    :an Ice Cream
-STR_2053    :some Candyfloss
-STR_2054    :an Empty Can
-STR_2055    :some Rubbish
-STR_2056    :an Empty Burger Box
-STR_2057    :a Pizza
-STR_2058    :a Voucher
-STR_2059    :some Popcorn
-STR_2060    :a Hot Dog
-STR_2061    :a Tentacle
-STR_2062    :a Hat
-STR_2063    :a Toffee Apple
-STR_2064    :a T-Shirt
-STR_2065    :a Doughnut
-STR_2066    :a Coffee
-STR_2067    :an Empty Cup
-STR_2068    :some Fried Chicken
-STR_2069    :some Lemonade
-STR_2070    :an Empty Box
-STR_2071    :an Empty Bottle
-STR_2072    :“{STRINGID}” Balloon
-STR_2073    :“{STRINGID}” Cuddly Toy
-STR_2074    :Map of {STRINGID}
-STR_2075    :On-Ride Photo of {STRINGID}
-STR_2076    :“{STRINGID}” Umbrella
-STR_2077    :Drink
-STR_2078    :Burger
-STR_2079    :Chips
-STR_2080    :Ice Cream
-STR_2081    :Candyfloss
-STR_2082    :Empty Can
-STR_2083    :Rubbish
-STR_2084    :Empty Burger Box
-STR_2085    :Pizza
-STR_2086    :Voucher for {STRINGID}
-STR_2087    :Popcorn
-STR_2088    :Hot Dog
-STR_2089    :Tentacle
-STR_2090    :“{STRINGID}” Hat
-STR_2091    :Toffee Apple
-STR_2092    :“{STRINGID}” T-Shirt
-STR_2093    :Doughnut
-STR_2094    :Coffee
-STR_2095    :Empty Cup
-STR_2096    :Fried Chicken
-STR_2097    :Lemonade
-STR_2098    :Empty Box
-STR_2099    :Empty Bottle
-STR_2103    :{WINDOW_COLOUR_2}Pretzel price:
-STR_2104    :{WINDOW_COLOUR_2}Hot Chocolate price:
-STR_2105    :{WINDOW_COLOUR_2}Iced Tea price:
-STR_2106    :{WINDOW_COLOUR_2}Funnel Cake price:
-STR_2107    :{WINDOW_COLOUR_2}Sunglasses price:
-STR_2108    :{WINDOW_COLOUR_2}Beef Noodles price:
-STR_2109    :{WINDOW_COLOUR_2}Fried Rice Noodles price:
-STR_2110    :{WINDOW_COLOUR_2}Wonton Soup price:
-STR_2111    :{WINDOW_COLOUR_2}Meatball Soup price:
-STR_2112    :{WINDOW_COLOUR_2}Fruit Juice price:
-STR_2113    :{WINDOW_COLOUR_2}Soybean Milk price:
-STR_2114    :{WINDOW_COLOUR_2}Sujeonggwa price:
-STR_2115    :{WINDOW_COLOUR_2}Sub Sandwich price:
-STR_2116    :{WINDOW_COLOUR_2}Cookie price:
+STR_2044    :Balún
+STR_2045    :Bréagán Bog
+STR_2046    :Mapa Páirce
+STR_2047    :Grianghraf Marcaíochta
+STR_2048    :Scáth Fearthainne
+STR_2049    :Deoch
+STR_2050    :Burgar
+STR_2051    :Roinnt Sceallóg
+STR_2052    :Uachtar Reoite
+STR_2053    :Roinnt Flais Candaí
+STR_2054    :Canna Folamh
+STR_2055    :Roinnt Bruscair
+STR_2056    :Bosca Burgair Folamh
+STR_2057    :Píotsa
+STR_2058    :Dearbhán
+STR_2059    :Roinnt Gráin Rósta
+STR_2060    :Brocaire Te
+STR_2061    :Braiteog
+STR_2062    :Hata
+STR_2063    :Úll Taifí
+STR_2064    :T-léine
+STR_2065    :Taoschnó
+STR_2066    :Caife
+STR_2067    :Cupa Folamh
+STR_2068    :Roinnt Sicín Friochta
+STR_2069    :Roinnt Líomanáide
+STR_2070    :Bosca Folamh
+STR_2071    :Buidéal Folamh
+STR_2072    :Balún “{STRINGID}”
+STR_2073    :Bréagán Bog “{STRINGID}”
+STR_2074    :Mapa de {STRINGID}
+STR_2075    :Grianghraf Marcaíochta de {STRINGID}
+STR_2076    :Scáth Fearthainne “{STRINGID}”
+STR_2077    :Deoch
+STR_2078    :Burgar
+STR_2079    :Sceallóga
+STR_2080    :Uachtar Reoite
+STR_2081    :Flas Candaí
+STR_2082    :Canna Folamh
+STR_2083    :Bruscar
+STR_2084    :Bosca Burgair Folamh
+STR_2085    :Píotsa
+STR_2086    :Dearbhán le haghaidh {STRINGID}
+STR_2087    :Grán Rósta
+STR_2088    :Brocaire Te
+STR_2089    :Braiteog
+STR_2090    :Hata “{STRINGID}”
+STR_2091    :Úll Taifí
+STR_2092    :T-léine “{STRINGID}”
+STR_2093    :Taoschnó
+STR_2094    :Caife
+STR_2095    :Cupa Folamh
+STR_2096    :Sicín Friochta
+STR_2097    :Líomanáid
+STR_2098    :Bosca Folamh
+STR_2099    :Buidéal Folamh
+STR_2103    :{WINDOW_COLOUR_2}Praghas Preatsail:
+STR_2104    :{WINDOW_COLOUR_2}Praghas Seacláide Te:
+STR_2105    :{WINDOW_COLOUR_2}Praghas Tae Oighrithe:
+STR_2106    :{WINDOW_COLOUR_2}Praghas Cáca Fuidrimh:
+STR_2107    :{WINDOW_COLOUR_2}Praghas Spéaclaí Gréine:
+STR_2108    :{WINDOW_COLOUR_2}Praghas Núdal Mairteola:
+STR_2109    :{WINDOW_COLOUR_2}Praghas Núdal Ríse Friochta:
+STR_2110    :{WINDOW_COLOUR_2}Praghas Anraith Wonton:
+STR_2111    :{WINDOW_COLOUR_2}Praghas Anraith Feoilmheall:
+STR_2112    :{WINDOW_COLOUR_2}Praghas Sú Torthaí:
+STR_2113    :{WINDOW_COLOUR_2}Praghas Bainne Pónaire Soighe:
+STR_2114    :{WINDOW_COLOUR_2}Praghas Sujeonggwa:
+STR_2115    :{WINDOW_COLOUR_2}Praghas Fo-cheapaire:
+STR_2116    :{WINDOW_COLOUR_2}Praghas Briosca:
 STR_2117    :{WINDOW_COLOUR_2}
 STR_2118    :{WINDOW_COLOUR_2}
 STR_2119    :{WINDOW_COLOUR_2}
-STR_2120    :{WINDOW_COLOUR_2}Roast Sausage price:
+STR_2120    :{WINDOW_COLOUR_2}Praghas Ispín Rósta:
 STR_2121    :{WINDOW_COLOUR_2}
 STR_2125    :Pretzel
 STR_2126    :Hot Chocolate
