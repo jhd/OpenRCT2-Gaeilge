@@ -1902,8 +1902,8 @@ STR_2733    :{COMMA32} m
 STR_2734    :{COMMA16} msu
 STR_2735    :{COMMA16} km/h
 # Used only as part of label-value pair.
-STR_2736    :{MONTH}, Year {COMMA16}
-STR_2737    :{STRINGID} {MONTH}, Year {COMMA16}
+STR_2736    :{MONTH}, Bliain {COMMA16}
+STR_2737    :{STRINGID} {MONTH}, Bliain {COMMA16}
 STR_2738    :Title screen music:
 STR_2739    :None
 STR_2740    :RollerCoaster Tycoon 1
@@ -2376,10 +2376,10 @@ STR_5155    :Allow testing of unfinished tracks
 STR_5156    :Allows testing of most ride types even when the track is unfinished, does not apply to block sectioned modes
 STR_5158    :Quit to menu
 STR_5159    :Exit OpenRCT2
-STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, Year {POP16}{COMMA16}
+STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, Bliain {POP16}{COMMA16}
 STR_5161    :Date Format:
-STR_5162    :Day/Month/Year
-STR_5163    :Month/Day/Year
+STR_5162    :Lá/Mí/Bliain
+STR_5163    :Mí/Lá/Bliain
 STR_5177    :Screen mode:
 STR_5178    :Show financial cheats
 STR_5179    :Show guest cheats
@@ -2651,10 +2651,10 @@ STR_5545    :Dark pink
 STR_5546    :Bright pink
 STR_5547    :Light pink
 STR_5548    :Show all operating modes
-STR_5549    :Year/Month/Day
-STR_5550    :{POP16}{POP16}Year {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
-STR_5551    :Year/Day/Month
-STR_5552    :{POP16}{POP16}Year {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
+STR_5549    :Bliain/Mí/Lá
+STR_5550    :{POP16}{POP16}Bliain {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
+STR_5551    :Bliain/Lá/Mí
+STR_5552    :{POP16}{POP16}Bliain {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
 STR_5554    :Enable mountain tool
 STR_5555    :Show vehicles from other track types
 STR_5556    :Kick player
@@ -3594,20 +3594,20 @@ STR_6595    :{WINDOW_COLOUR_2}Author: {BLACK}{STRING}
 STR_6596    :{WINDOW_COLOUR_2}Authors: {BLACK}{STRING}
 STR_6597    :Invalid parameter
 STR_6598    :Value out of range
-STR_6599    :Ghost element not found
-STR_6600    :Balloon not found
-STR_6601    :Staff not found
-STR_6602    :Ride not found
-STR_6603    :Ride object entry not found
-STR_6604    :Player not found
-STR_6605    :Entrance element not found
-STR_6606    :Surface element not found
-STR_6607    :Tile element not found
-STR_6608    :Track element not found
-STR_6609    :Track block not found
-STR_6610    :Path element not found
-STR_6611    :Wall element not found
-STR_6612    :Banner element not found
+STR_6599    :Níor aimsíodh ball taibhse
+STR_6600    :Níor aimsíodh balún
+STR_6601    :Níor aimsíodh ball foirne
+STR_6602    :Níor aimsíodh marcaíocht
+STR_6603    :Níor aimsíodh iontráil réada marcaíochta
+STR_6604    :Níor aimsíodh imreoir
+STR_6605    :Níor aimsíodh ball bealaigh isteach
+STR_6606    :Níor aimsíodh ball dromchla
+STR_6607    :Níor aimsíodh ball tíle
+STR_6608    :Níor aimsíodh ball ráille
+STR_6609    :Níor aimsíodh bloc ráille
+STR_6610    :Níor aimsíodh ball cosáin
+STR_6611    :Níor aimsíodh ball balla
+STR_6612    :Níor aimsíodh ball meirge
 STR_6613    :Reload object
 STR_6614    :Can’t change park entrance fee
 STR_6615    :Track on this tile needs water
@@ -3670,7 +3670,7 @@ STR_6671    :Show ‘real’ names of staff
 STR_6672    :Toggle between showing ‘real’ names of staff and staff numbers
 STR_6673    :Transparent
 # Used as part of a sentence (see https://github.com/OpenRCT2/OpenRCT2/issues/22072).
-STR_6674    :{MONTH}, Year {COMMA16}
+STR_6674    :{MONTH}, Bliain {COMMA16}
 STR_6675    :Peep Names
 STR_6676    :At least one peep names object must be selected
 STR_6677    :Add beaches around water bodies
