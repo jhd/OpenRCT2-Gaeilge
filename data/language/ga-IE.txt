@@ -2094,19 +2094,19 @@ STR_3103    :Can’t re-paint this…
 STR_3104    :List rides
 STR_3105    :List shops and stalls
 STR_3106    :List information kiosks and other guest facilities
-STR_3107    :Close
-STR_3108    :Test
-STR_3109    :Open
+STR_3107    :Dún
+STR_3108    :Tástáil
+STR_3109    :Oscail
 STR_3110    :{WINDOW_COLOUR_2}Block Sections: {BLACK}{COMMA16}
 STR_3111    :Click on design to build it
 STR_3112    :Click on design to rename or delete it
 STR_3113    :Select a different design
 STR_3114    :Go back to design selection window
-STR_3115    :Save track design
-STR_3116    :Save track design (Not possible until ride has been tested and statistics have been generated)
-STR_3117    :{BLACK}Calling mechanic…
-STR_3118    :{BLACK}{STRINGID} is heading for the ride
-STR_3119    :{BLACK}{STRINGID} is fixing the ride
+STR_3115    :Sábháil dearadh ráille
+STR_3116    :Sábháil dearadh ráille (Níl sé indéanta go dtí go mbeidh an mharcaíocht tástáilte agus na staitisticí ginte)
+STR_3117    :{BLACK}Ag glaoch ar mheicneoir…
+STR_3118    :{BLACK}Tá {STRINGID} ag triall ar an marcaíocht
+STR_3119    :{BLACK}Tá {STRINGID} ag deisiú na marcaíochta
 STR_3120    :Locate nearest available mechanic, or mechanic fixing ride
 STR_3121    :Unable to locate mechanic, or all nearby mechanics are busy
 STR_3122    :{WINDOW_COLOUR_2}Favourite ride of: {BLACK}{COMMA32} guest
@@ -2115,10 +2115,10 @@ STR_3124    :Broken {STRINGID}
 STR_3125    :{WINDOW_COLOUR_2}Excitement Factor: {BLACK}+{COMMA16}%
 STR_3126    :{WINDOW_COLOUR_2}Intensity Factor: {BLACK}+{COMMA16}%
 STR_3127    :{WINDOW_COLOUR_2}Nausea Factor: {BLACK}+{COMMA16}%
-STR_3128    :Save Track Design
-STR_3129    :Save Track Design with Scenery
-STR_3130    :Save
-STR_3131    :Cancel
+STR_3128    :Sábháil Dearadh Ráille
+STR_3129    :Sábháil Dearadh Ráille le Radharcra
+STR_3130    :Sábháil
+STR_3131    :Cealaigh
 STR_3132    :{BLACK}Click items of scenery to select them to be saved with track design…
 STR_3133    :Unable to build this on a slope
 STR_3134    :{RED}(Design includes scenery which is unavailable)
@@ -2151,15 +2151,15 @@ STR_3181    :Object Selection - {STRINGID}
 STR_3182    :Park entrance type must be selected
 STR_3183    :Water type must be selected
 STR_3184    :Ride Vehicles/Attractions
-STR_3185    :Small Scenery
-STR_3186    :Large Scenery
+STR_3185    :Radharcra Beag
+STR_3186    :Radharcra Mór
 STR_3187    :Walls/Fences
 STR_3188    :Path Signs
 STR_3189    :Legacy footpaths
 STR_3190    :Path Extras
 STR_3191    :Scenery Groups
-STR_3192    :Park Entrances
-STR_3193    :Water
+STR_3192    :Bealaí Isteach na Páirce
+STR_3193    :Uisce
 STR_3195    :Invention List
 STR_3196    :{WINDOW_COLOUR_2}Research Group: {BLACK}{STRINGID}
 STR_3197    :{WINDOW_COLOUR_2}Items pre-invented at start of game:
@@ -2200,10 +2200,10 @@ STR_3232    :Scenario options - Financial
 STR_3233    :Scenario options - Guests
 STR_3235    :Show financial options
 STR_3236    :Show guest options
-STR_3238    :No Money
+STR_3238    :Gan Airgead
 STR_3239    :Make this park a ‘no money’ park with no financial restrictions
-STR_3240    :Initial cash:
-STR_3241    :Initial loan:
+STR_3240    :Airgead tosaigh:
+STR_3241    :Iasacht tosaigh:
 STR_3242    :Maximum loan size:
 STR_3243    :Annual interest rate:
 STR_3244    :Forbid marketing campaigns
@@ -2219,9 +2219,9 @@ STR_3253    :Can’t reduce maximum loan size any further!
 STR_3254    :Can’t increase interest rate any further!
 STR_3255    :Can’t reduce interest rate any further!
 STR_3260    :Cash per guest (average):
-STR_3261    :Guests’ initial happiness:
-STR_3262    :Guests’ initial hunger:
-STR_3263    :Guests’ initial thirst:
+STR_3261    :Sonas tosaigh na n-aíonna:
+STR_3262    :Ocras tosaigh na n-aíonna:
+STR_3263    :Tart tosaigh na n-aíonna:
 STR_3264    :Can’t increase this any further!
 STR_3265    :Can’t reduce this any further!
 STR_3266    :Select how this park charges for entrance and rides
@@ -2310,14 +2310,14 @@ STR_3360    :Warning!
 STR_3361    :Too many track designs of this type. Some will not be listed.
 STR_3364    :Advanced
 STR_3365    :Allow selection of individual items of scenery in addition to scenery groups
-STR_3366    :{BLACK}= Ride
-STR_3367    :{BLACK}= Food Stall
-STR_3368    :{BLACK}= Drink Stall
-STR_3369    :{BLACK}= Souvenir Stall
-STR_3370    :{BLACK}= Info. Kiosk
-STR_3371    :{BLACK}= First Aid
-STR_3372    :{BLACK}= Cash Machine
-STR_3373    :{BLACK}= Toilet
+STR_3366    :{BLACK}= Marcaíocht
+STR_3367    :{BLACK}= Stainnín Bia
+STR_3368    :{BLACK}= Stainnín Dí
+STR_3369    :{BLACK}= Stainnín Cuimhneachán
+STR_3370    :{BLACK}= Both Eolais
+STR_3371    :{BLACK}= Garchabhair
+STR_3372    :{BLACK}= Meaisín Airgid
+STR_3373    :{BLACK}= Leithreas
 STR_3374    :Warning: Too many objects selected!
 STR_3375    :Not all objects in this scenery group could be selected
 STR_3376    :Install new
@@ -3004,10 +3004,10 @@ STR_5952    :Sequence number: {BLACK}{COMMA16}
 STR_5953    :Sort the map elements on the current tile based on their base height.
 STR_5954    :Scenery age: {BLACK}{COMMA16}
 STR_5955    :Quadrant placement: {BLACK}{STRINGID}
-STR_5956    :Southwest
-STR_5957    :Northwest
-STR_5958    :Northeast
-STR_5959    :Southeast
+STR_5956    :Iardheas
+STR_5957    :Iarthuaidh
+STR_5958    :Oirthuaidh
+STR_5959    :Oirdheas
 STR_5960    :Quadrant placement:
 STR_5961    :Entry index: {BLACK}{COMMA16}
 STR_5962    :Collision detection:
@@ -3256,10 +3256,10 @@ STR_6242    :Clear selection
 STR_6243    :Refurbishes the ride,{NEWLINE}makes it like new
 STR_6244    :Can’t refurbish ride…
 STR_6245    :Ride doesn’t need refurbishing
-STR_6246    :Refurbish
-STR_6247    :Refurbish ride/attraction
-STR_6248    :{WINDOW_COLOUR_1}Do you want to refurbish {STRINGID} for {CURRENCY}?
-STR_6249    :{WINDOW_COLOUR_1}Do you want to refurbish {STRINGID}?
+STR_6246    :Athchóirigh
+STR_6247    :Athchóirigh marcaíocht/díol spéise
+STR_6248    :{WINDOW_COLOUR_1}Ar mhaith leat {STRINGID} a athchóiriú ar {CURRENCY}?
+STR_6249    :{WINDOW_COLOUR_1}Ar mhaith leat {STRINGID} a athchóiriú?
 STR_6250    :{WINDOW_COLOUR_1}Are you sure you want to completely demolish {STRINGID} and gain {CURRENCY}?
 STR_6251    :Ride is not empty yet
 STR_6255    :URL is not valid
@@ -3771,16 +3771,16 @@ STR_6771    :Internal speed (default)
 STR_6772    :Vertical sync
 STR_6773    :Unrestricted
 STR_6774    :Time since last inspection
-STR_6775    :{COMMA16} minute
-STR_6776    :{COMMA16} minutes
-STR_6777    :more than 4 hours
+STR_6775    :{COMMA16} nóiméad
+STR_6776    :{COMMA16} nóiméad
+STR_6777    :níos mó ná 4 uair
 STR_6778    :Preview scenarios using:
 STR_6779    :Select the kind of preview image to use in the scenario selection screen.
 STR_6780    :Mini maps
 STR_6781    :Screenshots
-STR_6782    :Park notifications
-STR_6783    :Ride notifications
-STR_6784    :Guest notifications
+STR_6782    :Fógraí páirce
+STR_6783    :Fógraí marcaíochta
+STR_6784    :Fógraí aoi
 STR_6785    :Gamepad
 STR_6786    :Deadzone:
 STR_6787    :Analogue stick deadzone (minimum movement required)
@@ -3789,8 +3789,8 @@ STR_6789    :Analogue stick sensitivity multiplier
 STR_6790    :Deadzone: {COMMA32}%
 STR_6791    :Sensitivity: {COMMA32}%
 STR_6792    :Entrance Buildings
-STR_6793    :Guests and Staff
-STR_6794    :Scenery and Themes
+STR_6793    :Aíonna agus Foireann
+STR_6794    :Radharcra agus Téamú
 STR_6795    :{MOVE_X}{10}{STRINGID}
 STR_6796    :•{MOVE_X}{10}{STRINGID}
 STR_6797    :No preview
