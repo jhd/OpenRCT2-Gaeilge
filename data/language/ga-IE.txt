@@ -1225,70 +1225,70 @@ STR_1886    :Ag scrúdú {STRINGID}
 STR_1887    :{WINDOW_COLOUR_2}Am ón scrúdú deireanach: {BLACK}{COMMA16} nóiméad
 STR_1888    :{WINDOW_COLOUR_2}Am ón scrúdú deireanach: {BLACK}níos mó ná 4 uair
 STR_1889    :{WINDOW_COLOUR_2}Am díomhaoin: {MOVE_X}{255}{BLACK}{COMMA16}%
-STR_1890    :Select how often a mechanic should check this ride
-STR_1891    :No {STRINGID} in park yet!
-STR_1894    :{WINDOW_COLOUR_2}{STRINGID} sold: {BLACK}{COMMA32}
-STR_1895    :Build new ride/attraction
-STR_1896    :{WINDOW_COLOUR_2}Expenditure/Income
-STR_1897    :{WINDOW_COLOUR_2}Ride construction
-STR_1898    :{WINDOW_COLOUR_2}Ride running costs
-STR_1899    :{WINDOW_COLOUR_2}Land purchase
-STR_1900    :{WINDOW_COLOUR_2}Landscaping
-STR_1901    :{WINDOW_COLOUR_2}Park entrance tickets
-STR_1902    :{WINDOW_COLOUR_2}Ride tickets
-STR_1903    :{WINDOW_COLOUR_2}Shop sales
-STR_1904    :{WINDOW_COLOUR_2}Shop stock
-STR_1905    :{WINDOW_COLOUR_2}Food/drink sales
-STR_1906    :{WINDOW_COLOUR_2}Food/drink stock
-STR_1907    :{WINDOW_COLOUR_2}Staff wages
-STR_1908    :{WINDOW_COLOUR_2}Marketing
-STR_1909    :{WINDOW_COLOUR_2}Research
-STR_1910    :{WINDOW_COLOUR_2}Loan interest
-STR_1911    :{BLACK} at {COMMA16}% per year
+STR_1890    :Roghnaigh a mhinice a scrúdóidh meicneoir an mharcaíocht seo
+STR_1891    :Níl aon {STRINGID} sa pháirc fós!
+STR_1894    :{WINDOW_COLOUR_2}{STRINGID} díolta: {BLACK}{COMMA32}
+STR_1895    :Tóg marcaíocht/díol spéise nua
+STR_1896    :{WINDOW_COLOUR_2}Caiteachas/Ioncam
+STR_1897    :{WINDOW_COLOUR_2}Tógáil marcaíochta
+STR_1898    :{WINDOW_COLOUR_2}Costas reatha marcaíochta
+STR_1899    :{WINDOW_COLOUR_2}Ceannach talún
+STR_1900    :{WINDOW_COLOUR_2}Tírdhreachú
+STR_1901    :{WINDOW_COLOUR_2}Ticéid isteach don pháirc
+STR_1902    :{WINDOW_COLOUR_2}Ticéid marcaíochta
+STR_1903    :{WINDOW_COLOUR_2}Díolacháin siopa
+STR_1904    :{WINDOW_COLOUR_2}Stoc siopa
+STR_1905    :{WINDOW_COLOUR_2}Díolacháin bia/dí
+STR_1906    :{WINDOW_COLOUR_2}Stoc bia/dí
+STR_1907    :{WINDOW_COLOUR_2}Pá foirne
+STR_1908    :{WINDOW_COLOUR_2}Margaíocht
+STR_1909    :{WINDOW_COLOUR_2}Taighde
+STR_1910    :{WINDOW_COLOUR_2}Ús iasachta
+STR_1911    :{BLACK} ag {COMMA16}% sa bhliain
 STR_1912    :{MONTH}
 STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
-STR_1916    :{WINDOW_COLOUR_2}Loan:
-STR_1918    :Can’t borrow any more money!
-STR_1919    :Not enough cash available!
-STR_1920    :Can’t pay back loan!
-STR_1921    :Start a new game
-STR_1922    :Continue playing a saved game
-STR_1924    :Exit
-STR_1925    :Can’t place person here…
-STR_1927    :{YELLOW}{STRINGID} has broken down
-STR_1928    :{RED}{STRINGID} has crashed!
-STR_1929    :{RED}{STRINGID} still hasn’t been fixed{NEWLINE}Check where your mechanics are and consider organizing them better
-STR_1930    :Turn on/off tracking information for this guest - (If tracking is on, guest’s movements will be reported in the message area)
-STR_1931    :{STRINGID} has joined the queue line for {STRINGID}
-STR_1932    :{STRINGID} is on {STRINGID}
-STR_1933    :{STRINGID} is in {STRINGID}
-STR_1934    :{STRINGID} has left {STRINGID}
-STR_1935    :{STRINGID} has left the park
-STR_1936    :{STRINGID} has bought {STRINGID}
-STR_1937    :Show information about the subject of this message
-STR_1938    :Show view of guest
-STR_1939    :Show view of staff member
-STR_1940    :Show happiness, energy, hunger etc. for this guest
-STR_1941    :Show which rides this guest has been on
-STR_1942    :Show financial information about this guest
-STR_1943    :Show guest’s recent thoughts
-STR_1944    :Show items guest is carrying
-STR_1945    :Show orders and options for this staff member
-STR_1946    :Select costume for this entertainer
-STR_1947    :Show areas patrolled by selected staff type, and locate the nearest staff member
-STR_1948    :Hire a new staff member of the selected type
-STR_1949    :Financial Summary
-STR_1950    :Financial Graph
-STR_1951    :Park Value Graph
-STR_1952    :Profit Graph
-STR_1953    :Marketing
-STR_1954    :Research Funding
-STR_1955    :{WINDOW_COLOUR_2}Number of circuits:
-STR_1956    :Number of circuits of track per ride
+STR_1916    :{WINDOW_COLOUR_2}Iasacht:
+STR_1918    :Ní féidir níos mó airgid a fháil ar iasacht!
+STR_1919    :Níl go leor airgid ar fáil!
+STR_1920    :Ní féidir iasacht a aisíoc!
+STR_1921    :Tosaigh cluiche nua
+STR_1922    :Lean ar aghaidh ag imirt cluiche sábháilte
+STR_1924    :Scoir
+STR_1925    :Ní féidir duine a chur anseo…
+STR_1927    :{YELLOW}Chlis ar {STRINGID}
+STR_1928    :{RED}Thuairteáil {STRINGID}!
+STR_1929    :{RED}Níl {STRINGID} deisithe fós{NEWLINE}Seiceáil cá bhfuil do mheicneoirí agus smaoinigh ar iad a eagrú níos fearr
+STR_1930    :Cuir ar siúl/múch eolais rianaithe ar an aoi seo - (Má tá an rianú curtha ar siúl, tuairisceofar gluaiseachtaí an aoi sa limistéar teachtaireachtaí)
+STR_1931    :Tá {STRINGID} tar éis dul i scuaine do {STRINGID}
+STR_1932    :Tá {STRINGID} ar {STRINGID}
+STR_1933    :Tá {STRINGID} i {STRINGID}
+STR_1934    :Tá {STRINGID} tar éis {STRINGID} a fhágáil
+STR_1935    :Tá {STRINGID} tar éis an pháirc a fhágáil
+STR_1936    :Tá {STRINGID} tar éis {STRINGID} a cheannach
+STR_1937    :Taispeáin eolas faoi ábhar na teachtaireachta seo
+STR_1938    :Taispeáin amharc aoi
+STR_1939    :Taispeáin amharc ball foirne
+STR_1940    :Taispeáin sonas, fuinneamh, ocras srl. ar an aoi seo
+STR_1941    :Taispeáin na marcaíochtaí ar a raibh an aoi seo
+STR_1942    :Taispeáin eolas airgeadais faoin aoi seo
+STR_1943    :Taispeáin smaointe an aoi le déanaí
+STR_1944    :Taispeáin na hearraí atá an aoi ag iompar
+STR_1945    :Taispeáin orduithe agus roghanna faoin mball foirne seo
+STR_1946    :Roghnaigh feisteas don fhuirseoir seo
+STR_1947    :Taispeáin na limistéir a ndéanann an saghas foirne roghnaithe patról orthu, agus aimsigh an ball foirne is gaire
+STR_1948    :Fostaigh ball foirne nua den saghas roghnaithe
+STR_1949    :Coimre Airgeadais
+STR_1950    :Graf Airgeadais
+STR_1951    :Graf Luach Páirce
+STR_1952    :Graf Brabúis
+STR_1953    :Margaíocht
+STR_1954    :Ciste Taighde
+STR_1955    :{WINDOW_COLOUR_2}Líon cúrsaí:
+STR_1956    :Líon cúrsaí ráille sa mharcaíocht
 STR_1958    :{COMMA16}
-STR_1959    :Can’t change number of circuits…
+STR_1959    :Ní féidir líon cúrsaí a athrú…
 STR_1960    :{WINDOW_COLOUR_2}Praghas Balúin:
 STR_1961    :{WINDOW_COLOUR_2}Praghas Bréagáin Bhoig:
 STR_1962    :{WINDOW_COLOUR_2}Praghas Mapa Páirce:
@@ -3161,7 +3161,7 @@ STR_6116    :Wide roller coaster trains glide along smooth steel track, travelli
 STR_6119    :A cheap and easy to build roller coaster, but with a limited height
 STR_6120    :{BABYBLUE}New vehicle now available for {STRINGID}:{NEWLINE}{STRINGID}
 STR_6121    :Extends the park’s land rights all the way to the edges of the map
-STR_6122    :There are not enough rollchóstóirí in this scenario!
+STR_6122    :There are not enough rollercoasters in this scenario!
 STR_6123    :Error loading objects for park
 STR_6124    :Object name
 STR_6125    :Object type
@@ -3176,7 +3176,7 @@ STR_6133    :Access rides and scenery that have not yet been invented
 STR_6134    :Clear Scenery
 STR_6135    :Client sent invalid request
 STR_6136    :Server sent invalid request
-STR_6137    :OpenRCT2, a free and open source recreation of and expansion to Rollchóstóir Tycoon 2.
+STR_6137    :OpenRCT2, a free and open source recreation of and expansion to RollerCoaster Tycoon 2.
 STR_6138    :OpenRCT2 is the work of many authors, a full list can be found under the “Contributors” button. For more information, visit http://github.com/OpenRCT2/OpenRCT2
 STR_6139    :All product and company names belong to their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 STR_6140    :Changelog…
