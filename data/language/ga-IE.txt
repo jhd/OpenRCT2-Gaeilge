@@ -3140,12 +3140,12 @@ STR_6089    :D'athainmnigh {STRING} an pháirc as ‘{STRING}’ go ‘{STRING}�
 STR_6090    :D'oscail {STRING} an pháirc.
 STR_6091    :Dhún {STRING} an pháirc.
 STR_6092    :D'athraigh {STRING} táille isteach na páirce go {STRING}
-STR_6093    :{STRING} placed new scenery.
-STR_6094    :{STRING} removed scenery.
-STR_6095    :{STRING} edited scenery.
+STR_6093    :Leag {STRING} radharcra nua.
+STR_6094    :Bhain {STRING} radharcra.
+STR_6095    :Chuir {STRING} radharcra in eagar.
 STR_6096    :{STRING} set sign name to ‘{STRING}’.
 STR_6097    :{STRING} placed a track of ride ‘{STRING}’.
-STR_6098    :{STRING} removed a track of ride.
+STR_6098    :Bhain {STRING} ráille marcaíochta.
 STR_6099    :You connected to the server.
 STR_6100    :You disconnected from the server.
 STR_6101    :Rides don’t decrease in value over time
