@@ -2860,7 +2860,7 @@ STR_5800    :Prevents rides from breaking down
 STR_5801    :Disable littering
 STR_5802    :Stops guests from littering and vomiting
 STR_5803    :Rotate selected map element
-STR_5804    :Mute sound
+STR_5804    :Balbhaigh fuaim
 STR_5805    :If checked, your server will be added to the{NEWLINE}public server list so everyone can find it
 STR_5806    :Toggle windowed mode
 STR_5807    :{WINDOW_COLOUR_2}Number of rides: {BLACK}{COMMA16}
@@ -2963,10 +2963,10 @@ STR_5910    :Apply
 STR_5911    :See-Through Paths
 STR_5912    :See-through paths toggle
 STR_5913    :Chat
-STR_5914    :Unknown ride
-STR_5915    :Player
-STR_5916    :{COMMA16} player
-STR_5917    :{COMMA16} players
+STR_5914    :Marcaíocht anaithnid
+STR_5915    :Imreoir
+STR_5916    :{COMMA16} imreoir
+STR_5917    :{COMMA16} imreoir
 STR_5919    :{COMMA16}
 STR_5920    :Render weather effects
 STR_5921    :If enabled, rain and gloomy colours will be rendered during storms.
@@ -3103,9 +3103,9 @@ STR_6052    :The heightmap is too big, and will be cut off
 STR_6053    :The heightmap cannot be normalised
 STR_6054    :Only 24-bit bitmaps are supported
 STR_6055    :OpenRCT2 Heightmap File
-STR_6056    :Mute
+STR_6056    :Balbhaigh
 STR_6057    :Show a separate button for the Mute Option in the toolbar
-STR_6058    :Mute
+STR_6058    :Balbhaigh
 STR_6059    :»
 STR_6060    :Show guest purchases as animation
 STR_6061    :Show animated money effect{NEWLINE}when guests make purchases.
@@ -3121,9 +3121,9 @@ STR_6070    :{STRING} was set to group ‘{STRING}’ by {STRING}.
 STR_6071    :{STRING} created new player group ‘{STRING}’.
 STR_6072    :{STRING} deleted player group ‘{STRING}’.
 STR_6073    :{STRING} edited permissions for player group ‘{STRING}’.
-STR_6074    :{STRING} changed player group name from ‘{STRING}’ to ‘{STRING}’.
-STR_6075    :{STRING} changed the default player group to ‘{STRING}’.
-STR_6076    :{STRING} used/toggled cheat ‘{STRING}’.
+STR_6074    :D'athraigh {STRING} ainm grúpa imreoirí ó ‘{STRING}’ go ‘{STRING}’.
+STR_6075    :D'athraigh {STRING} an grúpa imreoirí réamhshocraithe go ‘{STRING}’.
+STR_6076    :D'úsáid/scoránaigh {STRING} cleas ‘{STRING}’.
 STR_6077    :Cuir Airgead Leis
 STR_6078    :Chruthaigh {STRING} an mharcaíocht ‘{STRING}’.
 STR_6079    :Scartáil {STRING} an mharcaíocht ‘{STRING}’.
@@ -3144,8 +3144,8 @@ STR_6093    :Leag {STRING} radharcra nua.
 STR_6094    :Bhain {STRING} radharcra.
 STR_6095    :Chuir {STRING} radharcra in eagar.
 STR_6096    :{STRING} set sign name to ‘{STRING}’.
-STR_6097    :{STRING} placed a track of ride ‘{STRING}’.
-STR_6098    :Bhain {STRING} ráille marcaíochta.
+STR_6097    :Leag {STRING} ráille na marcaíochta ‘{STRING}’.
+STR_6098    :Bhain {STRING} ráille na marcaíochta.
 STR_6099    :You connected to the server.
 STR_6100    :You disconnected from the server.
 STR_6101    :Rides don’t decrease in value over time
@@ -3165,11 +3165,11 @@ STR_6122    :There are not enough rollercoasters in this scenario!
 STR_6123    :Error loading objects for park
 STR_6124    :Object name
 STR_6125    :Object type
-STR_6126    :Unknown type
+STR_6126    :Saghas anaithnid
 STR_6127    :File: {STRING}
 STR_6128    :The file could not be loaded as some of the objects referenced in it are missing or corrupt. A list of these objects is given below.
-STR_6129    :Copy
-STR_6130    :Copy all
+STR_6129    :Cóipeáil
+STR_6130    :Cóipeáil iad uile
 STR_6131    :Object source
 STR_6132    :Ignore research status
 STR_6133    :Access rides and scenery that have not yet been invented
@@ -3370,7 +3370,7 @@ STR_6371    :The specified path contains a RollerCoaster Tycoon 1 installation, 
 STR_6372    :The specified path contains a RollerCoaster Tycoon 1 installation, but this version is not suitable. OpenRCT2 needs a Loopy Landscapes or RCT Deluxe install in order to use RollerCoaster Tycoon 1 assets.
 STR_6373    :Toggle clearance checks
 STR_6374    :C
-STR_6375    :Unknown Ride
+STR_6375    :Marcaíocht Anaithnid
 STR_6376    :{WINDOW_COLOUR_2}Ride vehicle:{NEWLINE}{BLACK}{STRINGID} for {STRINGID}
 STR_6377    :{WINDOW_COLOUR_2}Type: {BLACK}{STRINGID} for {STRINGID}
 STR_6378    :Receiving objects list…
@@ -3641,11 +3641,11 @@ STR_6642    :{STRING} ({COMMA32} / {COMMA32})
 STR_6643    :{STRING} ({COMMA32} / {COMMA32} KiB)
 STR_6644    :Touch enhancements
 STR_6645    :Makes some UI elements bigger so they are easier to click or tap.
-STR_6646    :Author: {STRING}
-STR_6647    :Authors: {STRING}
-STR_6648    :Loading plugin engine…
-STR_6649    :Loading scenario…
-STR_6650    :Loading saved game…
+STR_6646    :Údar: {STRING}
+STR_6647    :Údair: {STRING}
+STR_6648    :Ag lódáil inneall breiseáin…
+STR_6649    :Ag lódáil cnámhscéil…
+STR_6650    :Ag lódáil cluiche shábháilte…
 STR_6651    :{STRING} ({COMMA32}%)
 STR_6652    :Error Window
 STR_6653    :All sources shown
@@ -3804,7 +3804,7 @@ STR_7004    :Force Redraw
 STR_7005    :Drag an area of footpath
 STR_7006    :Draw border around image buttons
 STR_7007    :Ride Type
-STR_7008    :Unknown ride type ({INT32})
+STR_7008    :Saghas marcaíochta anaithnid ({INT32})
 STR_7009    :Receiving scripts…
 STR_7010    :Could not start replay, file ‘{STRING}’ doesn’t exist or isn’t valid
 STR_7011    :Could not start replay
