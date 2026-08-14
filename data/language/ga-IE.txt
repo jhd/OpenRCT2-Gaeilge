@@ -1689,14 +1689,14 @@ STR_2378    :Adjust smaller area of land
 STR_2379    :Adjust larger area of land
 STR_2380    :Adjust smaller area of water
 STR_2381    :Adjust larger area of water
-STR_2382    :Land
-STR_2383    :Water
+STR_2382    :Talamh
+STR_2383    :Uisce
 STR_2384    :{WINDOW_COLOUR_2}Your objective:
 STR_2385    :{BLACK}None
 STR_2386    :{BLACK}To have at least {COMMA32} guests in your park at the end of {MONTHYEAR_SENTENCE}, with a park rating of at least 600
 STR_2387    :{BLACK}To achieve a park value of at least {POP16}{POP16}{CURRENCY} at the end of {PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{MONTHYEAR_SENTENCE}
-STR_2388    :{BLACK}Have Fun!
-STR_2389    :{BLACK}Build the best {STRINGID} you can!
+STR_2388    :{BLACK}Spraoi a bheith agat!
+STR_2389    :{BLACK}An {STRINGID} is fearr is féidir leat a thógáil!
 STR_2390    :{BLACK}To have 10 different types of rollchóstóirí operating in your park, each with an excitement value of at least 6.00
 STR_2391    :{BLACK}To have at least {COMMA32} guests in your park. You must not let the park rating drop below 700 at any time!
 STR_2392    :{BLACK}To achieve a monthly income from ride tickets of at least {POP16}{POP16}{CURRENCY}
@@ -1741,9 +1741,9 @@ STR_2432    :{BLACK}Vouchers for half-price entry to {STRINGID}
 STR_2433    :{BLACK}Vouchers for free {STRINGID}
 STR_2434    :{BLACK}Advertising campaign for {STRINGID}
 STR_2435    :{BLACK}Advertising campaign for {STRINGID}
-STR_2436    :1 week
-STR_2443    :{WINDOW_COLOUR_2}Cost per week: {BLACK}{CURRENCY2DP}
-STR_2444    :{WINDOW_COLOUR_2}Total cost: {BLACK}{CURRENCY2DP}
+STR_2436    :1 seachtain
+STR_2443    :{WINDOW_COLOUR_2}Costas sa tseachtain: {BLACK}{CURRENCY2DP}
+STR_2444    :{WINDOW_COLOUR_2}Costas iomlán: {BLACK}{CURRENCY2DP}
 STR_2445    :Start this marketing campaign
 STR_2446    :{YELLOW}Your marketing campaign for free entry to the park has finished
 STR_2447    :{YELLOW}Your marketing campaign for free rides on {STRINGID} has finished
@@ -1751,8 +1751,8 @@ STR_2448    :{YELLOW}Your marketing campaign for half-price entry to the park ha
 STR_2449    :{YELLOW}Your marketing campaign for free {STRINGID} has finished
 STR_2450    :{YELLOW}Your advertising campaign for the park has finished
 STR_2451    :{YELLOW}Your advertising campaign for {STRINGID} has finished
-STR_2452    :{WINDOW_COLOUR_2}Cash (less loan): {BLACK}{CURRENCY2DP}
-STR_2453    :{WINDOW_COLOUR_2}Cash (less loan): {RED}{CURRENCY2DP}
+STR_2452    :{WINDOW_COLOUR_2}Airgead (lúide iasacht): {BLACK}{CURRENCY2DP}
+STR_2453    :{WINDOW_COLOUR_2}Airgead (lúide iasacht): {RED}{CURRENCY2DP}
 STR_2457    :Show financial accounts
 STR_2458    :Show graph of cash (less loan) over time
 STR_2459    :Show graph of park value over time
@@ -1805,19 +1805,19 @@ STR_2507    :Invisible people toggle
 STR_2508    :Height marks on land toggle
 STR_2509    :Height marks on ride tracks toggle
 STR_2510    :Height marks on paths toggle
-STR_2511    :Adjust land
-STR_2512    :Adjust water
-STR_2513    :Build scenery
-STR_2514    :Build paths
-STR_2515    :Build new ride
-STR_2516    :Show financial information
-STR_2517    :Show research information
-STR_2518    :Show rides list
-STR_2519    :Show park information
-STR_2520    :Show guest list
-STR_2521    :Show staff list
-STR_2522    :Show recent messages
-STR_2523    :Show map
+STR_2511    :Coigeartaigh talamh
+STR_2512    :Coigeartaigh uisce
+STR_2513    :Tóg radharcra
+STR_2514    :Tóg cosáin
+STR_2515    :Tóg marcaíocht nua
+STR_2516    :Taispeáin eolas airgeadais
+STR_2517    :Taispeáin eolas taighde
+STR_2518    :Taispeáin liosta na marcaíochtaí
+STR_2519    :Taispeáin eolas páirce
+STR_2520    :Taispeáin liosta na n-aíonna
+STR_2521    :Taispeáin liosta na foirne
+STR_2522    :Taispeáin teachtaireachtaí le déanaí
+STR_2523    :Taispeáin mapa
 STR_2524    :Screenshot
 STR_2533    :Backspace
 STR_2534    :Tab
@@ -2498,9 +2498,9 @@ STR_5296    :Dún páirc
 STR_5297    :Oscail páirc
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
-STR_5300    :Quick fire staff
-STR_5301    :Clear your loan
-STR_5302    :Clear loan
+STR_5300    :Mearbhris Foireann
+STR_5301    :Imréitigh d'iasacht
+STR_5302    :Imréitigh iasacht
 STR_5303    :Allow building in pause mode
 STR_5304    :Title Sequence:
 STR_5305    :RollerCoaster Tycoon 1
@@ -2508,7 +2508,7 @@ STR_5306    :RollerCoaster Tycoon 1 (AA)
 STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
 STR_5308    :RollerCoaster Tycoon 2
 STR_5309    :OpenRCT2
-STR_5310    :Random
+STR_5310    :Randamach
 STR_5311    :Debug tools
 STR_5312    :Show console
 STR_5313    :Show tile inspector
@@ -2835,7 +2835,7 @@ STR_5775    :Customers: {COMMA32} per hour
 STR_5776    :Built: This Year
 STR_5777    :Built: Last Year
 STR_5778    :Built: {COMMA16} Years Ago
-STR_5779    :Income: {CURRENCY2DP} per hour
+STR_5779    :Ioncam: {CURRENCY2DP} san uair
 STR_5780    :Running cost: {CURRENCY2DP} per hour
 STR_5781    :Running cost: Unknown
 STR_5782    :You are now connected. Press ‘{STRING}’ to chat.
