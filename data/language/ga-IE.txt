@@ -2244,30 +2244,30 @@ STR_3283    :Select rides to be preserved
 STR_3285    :Scenario options - Preserved Rides
 STR_3286    :Select objective for this scenario
 STR_3287    :{WINDOW_COLOUR_2}Objective:
-STR_3294    :Change…
-STR_3295    :Change name of park
-STR_3296    :Change name of scenario
-STR_3297    :Change detail notes about park / scenario
-STR_3298    :{WINDOW_COLOUR_2}Park Name: {BLACK}{STRINGID}
-STR_3299    :{WINDOW_COLOUR_2}Park/Scenario Details:
-STR_3300    :{WINDOW_COLOUR_2}Scenario Name: {BLACK}{STRINGID}
-STR_3301    :{WINDOW_COLOUR_2}Objective Date:
+STR_3294    :Athraigh…
+STR_3295    :Athraigh ainm páirce
+STR_3296    :Athraigh ainm cnámhscéil
+STR_3297    :Athraigh nótaí sonraí faoi pháirc / chnámhscéal
+STR_3298    :{WINDOW_COLOUR_2}Ainm Páirce: {BLACK}{STRINGID}
+STR_3299    :{WINDOW_COLOUR_2}Sonraí Páirce/Cnámhscéil:
+STR_3300    :{WINDOW_COLOUR_2}Ainm Cnámhscéil: {BLACK}{STRINGID}
+STR_3301    :{WINDOW_COLOUR_2}Dáta Cuspóra:
 STR_3302    :{WINDOW_COLOUR_2}{MONTHYEAR}
-STR_3303    :{WINDOW_COLOUR_2}Number of guests:
-STR_3304    :{WINDOW_COLOUR_2}Park value:
-STR_3305    :{WINDOW_COLOUR_2}Monthly income:
-STR_3306    :{WINDOW_COLOUR_2}Monthly profit:
-STR_3307    :{WINDOW_COLOUR_2}Minimum length:
-STR_3308    :{WINDOW_COLOUR_2}Excitement rating:
+STR_3303    :{WINDOW_COLOUR_2}Líon aíonna:
+STR_3304    :{WINDOW_COLOUR_2}Luach páirce:
+STR_3305    :{WINDOW_COLOUR_2}Ioncam sa mhí:
+STR_3306    :{WINDOW_COLOUR_2}Brabús sa mhí:
+STR_3307    :{WINDOW_COLOUR_2}Íosfhad:
+STR_3308    :{WINDOW_COLOUR_2}Rátáil sceitimíní:
 STR_3309    :{WINDOW_COLOUR_2}{COMMA32}
 STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
 STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
 STR_3312    :{WINDOW_COLOUR_2}Rides/attractions under a preservation order:
-STR_3313    :Scenario Name
-STR_3314    :Enter name for scenario:
-STR_3315    :Park/Scenario Details
-STR_3316    :Enter description of this scenario:
-STR_3317    :No details yet
+STR_3313    :Ainm Cnámhscéil
+STR_3314    :Iontráil ainm ar chnámhscéal:
+STR_3315    :Sonraí Páirce/Cnámhscéil
+STR_3316    :Iontráil tuairisc an chnámhscéil seo:
+STR_3317    :Gan sonraí fós
 STR_3318    :Select which group this scenario appears in
 STR_3319    :{WINDOW_COLOUR_2}Scenario Group:
 STR_3320    :Unable to save scenario file…
@@ -2338,8 +2338,8 @@ STR_3445    :Set Patrol Area
 STR_3446    :Cancel Patrol Area
 
 # New strings, cleaner
-STR_5120    :Finances
-STR_5121    :Research
+STR_5120    :Airgeadas
+STR_5121    :Taighde
 STR_5122    :Select rides by track type (like in RCT1)
 STR_5123    :Renew rides
 STR_5125    :All destructible
@@ -2687,16 +2687,16 @@ STR_5584    :SI
 STR_5585    :Unlocks ride operation limits, allowing for things like {VELOCITY} lift hills
 STR_5586    :Automatically open shops and stalls
 STR_5587    :Shops and stalls will be automatically opened after building them
-STR_5588    :Play with other players
+STR_5588    :Imirt le himreoirí eile
 STR_5589    :Notification Settings
-STR_5590    :Park awards
+STR_5590    :Gradaim páirce
 STR_5591    :Marketing campaign has finished
 STR_5592    :Park warnings
 STR_5593    :Park rating warnings
 STR_5594    :Ride has broken down
 STR_5595    :Ride has crashed
 STR_5596    :Ride warnings
-STR_5597    :Ride / scenery researched
+STR_5597    :Marcaíocht / radharcra taighdte
 STR_5598    :Guest warnings
 STR_5600    :Guest has left the park
 STR_5601    :Guest is queuing for ride
@@ -3207,13 +3207,13 @@ STR_6166    :Synchronises each frame displayed to the monitor’s refresh rate, 
 STR_6167    :Advanced
 STR_6168    :Title Sequence
 STR_6170    :Interface Tweaks
-STR_6171    :Search
-STR_6172    :Search
+STR_6171    :Cuardach
+STR_6172    :Cuardach
 STR_6173    :Please provide the name to search:
 STR_6188    :Vomit
 STR_6189    :Duck
 STR_6191    :Surface
-STR_6192    :Wall
+STR_6192    :Balla
 STR_6193    :{COMMA16} aoi
 STR_6194    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} aoi
 STR_6195    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} aoi
@@ -3663,10 +3663,10 @@ STR_6664    :Show date cheats
 STR_6665    :Nature/weather cheats
 STR_6666    :Show nature/weather cheats
 STR_6667    :Fauna
-STR_6668    :Staff cheats
-STR_6669    :Show staff cheats
+STR_6668    :Cleasa foirne
+STR_6669    :Taispeáin cleasa foirne
 STR_6670    :Guest behaviour
-STR_6671    :Show ‘real’ names of staff
+STR_6671    :Taispeáin ainmneacha ‘fíora’ na foirne
 STR_6672    :Toggle between showing ‘real’ names of staff and staff numbers
 STR_6673    :Transparent
 # Used as part of a sentence (see https://github.com/OpenRCT2/OpenRCT2/issues/22072).
@@ -3776,8 +3776,8 @@ STR_6776    :{COMMA16} nóiméad
 STR_6777    :níos mó ná 4 uair
 STR_6778    :Preview scenarios using:
 STR_6779    :Select the kind of preview image to use in the scenario selection screen.
-STR_6780    :Mini maps
-STR_6781    :Screenshots
+STR_6780    :Mionmhapaí
+STR_6781    :Gabhálacha scáileáin
 STR_6782    :Fógraí páirce
 STR_6783    :Fógraí marcaíochta
 STR_6784    :Fógraí aoi
@@ -3794,10 +3794,10 @@ STR_6794    :Radharcra agus Téamú
 STR_6795    :{MOVE_X}{10}{STRINGID}
 STR_6796    :•{MOVE_X}{10}{STRINGID}
 STR_6797    :No preview
-STR_6798    :Screenshot
-STR_6799    :Mini map
-STR_7000    :or
-STR_7001    :Ride name
+STR_6798    :Gabháil scáileáin
+STR_6799    :Mionmhapa
+STR_7000    :nó
+STR_7001    :Ainm marcaíochta
 STR_7002    :{STRINGID} {STRINGID}
 STR_7003    :Audio file ‘{STRING}’ is truncated. Expected sample {INT32}, but only {INT32} are available. Consider reinstalling RCT2.
 STR_7004    :Force Redraw
