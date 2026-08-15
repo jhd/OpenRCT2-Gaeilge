@@ -2498,7 +2498,7 @@ STR_5296    :Dún páirc
 STR_5297    :Oscail páirc
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
-STR_5300    :Mearbhris Foireann
+STR_5300    :Mearbhris foireann
 STR_5301    :Imréitigh d'iasacht
 STR_5302    :Imréitigh iasacht
 STR_5303    :Allow building in pause mode
@@ -3078,33 +3078,33 @@ STR_6026    :Tógáil - Ráille roimhe
 STR_6027    :Tógáil - Ráille ina dhiaidh
 STR_6028    :Tógáil - Tógáil láithreach
 STR_6029    :Tógáil - Scartáil láithreach
-STR_6030    :Scenery picker. Click any scenery on the map to select the same piece for construction.
-STR_6031    :Server Description:
-STR_6032    :Server Greeting:
-STR_6033    :Path to RCT1 installation:
+STR_6030    :Roghnóir radharcra. Cliceáil aon radharcra ar an mapa chun an píosa céanna a roghnú le haghaidh tógála.
+STR_6031    :Tuairisc Freastalaí:
+STR_6032    :Beannú Freastalaí:
+STR_6033    :Conair go suiteáil RCT1:
 STR_6034    :{BLACK}{STRING}
-STR_6035    :Please select your RCT1 directory
-STR_6036    :Clear
-STR_6037    :The selected folder does not contain a valid RollerCoaster Tycoon 1 install.
-STR_6038    :If you have RCT1 installed, set this option to its directory to load scenarios, music, etc.
-STR_6039    :Quick demolish ride
-STR_6040    :Edit Scenario Options
-STR_6041    :{BLACK}No mechanics are hired!
-STR_6042    :Load height map
-STR_6043    :Select height map
-STR_6044    :Smooth height map
-STR_6045    :Strength:
-STR_6046    :Normalise height map
-STR_6047    :Smooth tile edges
-STR_6048    :Height map error
-STR_6049    :Error reading PNG
-STR_6050    :Error reading bitmap
-STR_6052    :The heightmap is too big, and will be cut off
-STR_6053    :The heightmap cannot be normalised
-STR_6054    :Only 24-bit bitmaps are supported
-STR_6055    :OpenRCT2 Heightmap File
+STR_6035    :Roghnaigh d'eolaire RCT1 le do thoil
+STR_6036    :Glan
+STR_6037    :Níl suiteáil bhailí RollerCoaster Tycoon 1 san fhillteán roghnaithe.
+STR_6038    :Má tá RCT1 suiteáilte agat, socraigh an rogha seo ar a eolaire chun cnámhscéil, ceoil, etc. a lódáil
+STR_6039    :Mearscartáil marcaíocht
+STR_6040    :Cuir Roghanna Cnámhscéil In Eagar
+STR_6041    :{BLACK}Níl aon mheicneoir fostaithe!
+STR_6042    :Lódáil léarscáil airde
+STR_6043    :Roghnaigh léarscáil airde
+STR_6044    :Mínigh léarscáil airde
+STR_6045    :Neart:
+STR_6046    :Normalaigh léarscáil airde
+STR_6047    :Mínigh imill tíleanna
+STR_6048    :Earráid léarscáile airde
+STR_6049    :Earráid ag léamh PNG
+STR_6050    :Earráid ag léamh mapa giotán
+STR_6052    :Tá an léarscáil rómhór, agus gearrfar amach í
+STR_6053    :Ní féidir an léarscáil airde a normalú
+STR_6054    :Ní thacaítear ach le mapaí giotán 24-giotán
+STR_6055    :Comhad Léarscáile Airde OpenRCT2
 STR_6056    :Balbhaigh
-STR_6057    :Show a separate button for the Mute Option in the toolbar
+STR_6057    :Taispeáin cnaipe ar leith le haghaidh na rogha balbhaithe sa bharra uirlisí
 STR_6058    :Balbhaigh
 STR_6059    :»
 STR_6060    :Show guest purchases as animation
