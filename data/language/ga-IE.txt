@@ -2759,7 +2759,7 @@ STR_5660    :Modify Groups
 STR_5661    :Set Player Group
 STR_5662    :N/A
 STR_5663    :Clear Landscape
-STR_5664    :Cheat
+STR_5664    :Cleas
 STR_5665    :Toggle Scenery Cluster
 STR_5666    :Passwordless Login
 STR_5701    :{WINDOW_COLOUR_2}Last action: {BLACK}{STRINGID}
@@ -2771,12 +2771,12 @@ STR_5706    :Can’t remove group that players belong to
 STR_5707    :This group cannot be modified
 STR_5708    :Can’t change the group that the host belongs to
 STR_5709    :Rename Group
-STR_5710    :Group name
+STR_5710    :Ainm Grúpa
 STR_5711    :Enter new name for this group:
 STR_5712    :Can’t modify permission that you do not have yourself
 STR_5713    :Kick Player
 STR_5714    :Show options window
-STR_5715    :New Game
+STR_5715    :Cluiche Nua
 STR_5716    :Not allowed in multiplayer mode
 # For identifying client network version in server list window
 STR_5717    :Network version: {STRING}
@@ -2792,7 +2792,7 @@ STR_5726    :Sets the current weather in the park
 # tooltip for tab in options window
 STR_5734    :Rendering
 STR_5735    :Network Status
-STR_5736    :Player
+STR_5736    :Imreoir
 STR_5737    :Closed, {COMMA16} person still on ride
 STR_5738    :Closed, {COMMA16} people still on ride
 STR_5739    :{WINDOW_COLOUR_2}Customers on ride: {BLACK}{COMMA16}
@@ -2805,7 +2805,7 @@ STR_5745    :Network desync detected
 STR_5746    :Disconnected
 STR_5747    :Disconnected: {STRING}
 STR_5748    :Kicked
-STR_5749    :Get out of the server!
+STR_5749    :Téigh amach as an bhfreastalaí!
 STR_5750    :Connection Closed
 STR_5751    :No Data
 STR_5752    :{OUTLINE}{RED}{STRING} has disconnected
@@ -2819,16 +2819,16 @@ STR_5759    :Downloading map …
 STR_5760    :Hong Kong Dollars (HK$)
 STR_5761    :New Taiwan Dollar (NT$)
 STR_5762    :Chinese Yuan (CN¥)
-STR_5763    :All files
+STR_5763    :Gach comhad
 STR_5764    :Invalid ride type
 STR_5765    :Cannot edit rides of invalid type
 STR_5766    :Hungarian Forint (Ft)
-STR_5767    :Income
-STR_5768    :Total customers
-STR_5769    :Total profit
+STR_5767    :Ioncam
+STR_5768    :Custaiméirí iomlána
+STR_5769    :Brabús iomlán
 STR_5770    :Customers per hour
 STR_5771    :Running cost
-STR_5772    :Age
+STR_5772    :Aois
 STR_5773    :Total customers: {COMMA32}
 STR_5774    :Total profit: {CURRENCY2DP}
 STR_5775    :Customers: {COMMA32} per hour
@@ -2970,39 +2970,39 @@ STR_5917    :{COMMA16} imreoir
 STR_5919    :{COMMA16}
 STR_5920    :Render weather effects
 STR_5921    :If enabled, rain and gloomy colours will be rendered during storms.
-STR_5922    :Max {STRINGID}
-STR_5923    :Max {COMMA16} {STRINGID} per train
-STR_5924    :Surface details
-STR_5925    :Path details
-STR_5926    :Track details
-STR_5927    :Scenery details
-STR_5928    :Entrance details
-STR_5929    :Wall details
-STR_5930    :Large scenery details
-STR_5931    :Banner details
+STR_5922    :Uasmhéid {STRINGID}
+STR_5923    :Uasmhéid {COMMA16} {STRINGID} sa traein
+STR_5924    :Sonraí dromchla
+STR_5925    :Sonraí cosáin
+STR_5926    :Sonraí ráille
+STR_5927    :Sonraí radharcra
+STR_5928    :Sonraí bealaigh isteach
+STR_5929    :Sonraí balla
+STR_5930    :Sonraí radharcra mór
+STR_5931    :Sonraí meirge
 STR_5932    :Corrupt element details
-STR_5933    :Properties
+STR_5933    :Airíonna
 STR_5934    :Terrain texture: {BLACK}{STRINGID}
 STR_5935    :Terrain edge: {BLACK}{STRINGID}
 STR_5936    :Land ownership: {BLACK}{STRINGID}
 STR_5937    :Not owned and not for sale
-STR_5938    :Water level: {BLACK}{COMMA16}
+STR_5938    :Leibhéal uisce: {BLACK}{COMMA16}
 STR_5939    :Remove park fences
 STR_5940    :Restore park fences
 STR_5941    :Base height:
-STR_5942    :Path name: {BLACK}{STRINGID}
-STR_5943    :Additions: {BLACK}{STRINGID}
-STR_5944    :Additions: {BLACK}None
+STR_5942    :Ainm cosáin: {BLACK}{STRINGID}
+STR_5943    :Breiseanna: {BLACK}{STRINGID}
+STR_5944    :Breiseanna: {BLACK}Gan aon cheann
 STR_5945    :Connected edges:
-STR_5946    :Ride type: {BLACK}{STRINGID}
-STR_5947    :Ride ID: {BLACK}{COMMA16}
-STR_5948    :Ride name: {BLACK}{STRINGID}
-STR_5949    :Chain lift
+STR_5946    :Saghas marcaíochta: {BLACK}{STRINGID}
+STR_5947    :ID marcaíochta: {BLACK}{COMMA16}
+STR_5948    :Ainm marcaíochta: {BLACK}{STRINGID}
+STR_5949    :Ardaitheoir slabhra
 STR_5950    :Apply changes to entire track piece
 STR_5951    :Track piece ID: {BLACK}{COMMA16}
 STR_5952    :Sequence number: {BLACK}{COMMA16}
 STR_5953    :Sort the map elements on the current tile based on their base height.
-STR_5954    :Scenery age: {BLACK}{COMMA16}
+STR_5954    :Aois radharcra: {BLACK}{COMMA16}
 STR_5955    :Quadrant placement: {BLACK}{STRINGID}
 STR_5956    :Iardheas
 STR_5957    :Iarthuaidh
@@ -3012,28 +3012,28 @@ STR_5960    :Quadrant placement:
 STR_5961    :Entry index: {BLACK}{COMMA16}
 STR_5962    :Collision detection:
 STR_5963    :Raised Corners:
-STR_5964    :Diagonal
-STR_5965    :Entrance type: {BLACK}{STRINGID}
-STR_5966    :Park entrance part: {BLACK}{STRINGID}
-STR_5967    :Middle
-STR_5968    :Left
-STR_5969    :Right
-STR_5970    :Entrance ID: {BLACK}{COMMA16}
-STR_5971    :Exit ID: {BLACK}{COMMA16}
-STR_5972    :Ride ID: {BLACK}{COMMA16}
+STR_5964    :Trasnán
+STR_5965    :Saghas bealaigh isteach: {BLACK}{STRINGID}
+STR_5966    :Cuid bealaigh isteach páirce: {BLACK}{STRINGID}
+STR_5967    :Lár
+STR_5968    :Clé
+STR_5969    :Deas
+STR_5970    :ID bealaigh isteach: {BLACK}{COMMA16}
+STR_5971    :ID bealaigh amach: {BLACK}{COMMA16}
+STR_5972    :ID marcaíochta: {BLACK}{COMMA16}
 STR_5973    :Clamp to next
 STR_5974    :Changes the base- and clearance height so that it’s at the same as the next element on the current tile. Doing this makes it easier to build on this tile.
-STR_5975    :Slope:
-STR_5976    :Flat
-STR_5977    :Right side up
-STR_5978    :Left side up
-STR_5979    :Wall type: {BLACK}{COMMA16}
+STR_5975    :Fána:
+STR_5976    :Cothrom
+STR_5977    :Taobh deas suas
+STR_5978    :Taobh clé suas
+STR_5979    :Saghas balla: {BLACK}{COMMA16}
 STR_5980    :Banner text: {BLACK}{STRINGID}
 STR_5981    :Not a banner
-STR_5982    :Large scenery type: {BLACK}{COMMA16}
-STR_5983    :Large scenery piece ID: {BLACK}{COMMA16}
-STR_5984    :Blocked paths:
-STR_5985    :New folder
+STR_5982    :Saghas radharcra mór: {BLACK}{COMMA16}
+STR_5983    :ID píosa radharcra mór: {BLACK}{COMMA16}
+STR_5984    :Cosáin bhlocáilte:
+STR_5985    :Fillteán nua
 STR_5986    :Type the name of the new folder.
 STR_5987    :Unable to create folder
 STR_5988    :No remaining land rights for sale
@@ -3043,29 +3043,29 @@ STR_5991    :Can’t paste element…
 STR_5992    :The map elements limit has been reached
 STR_5993    :Copy selected element
 STR_5994    :Paste copied element
-STR_5995    :Booster
-STR_5996    :Booster speed
-STR_5997    :Add/set money
-STR_5998    :Add money
-STR_5999    :Set money
-STR_6000    :Enter new value
-STR_6001    :Enable lighting effects (experimental)
-STR_6002    :Lamps and rides will be lit up at night.{NEWLINE}Requires rendering engine to be set to hardware display.
-STR_6003    :Cut-away View
-STR_6004    :Cut-away View
-STR_6005    :Enable cut-away view
+STR_5995    :Treiseoir
+STR_5996    :Luas Treiseora
+STR_5997    :Cuir/socraigh airgead
+STR_5998    :Cuir airgead leis
+STR_5999    :Socraigh airgead
+STR_6000    :Iontráil luach nua
+STR_6001    :Cumasaigh maisíochtaí solais (trialach)
+STR_6002    :Soilseoidh lampaí agus marcaíochtaí san oíche.{NEWLINE}Ní mór an t-inneall rindreála a shocrú ar thaispeáint crua-earraí.
+STR_6003    :Amharc Gearrtha
+STR_6004    :Amharc Gearrtha
+STR_6005    :Cumasaigh amharc gearrtha
 STR_6006    :Cut-away view only displays map elements at or below the cut height (vertical clipping) and in the selected area (horizontal clipping).
-STR_6007    :Cut height
+STR_6007    :Airde gearrtha
 STR_6008    :Click to toggle raw value<->value in measurement units
-STR_6009    :Select cut height
+STR_6009    :Roghnaigh airde gearrtha
 STR_6010    :{COMMA2DP32}m
 STR_6011    :{COMMA1DP16}ft
 STR_6012    :{COMMA1DP16}
 STR_6013    :Guests will only pay the ticket to enter the park and services.{NEWLINE}Ride entry is free.
 STR_6014    :Guests will only pay entrance tickets for rides and services.{NEWLINE}They won’t pay anything to enter the park.
-STR_6015    :Sloped
-STR_6016    :Modify Tile
-STR_6017    :Please slow down
+STR_6015    :Ar fhána
+STR_6016    :Mionathraigh Tíl
+STR_6017    :Maolaigh ort le do thoil
 STR_6018    :Tógáil - Cas ar chlé
 STR_6019    :Tógáil - Cas ar dheis
 STR_6020    :Tógáil - Úsáid an ráille réamhshocraithe
