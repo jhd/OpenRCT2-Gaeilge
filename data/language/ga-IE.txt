@@ -814,29 +814,29 @@ STR_1444    :Ag féachaint ar {STRINGID}
 STR_1445    :Ag féachaint ar thógáil {STRINGID}
 STR_1446    :Ag breathnú ar radharcra
 STR_1447    :Ag fágáil na páirce
-STR_1448    :Watching new ride being constructed
+STR_1448    :Ag féachaint ar mharcaíocht nua á tógáil
 STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
-STR_1452    :Guest’s name
-STR_1453    :Enter name for this guest:
-STR_1454    :Can’t name guest…
-STR_1455    :Invalid name for guest
-STR_1456    :{WINDOW_COLOUR_2}Cash spent: {BLACK}{CURRENCY2DP}
-STR_1457    :{WINDOW_COLOUR_2}Cash in pocket: {BLACK}{CURRENCY2DP}
-STR_1458    :{WINDOW_COLOUR_2}Time in park: {BLACK}{REALTIME}
-STR_1459    :Track style
-STR_1460    :‘U’ shaped open track
-STR_1461    :‘O’ shaped enclosed track
-STR_1462    :Too steep for lift hill
-STR_1463    :Guests
-STR_1464    :Half Helix up (small)
-STR_1465    :Half Helix up (large)
-STR_1466    :Half Helix down (small)
-STR_1467    :Half Helix down (large)
-STR_1468    :Staff
-STR_1469    :Ride must start and end with stations
-STR_1470    :Station not long enough
+STR_1452    :Ainm aoi
+STR_1453    :Iontráil ainm ar an aoi seo:
+STR_1454    :Ní féidir aoi a ainmniú…
+STR_1455    :Ainm neamhbhailí don aoi
+STR_1456    :{WINDOW_COLOUR_2}Airgead caite: {BLACK}{CURRENCY2DP}
+STR_1457    :{WINDOW_COLOUR_2}Airgead sa phóca: {BLACK}{CURRENCY2DP}
+STR_1458    :{WINDOW_COLOUR_2}Am sa pháirc: {BLACK}{REALTIME}
+STR_1459    :Stíl ráille
+STR_1460    :Ráille oscailte i gcruth ‘U’
+STR_1461    :Ráille dúnta i gcruth ‘O’
+STR_1462    :Róghéar do chnoc ardaitheora
+STR_1463    :Aíonna
+STR_1464    :Leath-héilics suas (beag)
+STR_1465    :Leath-héilics suas (mór)
+STR_1466    :Leath-héilics síos (beag)
+STR_1467    :Leath-héilics síos (mór)
+STR_1468    :Foireann
+STR_1469    :Caithfidh marcaíocht tosú agus críochnú le stáisiúin
+STR_1470    :Níl an stáisiún fada go leor
 STR_1471    :{WINDOW_COLOUR_2}Luas:
 STR_1472    :Luas na marcaíochta seo
 STR_1473    :{WINDOW_COLOUR_2}Rátáil sceitimíní: {BLACK}{COMMA2DP32}  ({STRINGID})
