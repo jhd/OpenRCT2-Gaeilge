@@ -695,125 +695,125 @@ STR_1323    :Cúrsaí
 STR_1324    :{COMMA16} cúrsa
 STR_1325    :{COMMA16} cúrsaí
 STR_1326    :Cúrsa {COMMA16}
-STR_1327    :Rotate objects by 90°
-STR_1328    :Level land required
-STR_1329    :{WINDOW_COLOUR_2}Launch speed:
-STR_1330    :Maximum speed when leaving station
+STR_1327    :Rothlaigh réada faoi 90°
+STR_1328    :Teastaíonn talamh cothrom
+STR_1329    :{WINDOW_COLOUR_2}Luas lainseála:
+STR_1330    :Uasluas nuair a fhágtar an stáisiún
 STR_1332    :{VELOCITY}
 STR_1333    :{STRINGID} - {STRINGID}{POP16}
 STR_1334    :{STRINGID} - {STRINGID} {COMMA16}
-STR_1335    :{STRINGID} - Entrance{POP16}{POP16}
-STR_1336    :{STRINGID} - Station {POP16}{COMMA16} Entrance
-STR_1337    :{STRINGID} - Exit{POP16}{POP16}
-STR_1338    :{STRINGID} - Station {POP16}{COMMA16} Exit
-STR_1339    :{BLACK}No test results yet…
-STR_1340    :{WINDOW_COLOUR_2}Max. speed: {BLACK}{VELOCITY}
-STR_1341    :{WINDOW_COLOUR_2}Ride time: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
+STR_1335    :{STRINGID} - Bealach Isteach{POP16}{POP16}
+STR_1336    :{STRINGID} - Stáisiún {POP16}{COMMA16} Bealach Isteach
+STR_1337    :{STRINGID} - Bealach Amach{POP16}{POP16}
+STR_1338    :{STRINGID} - Stáisiún {POP16}{COMMA16} Bealach Amach
+STR_1339    :{BLACK}Gan torthaí tástála fós…
+STR_1340    :{WINDOW_COLOUR_2}Uasluas: {BLACK}{VELOCITY}
+STR_1341    :{WINDOW_COLOUR_2}Am marcaíochta: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
 STR_1343    :{DURATION} / 
-STR_1344    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
+STR_1344    :{WINDOW_COLOUR_2}Fad marcaíochta: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
 STR_1346    :{LENGTH} / 
-STR_1347    :{WINDOW_COLOUR_2}Average speed: {BLACK}{VELOCITY}
-STR_1348    :{WINDOW_COLOUR_2}Max. positive vertical Gs: {BLACK}{COMMA2DP32}g
-STR_1349    :{WINDOW_COLOUR_2}Max. positive vertical Gs: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1350    :{WINDOW_COLOUR_2}Max. negative vertical Gs: {BLACK}{COMMA2DP32}g
-STR_1351    :{WINDOW_COLOUR_2}Max. negative vertical Gs: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1352    :{WINDOW_COLOUR_2}Max. lateral Gs: {BLACK}{COMMA2DP32}g
-STR_1353    :{WINDOW_COLOUR_2}Max. lateral Gs: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1354    :{WINDOW_COLOUR_2}Highest drop height: {BLACK}{LENGTH}
-STR_1355    :{WINDOW_COLOUR_2}Drops: {BLACK}{COMMA16}
-STR_1356    :{WINDOW_COLOUR_2}Inversions: {BLACK}{COMMA16}
-STR_1357    :{WINDOW_COLOUR_2}Holes: {BLACK}{COMMA16}
-STR_1358    :{WINDOW_COLOUR_2}Total ‘air’ time: {BLACK}{COMMA2DP32}secs
-STR_1359    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minute
-STR_1360    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minutes
-STR_1361    :Can’t change speed…
-STR_1362    :Can’t change launch speed…
-STR_1363    :Too high for supports!
-STR_1364    :Supports for track above can’t be extended any further!
-STR_1365    :In-line Twist (left)
-STR_1366    :In-line Twist (right)
-STR_1367    :Small Half Loop
-STR_1368    :Half Corkscrew (left)
-STR_1369    :Half Corkscrew (right)
-STR_1370    :Barrel Roll (left)
-STR_1371    :Barrel Roll (right)
-STR_1372    :Launched Lift Hill
-STR_1373    :Large Half Loop (left)
-STR_1374    :Large Half Loop (right)
-STR_1375    :Upper Transfer
-STR_1376    :Lower Transfer
-STR_1377    :Heartline Roll (left)
-STR_1378    :Heartline Roll (right)
-STR_1379    :Reverser (left)
-STR_1380    :Reverser (right)
-STR_1381    :Curved Lift Hill (left)
-STR_1382    :Curved Lift Hill (right)
-STR_1383    :Quarter Loop
+STR_1347    :{WINDOW_COLOUR_2}Meánluas: {BLACK}{VELOCITY}
+STR_1348    :{WINDOW_COLOUR_2}Uasfhórsaí G ingearacha deimhneacha: {BLACK}{COMMA2DP32}g
+STR_1349    :{WINDOW_COLOUR_2}Uasfhórsaí G ingearacha deimhneacha: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1350    :{WINDOW_COLOUR_2}Uasfhórsaí G ingearacha diúltacha: {BLACK}{COMMA2DP32}g
+STR_1351    :{WINDOW_COLOUR_2}Uasfhórsaí G ingearacha diúltacha: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1352    :{WINDOW_COLOUR_2}Uasfhórsaí G taobhacha: {BLACK}{COMMA2DP32}g
+STR_1353    :{WINDOW_COLOUR_2}Uasfhórsaí G taobhacha: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1354    :{WINDOW_COLOUR_2}Airde na titime is airde: {BLACK}{LENGTH}
+STR_1355    :{WINDOW_COLOUR_2}Titimeacha: {BLACK}{COMMA16}
+STR_1356    :{WINDOW_COLOUR_2}Inbhéartuithe: {BLACK}{COMMA16}
+STR_1357    :{WINDOW_COLOUR_2}Poill: {BLACK}{COMMA16}
+STR_1358    :{WINDOW_COLOUR_2}Am ‘aer’ iomlán: {BLACK}{COMMA2DP32}soic
+STR_1359    :{WINDOW_COLOUR_2}Am scuaine: {BLACK}{COMMA16} nóiméad
+STR_1360    :{WINDOW_COLOUR_2}Am scuaine: {BLACK}{COMMA16} nóiméad
+STR_1361    :Ní féidir luas a athrú…
+STR_1362    :Ní féidir luas lainseála a athrú…
+STR_1363    :Ró-ard do thacaí!
+STR_1364    :Ní féidir na tacaí don ráille thuas a shíneadh a thuilleadh!
+STR_1365    :Casadh Inlíne (ar chlé)
+STR_1366    :Casadh Inlíne (ar dheis)
+STR_1367    :Leathlúb Beag
+STR_1368    :Leathchorcscriú (ar chlé)
+STR_1369    :Leathchorcscriú (ar dheis)
+STR_1370    :Rolladh Bairille (ar chlé)
+STR_1371    :Rolladh Bairille (ar dheis)
+STR_1372    :Cnoc Ardaithe Lainseáilte
+STR_1373    :Leathlúb Mór (ar chlé)
+STR_1374    :Leathlúb Mór (ar dheis)
+STR_1375    :Aistriú Uachtarach
+STR_1376    :Aistriú Íochtarach
+STR_1377    :Rolladh Croílíne (ar chlé)
+STR_1378    :Rolladh Croílíne (ar dheis)
+STR_1379    :Cúlaitheoir (ar chlé)
+STR_1380    :Cúlaitheoir (ar dheis)
+STR_1381    :Cnoc Ardaithe Cuartha (ar chlé)
+STR_1382    :Cnoc Ardaithe Cuartha (ar dheis)
+STR_1383    :Ceathrúlúb
 STR_1384    :{YELLOW}{STRINGID}
-STR_1385    :Other track configurations
-STR_1386    :Special…
-STR_1387    :Can’t change land type…
+STR_1385    :Cumraíochtaí ráille eile
+STR_1386    :Speisialta…
+STR_1387    :Ní féidir saghas talún a athrú…
 STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
 STR_1389    :{OUTLINE}{RED}- {CURRENCY}
 STR_1390    :{CURRENCY2DP}
 STR_1391    :{RED}{CURRENCY2DP}
-STR_1392    :View of ride/attraction
-STR_1393    :Vehicle details and options
-STR_1394    :Operating options
-STR_1395    :Maintenance options
-STR_1396    :Colour scheme options
-STR_1397    :Sound & music options
-STR_1398    :Measurements and test data
-STR_1399    :Graphs
-STR_1400    :Entrance
-STR_1401    :Exit
-STR_1402    :Build or move entrance to ride/attraction
-STR_1403    :Build or move exit from ride/attraction
-STR_1404    :Rotate 90°
-STR_1405    :Mirror image
-STR_1406    :Toggle scenery on/off (if available for this design)
-STR_1407    :{WINDOW_COLOUR_2}Build this…
-STR_1408    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY}
-STR_1409    :Entry/Exit Platform
-STR_1410    :Vertical Tower
-STR_1411    :{STRINGID} in the way
-STR_1412    :{WINDOW_COLOUR_3}Data logging not available for this type of ride
-STR_1413    :{WINDOW_COLOUR_3}Data logging will start when next {STRINGID} leaves {STRINGID}
+STR_1392    :Amharc ar mharcaíocht/díol spéise
+STR_1393    :Sonraí agus roghanna feithiclí
+STR_1394    :Roghanna oibriúchán
+STR_1395    :Roghanna cothabhála
+STR_1396    :Roghanna scéime dathanna
+STR_1397    :Roghanna fuaime agus ceoil
+STR_1398    :Miosúir agus sonraí tástála
+STR_1399    :Grafaicí
+STR_1400    :Bealach Isteach
+STR_1401    :Bealach Amach
+STR_1402    :Tóg nó bog bealach isteach go marcaíocht/díol spéise
+STR_1403    :Tóg nó bog bealach amach as marcaíocht/díol spéise
+STR_1404    :Rothlaigh 90°
+STR_1405    :Íomha scáthánach
+STR_1406    :Scoránaigh radharcra ann/as (má tá sé ar fáil don dearadh seo)
+STR_1407    :{WINDOW_COLOUR_2}Tóg é seo…
+STR_1408    :{WINDOW_COLOUR_2}Costas: {BLACK}{CURRENCY}
+STR_1409    :Ardán Bealaigh Isteach/Amach
+STR_1410    :Túr Ingearach
+STR_1411    :{STRINGID} sa tslí
+STR_1412    :{WINDOW_COLOUR_3}Níl logáil sonraí ar fáil don saghas marcaíochta seo
+STR_1413    :{WINDOW_COLOUR_3}Tosóidh logáil sonraí nuair a fhágfaidh an chéad {STRINGID} eile {STRINGID}
 STR_1414    :{BLACK}{DURATION}
-STR_1415    :{WINDOW_COLOUR_2}Velocity
-STR_1416    :{WINDOW_COLOUR_2}Altitude
-STR_1417    :{WINDOW_COLOUR_2}Vert. Gs
-STR_1418    :{WINDOW_COLOUR_2}Lat. Gs
+STR_1415    :{WINDOW_COLOUR_2}Treoluas
+STR_1416    :{WINDOW_COLOUR_2}Airde
+STR_1417    :{WINDOW_COLOUR_2}Gs ingearacha
+STR_1418    :{WINDOW_COLOUR_2}Gs taobhacha
 STR_1419    :{BLACK}{VELOCITY}
 STR_1420    :{BLACK}{LENGTH}
 STR_1421    :{BLACK}{COMMA16}g
-STR_1422    :Logging data from {POP16}{STRINGID}
-STR_1423    :Queue line path
-STR_1424    :Footpath
-STR_1425    :Footpath
-STR_1426    :Queue Line
-STR_1427    :{WINDOW_COLOUR_2}Customers: {BLACK}{COMMA32} per hour
-STR_1428    :{WINDOW_COLOUR_2}Admission price:
-STR_1430    :Free
-STR_1431    :Walking
-STR_1432    :Heading for {STRINGID}
-STR_1433    :Queuing for {STRINGID}
-STR_1434    :Drowning
-STR_1435    :On {STRINGID}
-STR_1436    :In {STRINGID}
-STR_1437    :At {STRINGID}
-STR_1438    :Sitting
-STR_1439    :(select location)
-STR_1440    :Mowing grass
-STR_1441    :Sweeping footpath
-STR_1442    :Emptying litter bin
-STR_1443    :Watering gardens
-STR_1444    :Watching {STRINGID}
-STR_1445    :Watching construction of {STRINGID}
-STR_1446    :Looking at scenery
-STR_1447    :Leaving the park
+STR_1422    :Ag logáil sonraí ó {POP16}{STRINGID}
+STR_1423    :Cosán líne scuaine
+STR_1424    :Cosán
+STR_1425    :Cosán
+STR_1426    :Líne Scuaine
+STR_1427    :{WINDOW_COLOUR_2}Custaiméirí: {BLACK}{COMMA32} san uair
+STR_1428    :{WINDOW_COLOUR_2}Praghas iontrála:
+STR_1430    :Saor
+STR_1431    :Ag siúl
+STR_1432    :Ag dul i dtreo {STRINGID}
+STR_1433    :I scuaine do {STRINGID}
+STR_1434    :Ag bá
+STR_1435    :Ar {STRINGID}
+STR_1436    :I {STRINGID}
+STR_1437    :Ag {STRINGID}
+STR_1438    :Ina suí
+STR_1439    :(Roghnaigh láthair)
+STR_1440    :Ag baint féir
+STR_1441    :Ag scuabadh cosán
+STR_1442    :Ag folmhú bosca bruscair
+STR_1443    :Ag uisciú gairdín
+STR_1444    :Ag féachaint ar {STRINGID}
+STR_1445    :Ag féachaint ar thógáil {STRINGID}
+STR_1446    :Ag breathnú ar radharcra
+STR_1447    :Ag fágáil na páirce
 STR_1448    :Watching new ride being constructed
 STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
@@ -837,8 +837,8 @@ STR_1467    :Half Helix down (large)
 STR_1468    :Staff
 STR_1469    :Ride must start and end with stations
 STR_1470    :Station not long enough
-STR_1471    :{WINDOW_COLOUR_2}Speed:
-STR_1472    :Speed of this ride
+STR_1471    :{WINDOW_COLOUR_2}Luas:
+STR_1472    :Luas na marcaíochta seo
 STR_1473    :{WINDOW_COLOUR_2}Rátáil sceitimíní: {BLACK}{COMMA2DP32}  ({STRINGID})
 STR_1474    :{WINDOW_COLOUR_2}Rátáil sceitimíní: {BLACK}Gan fáil fós
 STR_1475    :{WINDOW_COLOUR_2}Rátáil déine: {BLACK}{COMMA2DP32}  ({STRINGID})
@@ -3163,10 +3163,10 @@ STR_6120    :{BABYBLUE}New vehicle now available for {STRINGID}:{NEWLINE}{STRING
 STR_6121    :Extends the park’s land rights all the way to the edges of the map
 STR_6122    :There are not enough rollercoasters in this scenario!
 STR_6123    :Error loading objects for park
-STR_6124    :Object name
-STR_6125    :Object type
+STR_6124    :Ainm réada
+STR_6125    :Saghas réada
 STR_6126    :Saghas anaithnid
-STR_6127    :File: {STRING}
+STR_6127    :Comhad: {STRING}
 STR_6128    :The file could not be loaded as some of the objects referenced in it are missing or corrupt. A list of these objects is given below.
 STR_6129    :Cóipeáil
 STR_6130    :Cóipeáil iad uile
@@ -3176,7 +3176,7 @@ STR_6133    :Access rides and scenery that have not yet been invented
 STR_6134    :Glan Radharcra
 STR_6135    :Client sent invalid request
 STR_6136    :Server sent invalid request
-STR_6137    :OpenRCT2, a free and open source recreation of and expansion to RollerCoaster Tycoon 2.
+STR_6137    :OpenRCT2, a free and open source recreation of and expansion to Roller Coaster Tycoon 2.
 STR_6138    :OpenRCT2 is the work of many authors, a full list can be found under the “Contributors” button. For more information, visit http://github.com/OpenRCT2/OpenRCT2
 STR_6139    :All product and company names belong to their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 STR_6140    :Changelog…
