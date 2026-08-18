@@ -466,125 +466,125 @@ STR_1091    :Mód sorcais
 STR_1092    :Lainseál síos
 STR_1093    :Mód teachta cam
 STR_1094    :Mód saorthitime
-STR_1095    :Continuous circuit block sectioned mode
-STR_1096    :Powered launch (without passing station)
-STR_1097    :Powered launch block sectioned mode
-STR_1098    :Moving to end of {POP16}{STRINGID}
-STR_1099    :Waiting for passengers at {POP16}{STRINGID}
-STR_1100    :Waiting to depart {POP16}{STRINGID}
-STR_1101    :Departing {POP16}{STRINGID}
-STR_1102    :Travelling at {VELOCITY}
-STR_1103    :Arriving at {POP16}{STRINGID}
-STR_1104    :Unloading passengers at {POP16}{STRINGID}
-STR_1105    :Travelling at {VELOCITY}
-STR_1106    :Crashing!
-STR_1107    :Crashed!
-STR_1108    :Travelling at {VELOCITY}
-STR_1109    :Swinging
-STR_1110    :Rotating
-STR_1111    :Rotating
-STR_1112    :Operating
-STR_1113    :Showing film
-STR_1114    :Rotating
-STR_1115    :Operating
-STR_1116    :Operating
-STR_1117    :Doing circus show
-STR_1118    :Operating
-STR_1119    :Waiting for cable lift
-STR_1120    :Travelling at {VELOCITY}
-STR_1121    :Stopping
-STR_1122    :Waiting for passengers
-STR_1123    :Waiting to start
-STR_1124    :Starting
-STR_1125    :Operating
-STR_1126    :Stopping
-STR_1127    :Unloading passengers
-STR_1128    :Stopped by block brakes
-STR_1129    :All vehicles in same colours
-STR_1130    :Different colours per {STRINGID}
-STR_1131    :Different colours per vehicle
-STR_1133    :Vehicle {COMMA16}
+STR_1095    :Mód cúrsa leanúnaigh le rannóga bloic
+STR_1096    :Lainseál cumhachtaithe (gan dul thar an stáisiún)
+STR_1097    :Mód lainseála cumhachtaithe le rannóga bloic
+STR_1098    :Ag dul go deireadh {POP16}{STRINGID}
+STR_1099    :Ag fanacht le paisinéirí ag {POP16}{STRINGID}
+STR_1100    :Ag fanacht le himeacht {POP16}{STRINGID}
+STR_1101    :Ag imeacht {POP16}{STRINGID}
+STR_1102    :Ag taisteal ar {VELOCITY}
+STR_1103    :Ag teacht go dtí {POP16}{STRINGID}
+STR_1104    :Ag díluchtú paisinéirí ag {POP16}{STRINGID}
+STR_1105    :Ag taisteal ar {VELOCITY}
+STR_1106    :Ag tuairteáil!
+STR_1107    :Tuairteáilte!
+STR_1108    :Ag taisteal ar {VELOCITY}
+STR_1109    :Ag luascadh
+STR_1110    :Ag rothlú
+STR_1111    :Ag rothlú
+STR_1112    :Ag oibriú
+STR_1113    :Ag taispeáint scannáin
+STR_1114    :Ag rothlú
+STR_1115    :Ag oibriú
+STR_1116    :Ag oibriú
+STR_1117    :Ag taibhiú seó sorcais
+STR_1118    :Ag oibriú
+STR_1119    :Ag fanacht le hardaitheoir cábla
+STR_1120    :Ag taisteal ar {VELOCITY}
+STR_1121    :Ag stopadh
+STR_1122    :Ag fanacht le paisinéirí
+STR_1123    :Ag fanacht le tosú
+STR_1124    :Ag tosú
+STR_1125    :Ag oibriú
+STR_1126    :Ag stopadh
+STR_1127    :Ag díluchtú paisinéirí
+STR_1128    :Stoptha ag coscáin bhloic
+STR_1129    :Gach feithicil sna dathanna céanna
+STR_1130    :Dathanna éagsúla do gach {STRINGID}
+STR_1131    :Dathanna éagsúla do gach feithicil
+STR_1133    :Feithicil {COMMA16}
 STR_1135    :{STRINGID} {COMMA16}
-STR_1136    :Select main colour
-STR_1137    :Select additional colour 1
-STR_1138    :Select additional colour 2
-STR_1139    :Select support structure colour
-STR_1140    :Select vehicle colour scheme option
-STR_1141    :Select which vehicle/train to modify
+STR_1136    :Roghnaigh príomh-dhath
+STR_1137    :Roghnaigh dath breise 1
+STR_1138    :Roghnaigh dath breise 2
+STR_1139    :Roghnaigh dath struchtúir tacaí
+STR_1140    :Roghnaigh rogha scéime dathanna feithiclí
+STR_1141    :Roghnaigh an fheithicil/traein a mhionathrú
 STR_1142    :{MOVE_X}{10}{STRINGID}
 STR_1143    :»{MOVE_X}{10}{STRINGID}
-STR_1144    :Can’t build/move entrance for this ride/attraction…
-STR_1145    :Can’t build/move exit for this ride/attraction…
-STR_1146    :Entrance not yet built
-STR_1147    :Exit not yet built
-STR_1148    :Quarter load
-STR_1149    :Half load
-STR_1150    :Three-quarter load
-STR_1151    :Full load
-STR_1152    :Any load
-STR_1153    :Height Marks on Ride Tracks
-STR_1154    :Height Marks on Land
-STR_1155    :Height Marks on Paths
+STR_1144    :Ní féidir bealach isteach a thógáil/a bhogadh don mharcaíocht/díol spéise seo…
+STR_1145    :Ní féidir bealach amach a thógáil/a bhogadh don mharcaíocht/díol spéise seo…
+STR_1146    :Níor tógadh bealach isteach fós
+STR_1147    :Níor tógadh bealach amach fós
+STR_1148    :Ceathrú-ualach
+STR_1149    :Leath-ualach
+STR_1150    :Trícheathrú-ualach
+STR_1151    :Lán-ualach
+STR_1152    :Aon ualach
+STR_1153    :Marcanna Airde ar Ráille Marcaíochta
+STR_1154    :Marcanna Airde ar Thalamh
+STR_1155    :Marcanna Airde ar Chosáin
 STR_1156    :{MOVE_X}{10}{STRING}
 STR_1157    :✓{MOVE_X}{10}{STRING}
-STR_1158    :Can’t remove this…
-STR_1159    :Place scenery, gardens, and other accessories
-STR_1160    :Create/adjust lakes & water
-STR_1161    :Can’t position this here…
+STR_1158    :Ní féidir é seo a bhaint…
+STR_1159    :Cuir radharcra, gairdíní, agus oiriúintí eile
+STR_1160    :Cruthaigh/coigeartaigh lochanna agus uisce
+STR_1161    :Ní féidir é seo a shuíomh anseo…
 STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
-STR_1163    :{STRINGID}{NEWLINE}(Right-Click to Modify)
-STR_1164    :{STRINGID}{NEWLINE}(Right-Click to Remove)
+STR_1163    :{STRINGID}{NEWLINE}(Deaschliceáil chun é a mhionathrú)
+STR_1164    :{STRINGID}{NEWLINE}(Deaschliceáil chun é a bhaint)
 STR_1165    :{STRINGID} - {STRINGID} {COMMA16}
-STR_1166    :Can’t lower water level here…
-STR_1167    :Can’t raise water level here…
-STR_1168    :Options
-STR_1169    :(None)
+STR_1166    :Ní féidir an leibhéal uisce a ísliú anseo…
+STR_1167    :Ní féidir an leibhéal uisce a ardú anseo…
+STR_1168    :Roghanna
+STR_1169    :(Gan aon cheann)
 STR_1170    :{STRING}
-STR_1171    :{RED}Closed
-STR_1173    :Build footpaths and queue lines
-STR_1174    :Banner sign in the way
-STR_1175    :Can’t build this on sloped footpath
-STR_1176    :Can’t build footpath here…
-STR_1177    :Can’t remove footpath from here…
-STR_1178    :Land slope unsuitable
-STR_1179    :Footpath in the way
-STR_1180    :Can’t build this underwater!
-STR_1181    :Footpaths
-STR_1182    :Type
-STR_1183    :Direction
-STR_1184    :Slope
-STR_1185    :Direction
-STR_1186    :Slope down
-STR_1187    :Level
-STR_1188    :Slope up
-STR_1189    :Construct the selected footpath section
-STR_1190    :Remove previous footpath section
+STR_1171    :{RED}Dúnta
+STR_1173    :Tóg cosáin agus línte scuaine
+STR_1174    :Comhartha meirge sa tslí
+STR_1175    :Ní féidir é seo a thógáil ar chosán fánach
+STR_1176    :Ní féidir cosán a thógáil anseo…
+STR_1177    :Ní féidir cosán a bhaint as anseo…
+STR_1178    :Fána talún mí-oiriúnach
+STR_1179    :Cosán sa tslí
+STR_1180    :Ní féidir é seo a thógáil faoi uisce!
+STR_1181    :Cosáin
+STR_1182    :Saghas
+STR_1183    :Treo
+STR_1184    :Fána
+STR_1185    :Treo
+STR_1186    :Fána síos
+STR_1187    :Leibhéal
+STR_1188    :Fána suas
+STR_1189    :Tóg an roinn cosáin roghnaithe
+STR_1190    :Bain roinn cosáin roimhe
 STR_1191    :{BLACK}{STRINGID}
 STR_1192    :{OUTLINE}{RED}{STRINGID}
 STR_1193    :{WINDOW_COLOUR_2}{STRINGID}
-STR_1194    :Closed
-STR_1195    :Test Run
-STR_1196    :Open
-STR_1197    :Broken Down
-STR_1198    :Crashed!
-STR_1199    :{COMMA16} person on ride
-STR_1200    :{COMMA16} people on ride
-STR_1201    :Nobody in queue line
-STR_1202    :1 person in queue line
-STR_1203    :{COMMA32} people in queue line
-STR_1204    :{COMMA16} minute queue time
-STR_1205    :{COMMA16} minutes queue time
-STR_1206    :{WINDOW_COLOUR_2}Wait for:
-STR_1207    :{WINDOW_COLOUR_2}Leave if another train arrives at station
-STR_1208    :{WINDOW_COLOUR_2}Leave if another boat arrives at station
-STR_1209    :Select whether should wait for passengers before departing
-STR_1210    :Select whether should leave if another vehicle arrives at the same station
-STR_1211    :{WINDOW_COLOUR_2}Minimum waiting time:
-STR_1212    :{WINDOW_COLOUR_2}Maximum waiting time:
-STR_1213    :Select minimum length of time to wait before departing
-STR_1214    :Select maximum length of time to wait before departing
-STR_1215    :{WINDOW_COLOUR_2}Synchronise with adjacent stations
-STR_1216    :Select whether to synchronise departure with all adjacent stations (for ‘racing’)
+STR_1194    :Dúnta
+STR_1195    :Rith Tástála
+STR_1196    :Oscailte
+STR_1197    :Briste
+STR_1198    :Tuairteáilte!
+STR_1199    :{COMMA16} duine ar mharcaíocht
+STR_1200    :{COMMA16} daoine ar mharcaíocht
+STR_1201    :Níl duine ar bith sa líne scuaine
+STR_1202    :1 duine sa líne scuaine
+STR_1203    :{COMMA32} daoine sa líne scuaine
+STR_1204    :{COMMA16} nóiméad d'am scuaine
+STR_1205    :{COMMA16} nóiméid d'am scuaine
+STR_1206    :{WINDOW_COLOUR_2}Fan le:
+STR_1207    :{WINDOW_COLOUR_2}Fág má thagann traein eile go dtí an stáisiún
+STR_1208    :{WINDOW_COLOUR_2}Fág má thagann bád eile go dtí an stáisiún
+STR_1209    :Roghnaigh ar cheart fanacht le paisinéirí roimh imeacht
+STR_1210    :Roghnaigh ar cheart imeacht má thagann feithicil eile go dtí an stáisiún céanna
+STR_1211    :{WINDOW_COLOUR_2}Íostréimhse fanachta:
+STR_1212    :{WINDOW_COLOUR_2}Uastréimhse fanachta:
+STR_1213    :Roghnaigh íostréimhse fanachta roimh imeacht
+STR_1214    :Roghnaigh uastréimhse fanachta roimh imeacht
+STR_1215    :{WINDOW_COLOUR_2}Sioncronaigh le stáisiúin chóngaracha
+STR_1216    :Roghnaigh ar cheart imeacht a shioncronú le gach stáisiún cóngarach (le haghaidh ‘rásaíochta’)
 STR_1217    :{COMMA16} soicindí
 STR_1218    :{BLACK}+
 STR_1219    :{BLACK}-
