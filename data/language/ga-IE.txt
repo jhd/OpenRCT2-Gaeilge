@@ -425,12 +425,12 @@ STR_1050    :Theip ar lódáil…{NEWLINE}Tá sonraí neamhbhailí sa chomhad!
 STR_1051    :Tacaí Dofheicthe
 STR_1052    :Daoine Dofheicthe
 STR_1053    :Marcaíochtaí/díol spéise sa pháirc
-STR_1054    :Ainmnigh marcaíocht/díol spéise
-STR_1055    :Ainmnigh duine
-STR_1056    :Ainmnigh ball foirne
+STR_1054    :Cuir ainm ar mharcaíocht/díol spéise
+STR_1055    :Cuir ainm ar dhuine
+STR_1056    :Cuir ainm ar bhall foirne
 STR_1057    :Ainm marcaíochta/díola spéise
 STR_1058    :Iontráil ainm nua ar an marcaíocht/díol spéise seo:
-STR_1059    :Ní féidir marcaíocht/díol spéise a athainmniú…
+STR_1059    :Ní féidir ainm nua a chur ar mharcaíocht/díol spéise…
 STR_1060    :Ainm marcaíochta/díola spéise neamhbhailí
 STR_1061    :Mód normálta
 STR_1062    :Mód cúrsa leanúnaigh
@@ -499,7 +499,7 @@ STR_1124    :Ag tosú
 STR_1125    :Ag oibriú
 STR_1126    :Ag stopadh
 STR_1127    :Ag díluchtú paisinéirí
-STR_1128    :Stoptha ag coscáin bhloic
+STR_1128    :Stoptha ag coscáin bloic
 STR_1129    :Gach feithicil sna dathanna céanna
 STR_1130    :Dathanna éagsúla do gach {STRINGID}
 STR_1131    :Dathanna éagsúla do gach feithicil
@@ -806,7 +806,7 @@ STR_1436    :I {STRINGID}
 STR_1437    :Ag {STRINGID}
 STR_1438    :Ina suí
 STR_1439    :(Roghnaigh láthair)
-STR_1440    :Ag baint féir
+STR_1440    :Ag lomadh féir
 STR_1441    :Ag scuabadh cosán
 STR_1442    :Ag folmhú bosca bruscair
 STR_1443    :Ag uisciú gairdín
@@ -820,7 +820,7 @@ STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRING
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
 STR_1452    :Ainm aoi
 STR_1453    :Iontráil ainm ar an aoi seo:
-STR_1454    :Ní féidir aoi a ainmniú…
+STR_1454    :Ní féidir ainm a chur ar aoi…
 STR_1455    :Ainm neamhbhailí don aoi
 STR_1456    :{WINDOW_COLOUR_2}Airgead caite: {BLACK}{CURRENCY2DP}
 STR_1457    :{WINDOW_COLOUR_2}Airgead sa phóca: {BLACK}{CURRENCY2DP}
@@ -1036,159 +1036,159 @@ STR_1668    :{WINDOW_COLOUR_2}Sásamh: {BLACK}Anaithnid
 STR_1669    :{WINDOW_COLOUR_2}Sásamh: {BLACK}{COMMA16}%
 STR_1670    :{WINDOW_COLOUR_2}Iomlán custaiméirí: {BLACK}{COMMA32}
 STR_1671    :{WINDOW_COLOUR_2}Iomlán brabúis: {BLACK}{CURRENCY2DP}
-STR_1672    :Brakes
-STR_1673    :Spinning Control Toggle Track
-STR_1674    :Brake speed
-STR_1676    :Set speed limit for brakes
-STR_1677    :{WINDOW_COLOUR_2}Popularity: {BLACK}Unknown
-STR_1678    :{WINDOW_COLOUR_2}Popularity: {BLACK}{COMMA16}%
-STR_1679    :Quarter Helix up (left)
-STR_1680    :Quarter Helix up (right)
-STR_1681    :Quarter Helix down (left)
-STR_1682    :Quarter Helix down (right)
-STR_1683    :Base size 2 × 2
-STR_1684    :Base size 4 × 4
-STR_1685    :Base size 2 × 4
-STR_1686    :Base size 5 × 1
-STR_1687    :Water splash
-STR_1688    :Base size 4 × 1
-STR_1689    :Block brakes
+STR_1672    :Coscáin
+STR_1673    :Ráille Scoráin Rialaithe Rothlaithe
+STR_1674    :Luas Coscáin
+STR_1676    :Cuir teorainn luais ar choscáin
+STR_1677    :{WINDOW_COLOUR_2}Tóir: {BLACK}Anaithnid
+STR_1678    :{WINDOW_COLOUR_2}Tóir: {BLACK}{COMMA16}%
+STR_1679    :Ceathrú-héilics suas (ar chlé)
+STR_1680    :Ceathrú-héilics suas (ar dheis)
+STR_1681    :Ceathrú-héilics síos (ar chlé)
+STR_1682    :Ceathrú-héilics síos (ar dheis)
+STR_1683    :Méid boinn 2 × 2
+STR_1684    :Méid boinn 4 × 4
+STR_1685    :Méid boinn 2 × 4
+STR_1686    :Méid boinn 5 × 1
+STR_1687    :Steall uisce
+STR_1688    :Méid boinn 4 × 1
+STR_1689    :Coscáin bloic
 STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
-STR_1691    :{WINDOW_COLOUR_2}  Cost: {BLACK}{CURRENCY}
-STR_1692    :{WINDOW_COLOUR_2}  Cost: {BLACK}from {CURRENCY}
-STR_1693    :Guests
-STR_1694    :Staff
-STR_1695    :Income and costs
-STR_1696    :Customer information
-STR_1697    :Cannot place these on queue line area
-STR_1698    :Can only place these on queue area
-STR_1699    :Too many people in game
-STR_1700    :Hire new Handyman
-STR_1701    :Hire new Mechanic
-STR_1702    :Hire new Security Guard
-STR_1703    :Hire new Entertainer
-STR_1704    :Can’t hire new staff…
-STR_1705    :Sack this staff member
-STR_1706    :Move this person to a new location
-STR_1707    :Too many staff in game
-STR_1708    :Set patrol area for this staff member
-STR_1709    :Sack staff
-STR_1710    :Yes
-STR_1711    :{WINDOW_COLOUR_1}Are you sure you want to sack {STRINGID}?
-STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Sweep footpaths
-STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Water gardens
-STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Empty litter bins
-STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Mow grass
-STR_1716    :Invalid name for park
-STR_1717    :Can’t rename park…
-STR_1718    :Park Name
-STR_1719    :Enter name for park:
-STR_1720    :Name park
-STR_1721    :Park closed
-STR_1722    :Park open
-STR_1723    :Can’t open park…
-STR_1724    :Can’t close park…
-STR_1725    :Can’t buy land…
-STR_1726    :Land not for sale!
-STR_1727    :Construction rights not for sale!
-STR_1728    :Can’t buy construction rights here…
-STR_1729    :Land not owned by park!
-STR_1730    :{RED}Closed
-STR_1732    :Build
-STR_1733    :Mode
-STR_1734    :{WINDOW_COLOUR_2}Number of laps:
-STR_1735    :Number of laps of circuit
-STR_1738    :Can’t change number of laps…
-STR_1739    :Race won by guest {INT32}
-STR_1740    :Race won by {STRINGID}
-STR_1741    :Not yet constructed!
-STR_1742    :{WINDOW_COLOUR_2}Max. people on ride:
-STR_1743    :Maximum number of people allowed on this ride at one time
-STR_1746    :Can’t change this…
-STR_1747    :{WINDOW_COLOUR_2}Time limit:
-STR_1748    :Time limit for ride
-STR_1751    :Can’t change time limit for ride…
-STR_1752    :Show list of individual guests in park
-STR_1753    :Show summarised list of guests in park
-STR_1754    :{BLACK}{COMMA32} guests
-STR_1755    :{BLACK}{COMMA32} guest
-STR_1756    :{WINDOW_COLOUR_2}Admission price:
-STR_1757    :{WINDOW_COLOUR_2}Reliability: {MOVE_X}{255}{BLACK}{COMMA16}%
-STR_1758    :Build mode
-STR_1759    :Move mode
-STR_1760    :Fill-in mode
-STR_1761    :Build maze in this direction
-STR_1762    :Waterfalls
-STR_1763    :Rapids
-STR_1764    :Log Bumps
-STR_1765    :On-ride photo section
-STR_1766    :Reverser turntable
-STR_1767    :Spinning tunnel
-STR_1768    :Can’t change number of swings…
-STR_1769    :{WINDOW_COLOUR_2}Number of swings:
-STR_1770    :Number of complete swings
-STR_1773    :Only one on-ride photo section allowed per ride
-STR_1774    :Only one cable lift hill allowed per ride
-STR_1777    :Ride music
-STR_1790    :Select uniform colour for this type of staff
-STR_1791    :{WINDOW_COLOUR_2}Uniform colour:
-STR_1792    :Responding to {STRINGID} breakdown call
-STR_1793    :Heading to {STRINGID} for an inspection
-STR_1794    :Fixing {STRINGID}
-STR_1795    :Answering radio call
-STR_1796    :Has broken down and requires fixing
-STR_1798    :Whirlpool
-STR_1800    :Safety cut-out
-STR_1801    :Restraints stuck closed
-STR_1802    :Restraints stuck open
-STR_1803    :Doors stuck closed
-STR_1804    :Doors stuck open
-STR_1805    :Vehicle malfunction
-STR_1806    :Brakes failure
-STR_1807    :Control failure
-STR_1808    :{WINDOW_COLOUR_2}Last breakdown: {BLACK}{STRINGID}
-STR_1809    :{WINDOW_COLOUR_2}Current breakdown: {OUTLINE}{RED}{STRINGID}
-STR_1810    :{WINDOW_COLOUR_2}Carrying:
-STR_1811    :Can’t build this here…
+STR_1691    :{WINDOW_COLOUR_2}  Costas: {BLACK}{CURRENCY}
+STR_1692    :{WINDOW_COLOUR_2}  Costas: {BLACK}ó {CURRENCY}
+STR_1693    :Aíonna
+STR_1694    :Foireann
+STR_1695    :Ioncam agus costas
+STR_1696    :Eolas custaiméirí
+STR_1697    :Ní féidir iad seo a chur ar limistéar líne scuaine
+STR_1698    :Ní féidir iad seo a chur ach ar limistéar scuaine
+STR_1699    :An iomarca daoine sa chluiche
+STR_1700    :Fostaigh Airíoch nua
+STR_1701    :Fostaigh Meicneoir nua
+STR_1702    :Fostaigh Garda Slándála nua
+STR_1703    :Fostaigh Fuirseoir nua
+STR_1704    :Ní féidir foireann nua a fhostú…
+STR_1705    :Dífhostaigh an ball foirne seo
+STR_1706    :Bog an duine seo go dtí láthair nua
+STR_1707    :An iomarca foirne sa chluiche
+STR_1708    :Cuir limistéar patróil ar an mball foirne seo
+STR_1709    :Dífhostaigh foireann
+STR_1710    :Dífhostaigh
+STR_1711    :{WINDOW_COLOUR_1}An bhfuil tú cinnte gur mhaith leat {STRINGID} a dhífhostú?
+STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Scuab cosáin
+STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Uiscigh gairdíní
+STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Folmhaigh boscaí bruscair
+STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Lom féar
+STR_1716    :Ainm neamhbhailí ar pháirc
+STR_1717    :Ní féidir ainm a chur ar pháirc…
+STR_1718    :Ainm Páirce
+STR_1719    :Iontráil ainm ar pháirc:
+STR_1720    :Cuir ainm ar pháirc
+STR_1721    :Páirc dúnta
+STR_1722    :Páirc oscailte
+STR_1723    :Ní féidir páirc a oscailt…
+STR_1724    :Ní féidir páirc a dhúnadh…
+STR_1725    :Ní féidir talamh a cheannach…
+STR_1726    :Níl an talamh seo ar díol!
+STR_1727    :Níl na cearta tógála ar díol!
+STR_1728    :Ní féidir cearta tógála a cheannach anseo…
+STR_1729    :Ní leis an bpáirc an talamh seo!
+STR_1730    :{RED}Dúnta
+STR_1732    :Tóg
+STR_1733    :Mód
+STR_1734    :{WINDOW_COLOUR_2}Líon cuairteanna:
+STR_1735    :Líon cuairteanna cúrsa
+STR_1738    :Ní féidir líon na gcuairteanna a athrú…
+STR_1739    :Bhuaigh aoi {INT32} an rás
+STR_1740    :Bhuaigh {STRINGID} an rás
+STR_1741    :Níl sé tógtha fós!
+STR_1742    :{WINDOW_COLOUR_2}Uaslíon daoine ar mharcaíocht:
+STR_1743    :An t-uaslíon daoine a cheadaítear ar an marcaíocht seo ag an am céanna
+STR_1746    :Ní féidir é seo a athrú…
+STR_1747    :{WINDOW_COLOUR_2}Teorainn ama:
+STR_1748    :Teorainn ama do mharcaíocht
+STR_1751    :Ní féidir teorainn ama do mharcaíocht a athrú…
+STR_1752    :Taispeáin liosta na n-aíonna aonair sa pháirc
+STR_1753    :Taispeáin liosta achoimrithe na n-aíonna sa pháirc
+STR_1754    :{BLACK}{COMMA32} aíonna
+STR_1755    :{BLACK}{COMMA32} aoi
+STR_1756    :{WINDOW_COLOUR_2}Praghas isteach:
+STR_1757    :{WINDOW_COLOUR_2}Iontaofacht: {MOVE_X}{255}{BLACK}{COMMA16}%
+STR_1758    :Mód tógála
+STR_1759    :Mód bogtha
+STR_1760    :Mód líonta isteach
+STR_1761    :Tóg cathair ghríobháin sa treo seo
+STR_1762    :Easanna
+STR_1763    :Fánsrutha
+STR_1764    :Uchtóga lomán
+STR_1765    :Rannóg grianghraif ar mharcaíocht
+STR_1766    :Casclár cúlaithe
+STR_1767    :Tollán rothlaithe
+STR_1768    :Ní féidir líon na luascán a athrú…
+STR_1769    :{WINDOW_COLOUR_2}Líon luascán:
+STR_1770    :Líon luascán iomlán
+STR_1773    :Ní cheadaítear ach rannóg grianghraif amháin in aghaidh na marcaíochta
+STR_1774    :Ní cheadaítear ach cnoc ardaitheora cábla amháin in aghaidh na marcaíochta
+STR_1777    :Ceol marcaíochta
+STR_1790    :Roghnaigh dath éide don saghas foirne seo
+STR_1791    :{WINDOW_COLOUR_2}Dath éide:
+STR_1792    :Ag freagairt glao cliste ó {STRINGID}
+STR_1793    :Ag dul go dtí {STRINGID} le haghaidh scrúdaithe
+STR_1794    :Ag deisiú {STRINGID}
+STR_1795    :Ag freagairt glao raidió
+STR_1796    :Tá sé cliste agus tá deisiú de dhíth air
+STR_1798    :Guairneán
+STR_1800    :Gearradh-amach sábháilteachta
+STR_1801    :Srianta sáinnithe dúnta
+STR_1802    :Srianta sáinnithe oscailte
+STR_1803    :Dorais sáinnithe dúnta
+STR_1804    :Dorais sáinnithe oscailte
+STR_1805    :Mífheidhm feithicle
+STR_1806    :Teip coscán
+STR_1807    :Teip rialúcháin
+STR_1808    :{WINDOW_COLOUR_2}Cliseadh deireanach: {BLACK}{STRINGID}
+STR_1809    :{WINDOW_COLOUR_2}Cliseadh reatha: {OUTLINE}{RED}{STRINGID}
+STR_1810    :{WINDOW_COLOUR_2}Ag iompar:
+STR_1811    :Ní féidir é seo a thógáil anseo…
 STR_1812    :{BLACK}{STRINGID}
-STR_1813    :Miscellaneous Objects
-STR_1814    :Actions
-STR_1815    :Thoughts
-STR_1816    :Select information type to show in guest list
+STR_1813    :Réada Ilghnéitheacha
+STR_1814    :Gníomhartha
+STR_1815    :Smaointe
+STR_1816    :Roghnaigh saghas eolais le taispeáint i liosta na n-aíonna
 STR_1817    :({COMMA32})
-STR_1818    :{WINDOW_COLOUR_2}All guests
-STR_1819    :{WINDOW_COLOUR_2}All guests (summarised)
-STR_1820    :{WINDOW_COLOUR_2}Guests {STRINGID}
-STR_1821    :{WINDOW_COLOUR_2}Guests thinking {SMALLFONT}{STRINGID}
-STR_1822    :{WINDOW_COLOUR_2}Guests thinking about {POP16}{STRINGID}
-STR_1823    :Show guests’ thoughts about this ride/attraction
-STR_1824    :Show guests on this ride/attraction
-STR_1825    :Show guests queuing for this ride/attraction
-STR_1826    :Status
-STR_1827    :Popularity
-STR_1828    :Satisfaction
-STR_1829    :Profit
-STR_1830    :Queue length
-STR_1831    :Queue time
-STR_1832    :Reliability
-STR_1833    :Down-time
-STR_1834    :Guests favourite
-STR_1835    :Popularity: Unknown
-STR_1836    :Popularity: {COMMA16}%
-STR_1837    :Satisfaction: Unknown
-STR_1838    :Satisfaction: {COMMA16}%
-STR_1839    :Reliability: {COMMA16}%
-STR_1840    :Down-time: {COMMA16}%
-STR_1841    :Profit: {CURRENCY2DP} per hour
-STR_1842    :Favourite of: {COMMA32} guest
-STR_1843    :Favourite of: {COMMA32} guests
-STR_1844    :Select information type to show in ride/attraction list
+STR_1818    :{WINDOW_COLOUR_2}Gach aoi
+STR_1819    :{WINDOW_COLOUR_2}Gach aoi (achoimre)
+STR_1820    :{WINDOW_COLOUR_2}Aíonna {STRINGID}
+STR_1821    :{WINDOW_COLOUR_2}Aíonna ag smaoineamh {SMALLFONT}{STRINGID}
+STR_1822    :{WINDOW_COLOUR_2}Aíonna ag smaoineamh faoi {POP16}{STRINGID}
+STR_1823    :Taispeáin smaointe aíonna faoin marcaíocht/díol spéise seo
+STR_1824    :Taispeáin aíonna ar an marcaíocht/díol spéise seo
+STR_1825    :Taispeáin aíonna sa scuaine don mharcaíocht/díol spéise seo
+STR_1826    :Stádas
+STR_1827    :Tóir
+STR_1828    :Sásamh
+STR_1829    :Brabús
+STR_1830    :Fad scuaine
+STR_1831    :Tréimhse scuaine
+STR_1832    :Iontaofacht
+STR_1833    :Am díomhaoin
+STR_1834    :Rogha na n-aíonna
+STR_1835    :Tóir: Anaithnid
+STR_1836    :Tóir: {COMMA16}%
+STR_1837    :Sásamh: Anaithnid
+STR_1838    :Sásamh: {COMMA16}%
+STR_1839    :Iontaofacht: {COMMA16}%
+STR_1840    :Am díomhaoin: {COMMA16}%
+STR_1841    :Brabús: {CURRENCY2DP} san uair
+STR_1842    :Rogha ag: {COMMA32} aoi
+STR_1843    :Rogha ag: {COMMA32} aíonna
+STR_1844    :Roghnaigh saghas eolais le taispeáint i liosta na marcaíochtaí/díol spéise
 STR_1845    :{MONTHYEAR}
-STR_1846    :{COMMA32} guests
-STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA32} guests
-STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA32} guests
-STR_1849    :{WINDOW_COLOUR_2}Play music
-STR_1850    :Select whether music should be played for this ride
+STR_1846    :{COMMA32} aíonna
+STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA32} aíonna
+STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA32} aíonna
+STR_1849    :{WINDOW_COLOUR_2}Seinn ceol
+STR_1850    :Roghnaigh ar cheart ceol a sheinm don mharcaíocht seo
 STR_1851    :{WINDOW_COLOUR_2}Costas reatha: {BLACK}{CURRENCY2DP} san uair
 STR_1852    :{WINDOW_COLOUR_2}Costas reatha: {BLACK}Anaithnid
 STR_1853    :{WINDOW_COLOUR_2}Tógtha: {BLACK}An bhliain seo
