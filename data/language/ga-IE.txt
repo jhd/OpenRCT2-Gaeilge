@@ -2359,32 +2359,32 @@ STR_5138    :{WINDOW_COLOUR_2}{STRINGID}
 STR_5139    :{WHITE}{STRINGID}
 STR_5140    :Disable brakes failure
 STR_5141    :Disable all breakdowns
-STR_5142    :Normal Speed
-STR_5143    :Quick Speed
-STR_5144    :Fast Speed
-STR_5145    :Turbo Speed
-STR_5146    :Hyper Speed
-STR_5147    :Cheats
-STR_5148    :Change the game speed
-STR_5149    :Show cheat options
-STR_5150    :Enable debugging tools
+STR_5142    :Luas gnách
+STR_5143    :Luas mear
+STR_5144    :Luas gasta
+STR_5145    :Luas turbó
+STR_5146    :Luas hipear
+STR_5147    :Cleasa
+STR_5148    :Athraigh luas an chluiche
+STR_5149    :Taispeáin roghanna cleas
+STR_5150    :Cumasaigh uirlisí dífhabhtúcháin
 STR_5151    :,
 STR_5152    :.
-STR_5153    :Edit Themes…
-STR_5154    :Hardware display
-STR_5155    :Allow testing of unfinished tracks
-STR_5156    :Allows testing of most ride types even when the track is unfinished, does not apply to block sectioned modes
-STR_5158    :Quit to menu
-STR_5159    :Exit OpenRCT2
+STR_5153    :Cuir Téamaí in Eagar…
+STR_5154    :Taispeáint crua-earraí
+STR_5155    :Ceadaigh tástáil ar ráillí neamhchríochnaithe
+STR_5156    :Ceadaíonn sé tástáil ar fhormhór na saghsanna marcaíochta fiú nuair a bhíonn an ráille neamhchríochnaithe, ní bhaineann sé le móid rannóg bloic
+STR_5158    :Scoir go dtí an roghchlár
+STR_5159    :Scoir OpenRCT2
 STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, Bliain {POP16}{COMMA16}
-STR_5161    :Date Format:
+STR_5161    :Formáid Dáta:
 STR_5162    :Lá/Mí/Bliain
 STR_5163    :Mí/Lá/Bliain
-STR_5177    :Screen mode:
-STR_5178    :Show financial cheats
-STR_5179    :Show guest cheats
-STR_5180    :Show park cheats
-STR_5181    :Show ride cheats
+STR_5177    :Mód scáileáin:
+STR_5178    :Taispeáin cleasa airgeadais
+STR_5179    :Taispeáin cleasa aíonna
+STR_5180    :Taispeáin cleasa páirce
+STR_5181    :Taispeáin cleasa marcaíochta
 STR_5182    :{INT32}
 STR_5183    :Bunairde
 STR_5184    :Iontráil bunairde idir {COMMA16} agus {COMMA16}
@@ -2412,74 +2412,74 @@ STR_5205    :Aoi
 STR_5206    :Liosta na nAíonna
 STR_5207    :Foireann
 STR_5208    :Liosta na Foirne
-STR_5209    :Banner
-STR_5210    :Object Selection
-STR_5211    :Invention List
+STR_5209    :Meirge
+STR_5210    :Roghnú Réad
+STR_5211    :Liosta Aireagán
 STR_5212    :Roghanna Cnámhscéil
-STR_5213    :Objective Options
-STR_5214    :Map Generation
-STR_5215    :Track Design Manager
-STR_5216    :Track Design Manager List
-STR_5217    :Cheats
-STR_5218    :Themes
-STR_5219    :Options
-STR_5220    :Keyboard Shortcuts
-STR_5221    :Change Keyboard Shortcut
-STR_5222    :Load/Save
-STR_5223    :Save Prompt
-STR_5224    :Demolish Ride Prompt
-STR_5225    :Fire Staff Prompt
-STR_5226    :Track Delete Prompt
-STR_5227    :Save Overwrite Prompt
-STR_5228    :Main UI
-STR_5229    :Park
-STR_5230    :Tools
-STR_5231    :Rides and Guests
-STR_5232    :Editors
-STR_5233    :Miscellaneous
-STR_5234    :Prompts
-STR_5235    :Settings
-STR_5236    :Window
-STR_5237    :Palette
-STR_5238    :Current Theme:
-STR_5239    :Duplicate
-STR_5240    :Enter a name for the theme
-STR_5241    :Can’t change this theme
-STR_5242    :Theme name already exists
-STR_5243    :Invalid characters used
-STR_5244    :Themes
-STR_5245    :Top Toolbar
-STR_5246    :Bottom Toolbar
-STR_5247    :Track Editor Bottom Toolbar
-STR_5248    :Scenario Editor Bottom Toolbar
-STR_5249    :Title Menu Buttons
-STR_5250    :Title Exit Button
-STR_5251    :Title Options Button
-STR_5252    :Title Scenario Selection
-STR_5253    :Park Information
-STR_5256    :Create a new theme to make changes to
-STR_5257    :Create a new theme based on the current one
-STR_5258    :Delete the current theme
-STR_5259    :Rename the current theme
-STR_5260    :Giant Screenshot
-STR_5261    :Filter
+STR_5213    :Roghanna Cuspóra
+STR_5214    :Giniúint Mapa
+STR_5215    :Bainisteoir Deartha Ráille
+STR_5216    :Liosta Bainisteora Deartha Ráille
+STR_5217    :Cleasa
+STR_5218    :Téamaí
+STR_5219    :Roghanna
+STR_5220    :Aicearraí Méarchláir
+STR_5221    :Athraigh Aicearra Méarchláir
+STR_5222    :Lódáil/Sábháil
+STR_5223    :Leid Sábhála
+STR_5224    :Leid Scartála Marcaíochta
+STR_5225    :Leid Dífhostaithe Foirne
+STR_5226    :Leid Scriosta Ráille
+STR_5227    :Leid Forscríofa Sábhála
+STR_5228    :Príomhchomhéadan
+STR_5229    :Páirc
+STR_5230    :Uirlisí
+STR_5231    :Marcaíochtaí agus Aíonna
+STR_5232    :Eagarthóirí
+STR_5233    :Ilghnéitheacha
+STR_5234    :Leideanna
+STR_5235    :Socruithe
+STR_5236    :Fuinneog
+STR_5237    :Pailéad
+STR_5238    :Téama Reatha:
+STR_5239    :Dúblaigh
+STR_5240    :Cuir ainm ar an téama
+STR_5241    :Ní féidir an téama seo a athrú
+STR_5242    :Tá ainm an téama ann cheana féin
+STR_5243    :Baineadh úsáid as carachtair neamhbhailí
+STR_5244    :Téamaí
+STR_5245    :Barra uirlisí uachtair
+STR_5246    :Barra uirlisí íochtair
+STR_5247    :Barra Uirlisí Íochtair an Eagarthóra Ráille
+STR_5248    :Barra Uirlisí Íochtair an Eagarthóra Cnámhscéalta
+STR_5249    :Cnaipí Roghchláir Teidil
+STR_5250    :Cnaipe Amach Teidil
+STR_5251    :Cnaipe Roghanna Teidil
+STR_5252    :Rogha Cnámhscéal Teidil
+STR_5253    :Eolas Páirce
+STR_5256    :Cruthaigh téama nua le hathruithe a dhéanamh air
+STR_5257    :Cruthaigh téama nua bunaithe ar an gceann reatha
+STR_5258    :Scrios an téama reatha
+STR_5259    :Cuir ainm nua ar an téama reatha
+STR_5260    :Gabháil scáileáin ollmhór
+STR_5261    :Scag
 STR_5262    :Wacky Worlds
 STR_5263    :Time Twister
-STR_5264    :Custom
-STR_5265    :Select which content sources are visible
-STR_5266    :Display
-STR_5267    :Culture and Units
-STR_5268    :Audio
-STR_5269    :Controls
-STR_5270    :Miscellaneous
+STR_5264    :Saincheaptha
+STR_5265    :Roghnaigh cé na foinsí ábhair atá le feiceáil
+STR_5266    :Taispeáint
+STR_5267    :Cultúr agus Aonaid
+STR_5268    :Fuaim
+STR_5269    :Rialúcháin
+STR_5270    :Ilghnéitheacha
 STR_5272    :Radharcra beag
 STR_5273    :Radharcra mór
 STR_5274    :Cosán
-STR_5275    :Search for Objects
-STR_5276    :Enter the name of an object to search for
-STR_5277    :Clear
-STR_5278    :Sandbox mode
-STR_5279    :Sandbox mode off
+STR_5275    :Cuardaigh Réada
+STR_5276    :Iontráil ainm an réada atá le cuardach
+STR_5277    :Glan
+STR_5278    :Mód bosca gainimh
+STR_5279    :Mód bosca gainimh múchta
 STR_5280    :Allow editing land ownership settings through the Map window and other options that are normally restricted to the Scenario Editor
 STR_5281    :Features
 STR_5282    :RCT1 Ride Open/Close Lights
@@ -2513,21 +2513,21 @@ STR_5311    :Debug tools
 STR_5312    :Show console
 STR_5313    :Show tile inspector
 STR_5314    :Tile inspector
-STR_5335    :Ride entrance
-STR_5336    :Ride exit
-STR_5337    :Park entrance
-STR_5338    :Element type
-STR_5339    :Base height
-STR_5340    :Clearance height
+STR_5335    :Bealach isteach marcaíochta
+STR_5336    :Bealach amach marcaíochta
+STR_5337    :Bealach isteach páirce
+STR_5338    :Saghas baill
+STR_5339    :Bunairde
+STR_5340    :Airde ghlanspáis
 STR_5343    :Automatically place staff
 STR_5344    :Changelog
-STR_5345    :Financial cheats
-STR_5346    :Guest cheats
-STR_5347    :Park cheats
-STR_5348    :Ride cheats
-STR_5349    :All Rides
-STR_5350    :Max
-STR_5351    :Min
+STR_5345    :Cleasa airgeadais
+STR_5346    :Cleasa aíonna
+STR_5347    :Cleasa páirce
+STR_5348    :Cleasa marcaíochta
+STR_5349    :Gach Marcaíocht
+STR_5350    :Uasta
+STR_5351    :Íosta
 STR_5352    :{BLACK}Sonas:
 STR_5353    :{BLACK}Fuinneamh:
 STR_5354    :{BLACK}Ocras:
@@ -2535,45 +2535,45 @@ STR_5355    :{BLACK}Tart:
 STR_5356    :{BLACK}Masmas:
 STR_5357    :{BLACK}Fulaingt masmais:
 STR_5358    :{BLACK}Leithreas:
-STR_5359    :Remove guests
-STR_5360    :Removes all guests from the map
+STR_5359    :Bain aíonna
+STR_5360    :Baineann sé gach aoi den mapa
 STR_5361    :Add to guest inventory
 STR_5362    :{BLACK}Preferred ride intensity:
-STR_5363    :More than 1
-STR_5364    :Less than 15
-STR_5365    :{BLACK}Staff speed:
-STR_5366    :Normal
-STR_5367    :Fast
+STR_5363    :Níos mó ná 1
+STR_5364    :Níos lú ná 15
+STR_5365    :{BLACK}Luas foirne:
+STR_5366    :Normálta
+STR_5367    :Gasta
 STR_5368    :Reset crash status
-STR_5371    :Object selection
+STR_5371    :Roghnú réad
 STR_5372    :Invert right mouse dragging
-STR_5373    :Name {STRINGID}
+STR_5373    :Ainm {STRINGID}
 STR_5374    :Date modified {STRINGID}
 STR_5375    :▲
 STR_5376    :▼
 STR_5404    :Name already exists
 STR_5440    :Minimise fullscreen on focus loss
 STR_5442    :Force park rating:
-STR_5447    :Type {STRINGID}
-STR_5448    :Ride / Vehicle {STRINGID}
+STR_5447    :Saghas {STRINGID}
+STR_5448    :Marcaíocht / Feithicil {STRINGID}
 STR_5449    :Reduce game speed
 STR_5450    :Increase game speed
-STR_5451    :Open cheats window
+STR_5451    :Oscail fuinneog cleasa
 STR_5452    :Toggle visibility of toolbars
 STR_5453    :Select another ride
 STR_5454    :Uncap FPS
 STR_5455    :Enable sandbox mode
 STR_5456    :Disable clearance checks
 STR_5457    :Disable support limits
-STR_5458    :Rotate clockwise
-STR_5459    :Rotate anti-clockwise
-STR_5460    :Rotate view anti-clockwise
+STR_5458    :Rothlaigh deiseal
+STR_5459    :Rothlaigh tuathal
+STR_5460    :Rothlaigh amharc tuathal
 STR_5461    :Set parameters for all guests
 STR_5462    :{CURRENCY}
 STR_5463    :Goal: Have fun!
 STR_5464    :General
-STR_5465    :Weather
-STR_5466    :Staff
+STR_5465    :Aimsir
+STR_5466    :Foireann
 STR_5467    :ALT + 
 STR_5468    :Recent messages
 STR_5469    :Scroll map up
@@ -2586,9 +2586,9 @@ STR_5475    :{COMMA16} seachtain
 STR_5476    :Hardware
 STR_5477    :Map rendering
 STR_5478    :Controls
-STR_5479    :Toolbar
+STR_5479    :Barra uirlisí
 STR_5480    :Show toolbar buttons for:
-STR_5481    :Themes
+STR_5481    :Téamaí
 STR_5482    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}1 minute
 STR_5483    :{BLACK}({COMMA16} seachtain atá fágtha)
 STR_5484    :{BLACK}({COMMA16} seachtain atá fágtha)
@@ -2600,11 +2600,11 @@ STR_5490    :Disable audio on focus loss
 STR_5491    :Inventions list
 STR_5492    :Scenario options
 STR_5493    :Send Message
-STR_5495    :Player List
-STR_5496    :Player
+STR_5495    :Liosta na nImreoirí
+STR_5496    :Imreoir
 STR_5497    :Ping
-STR_5498    :Server List
-STR_5499    :Player Name:
+STR_5498    :Liosta freastalaithe
+STR_5499    :Ainm Imreora:
 STR_5500    :Add Server
 STR_5501    :Start Server
 STR_5502    :Multiplayer
@@ -2613,7 +2613,7 @@ STR_5504    :Show multiplayer status
 STR_5505    :Unable to connect to server.
 STR_5506    :Guests ignore intensities
 STR_5510    :Default sound device
-STR_5511    :(UNKNOWN)
+STR_5511    :(ANAITHNID)
 STR_5512    :Save Game As
 STR_5513    :(Quick) save game
 STR_5514    :Disable vandalism
@@ -3133,10 +3133,10 @@ STR_6082    :D'athraigh {STRING} stádas na marcaíochta ‘{STRING}’ go hosca
 STR_6083    :D'athraigh {STRING} stádas na marcaíochta ‘{STRING}’ go tástáil.
 STR_6084    :D'athraigh {STRING} socruithe feithiclí na marcaíochta ‘{STRING}’.
 STR_6085    :D'athraigh {STRING} socruithe marcaíochta na marcaíochta ‘{STRING}’.
-STR_6086    :D'athainmnigh {STRING} an mharcaíocht ‘{STRING}’ go ‘{STRING}’.
+STR_6086    :D'athraigh {STRING} ainm na marcaíochta ó ‘{STRING}’ go ‘{STRING}’.
 STR_6087    :D'athraigh {STRING} praghas na marcaíochta ‘{STRING}’ go {STRING}
 STR_6088    :D'athraigh {STRING} praghas tánaisteach na marcaíochta ‘{STRING}’ go {STRING}
-STR_6089    :D'athainmnigh {STRING} an pháirc as ‘{STRING}’ go ‘{STRING}’.
+STR_6089    :D'athraigh {STRING} ainm na páirce ó ‘{STRING}’ go ‘{STRING}’.
 STR_6090    :D'oscail {STRING} an pháirc.
 STR_6091    :Dhún {STRING} an pháirc.
 STR_6092    :D'athraigh {STRING} táille isteach na páirce go {STRING}
