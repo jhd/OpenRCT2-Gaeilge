@@ -1599,52 +1599,52 @@ STR_2281    :Marcaíocht Fhiáin
 STR_2282    :Marcaíocht Uisce
 STR_2283    :Siopa/Stainnín
 STR_2284    :Radharcra/Téamú
-STR_2285    :Initial research
-STR_2286    :Designing
-STR_2287    :Completing design
-STR_2288    :Unknown
+STR_2285    :Taighde tosaigh
+STR_2286    :Ag dearadh
+STR_2287    :Ag críochnú deartha
+STR_2288    :Anaithnid
 STR_2289    :{STRINGID} {STRINGID}
-STR_2291    :Select scenario for new game
-STR_2292    :{WINDOW_COLOUR_2}Rides been on:
-STR_2293    :{BLACK} Nothing
-STR_2294    :Change base land style
-STR_2295    :Change vertical edges of land
-STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} paid to enter park
-STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} ride
-STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} rides
-STR_2299    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} item of food
-STR_2300    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} items of food
-STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} drink
-STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} drinks
-STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} souvenir
-STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} souvenirs
-STR_2305    :Track design files
-STR_2306    :Save track design
-STR_2307    :Select {STRINGID} design
-STR_2308    :{STRINGID} Track Designs
-STR_2309    :Install New Track Design
-STR_2310    :Build custom design
-STR_2311    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2312    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2313    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2314    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}
-STR_2315    :{WINDOW_COLOUR_2}Cost: {BLACK}around {CURRENCY}
-STR_2316    :{WINDOW_COLOUR_2}Space required: {BLACK}{COMMA16} × {COMMA16} blocks
-STR_2321    :{WINDOW_COLOUR_2}Number of rides/attractions: {BLACK}{COMMA16}
-STR_2322    :{WINDOW_COLOUR_2}Staff: {BLACK}{COMMA32}
-STR_2323    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}m²
-STR_2324    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}sq.ft.
-STR_2325    :Buy land to extend park
-STR_2326    :Buy construction rights to allow construction above or below land outside the park
-STR_2327    :Options
-STR_2328    :{WINDOW_COLOUR_2}Currency:
-STR_2329    :{WINDOW_COLOUR_2}Distance and Speed:
-STR_2330    :{WINDOW_COLOUR_2}Temperature:
-STR_2331    :{WINDOW_COLOUR_2}Height Labels:
-STR_2332    :Units
-STR_2333    :Sound effects
-STR_2334    :Pounds (£)
-STR_2335    :Dollars ($)
+STR_2291    :Roghnaigh cnámhscéal le haghaidh cluiche nua
+STR_2292    :{WINDOW_COLOUR_2}Marcaíochtaí a bhíothas orthu:
+STR_2293    :{BLACK} Faic
+STR_2294    :Athraigh stíl buntalún
+STR_2295    :Athraigh imill ingearacha na talún
+STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} íoctha chun dul isteach sa pháirc
+STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} íoctha ar {BLACK}{COMMA16} marcaíocht
+STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} íoctha ar {BLACK}{COMMA16} marcaíochtaí
+STR_2299    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} íoctha ar {BLACK}{COMMA16} mír bia
+STR_2300    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} íoctha ar {BLACK}{COMMA16} míreanna bia
+STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} íoctha ar {BLACK}{COMMA16} deoch
+STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} íoctha ar {BLACK}{COMMA16} deochanna
+STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} íoctha ar {BLACK}{COMMA16} cuimhneachán
+STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} íoctha ar {BLACK}{COMMA16} cuimhneacháin
+STR_2305    :Comhaid dearaidh ráille
+STR_2306    :Sábháil dearadh ráille
+STR_2307    :Roghnaigh dearadh {STRINGID}
+STR_2308    :{STRINGID} Dearaí Ráille
+STR_2309    :Suiteáil Dearadh Ráille Nua
+STR_2310    :Tóg dearadh saincheaptha
+STR_2311    :{WINDOW_COLOUR_2}Rátáil sceitimíní: {BLACK}{COMMA2DP32} (approx.)
+STR_2312    :{WINDOW_COLOUR_2}Rátáil déine: {BLACK}{COMMA2DP32} (approx.)
+STR_2313    :{WINDOW_COLOUR_2}Rátáil masmais: {BLACK}{COMMA2DP32} (approx.)
+STR_2314    :{WINDOW_COLOUR_2}Fad marcaíochta: {BLACK}{STRINGID}
+STR_2315    :{WINDOW_COLOUR_2}Costas: {BLACK}timpeall {CURRENCY}
+STR_2316    :{WINDOW_COLOUR_2}Spás riachtanach: {BLACK}{COMMA16} × {COMMA16} bloic
+STR_2321    :{WINDOW_COLOUR_2}Líon na marcaíochtaí/díol spéise: {BLACK}{COMMA16}
+STR_2322    :{WINDOW_COLOUR_2}Foireann: {BLACK}{COMMA32}
+STR_2323    :{WINDOW_COLOUR_2}Toise páirce: {BLACK}{COMMA32}m²
+STR_2324    :{WINDOW_COLOUR_2}Toise páirce: {BLACK}{COMMA32}sq.ft.
+STR_2325    :Ceannaigh talamh chun an pháirc a fhairsingiú
+STR_2326    :Ceannaigh cearta tógála chun tógáil os cionn nó faoi thalamh lasmuigh den pháirc a cheadú
+STR_2327    :Roghanna
+STR_2328    :{WINDOW_COLOUR_2}Airgeadra:
+STR_2329    :{WINDOW_COLOUR_2}Fad agus Luas:
+STR_2330    :{WINDOW_COLOUR_2}Teocht:
+STR_2331    :{WINDOW_COLOUR_2}Lipéid Airde:
+STR_2332    :Aonaid
+STR_2333    :Éifeachtaí fuaime
+STR_2334    :Puint (£)
+STR_2335    :Dollair ($)
 STR_2336    :Franc (F)
 STR_2337    :Deutsche mark (DM)
 STR_2338    :Yen (¥)
@@ -1652,48 +1652,48 @@ STR_2339    :Peseta (Pts)
 STR_2340    :Lira (L)
 STR_2341    :Guilders (ƒ)
 STR_2342    :Krona (kr)
-STR_2343    :Euros (€)
-STR_2344    :Imperial
-STR_2345    :Metric
-STR_2347    :{RED}{STRINGID} has drowned!
-STR_2348    :Show statistics for this staff member
-STR_2349    :{WINDOW_COLOUR_2}Wages: {BLACK}{CURRENCY} per month
-STR_2350    :{WINDOW_COLOUR_2}Employed: {BLACK}{MONTHYEAR}
-STR_2351    :{WINDOW_COLOUR_2}Lawns mown: {BLACK}{COMMA32}
-STR_2352    :{WINDOW_COLOUR_2}Gardens watered: {BLACK}{COMMA32}
-STR_2353    :{WINDOW_COLOUR_2}Litter swept: {BLACK}{COMMA32}
-STR_2354    :{WINDOW_COLOUR_2}Bins emptied: {BLACK}{COMMA32}
-STR_2355    :{WINDOW_COLOUR_2}Rides fixed: {BLACK}{COMMA32}
-STR_2356    :{WINDOW_COLOUR_2}Rides inspected: {BLACK}{COMMA32}
-STR_2358    :Units
-STR_2359    :Real Values
-STR_2360    :Display Resolution:
-STR_2361    :Landscape Smoothing
-STR_2362    :Toggle landscape tile edge smoothing on/off
-STR_2363    :Gridlines on Landscape
+STR_2343    :Euro (€)
+STR_2344    :Impiriúil
+STR_2345    :Méadrach
+STR_2347    :{RED}Bádh {STRINGID}!
+STR_2348    :Taispeáin staitisticí faoin mball foirne seo
+STR_2349    :{WINDOW_COLOUR_2}Pá: {BLACK}{CURRENCY} sa mhí
+STR_2350    :{WINDOW_COLOUR_2}Fostaithe: {BLACK}{MONTHYEAR}
+STR_2351    :{WINDOW_COLOUR_2}Plásóga lomtha: {BLACK}{COMMA32}
+STR_2352    :{WINDOW_COLOUR_2}Gairdíní uiscithe: {BLACK}{COMMA32}
+STR_2353    :{WINDOW_COLOUR_2}Bruscar scuabtha: {BLACK}{COMMA32}
+STR_2354    :{WINDOW_COLOUR_2}Boscaí bruscair folmhaithe: {BLACK}{COMMA32}
+STR_2355    :{WINDOW_COLOUR_2}Marcaíochtaí deisithe: {BLACK}{COMMA32}
+STR_2356    :{WINDOW_COLOUR_2}Marcaíochtaí scrúdaithe: {BLACK}{COMMA32}
+STR_2358    :Aonaid
+STR_2359    :Luachanna Fíor
+STR_2360    :Taifeach Taispeáint:
+STR_2361    :Mínú Tírdhreacha
+STR_2362    :Scoránaigh mínú imill tíle tírdhreacha ann/as
+STR_2363    :Línte greille ar Thírdhreach
 STR_2364    :Toggle gridlines on landscape on/off
 STR_2365    :The bank refuses to increase your loan!
 STR_2366    :Celsius (°C)
 STR_2367    :Fahrenheit (°F)
-STR_2368    :None
-STR_2369    :Low
-STR_2370    :Average
-STR_2371    :High
-STR_2372    :Low
-STR_2373    :Medium
-STR_2374    :High
-STR_2375    :Very high
-STR_2376    :Extreme
-STR_2377    :Ultra-Extreme
+STR_2368    :Ceann ar bith
+STR_2369    :Íseal
+STR_2370    :Meánach
+STR_2371    :Ard
+STR_2372    :Íseal
+STR_2373    :Meánach
+STR_2374    :Ard
+STR_2375    :An-ard
+STR_2376    :Foircneach
+STR_2377    :Fíor-Foircneach
 STR_2378    :Adjust smaller area of land
 STR_2379    :Adjust larger area of land
 STR_2380    :Adjust smaller area of water
 STR_2381    :Adjust larger area of water
 STR_2382    :Talamh
 STR_2383    :Uisce
-STR_2384    :{WINDOW_COLOUR_2}Your objective:
-STR_2385    :{BLACK}None
-STR_2386    :{BLACK}To have at least {COMMA32} guests in your park at the end of {MONTHYEAR_SENTENCE}, with a park rating of at least 600
+STR_2384    :{WINDOW_COLOUR_2}Do chuspóir:
+STR_2385    :{BLACK}Ceann ar bith
+STR_2386    :{BLACK}Ar a laghadh {COMMA32} aíonna i do pháirc ag deireadh {MONTHYEAR_SENTENCE}, le rátáil páirce de 600 ar a laghadh
 STR_2387    :{BLACK}To achieve a park value of at least {POP16}{POP16}{CURRENCY} at the end of {PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{MONTHYEAR_SENTENCE}
 STR_2388    :{BLACK}Spraoi a bheith agat!
 STR_2389    :{BLACK}An {STRINGID} is fearr is féidir leat a thógáil!
@@ -1704,9 +1704,9 @@ STR_2393    :{BLACK}To have 10 different types of rollchóstóirí operating in 
 STR_2394    :{BLACK}To finish building all 5 of the partially built rollchóstóirí in this park, designing them to achieve excitement ratings of at least {POP16}{POP16}{COMMA2DP32} each
 STR_2395    :{BLACK}To repay your loan and achieve a park value of at least {POP16}{POP16}{CURRENCY}
 STR_2396    :{BLACK}To achieve a monthly profit from food, drink and merchandise sales of at least {POP16}{POP16}{CURRENCY}
-STR_2397    :None
-STR_2398    :Number of guests at a given date
-STR_2399    :Park value at a given date
+STR_2397    :Ceann ar bith
+STR_2398    :Líon na n-aíonna ag dáta sonraithe
+STR_2399    :Luach páirce ag dáta sonraithe
 STR_2400    :Spraoi a bheith agat
 STR_2401    :An mharcaíocht is fearr is féidir leat a thógáil
 STR_2402    :10 rollchóstóir a thógáil
@@ -1715,7 +1715,7 @@ STR_2404    :Ioncam míosúil as ticéid mharcaíochta
 STR_2405    :10 rollchóstóir d'fhad áirithe a thógáil
 STR_2406    :Tógáil 5 rollchóstóir a chríochnú
 STR_2407    :Repay loan and achieve a given park value
-STR_2408    :Monthly profit from food/merchandise
+STR_2408    :Brabús míosúil as bia/marsantacht
 STR_2409    :{WINDOW_COLOUR_2}Marketing campaigns in operation
 STR_2410    :{BLACK}None
 STR_2411    :{WINDOW_COLOUR_2}Marketing campaigns available
