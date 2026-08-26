@@ -1714,57 +1714,57 @@ STR_2403    :Líon na n-aíonna sa pháirc
 STR_2404    :Ioncam míosúil as ticéid mharcaíochta
 STR_2405    :10 rollchóstóir d'fhad áirithe a thógáil
 STR_2406    :Tógáil 5 rollchóstóir a chríochnú
-STR_2407    :Repay loan and achieve a given park value
+STR_2407    :Aisíoc iasacht agus bain amach luach páirce áirithe
 STR_2408    :Brabús míosúil as bia/marsantacht
-STR_2409    :{WINDOW_COLOUR_2}Marketing campaigns in operation
-STR_2410    :{BLACK}None
-STR_2411    :{WINDOW_COLOUR_2}Marketing campaigns available
-STR_2412    :Start this marketing campaign
-STR_2413    :{BLACK}({CURRENCY2DP} per week)
-STR_2414    :(Not Selected)
-STR_2415    :{WINDOW_COLOUR_2}Ride:
-STR_2416    :{WINDOW_COLOUR_2}Item:
-STR_2417    :{WINDOW_COLOUR_2}Length of time:
-STR_2418    :Free entry to {STRINGID}
-STR_2419    :Free ride on {STRINGID}
-STR_2420    :Half-price entry to {STRINGID}
-STR_2421    :Free {STRINGID}
-STR_2424    :{WINDOW_COLOUR_2}Vouchers for free entry to the park
-STR_2425    :{WINDOW_COLOUR_2}Vouchers for free rides on a particular ride
-STR_2426    :{WINDOW_COLOUR_2}Vouchers for half-price entry to the park
-STR_2427    :{WINDOW_COLOUR_2}Vouchers for free food or drink
-STR_2428    :{WINDOW_COLOUR_2}Advertising campaign for the park
-STR_2429    :{WINDOW_COLOUR_2}Advertising campaign for a particular ride
-STR_2430    :{BLACK}Vouchers for free entry to {STRINGID}
-STR_2431    :{BLACK}Vouchers for free ride on {STRINGID}
-STR_2432    :{BLACK}Vouchers for half-price entry to {STRINGID}
-STR_2433    :{BLACK}Vouchers for free {STRINGID}
-STR_2434    :{BLACK}Advertising campaign for {STRINGID}
-STR_2435    :{BLACK}Advertising campaign for {STRINGID}
+STR_2409    :{WINDOW_COLOUR_2}Feachtais margaíochta i mbun oibre
+STR_2410    :{BLACK}Ceann ar bith
+STR_2411    :{WINDOW_COLOUR_2}Feachtais margaíochta ar fáil
+STR_2412    :Tosaigh an feachtas margaíochta seo
+STR_2413    :{BLACK}({CURRENCY2DP} sa tseachtain)
+STR_2414    :(Gan Roghnaithe)
+STR_2415    :{WINDOW_COLOUR_2}Marcaíocht:
+STR_2416    :{WINDOW_COLOUR_2}Mír:
+STR_2417    :{WINDOW_COLOUR_2}Fad ama:
+STR_2418    :Iontráil saor in aisce go {STRINGID}
+STR_2419    :Marcaíocht saor in aisce go {STRINGID}
+STR_2420    :Iontráil leath-praghas go {STRINGID}
+STR_2421    :{STRINGID} saor in aisce
+STR_2424    :{WINDOW_COLOUR_2}Dearbháin le haghaidh iontráil saor in aisce chuig an bpáirc
+STR_2425    :{WINDOW_COLOUR_2}Dearbháin le haghaidh marcaíochtaí saor in aisce ar mharcaíocht shainiúil
+STR_2426    :{WINDOW_COLOUR_2}Dearbháin le haghaidh iontráil leath-praghas chuig an bpáirc
+STR_2427    :{WINDOW_COLOUR_2}Dearbháin le haghaidh bia nó deoch saor in aisce
+STR_2428    :{WINDOW_COLOUR_2}Feachtas margaíochta faoin bpáirc
+STR_2429    :{WINDOW_COLOUR_2}Feachtas margaíochta faoi mharcaíocht shainiúil
+STR_2430    :{BLACK}Dearbháin le haghaidh iontráil saor in aisce go {STRINGID}
+STR_2431    :{BLACK}Dearbháin le haghaidh marcaíocht saor in aisce ar {STRINGID}
+STR_2432    :{BLACK}Dearbháin le haghaidh iontráil leath-praghas ar {STRINGID}
+STR_2433    :{BLACK}Dearbháin le haghaidh {STRINGID} saor in aisce
+STR_2434    :{BLACK}Feachtas margaíochta faoi {STRINGID}
+STR_2435    :{BLACK}Feachtas margaíochta faoi {STRINGID}
 STR_2436    :1 seachtain
 STR_2443    :{WINDOW_COLOUR_2}Costas sa tseachtain: {BLACK}{CURRENCY2DP}
 STR_2444    :{WINDOW_COLOUR_2}Costas iomlán: {BLACK}{CURRENCY2DP}
-STR_2445    :Start this marketing campaign
-STR_2446    :{YELLOW}Your marketing campaign for free entry to the park has finished
-STR_2447    :{YELLOW}Your marketing campaign for free rides on {STRINGID} has finished
-STR_2448    :{YELLOW}Your marketing campaign for half-price entry to the park has finished
-STR_2449    :{YELLOW}Your marketing campaign for free {STRINGID} has finished
-STR_2450    :{YELLOW}Your advertising campaign for the park has finished
-STR_2451    :{YELLOW}Your advertising campaign for {STRINGID} has finished
+STR_2445    :Tosaigh an feachtas margaíochta seo
+STR_2446    :{YELLOW}Tá do fheachtas margaíochta le haghaidh iontráil saor in aisce chuig an bpáirc críochnaithe
+STR_2447    :{YELLOW}Tá do fheachtas margaíochta le haghaidh marcaíochtaí saor in aisce ar {STRINGID} críochnaithe
+STR_2448    :{YELLOW}Tá do fheachtas margaíochta le haghaidh iontráil leath-praghas chuig an bpáirc críochnaithe
+STR_2449    :{YELLOW}Tá do fheachtas margaíochta le haghaidh {STRINGID} saor in aisce críochnaithe
+STR_2450    :{YELLOW}Tá do fheachtas margaíochta le haghaidh na páirce críochnaithe
+STR_2451    :{YELLOW}Tá do fheachtas margaíochta le haghaidh {STRINGID} críochnaithe
 STR_2452    :{WINDOW_COLOUR_2}Airgead (lúide iasacht): {BLACK}{CURRENCY2DP}
 STR_2453    :{WINDOW_COLOUR_2}Airgead (lúide iasacht): {RED}{CURRENCY2DP}
-STR_2457    :Show financial accounts
-STR_2458    :Show graph of cash (less loan) over time
-STR_2459    :Show graph of park value over time
-STR_2460    :Show graph of weekly profit
-STR_2461    :Show marketing campaigns
-STR_2462    :Show view of park entrance
-STR_2463    :Show graph of park ratings over time
-STR_2464    :Show graph of guest numbers over time
-STR_2465    :Show park entrance price and information
-STR_2466    :Show park statistics
-STR_2467    :Show objectives for this game
-STR_2468    :Show recent awards this park has received
+STR_2457    :Taispeáin cuntais airgeadais
+STR_2458    :Taispeáin graf airgid (lúide iasacht) le himeacht ama
+STR_2459    :Taispeáin graf luacha páirce le himeacht ama
+STR_2460    :Taispeáin graf brabúis seachtainiúil
+STR_2461    :Taispeáin feachtais margaíochta
+STR_2462    :Taispeáin amharc ar bhealach isteach páirce
+STR_2463    :Taispeáin graf rátáil páirce le himeacht ama
+STR_2464    :Taispeáin graf líon na n-aíonna le himeacht ama
+STR_2465    :Taispeáin praghas agus eolas faoi bhealach isteach na páirce
+STR_2466    :Taispeáin staitisticí páirce
+STR_2467    :Taispeáin cuspóir le haghaidh an chluiche seo
+STR_2468    :Taispeáin gradaim a fuair an pháirc seo le déanaí
 STR_2469    :Roghnú leibhéal taighde agus forbartha
 STR_2470    :Taighde marcaíochtaí iompair nua
 STR_2471    :Taighde marcaíochtaí séimhe nua
@@ -1773,26 +1773,26 @@ STR_2473    :Taighde marcaíochtaí fiáine nua
 STR_2474    :Taighde marcaíochtaí uisce nua
 STR_2475    :Taighde siopaí agus stainníní nua
 STR_2476    :Taighde radharcra agus téamú nua
-STR_2477    :Select operating mode for this ride/attraction
-STR_2478    :Show graph of velocity against time
-STR_2479    :Show graph of altitude against time
-STR_2480    :Show graph of vertical acceleration against time
-STR_2481    :Show graph of lateral acceleration against time
-STR_2482    :Profit: {CURRENCY} per week,  Park Value: {CURRENCY}
-STR_2483    :{WINDOW_COLOUR_2}Weekly profit: {BLACK}+{CURRENCY2DP}
-STR_2484    :{WINDOW_COLOUR_2}Weekly profit: {RED}{CURRENCY2DP}
-STR_2487    :Show ‘real’ names of guests
-STR_2488    :Toggle between showing ‘real’ names of guests and guest numbers
-STR_2489    :Shortcut keys…
-STR_2490    :Keyboard shortcuts
-STR_2491    :Reset keys
-STR_2492    :Set all keyboard shortcuts back to default settings
-STR_2493    :Close top-most window
-STR_2494    :Close all floating windows
-STR_2495    :Cancel construction mode
-STR_2496    :Pause game
-STR_2497    :Zoom view out
-STR_2498    :Zoom view in
+STR_2477    :Roghnaigh mód oibriúcháin le haghaidh an marcaíocht/díol spéise seo
+STR_2478    :Taispeáin graf treoluais le himeacht ama
+STR_2479    :Taispeáin graf airde le himeacht ama
+STR_2480    :Taispeáin graf géaraithe ingearacha le himeacht ama
+STR_2481    :Taispeáin graf géaraithe taobhacha le himeacht ama
+STR_2482    :Brabús: {CURRENCY} sa tseachtain,  Luach Páirce: {CURRENCY}
+STR_2483    :{WINDOW_COLOUR_2}Brabús seachtainiúil: {BLACK}+{CURRENCY2DP}
+STR_2484    :{WINDOW_COLOUR_2}Brabús seachtainiúil: {RED}{CURRENCY2DP}
+STR_2487    :Taispeáin ainmneacha ‘fíor’ na n-aíonna
+STR_2488    :Scoránaigh idir ainmneacha ‘fíor’ na n-aíonna agus uimhir aoi a thaispeáint
+STR_2489    :Eochracha aicearra…
+STR_2490    :Aicearraí méarchláir
+STR_2491    :Athshocraigh eochracha
+STR_2492    :Cuir gach aicearra méarchláir ar ais go dtí na réamhshocruithe
+STR_2493    :Dún fuinneog uachtair
+STR_2494    :Dún gach fuinneog shnámha
+STR_2495    :Cealaigh mód tógála
+STR_2496    :Cuir cluiche ar sos
+STR_2497    :Zúmáil amharc amach
+STR_2498    :Zúmáil amharc isteach
 STR_2499    :Rotate view clockwise
 STR_2500    :Rotate construction object
 STR_2501    :Underground view toggle
@@ -1861,17 +1861,17 @@ STR_2635    :NumPad .
 STR_2636    :NumPad /
 STR_2669    :NumLock
 STR_2670    :Scroll
-STR_2680    :All research complete
+STR_2680    :Gach taighde críochnaithe
 STR_2684    :Large group of guests arrive
 STR_2685    :Simplex Noise Parameters
-STR_2686    :Min. land height:
-STR_2687    :Max. land height:
+STR_2686    :Íosairde talún:
+STR_2687    :Uasairde talún:
 STR_2688    :Base Frequency:
 STR_2689    :Octaves:
 STR_2690    :Map Generation
-STR_2691    :Base height:
-STR_2692    :Water level:
-STR_2693    :Terrain:
+STR_2691    :Bunairde:
+STR_2692    :Leibhéal uisce:
+STR_2693    :Tír-raon:
 STR_2694    :Generate
 STR_2695    :Random terrain
 STR_2696    :Place trees
@@ -2009,31 +2009,31 @@ STR_2854    :{RED}Guests can’t get to the entrance of {STRINGID}!{NEWLINE}Cons
 STR_2855    :{RED}{STRINGID} has no path leading from its exit!{NEWLINE}Construct a path from the ride exit
 STR_2858    :Can’t start marketing campaign…
 STR_2861    :{WINDOW_COLOUR_2}Licensed to Infogrames Interactive Inc.
-STR_2971    :Main colour scheme
+STR_2971    :Scéim datha príomhúil
 STR_2972    :Alternative colour scheme 1
 STR_2973    :Alternative colour scheme 2
 STR_2974    :Alternative colour scheme 3
 STR_2975    :Select which colour scheme to change, or paint ride with
 STR_2976    :Paint an individual area of this ride using the selected colour scheme
-STR_2977    :Staff member name
-STR_2978    :Enter new name for this member of staff:
-STR_2979    :Can’t name staff member…
-STR_2980    :Too many banners in game
-STR_2981    :{RED}No entry
-STR_2982    :Banner text
-STR_2983    :Enter new text for this banner:
-STR_2984    :Can’t set new text for banner…
-STR_2985    :Banner
-STR_2986    :Change text on banner
-STR_2987    :Set this banner as a ‘no-entry’ sign for guests
-STR_2988    :Demolish this banner
-STR_2989    :Select main colour
-STR_2990    :Select text colour
-STR_2991    :Sign
-STR_2992    :Sign text
-STR_2993    :Enter new text for this sign:
-STR_2994    :Change text on sign
-STR_2995    :Demolish this sign
+STR_2977    :Ainm baill foirne
+STR_2978    :Cuir ainm nua ar an mball foirne seo:
+STR_2979    :Ní féidir ainm nua a chur ar bhall foirne…
+STR_2980    :An iomarca meirgí sa chluiche
+STR_2981    :{RED}Cosc ar iontráil
+STR_2982    :Téacs meirge
+STR_2983    :Iontráil téacs nua don mheirge seo:
+STR_2984    :Ní ceadaítear téacs nua a chur ar mheirge…
+STR_2985    :Meirge
+STR_2986    :Athraigh téacs ar mheirge
+STR_2987    :Cuir comhartha ‘cosc ar iontráil’ ar an meirge seo do na haíonna
+STR_2988    :Scartáil an meirge seo
+STR_2989    :Roghnaigh dath príomhúil
+STR_2990    :Roghnaigh dath téacs
+STR_2991    :Comhartha
+STR_2992    :Téacs comhartha
+STR_2993    :Iontráil téacs nua don chomhartha seo:
+STR_2994    :Athraigh téacs ar chomhartha
+STR_2995    :Scartáil an comhartha seo
 STR_2996    :{BLACK}ABC
 STR_2997    :{GREY}ABC
 STR_2998    :{WHITE}ABC
@@ -2048,32 +2048,32 @@ STR_3006    :{PALEGOLD}ABC
 STR_3007    :{LIGHTPINK}ABC
 STR_3008    :{PEARLAQUA}ABC
 STR_3009    :{PALESILVER}ABC
-STR_3010    :Unable to load file…
-STR_3011    :File contains invalid data
-STR_3045    :Select style of music to play
-STR_3047    :Local authority forbids demolition or modifications to this ride
-STR_3048    :Marketing campaigns forbidden by local authority
-STR_3049    :Golf hole A
-STR_3050    :Golf hole B
-STR_3051    :Golf hole C
-STR_3052    :Golf hole D
-STR_3053    :Golf hole E
-STR_3054    :Loading…
-STR_3058    :Brick walls
-STR_3059    :Hedges
-STR_3060    :Ice blocks
-STR_3061    :Wooden fences
-STR_3062    :Standard roller coaster track
-STR_3063    :Water channel (track submerged)
-STR_3064    :Beginner Parks
-STR_3065    :Challenging Parks
-STR_3066    :Expert Parks
-STR_3067    :“Real” Parks
-STR_3068    :Other Parks
-STR_3069    :Top Section
-STR_3070    :Slope to Level
-STR_3071    :{WINDOW_COLOUR_2}Same price throughout park
-STR_3072    :Select whether this price is used throughout the entire park
+STR_3010    :Ní féidir comhad a lódáil…
+STR_3011    :Tá sonraí neamhbhailí sa chomhad
+STR_3045    :Roghnaigh stíl cheoil a sheinm
+STR_3047    :Coscann an t-údarás áitiúil scartáil nó mionathruithe ar an marcaíocht seo
+STR_3048    :Tá feachtais margaíochta coiscthe ag an údarás áitiúil
+STR_3049    :Poll gailf A
+STR_3050    :Poll gailf B
+STR_3051    :Poll gailf C
+STR_3052    :Poll gailf D
+STR_3053    :Poll gailf E
+STR_3054    :Ag lódáil…
+STR_3058    :Ballaí bríce
+STR_3059    :Fálta
+STR_3060    :Oighearbhloic
+STR_3061    :Sconsaí adhmaid
+STR_3062    :Ráille rollchóstóra caighdeánach
+STR_3063    :Clais (ráille faoi uisce)
+STR_3064    :Páirceanna bunleibhéal
+STR_3065    :Páirceanna dúshlánach
+STR_3066    :Páirceanna ardleibhéal
+STR_3067    :Páirceanna “Fíor”
+STR_3068    :Páirceanna Eile
+STR_3069    :Cuid Uachtair
+STR_3070    :Fána go leibhéal
+STR_3071    :{WINDOW_COLOUR_2}Praghas céanna ar fud na páirce
+STR_3072    :Roghnaigh an úsáidtear an praghas seo ar fud na páirce iomláine
 STR_3073    :{RED}WARNING: Your park rating has dropped below 700!{NEWLINE}If you haven’t raised the park rating in 4 weeks, your park will be closed down
 STR_3074    :{RED}WARNING: Your park rating is still below 700!{NEWLINE}You have 3 weeks to raise the park rating
 STR_3075    :{RED}WARNING: Your park rating is still below 700!{NEWLINE}You have only 2 weeks to raise the park rating, or your park will be closed down
@@ -2171,12 +2171,12 @@ STR_3202    :Landscape Editor
 STR_3203    :Invention List Set Up
 STR_3204    :Options Selection
 STR_3205    :Objective Selection
-STR_3206    :Save Scenario
+STR_3206    :Sábháil Cnámhscéal
 STR_3207    :Track Designer
 STR_3208    :Track Designs Manager
 STR_3209    :Back to Previous Step:
 STR_3210    :Forward to Next Step:
-STR_3211    :Map size:
+STR_3211    :Toise mapa:
 STR_3213    :Can’t decrease map size any further
 STR_3214    :Can’t increase map size any further
 STR_3215    :Too close to edge of map
@@ -2190,27 +2190,27 @@ STR_3222    :Set construction rights only to be owned by the park
 STR_3223    :Set land to be available to purchase by the park
 STR_3224    :Set construction rights to be available to purchase by the park
 STR_3225    :Toggle on/off building a random cluster of objects around the selected position
-STR_3226    :Build park entrance
-STR_3227    :Too many park entrances!
+STR_3226    :Tóg bealach isteach páirce
+STR_3227    :An iomarca bealaigh isteach páirce!
 STR_3228    :Set starting positions for people
 STR_3229    :Block Brakes cannot be used directly after station
 STR_3230    :Block Brakes cannot be used directly after each other
 STR_3231    :Block Brakes cannot be used directly after the top of this lift hill
-STR_3232    :Scenario options - Financial
-STR_3233    :Scenario options - Guests
-STR_3235    :Show financial options
-STR_3236    :Show guest options
+STR_3232    :Roghanna cnámhscéail - Airgeadais
+STR_3233    :Roghanna cnámhscéail - Aíonna
+STR_3235    :Taispeáin roghanna airgeadais
+STR_3236    :Taispeáin roghanna na n-aíonna
 STR_3238    :Gan Airgead
 STR_3239    :Make this park a ‘no money’ park with no financial restrictions
 STR_3240    :Airgead tosaigh:
 STR_3241    :Iasacht tosaigh:
-STR_3242    :Maximum loan size:
+STR_3242    :Uasmhéid iasachta:
 STR_3243    :Annual interest rate:
 STR_3244    :Forbid marketing campaigns
 STR_3245    :Forbid advertising, promotional schemes, and other marketing campaigns
 STR_3246    :{CURRENCY}
 STR_3247    :{COMMA16}%
-STR_3248    :Can’t increase initial cash any further!
+STR_3248    :Ní féidir airgead tosaigh a ardú a thuilleadh!
 STR_3249    :Can’t reduce initial cash any further!
 STR_3250    :Can’t increase initial loan any further!
 STR_3251    :Can’t reduce initial loan any further!
@@ -2218,7 +2218,7 @@ STR_3252    :Can’t increase maximum loan size any further!
 STR_3253    :Can’t reduce maximum loan size any further!
 STR_3254    :Can’t increase interest rate any further!
 STR_3255    :Can’t reduce interest rate any further!
-STR_3260    :Cash per guest (average):
+STR_3260    :Airgead in aghaidh an aoi (meán):
 STR_3261    :Sonas tosaigh na n-aíonna:
 STR_3262    :Ocras tosaigh na n-aíonna:
 STR_3263    :Tart tosaigh na n-aíonna:
@@ -2570,12 +2570,12 @@ STR_5459    :Rothlaigh tuathal
 STR_5460    :Rothlaigh amharc tuathal
 STR_5461    :Set parameters for all guests
 STR_5462    :{CURRENCY}
-STR_5463    :Goal: Have fun!
+STR_5463    :Cuspóir: Spraoi a bheith agat!
 STR_5464    :General
 STR_5465    :Aimsir
 STR_5466    :Foireann
 STR_5467    :ALT + 
-STR_5468    :Recent messages
+STR_5468    :Teachtaireachtaí le déanaí
 STR_5469    :Scroll map up
 STR_5470    :Scroll map left
 STR_5471    :Scroll map down
@@ -2583,7 +2583,7 @@ STR_5472    :Scroll map right
 STR_5473    :Cycle day / night
 STR_5474    :Display text on banners in uppercase
 STR_5475    :{COMMA16} seachtain
-STR_5476    :Hardware
+STR_5476    :Crua-earraí
 STR_5477    :Map rendering
 STR_5478    :Controls
 STR_5479    :Barra uirlisí
@@ -2594,19 +2594,19 @@ STR_5483    :{BLACK}({COMMA16} seachtain atá fágtha)
 STR_5484    :{BLACK}({COMMA16} seachtain atá fágtha)
 STR_5485    :{STRING}
 STR_5486    :{BLACK}{COMMA16}
-STR_5487    :Show recent messages
+STR_5487    :Taispeáin teachtaireachtaí le déanaí
 STR_5489    :Show only tracked guests
 STR_5490    :Disable audio on focus loss
 STR_5491    :Inventions list
-STR_5492    :Scenario options
+STR_5492    :Roghanna cnámhscéail
 STR_5493    :Send Message
 STR_5495    :Liosta na nImreoirí
 STR_5496    :Imreoir
 STR_5497    :Ping
 STR_5498    :Liosta freastalaithe
 STR_5499    :Ainm Imreora:
-STR_5500    :Add Server
-STR_5501    :Start Server
+STR_5500    :Cuir Freastalaí Leis
+STR_5501    :Tosaigh freastalaí
 STR_5502    :Multiplayer
 STR_5503    :Enter hostname or IP address:
 STR_5504    :Show multiplayer status
@@ -2614,8 +2614,8 @@ STR_5505    :Unable to connect to server.
 STR_5506    :Guests ignore intensities
 STR_5510    :Default sound device
 STR_5511    :(ANAITHNID)
-STR_5512    :Save Game As
-STR_5513    :(Quick) save game
+STR_5512    :Sábháil Cluiche Mar
+STR_5513    :(Gasta) sábháil cluiche
 STR_5514    :Disable vandalism
 STR_5515    :Stops guests from vandalising your park when they’re angry
 STR_5516    :Black
@@ -3211,7 +3211,7 @@ STR_6171    :Cuardach
 STR_6172    :Cuardach
 STR_6173    :Please provide the name to search:
 STR_6188    :Vomit
-STR_6189    :Duck
+STR_6189    :Lacha
 STR_6191    :Dromchla
 STR_6192    :Balla
 STR_6193    :{COMMA16} aoi
@@ -3261,14 +3261,14 @@ STR_6247    :Athchóirigh marcaíocht/díol spéise
 STR_6248    :{WINDOW_COLOUR_1}Ar mhaith leat {STRINGID} a athchóiriú ar {CURRENCY}?
 STR_6249    :{WINDOW_COLOUR_1}Ar mhaith leat {STRINGID} a athchóiriú?
 STR_6250    :{WINDOW_COLOUR_1}Are you sure you want to completely demolish {STRINGID} and gain {CURRENCY}?
-STR_6251    :Ride is not empty yet
-STR_6255    :URL is not valid
+STR_6251    :Níl an mharcaíocht folamh fós
+STR_6255    :Tá URL neamhbhailí
 STR_6256    :Rendering effects
 STR_6257    :Glassy (translucent)
 STR_6258    :Clear (transparent)
 STR_6259    :Disabled
 STR_6260    :Show blocked tiles
-STR_6261    :Show wide paths
+STR_6261    :Taispeáin cosáin leathana
 STR_6262    :Master volume
 STR_6263    :Toggle all sound on/off
 STR_6264    :Always use system file browser
@@ -3277,15 +3277,15 @@ STR_6266    :Open custom content folder
 STR_6267    :Open tile inspector
 STR_6268    :Advance to next tick
 STR_6269    :Invalid climate ID
-STR_6270    :Terrain Surfaces
-STR_6271    :Terrain Edges
+STR_6270    :Dromchlaí Tír-raoin
+STR_6271    :Imill Tír-raoin
 STR_6272    :Stáisiúin
 STR_6273    :Ceol
 STR_6274    :Can’t set colour scheme…
 STR_6275    :Stíl stáisiúin
 STR_6276    :{RED}{STRINGID} has guests getting stuck, possibly due to invalid ride type or operating mode.
 STR_6277    :Station index: {BLACK}{STRINGID}
-STR_6278    :Autosave amount
+STR_6278    :Méid uathshábhála
 STR_6279    :Number of autosaves that should be kept
 STR_6280    :Comhrá
 STR_6281    :Show a separate button for the Chat window in the toolbar
@@ -3328,7 +3328,7 @@ STR_6326    :Can’t simulate {STRINGID}…
 STR_6327    :Transparent background for giant screenshots
 STR_6328    :With this option enabled, giant screenshots will have a transparent background instead of the default black colour.
 STR_6329    :{STRING}{STRINGID}
-STR_6330    :Downloading [{STRING}] from {STRING} ({COMMA16} / {COMMA16})
+STR_6330    :Ag íoslódáil [{STRING}] as {STRING} ({COMMA16} / {COMMA16})
 STR_6331    :Cruthaigh lachain
 STR_6332    :Bain lachain
 STR_6333    :Increase scale factor
@@ -3388,8 +3388,8 @@ STR_6389    :Invalid clearance
 STR_6390    :OpenRCT2 needs files from the original RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic in order to work. Please select the directory where you installed RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic.
 STR_6391    :Please select your RCT2 or RCTC directory
 STR_6392    :Could not find {STRING} at this path.
-STR_6393    :Objective Selection
-STR_6394    :Objective
+STR_6393    :Rogha cuspóra
+STR_6394    :Cuspóir
 STR_6395    :Maintenance
 STR_6396    :Disable screensaver and monitor power saving
 STR_6397    :If checked, screensaver and other monitor power saving features will be inhibited while OpenRCT2 is running.
@@ -3405,7 +3405,7 @@ STR_6406    :GOG RollerCoaster Tycoon 2 Installer
 STR_6407    :This may take a few minutes.
 STR_6408    :Please install “innoextract” to extract GOG Installer, then restart OpenRCT2.
 STR_6409    :The selected file is not the offline GOG Installer for RollerCoaster Tycoon 2. You may have downloaded the GOG Galaxy downloader stub or selected the wrong file.
-STR_6410    :Zoom in/out
+STR_6410    :Zúmáil isteach/amach
 STR_6411    :Show buttons for zooming in and out in the toolbar
 STR_6412    :NumPad Enter
 STR_6413    :Shift
@@ -3427,14 +3427,14 @@ STR_6428    :Joy Down
 STR_6429    :Joy {INT32}
 STR_6430    :LMB
 STR_6431    :RMB
-STR_6432    :Mouse {INT32}
-STR_6433    :Remove
-STR_6434    :Remove all bindings for this shortcut.
-STR_6435    :{WINDOW_COLOUR_2}Vandals stopped: {BLACK}{COMMA32}
-STR_6436    :Toggle invisibility
-STR_6437    :Visible
+STR_6432    :Luch {INT32}
+STR_6433    :Bain
+STR_6434    :Bain gach ceangal don aicearra seo.
+STR_6435    :{WINDOW_COLOUR_2}Loitiméirí stoptha: {BLACK}{COMMA32}
+STR_6436    :Scoránaigh dofheicthe
+STR_6437    :Le feiceáil
 STR_6438    :{MOVE_X}{2}👁
-STR_6439    :Tile Inspector: Toggle invisibility
+STR_6439    :Cigire Tíleanna: Scoránaigh dofheicthe
 STR_6440    :Transparent water
 STR_6441    :At least one non-queue footpath surface object must be selected.
 STR_6442    :At least one queue footpath surface object must be selected.
@@ -3533,7 +3533,7 @@ STR_6535    :{WINDOW_COLOUR_2}Nausea Factor: {BLACK}-{COMMA16}%
 STR_6536    :This park was saved in a later version of OpenRCT2. The park was saved in v{INT32}, you are currently on v{INT32}.
 STR_6537    :Allow using regular paths as queue
 STR_6538    :Shows regular paths in the queues dropdown of the Footpaths window.
-STR_6539    :Brake Closed
+STR_6539    :Coscán Dúnta
 STR_6540    :{WINDOW_COLOUR_2}Special thanks to the following companies for allowing their likeness:
 STR_6541    :{WINDOW_COLOUR_2}Rocky Mountain Construction Group, Josef Wiegand GmbH & Co. KG, Intamin Amusement Rides Int. Corp. Est.
 STR_6542    :Contributors
@@ -3572,7 +3572,7 @@ STR_6573    :Invisible
 STR_6574    :Void
 STR_6575    :Allow special colour schemes
 STR_6576    :Adds special colours to colour dropdown
-STR_6577    :Block brake speed
+STR_6577    :Luas coscáin bloic
 STR_6578    :Set speed limit for block brakes. In block section mode, adjacent brakes with a slower speed are linked to the block brake.
 STR_6579    :Block brakes will be set to default speed when saved as track design
 STR_6580    :Reset
@@ -3580,7 +3580,7 @@ STR_6581    :Are you sure you want to reset all shortcut keys on this tab?
 STR_6582    :Open keyboard shortcuts window
 STR_6583    :{WINDOW_COLOUR_2}Reversed Trains
 STR_6584    :Select to run trains backwards
-STR_6585    :Can’t make changes…
+STR_6585    :Ní féidir athruithe a dhéanamh…
 STR_6586    :OpenRCT2
 STR_6587    :The OpenRCT2 Title Theme is a work of Allister Brimble,{NEWLINE}licensed CC BY-SA 4.0.
 STR_6588    :Thanks to Herman Riddering for allowing us to record the 35er Voigt.
@@ -3592,8 +3592,8 @@ STR_6593    :Bain sconsaí páirce
 STR_6594    :Tile Inspector: Toggle wall slope
 STR_6595    :{WINDOW_COLOUR_2}Údar: {BLACK}{STRING}
 STR_6596    :{WINDOW_COLOUR_2}Údair: {BLACK}{STRING}
-STR_6597    :Invalid parameter
-STR_6598    :Value out of range
+STR_6597    :Paraiméadar neamhbhailí
+STR_6598    :Luach lasmuigh den raon
 STR_6599    :Níor aimsíodh ball taibhse
 STR_6600    :Níor aimsíodh balún
 STR_6601    :Níor aimsíodh ball foirne
@@ -3627,9 +3627,9 @@ STR_6628    :Can only be placed on path edges!
 STR_6629    :Align toolbar buttons horizontally centred
 STR_6630    :This setting will align the toolbar buttons horizontally in the centre of the screen. The traditional way of aligning them is in the left and right corner.
 STR_6631    :Ag lódáil…
-STR_6632    :Checking object files…
-STR_6633    :Checking scenario files…
-STR_6634    :Checking track design files…
+STR_6632    :Ag seiceáil comhaid réada…
+STR_6633    :Ag seiceáil comhaid cnámhscéail…
+STR_6634    :Ag seiceáil comhaid deartha ráille…
 STR_6635    :Checking asset packs…
 STR_6636    :Checking title sequences…
 STR_6637    :Loading title sequence…
@@ -3720,11 +3720,11 @@ STR_6720    :At least one handyman peep animations object must be selected
 STR_6721    :At least one mechanic peep animations object must be selected
 STR_6722    :At least one security peep animations object must be selected
 STR_6723    :At least one entertainer peep animations object must be selected
-STR_6724    :Scenario Texts
+STR_6724    :Téacsanna Cnámhscéail
 STR_6725    :X:
 STR_6726    :Y:
-STR_6727    :Dive Loop (left)
-STR_6728    :Dive Loop (right)
+STR_6727    :Lúb Tumadh (Ar chlé)
+STR_6728    :Lúb Tumadh (Ar dheis)
 STR_6729    :Cable lift hill must start immediately after station or block brake
 STR_6730    :Export emscripten data
 STR_6731    :Import emscripten data
