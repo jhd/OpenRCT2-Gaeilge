@@ -104,9 +104,9 @@ STR_0520    :Ardán duga inar féidir le haíonna scairdscútair a thiomáint n�
 STR_0521    :Rollchóstóir gasta casta le castaí teanna agus titimí géara. Bíonn an déine ard.
 STR_0522    :Rollchóstóir níos lú ina suíonn na marcaigh os cionn an ráille gan ghluaisteán ina dtimpeall
 STR_0523    :Taistealaíonn marcaigh go mall i bhfeithiclí cumhachtaithe feadh cúrsa ráille
-STR_0524    :Freefall car is pneumatically launched up a tall steel tower and then allowed to freefall down
-STR_0525    :Riders career down a twisting track guided only by the curvature and banking of the semi-circular track
-STR_0526    :Passengers travel in a rotating observation cabin which travels up a tall tower
+STR_0524    :Lainseáiltear gluaisteán saorthitime go haeroibrithe suas túr ard cruach agus ansin ceadaítear a thitim anuas
+STR_0525    :Imíonn marcaigh go fiáin síos ráille casaidh gan á dtreorú ach ag cuaire agus claonadh an ráille leathchiorclaigh
+STR_0526    :Taistealaíonn paisinéirí i gcábán breathnóireachta rothlach a thaistealaíonn suas túr ard
 STR_0527    :A smooth steel-tracked roller coaster capable of vertical loops
 STR_0528    :Riders travel in inflatable dinghies down a twisting semi-circular or completely enclosed tube track
 STR_0529    :Mine train themed roller coaster trains career along steel roller coaster track made to look like old railway track
