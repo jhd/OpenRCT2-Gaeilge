@@ -107,9 +107,9 @@ STR_0523    :Taistealaíonn marcaigh go mall i bhfeithiclí cumhachtaithe feadh 
 STR_0524    :Lainseáiltear gluaisteán saorthitime go haeroibrithe suas túr ard cruach agus ansin ceadaítear a thitim anuas
 STR_0525    :Imíonn marcaigh go fiáin síos ráille casaidh gan á dtreorú ach ag cuaire agus claonadh an ráille leathchiorclaigh
 STR_0526    :Taistealaíonn paisinéirí i gcábán breathnóireachta rothlach a thaistealaíonn suas túr ard
-STR_0527    :A smooth steel-tracked roller coaster capable of vertical loops
-STR_0528    :Riders travel in inflatable dinghies down a twisting semi-circular or completely enclosed tube track
-STR_0529    :Mine train themed roller coaster trains career along steel roller coaster track made to look like old railway track
+STR_0527    :Rollchóstóir mín le ráille cruach atá ábalta ar lúba ingearacha
+STR_0528    :Taistealaíonn marcaigh i mbáidíní inséidte síos ráille casta leathchiorclach nó ráille feadánach iata go hiomlán
+STR_0529    :Imíonn traein rollchóstóra le téama mianaigh go fiáin feadh ráille cruach rollchóstóra atá déanta le breathnú cosúil le sean-ráille iarnróid
 STR_0530    :Cars hang from a steel cable which runs continuously from one end of the ride to the other and back again
 STR_0531    :A compact steel-tracked roller coaster where the train travels through corkscrews and loops
 STR_0532    :Maze is constructed from 6-foot tall hedges or walls, and guests wander around the maze leaving only when they find the exit
@@ -118,15 +118,15 @@ STR_0534    :Guests race each other in go-karts on an asphalt track
 STR_0535    :Boats travel along a water channel, splashing down steep slopes to soak the riders
 STR_0536    :Circular boats meander along a wide water channel, splashing through waterfalls and thrilling riders through foaming rapids
 STR_0537    :Guests bump into each other in self-drive electric dodgems
-STR_0538    :Large swinging pirate ship
+STR_0538    :Long mhór luascach foghlaithe mara
 STR_0539    :Ship is attached to an arm with a counterweight at the opposite end, and swings through a complete 360 degrees
 STR_0540    :A stall where guests can purchase food
 STR_0542    :A stall where guests can purchase drinks
-STR_0544    :A stall that sells souvenirs
+STR_0544    :Stainnín a dhíolann cuimhneacháin
 STR_0545    :Traditional rotating carousel with carved wooden horses
 STR_0547    :A stall where guests can obtain park maps and purchase umbrellas
-STR_0548    :A toilet building
-STR_0549    :Rotating big wheel with open chairs
+STR_0548    :Foirgneamh leithris
+STR_0549    :Roth rothlach mór le cathaoireacha oscailte
 STR_0550    :Riders view a film inside the motion simulator pod while it is twisted and moved around by a hydraulic arm
 STR_0551    :Cinema showing 3D films inside a geodesic sphere shaped building
 STR_0552    :Passengers ride in a gondola suspended by large rotating arms, rotating forwards and backwards head-over-heels
@@ -153,7 +153,7 @@ STR_0574    :Riders are held in special harnesses in a lying-down position, trav
 STR_0575    :Powered trains hanging from a single rail transport people around the park
 STR_0577    :Bogied cars run on wooden tracks, turning around on special reversing sections
 STR_0578    :Cars run along track enclosed by circular hoops, traversing steep drops and heartline twists
-STR_0579    :A gentle game of miniature golf
+STR_0579    :Cluiche séimh mionghailf
 STR_0580    :A giant steel roller coaster capable of smooth drops and hills of over 300ft
 STR_0581    :A ring of seats is pulled to the top of a tall tower while gently rotating, then allowed to free-fall down, stopping gently at the bottom using magnetic brakes
 STR_0582    :Guests ride in hovercraft vehicles that they freely control
@@ -2482,15 +2482,15 @@ STR_5278    :Mód bosca gainimh
 STR_5279    :Mód bosca gainimh múchta
 STR_5280    :Allow editing land ownership settings through the Map window and other options that are normally restricted to the Scenario Editor
 STR_5281    :Features
-STR_5282    :RCT1 Ride Open/Close Lights
-STR_5283    :RCT1 Park Open/Close Lights
-STR_5284    :RCT1 Scenario Selection Font
-STR_5287    :Ride is already broken down
-STR_5288    :Ride is closed
-STR_5289    :No breakdowns available for this ride
-STR_5290    :Fix ride
-STR_5291    :Can’t force breakdown
-STR_5292    :Force a breakdown
+STR_5282    :Soilse Oscailte/Dúnta na Marcaíochta RCT1
+STR_5283    :Soilse Oscailte/Dúnta na Páirce RCT1
+STR_5284    :Cló Roghnú Cnámhscéail RCT1
+STR_5287    :Tá an mharcaíocht briste cheana féin
+STR_5288    :Tá an mharcaíocht dúnta
+STR_5289    :Níl aon bhriseadh le fáil don mharcaíocht seo
+STR_5290    :Deisigh marcaíocht
+STR_5291    :Ní féidir briseadh a fhórsáil
+STR_5292    :Fórsáil briseadh
 STR_5293    :Dún marcaíocht/díol spéise
 STR_5294    :Tástáil marcaíocht/díol spéise
 STR_5295    :Oscail marcaíocht/díol spéise
@@ -2650,7 +2650,7 @@ STR_5544    :Bright red
 STR_5545    :Dark pink
 STR_5546    :Bright pink
 STR_5547    :Light pink
-STR_5548    :Show all operating modes
+STR_5548    :Taispeáin gach mód oibriúcháin
 STR_5549    :Bliain/Mí/Lá
 STR_5550    :{POP16}{POP16}Bliain {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_5551    :Bliain/Lá/Mí
@@ -2674,7 +2674,7 @@ STR_5571    :Join Game
 STR_5572    :Add To Favourites
 STR_5573    :Remove From Favourites
 STR_5574    :Server Name:
-STR_5575    :Max Players:
+STR_5575    :Uaslíon Imreoirí:
 STR_5576    :Port:
 STR_5577    :South Korean Won (W)
 STR_5578    :Russian Rouble (₽)
@@ -3615,12 +3615,12 @@ STR_6616    :Action invalid for that staff type
 STR_6617    :Can’t swap tile element with itself
 STR_6618    :Can’t restrict or derestrict object…
 STR_6619    :Object type cannot be restricted!
-STR_6620    :Object not found!
-STR_6621    :Restrict
+STR_6620    :Níor aimsíodh an réad!
+STR_6621    :Faoi srian
 STR_6622    :Restrict object to the Scenario Editor and Sandbox mode.
 STR_6623    :Type ‘help’ for a list of available commands. Type ‘hide’ to hide the console.
 STR_6624    :Tile Inspector: Sort elements
-STR_6625    :Invalid colour
+STR_6625    :Dath neamhbhailí
 STR_6626    :Animation is backwards
 STR_6627    :Luas ráille ró-ard!
 STR_6628    :Can only be placed on path edges!
@@ -3748,12 +3748,12 @@ STR_6748    :Only less intense rides
 STR_6749    :Only more intense rides
 STR_6750    :Select what kind of ride intensity newly spawned guests prefer.
 STR_6751    :Queue paths cannot be used for level crossings!
-STR_6752    :Scenario options - Objective
-STR_6753    :Scenario options - Scenario Details
-STR_6754    :Scenario options - Land Restrictions
-STR_6755    :Show objective options
-STR_6756    :Show scenario details options
-STR_6757    :Show land restriction options
+STR_6752    :Roghanna cnámhscéail - Cuspóir
+STR_6753    :Roghanna cnámhscéail - Sonraí Cnámhscéail
+STR_6754    :Roghanna cnámhscéail - Srianta Talún
+STR_6755    :Taispeáin roghanna cuspóra
+STR_6756    :Taispeáin roghanna sonraí cnámhscéail
+STR_6757    :Taispeáin roghanna srianta talún
 STR_6758    :Roghanna iasachta
 STR_6759    :Business model
 STR_6760    :Earnings:
