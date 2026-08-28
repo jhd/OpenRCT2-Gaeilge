@@ -3536,11 +3536,11 @@ STR_6538    :Taispeánann sé gnáthchosáin i liosta anuas na scuainí i bhfuin
 STR_6539    :Coscán Dúnta
 STR_6540    :{WINDOW_COLOUR_2}Special thanks to the following companies for allowing their likeness:
 STR_6541    :{WINDOW_COLOUR_2}Rocky Mountain Construction Group, Josef Wiegand GmbH & Co. KG, Intamin Amusement Rides Int. Corp. Est.
-STR_6542    :Contributors
-STR_6543    :Contributors…
-STR_6544    :Loan cannot be negative!
-STR_6545    :Use RCT1 interest calculation
-STR_6546    :Use the interest calculation algorithm of RollerCoaster Tycoon 1, which used a fixed percentage of approximately 1.33%.
+STR_6542    :Rannpháirtithe
+STR_6543    :Rannpháirtithe…
+STR_6544    :Ní féidir leis an iasacht a bheith diúltach!
+STR_6545    :Úsáid áireamh úis RCT1
+STR_6546    :Úsáid an t-algartam áirimh úis ó RollerCoaster Tycoon 1, a d'úsáid céatadán seasta de thart ar 1.33%.
 STR_6547    :Gach Radharcra
 STR_6548    :Taispeáin ráillí ag acomhal
 STR_6549    :Compatibility objects cannot be selected!
