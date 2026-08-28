@@ -1693,7 +1693,7 @@ STR_2382    :Talamh
 STR_2383    :Uisce
 STR_2384    :{WINDOW_COLOUR_2}Do chuspóir:
 STR_2385    :{BLACK}Ceann ar bith
-STR_2386    :{BLACK}Ar a laghadh {COMMA32} aíonna i do pháirc ag deireadh {MONTHYEAR_SENTENCE}, le rátáil páirce de 600 ar a laghadh
+STR_2386    :{BLACK}Ar a laghad {COMMA32} aíonna i do pháirc ag deireadh {MONTHYEAR_SENTENCE}, le rátáil páirce de 600 ar a laghad
 STR_2387    :{BLACK}To achieve a park value of at least {POP16}{POP16}{CURRENCY} at the end of {PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{MONTHYEAR_SENTENCE}
 STR_2388    :{BLACK}Spraoi a bheith agat!
 STR_2389    :{BLACK}An {STRINGID} is fearr is féidir leat a thógáil!
@@ -3452,8 +3452,8 @@ STR_6453    :Copy version info
 STR_6454    :Can’t rename banner…
 STR_6455    :Can’t rename sign…
 STR_6456    :Gabháil Scáileáin Ollmhór
-STR_6457    :Report a bug on GitHub
-STR_6458    :Follow this on Main View
+STR_6457    :Tuairiscigh fabht ar GitHub
+STR_6458    :Lean é seo ar an bPríomh-Amharc
 STR_6460    :D
 STR_6461    :Treo
 STR_6462    :Sceitimíní
@@ -3475,39 +3475,39 @@ STR_6477    :Radharcra dofheicthe
 STR_6478    :Cosáin dhofheicthe
 STR_6479    :Marcaíochtaí dofheicthe
 STR_6480    :Feithiclí dofheicthe
-STR_6481    :Transparency Options
-STR_6482    :Transparency Options
-STR_6483    :Open transparency options
-STR_6484    :See-Through vegetation toggle
-STR_6485    :See-Through vehicles toggle
-STR_6486    :Hide guests toggle
-STR_6487    :Hide staff toggle
-STR_6488    :{RED}Guests are complaining about the length of the queues in your park.{NEWLINE}Consider shortening problematic queues, or increasing the rides’ throughput.
-STR_6489    :Error: Incompatible Park Version
-STR_6490    :Warning: Semi-compatible Park Version
-STR_6491    :This park was saved in a later version of OpenRCT2. The park was saved in v{INT32} and requires at least v{INT32}. You are currently on v{INT32}.
-STR_6492    :This park was saved in an old version of OpenRCT2, and can not be opened with this version of OpenRCT2. Park is v{INT32}.
-STR_6493    :This park was saved in a later version of OpenRCT2, some data may be lost. The park was saved in v{INT32}. You are currently on v{INT32}.
-STR_6494    :Group by ride type
+STR_6481    :Roghanna Trédhearachta
+STR_6482    :Roghanna Trédhearachta
+STR_6483    :Oscail roghanna trédhearachta
+STR_6484    :Scoránaigh fásra trédhearcach
+STR_6485    :Scoránaigh feithiclí trédhearcacha
+STR_6486    :Scoránaigh na haíonna a fholú
+STR_6487    :Scoránaigh an fhoireann a fholú
+STR_6488    :{RED}Tá aíonna ag gearán faoi fhad na scuainí i do pháirc.{NEWLINE}Smaoinigh ar scuainí achrannacha a ghiorrú, nó ar thréchur na marcaíochtaí a mhéadú.
+STR_6489    :Earráid: Leagan Páirce Neamh-chomhoiriúnach
+STR_6490    :Rabhadh: Leagan Páirce Leath-chomhoiriúnach
+STR_6491    :Sábháladh an pháirc seo i leagan níos déanaí de OpenRCT2. Sábháladh an pháirc i v{INT32} agus éilíonn sí v{INT32} ar a laghad. Tá tú ar v{INT32} faoi láthair.
+STR_6492    :Sábháladh an pháirc seo i seanleagan de OpenRCT2, agus ní féidir í a oscailt sa leagan seo de OpenRCT2. Tá an pháirc ar v{INT32}.
+STR_6493    :Sábháladh an pháirc seo i leagan níos déanaí de OpenRCT2, d’fhéadfaí roinnt sonraí a chailleadh. Sábháladh an pháirc i v{INT32}. Tá tú ar v{INT32} faoi láthair.
+STR_6494    :Grúpáil de réir saghas marcaíochta
 STR_6495    :Group rides by ride types instead of showing each vehicle separately.
 STR_6496    :{WINDOW_COLOUR_2}{STRINGID}
 STR_6497    :Click on a tile to show its tile elements.{NEWLINE}Ctrl + click a tile element to select it directly.
 STR_6498    :Enable to maintain square map shape.
 STR_6499    :Vehicle type not supported by track design format
 STR_6500    :Track elements not supported by track design format
-STR_6501    :Random colour
-STR_6502    :Enter value between {COMMA16} and {COMMA16}
-STR_6503    :At least one station object must be selected
-STR_6504    :At least one terrain surface must be selected
-STR_6505    :At least one terrain edge must be selected
+STR_6501    :Dath randamach
+STR_6502    :Iontráil luach idir {COMMA16} agus {COMMA16}
+STR_6503    :Caithfear réad stáisiúin amháin ar a laghad a roghnú
+STR_6504    :Caithfear dromchla tír-raoin amháin ar a laghad a roghnú
+STR_6505    :Caithfear imeall tír-raoin amháin ar a laghad a roghnú
 STR_6506    :Leathchorscriú Mór (ar chlé)
 STR_6507    :Leathchorscriú Mór (ar dheis)
 STR_6508    :Leathlúb Meánach (ar chlé)
 STR_6509    :Leathlúb Meánach (ar dheis)
-STR_6510    :Zero G Roll (left)
-STR_6511    :Zero G Roll (right)
-STR_6512    :Large Zero G Roll (left)
-STR_6513    :Large Zero G Roll (right)
+STR_6510    :Rolladh Nialas-G (ar chlé)
+STR_6511    :Rolladh Nialas-G (ar dheis)
+STR_6512    :Rolladh Nialas-G Mór (ar chlé)
+STR_6513    :Rolladh Nialas-G Mór (ar dheis)
 STR_6514    :Airde neamhbhailí!
 STR_6515    :{BLACK}RollerCoaster Tycoon 1 not linked - fallback images will be used.
 STR_6516    :One or more objects added require RollerCoaster Tycoon 1 linked for proper display. Fallback images will be used.
