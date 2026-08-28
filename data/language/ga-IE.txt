@@ -3382,31 +3382,31 @@ STR_6383    :Open download page
 STR_6384    :Sneachta
 STR_6385    :Sneachta trom
 STR_6386    :Síobadh sneachta
-STR_6387    :Can’t lower element here…
-STR_6388    :Can’t raise element here…
+STR_6387    :Ní féidir ball a ísliú anseo…
+STR_6388    :Ní féidir ball a ardú anseo…
 STR_6389    :Invalid clearance
 STR_6390    :OpenRCT2 needs files from the original RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic in order to work. Please select the directory where you installed RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic.
 STR_6391    :Please select your RCT2 or RCTC directory
 STR_6392    :Could not find {STRING} at this path.
 STR_6393    :Rogha cuspóra
 STR_6394    :Cuspóir
-STR_6395    :Maintenance
+STR_6395    :Cothabháil
 STR_6396    :Disable screensaver and monitor power saving
 STR_6397    :If checked, screensaver and other monitor power saving features will be inhibited while OpenRCT2 is running.
 STR_6398    :File contains unsupported ride types. Please update to a newer version of OpenRCT2.
 STR_6399    :OpenRCT2 needs files from the original RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic in order to work. Please set the “game_path” variable in config.ini to the directory where you installed RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic, then restart OpenRCT2.
-STR_6400    :I have the GOG offline installer for RollerCoaster Tycoon 2 downloaded, but it is not installed
-STR_6401    :I have RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic installed already
+STR_6400    :Tá an suiteálaí as-líne GOG le haghaidh RollerCoaster Tycoon 2 íoslódáilte agam, ach níl sé suiteáilte
+STR_6401    :Tá RollerCoaster Tycoon 2 nó RollerCoaster Tycoon Classic suiteáilte agam cheana féin
 STR_6402    :OpenRCT2 Data Setup
 STR_6403    :Select which applies best to you
-STR_6404    :Please select the GOG RollerCoaster Tycoon 2 installer.
-STR_6405    :Select GOG Installer
-STR_6406    :GOG RollerCoaster Tycoon 2 Installer
-STR_6407    :This may take a few minutes.
-STR_6408    :Please install “innoextract” to extract GOG Installer, then restart OpenRCT2.
-STR_6409    :The selected file is not the offline GOG Installer for RollerCoaster Tycoon 2. You may have downloaded the GOG Galaxy downloader stub or selected the wrong file.
+STR_6404    :Roghnaigh an suiteálaí RollerCoaster Tycoon 2 GOG le do thoil.
+STR_6405    :Roghnaigh suiteálaí GOG
+STR_6406    :Suiteálaí RollerCoaster Tycoon 2 GOG
+STR_6407    :D’fhéadfadh é seo cúpla nóiméad a ghlacadh.
+STR_6408    :Suiteáil “innoextract” chun suiteálaí GOG a bhaint amach le do thoil, agus ansin atosaigh OpenRCT2.
+STR_6409    :Ní hé an comhad roghnaithe an suiteálaí as-líne GOG le haghaidh RollerCoaster Tycoon 2. B’fhéidir gur íoslódáil tú stumpa íoslódála GOG Galaxy nó gur roghnaigh tú an comhad mícheart.
 STR_6410    :Zúmáil isteach/amach
-STR_6411    :Show buttons for zooming in and out in the toolbar
+STR_6411    :Taispeáin cnaipí le haghaidh zúmáil isteach agus amach sa bharra uirlisí
 STR_6412    :NumPad Enter
 STR_6413    :Shift
 STR_6414    :L Shift
