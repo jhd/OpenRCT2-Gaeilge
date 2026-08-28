@@ -1938,25 +1938,25 @@ STR_2783    :CTRL +
 STR_2784    :Change keyboard shortcut
 STR_2785    :{WINDOW_COLOUR_2}Press new shortcut key for:{NEWLINE}“{STRINGID}”
 STR_2786    :Click on shortcut description to select new key
-STR_2787    :{WINDOW_COLOUR_2}Park value: {BLACK}{CURRENCY}
-STR_2788    :{WINDOW_COLOUR_2}Congratulations!{NEWLINE}{BLACK}You achieved your objective with a company value of {CURRENCY}!
-STR_2789    :{WINDOW_COLOUR_2}You have failed your objective!
-STR_2790    :Enter name into scenario chart
-STR_2791    :Enter name
-STR_2792    :Please enter your name for the scenario chart:
-STR_2793    :(Completed by {STRINGID})
-STR_2794    :{WINDOW_COLOUR_2}Completed by: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2} with a company value of: {BLACK}{CURRENCY}
-STR_2795    :Sort
-STR_2796    :Sort the ride list into order using the information type displayed
+STR_2787    :{WINDOW_COLOUR_2}Luach páirce: {BLACK}{CURRENCY}
+STR_2788    :{WINDOW_COLOUR_2}Comhghairdeas!{NEWLINE}{BLACK}Bhain tú amach do chuspóir le luach comhlachta de {CURRENCY}!
+STR_2789    :{WINDOW_COLOUR_2}Theip ort do chuspóir a bhaint amach!
+STR_2790    :Iontráil ainm sa chairt cnámhscéil
+STR_2791    :Iontráil ainm
+STR_2792    :Iontráil d’ainm le haghaidh na cairte cnámhscéil:
+STR_2793    :(Críochnaithe ag {STRINGID})
+STR_2794    :{WINDOW_COLOUR_2}Críochnaithe ag: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2} le luach comhlachta de: {BLACK}{CURRENCY}
+STR_2795    :Sórtáil
+STR_2796    :Sórtáil an liosta marcaíochta in ord, ag úsáid an tsaghais eolais atá ar taispeáint
 STR_2797    :Scroll view when pointer at screen edge
 STR_2798    :Scroll the view when the mouse pointer is at the screen edge
 STR_2799    :View or change control key assignments
-STR_2800    :{WINDOW_COLOUR_2}Total admissions: {BLACK}{COMMA32}
-STR_2801    :{WINDOW_COLOUR_2}Income from admissions: {BLACK}{CURRENCY2DP}
-STR_2802    :Map
+STR_2800    :{WINDOW_COLOUR_2}Iontrálacha iomlána: {BLACK}{COMMA32}
+STR_2801    :{WINDOW_COLOUR_2}Ioncam as iontrálacha: {BLACK}{CURRENCY2DP}
+STR_2802    :Mapa
 STR_2803    :Show these guests highlighted on map
 STR_2804    :Show these staff members highlighted on map
-STR_2805    :Show map of park
+STR_2805    :Taispeáin mapa páirce
 STR_2806    :{RED}Guests are complaining about the disgusting state of the paths in your park{NEWLINE}Check where your handymen are and consider organising them better
 STR_2807    :{RED}Guests are complaining about the amount of litter in your park{NEWLINE}Check where your handymen are and consider organising them better
 STR_2808    :{RED}Guests are complaining about the vandalism in your park{NEWLINE}Check where your security guards are and consider organising them better
