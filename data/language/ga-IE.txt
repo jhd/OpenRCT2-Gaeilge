@@ -572,8 +572,8 @@ STR_1200    :{COMMA16} daoine ar mharcaíocht
 STR_1201    :Níl duine ar bith sa líne scuaine
 STR_1202    :1 duine sa líne scuaine
 STR_1203    :{COMMA32} daoine sa líne scuaine
-STR_1204    :{COMMA16} nóiméad d'am scuaine
-STR_1205    :{COMMA16} nóiméid d'am scuaine
+STR_1204    :{COMMA16} nóiméad d’am scuaine
+STR_1205    :{COMMA16} nóiméid d’am scuaine
 STR_1206    :{WINDOW_COLOUR_2}Fan le:
 STR_1207    :{WINDOW_COLOUR_2}Fág má thagann traein eile go dtí an stáisiún
 STR_1208    :{WINDOW_COLOUR_2}Fág má thagann bád eile go dtí an stáisiún
@@ -916,7 +916,7 @@ STR_1546    :
 STR_1547    :
 STR_1548    :
 STR_1549    :
-STR_1550    :“M'anam!”
+STR_1550    :“M’anam!”
 STR_1551    :“Tá an mothú is aistí agam go bhfuil duine éigin ag faire orm”
 STR_1552    :“Nílim ag íoc an méid sin ar bhalún as {STRINGID}”
 STR_1553    :“Nílim ag íoc an méid sin ar bhréagán bog as {STRINGID}”
@@ -1016,7 +1016,7 @@ STR_1646    :
 STR_1647    :
 STR_1648    :“Fóir orm! Cuir síos mé!”
 STR_1649    :“Tá mo cuid airgid ag trá!”
-STR_1650    :“M'anam! Marcaíocht nua á tógáil!”
+STR_1650    :“M’anam! Marcaíocht nua á tógáil!”
 STR_1653    :“…agus seo muid ar {STRINGID}!”
 STR_1654    :{WINDOW_COLOUR_2}Smaointe le déanaí:
 STR_1655    :Tóg cosán ar thalamh
@@ -1712,7 +1712,7 @@ STR_2401    :An mharcaíocht is fearr is féidir leat a thógáil
 STR_2402    :10 rollchóstóir a thógáil
 STR_2403    :Líon na n-aíonna sa pháirc
 STR_2404    :Ioncam míosúil as ticéid mharcaíochta
-STR_2405    :10 rollchóstóir d'fhad áirithe a thógáil
+STR_2405    :10 rollchóstóir d’fhad áirithe a thógáil
 STR_2406    :Tógáil 5 rollchóstóir a chríochnú
 STR_2407    :Aisíoc iasacht agus bain amach luach páirce áirithe
 STR_2408    :Brabús míosúil as bia/marsantacht
@@ -2499,7 +2499,7 @@ STR_5297    :Oscail páirc
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
 STR_5300    :Mearbhris foireann
-STR_5301    :Imréitigh d'iasacht
+STR_5301    :Imréitigh d’iasacht
 STR_5302    :Imréitigh iasacht
 STR_5303    :Allow building in pause mode
 STR_5304    :Title Sequence:
@@ -2917,7 +2917,7 @@ STR_5862    :Cuir cosc ar imreoirí anaithnid
 STR_5863    :Only allow players with known keys to join.
 STR_5864    :This server only allows whitelisted players to connect.
 STR_5865    :Logáil stair comhrá
-STR_5866    :Logálann sé gach stair comhrá i gcomhaid i d'eolaire úsáideora.
+STR_5866    :Logálann sé gach stair comhrá i gcomhaid i d’eolaire úsáideora.
 STR_5867    :{WINDOW_COLOUR_2}Ainm Soláthraí: {BLACK}{STRING}
 STR_5868    :{WINDOW_COLOUR_2}Ríomhphost Soláthraí: {BLACK}{STRING}
 STR_5869    :{WINDOW_COLOUR_2}Suíomh Gréasáin Soláthraí: {BLACK}{STRING}
@@ -3083,7 +3083,7 @@ STR_6031    :Tuairisc Freastalaí:
 STR_6032    :Beannú Freastalaí:
 STR_6033    :Conair go suiteáil RCT1:
 STR_6034    :{BLACK}{STRING}
-STR_6035    :Roghnaigh d'eolaire RCT1 le do thoil
+STR_6035    :Roghnaigh d’eolaire RCT1 le do thoil
 STR_6036    :Glan
 STR_6037    :Níl suiteáil bhailí RollerCoaster Tycoon 1 san fhillteán roghnaithe.
 STR_6038    :Má tá RCT1 suiteáilte agat, socraigh an rogha seo ar a eolaire chun cnámhscéil, ceoil, etc. a lódáil
@@ -3121,25 +3121,25 @@ STR_6070    :{STRING} was set to group ‘{STRING}’ by {STRING}.
 STR_6071    :{STRING} created new player group ‘{STRING}’.
 STR_6072    :{STRING} deleted player group ‘{STRING}’.
 STR_6073    :{STRING} edited permissions for player group ‘{STRING}’.
-STR_6074    :D'athraigh {STRING} ainm grúpa imreoirí ó ‘{STRING}’ go ‘{STRING}’.
-STR_6075    :D'athraigh {STRING} an grúpa imreoirí réamhshocraithe go ‘{STRING}’.
-STR_6076    :D'úsáid/scoránaigh {STRING} cleas ‘{STRING}’.
+STR_6074    :D’athraigh {STRING} ainm grúpa imreoirí ó ‘{STRING}’ go ‘{STRING}’.
+STR_6075    :D’athraigh {STRING} an grúpa imreoirí réamhshocraithe go ‘{STRING}’.
+STR_6076    :D’úsáid/scoránaigh {STRING} cleas ‘{STRING}’.
 STR_6077    :Cuir Airgead Leis
 STR_6078    :Chruthaigh {STRING} an mharcaíocht ‘{STRING}’.
 STR_6079    :Scartáil {STRING} an mharcaíocht ‘{STRING}’.
-STR_6080    :D'athraigh {STRING} dealramh na marcaíochta ‘{STRING}’.
-STR_6081    :D'athraigh {STRING} stádas na marcaíochta ‘{STRING}’ go dúnta.
-STR_6082    :D'athraigh {STRING} stádas na marcaíochta ‘{STRING}’ go hoscailte.
-STR_6083    :D'athraigh {STRING} stádas na marcaíochta ‘{STRING}’ go tástáil.
-STR_6084    :D'athraigh {STRING} socruithe feithiclí na marcaíochta ‘{STRING}’.
-STR_6085    :D'athraigh {STRING} socruithe marcaíochta na marcaíochta ‘{STRING}’.
-STR_6086    :D'athraigh {STRING} ainm na marcaíochta ó ‘{STRING}’ go ‘{STRING}’.
-STR_6087    :D'athraigh {STRING} praghas na marcaíochta ‘{STRING}’ go {STRING}
-STR_6088    :D'athraigh {STRING} praghas tánaisteach na marcaíochta ‘{STRING}’ go {STRING}
-STR_6089    :D'athraigh {STRING} ainm na páirce ó ‘{STRING}’ go ‘{STRING}’.
-STR_6090    :D'oscail {STRING} an pháirc.
+STR_6080    :D’athraigh {STRING} dealramh na marcaíochta ‘{STRING}’.
+STR_6081    :D’athraigh {STRING} stádas na marcaíochta ‘{STRING}’ go dúnta.
+STR_6082    :D’athraigh {STRING} stádas na marcaíochta ‘{STRING}’ go hoscailte.
+STR_6083    :D’athraigh {STRING} stádas na marcaíochta ‘{STRING}’ go tástáil.
+STR_6084    :D’athraigh {STRING} socruithe feithiclí na marcaíochta ‘{STRING}’.
+STR_6085    :D’athraigh {STRING} socruithe marcaíochta na marcaíochta ‘{STRING}’.
+STR_6086    :D’athraigh {STRING} ainm na marcaíochta ó ‘{STRING}’ go ‘{STRING}’.
+STR_6087    :D’athraigh {STRING} praghas na marcaíochta ‘{STRING}’ go {STRING}
+STR_6088    :D’athraigh {STRING} praghas tánaisteach na marcaíochta ‘{STRING}’ go {STRING}
+STR_6089    :D’athraigh {STRING} ainm na páirce ó ‘{STRING}’ go ‘{STRING}’.
+STR_6090    :D’oscail {STRING} an pháirc.
 STR_6091    :Dhún {STRING} an pháirc.
-STR_6092    :D'athraigh {STRING} táille isteach na páirce go {STRING}
+STR_6092    :D’athraigh {STRING} táille isteach na páirce go {STRING}
 STR_6093    :Leag {STRING} radharcra nua.
 STR_6094    :Bhain {STRING} radharcra.
 STR_6095    :Chuir {STRING} radharcra in eagar.
@@ -3540,7 +3540,7 @@ STR_6542    :Rannpháirtithe
 STR_6543    :Rannpháirtithe…
 STR_6544    :Ní féidir leis an iasacht a bheith diúltach!
 STR_6545    :Úsáid áireamh úis RCT1
-STR_6546    :Úsáid an t-algartam áirimh úis ó RollerCoaster Tycoon 1, a d'úsáid céatadán seasta de thart ar 1.33%.
+STR_6546    :Úsáid an t-algartam áirimh úis ó RollerCoaster Tycoon 1, a d’úsáid céatadán seasta de thart ar 1.33%.
 STR_6547    :Gach Radharcra
 STR_6548    :Taispeáin ráillí ag acomhal
 STR_6549    :Compatibility objects cannot be selected!
