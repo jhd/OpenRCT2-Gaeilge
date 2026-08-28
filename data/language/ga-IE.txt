@@ -2511,8 +2511,8 @@ STR_5309    :OpenRCT2
 STR_5310    :Randamach
 STR_5311    :Debug tools
 STR_5312    :Show console
-STR_5313    :Show tile inspector
-STR_5314    :Tile inspector
+STR_5313    :Taispeáin cigire tíleanna
+STR_5314    :Cigire tíleanna
 STR_5335    :Bealach isteach marcaíochta
 STR_5336    :Bealach amach marcaíochta
 STR_5337    :Bealach isteach páirce
@@ -3274,7 +3274,7 @@ STR_6263    :Toggle all sound on/off
 STR_6264    :Always use system file browser
 STR_6265    :When enabled, your operating system’s file browser will be used instead of OpenRCT2’s.
 STR_6266    :Open custom content folder
-STR_6267    :Open tile inspector
+STR_6267    :Oscail cigire tíleanna
 STR_6268    :Advance to next tick
 STR_6269    :Invalid climate ID
 STR_6270    :Dromchlaí Tír-raoin
@@ -3310,14 +3310,14 @@ STR_6308    :{TOPAZ}“{STRINGID}{TOPAZ}”{NEWLINE}{STRINGID}
 STR_6309    :Reconnect
 STR_6310    :{WINDOW_COLOUR_2}Position: {BLACK}{INT32} {INT32} {INT32}
 STR_6311    :{WINDOW_COLOUR_2}Next: {BLACK}{INT32} {INT32} {INT32}
-STR_6312    :(surface)
-STR_6313    :(slope {INT32})
+STR_6312    :(dromchla)
+STR_6313    :(fána {INT32})
 STR_6314    :{WINDOW_COLOUR_2}Dest: {BLACK}{INT32}, {INT32} tolerance {INT32}
 STR_6315    :{WINDOW_COLOUR_2}Pathfind Goal: {BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
 STR_6316    :{WINDOW_COLOUR_2}Pathfind history:
 STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
 STR_6318    :Network desync detected.{NEWLINE}Log file: {STRING}
-STR_6319    :Block Brake Closed
+STR_6319    :Coscán Bloic Dúnta
 STR_6320    :Indestructible
 STR_6321    :Addition is broken
 STR_6322    :{WINDOW_COLOUR_2}Entity ID: {BLACK}{INT32}
@@ -3331,19 +3331,19 @@ STR_6329    :{STRING}{STRINGID}
 STR_6330    :Ag íoslódáil [{STRING}] as {STRING} ({COMMA16} / {COMMA16})
 STR_6331    :Cruthaigh lachain
 STR_6332    :Bain lachain
-STR_6333    :Increase scale factor
-STR_6334    :Decrease scale factor
-STR_6336    :Tile Inspector: Copy element
-STR_6337    :Tile Inspector: Paste element
-STR_6338    :Tile Inspector: Delete element
-STR_6339    :Tile Inspector: Move element up
-STR_6340    :Tile Inspector: Move element down
-STR_6341    :Tile Inspector: Increase X coordinate
-STR_6342    :Tile Inspector: Decrease X coordinate
-STR_6343    :Tile Inspector: Increase Y coordinate
-STR_6344    :Tile Inspector: Decrease Y coordinate
-STR_6345    :Tile Inspector: Increase element height
-STR_6346    :Tile Inspector: Decrease element height
+STR_6333    :Ardaigh fachtóir scála
+STR_6334    :Laghdaigh fachtóir scála
+STR_6336    :Cigire Tíleanna: Cóipeáil ball
+STR_6337    :Cigire Tíleanna: Greamaigh ball
+STR_6338    :Cigire Tíleanna: Scrios ball
+STR_6339    :Cigire Tíleanna: Bog ball suas
+STR_6340    :Cigire Tíleanna: Bog ball síos
+STR_6341    :Cigire Tíleanna: Ardaigh comhordanáid X
+STR_6342    :Cigire Tíleanna: Laghdaigh comhordanáid X
+STR_6343    :Cigire Tíleanna: Ardaigh comhordanáid Y
+STR_6344    :Cigire Tíleanna: Laghdaigh comhordanáid Y
+STR_6345    :Cigire Tíleanna: Ardaigh airde baill
+STR_6346    :Cigire Tíleanna: Laghdaigh airde baill
 STR_6347    :Path additions cannot be placed on level crossings!
 STR_6348    :Remove level crossing first!
 STR_6349    :Random title sequence
@@ -3527,12 +3527,12 @@ STR_6529    :Invalid colour scheme parameter!
 STR_6530    :User Created Expansion Set
 STR_6531    :The Time Machine
 STR_6532    :Katy’s Dreamworld
-STR_6533    :{WINDOW_COLOUR_2}Excitement Factor: {BLACK}-{COMMA16}%
-STR_6534    :{WINDOW_COLOUR_2}Intensity Factor: {BLACK}-{COMMA16}%
-STR_6535    :{WINDOW_COLOUR_2}Nausea Factor: {BLACK}-{COMMA16}%
-STR_6536    :This park was saved in a later version of OpenRCT2. The park was saved in v{INT32}, you are currently on v{INT32}.
-STR_6537    :Allow using regular paths as queue
-STR_6538    :Shows regular paths in the queues dropdown of the Footpaths window.
+STR_6533    :{WINDOW_COLOUR_2}Fachtóir Sceitimíní: {BLACK}-{COMMA16}%
+STR_6534    :{WINDOW_COLOUR_2}Fachtóir Déine: {BLACK}-{COMMA16}%
+STR_6535    :{WINDOW_COLOUR_2}Fachtóir Masmais: {BLACK}-{COMMA16}%
+STR_6536    :Sábháladh an pháirc seo i leagan níos déanaí de OpenRCT2. Sábháladh an pháirc i v{INT32}, tá tú ar v{INT32} faoi láthair.
+STR_6537    :Ceadaigh gnáthchosáin a úsáid mar scuainí
+STR_6538    :Taispeánann sé gnáthchosáin i liosta anuas na scuainí i bhfuinneog na gCosán.
 STR_6539    :Coscán Dúnta
 STR_6540    :{WINDOW_COLOUR_2}Special thanks to the following companies for allowing their likeness:
 STR_6541    :{WINDOW_COLOUR_2}Rocky Mountain Construction Group, Josef Wiegand GmbH & Co. KG, Intamin Amusement Rides Int. Corp. Est.
@@ -3542,7 +3542,7 @@ STR_6544    :Loan cannot be negative!
 STR_6545    :Use RCT1 interest calculation
 STR_6546    :Use the interest calculation algorithm of RollerCoaster Tycoon 1, which used a fixed percentage of approximately 1.33%.
 STR_6547    :Gach Radharcra
-STR_6548    :Show railings at junction
+STR_6548    :Taispeáin ráillí ag acomhal
 STR_6549    :Compatibility objects cannot be selected!
 STR_6550    :This entry is included for backwards compatibility with old or damaged objects. It cannot be selected, only deselected.  
 
@@ -3589,7 +3589,7 @@ STR_6590    :Show the window buttons (e.g. to close the window) on the left of t
 STR_6591    :Staff member is currently fixing a ride and can’t be fired.
 STR_6592    :Staff member is currently inspecting a ride and can’t be fired.
 STR_6593    :Bain sconsaí páirce
-STR_6594    :Tile Inspector: Toggle wall slope
+STR_6594    :Cigire Tíleanna: Scoránaigh fána balla
 STR_6595    :{WINDOW_COLOUR_2}Údar: {BLACK}{STRING}
 STR_6596    :{WINDOW_COLOUR_2}Údair: {BLACK}{STRING}
 STR_6597    :Paraiméadar neamhbhailí
@@ -3619,7 +3619,7 @@ STR_6620    :Níor aimsíodh an réad!
 STR_6621    :Faoi srian
 STR_6622    :Restrict object to the Scenario Editor and Sandbox mode.
 STR_6623    :Type ‘help’ for a list of available commands. Type ‘hide’ to hide the console.
-STR_6624    :Tile Inspector: Sort elements
+STR_6624    :Cigire Tíleanna: Sórtáil baill
 STR_6625    :Dath neamhbhailí
 STR_6626    :Animation is backwards
 STR_6627    :Luas ráille ró-ard!
