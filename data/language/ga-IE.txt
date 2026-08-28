@@ -1904,33 +1904,33 @@ STR_2735    :{COMMA16} km/h
 # Used only as part of label-value pair.
 STR_2736    :{MONTH}, Bliain {COMMA16}
 STR_2737    :{STRINGID} {MONTH}, Bliain {COMMA16}
-STR_2738    :Title screen music:
-STR_2739    :None
+STR_2738    :Ceol scáileán teidil:
+STR_2739    :Ceol ar bith
 STR_2740    :RollerCoaster Tycoon 1
 STR_2741    :RollerCoaster Tycoon 2
-STR_2749    :My new scenario
+STR_2749    :Mo chnámhscéal nua
 # New strings used in the cheats window previously these were ???
-STR_2750    :Move all items to top
-STR_2751    :Move all items to bottom
-STR_2752    :Clear grass
-STR_2753    :Mow grass
-STR_2754    :Water plants
-STR_2755    :Fix vandalism
-STR_2756    :Remove litter
+STR_2750    :Bog gach mír go dtí an barr
+STR_2751    :Bog gach mír go dtí an bun
+STR_2752    :Glan féar
+STR_2753    :Lom féar
+STR_2754    :Uiscigh plandaí
+STR_2755    :Deisigh loitiméaracht
+STR_2756    :Bain bruscar
 STR_2763    :???
-STR_2765    :Large tram
-STR_2766    :Win scenario
-STR_2767    :Disable weather changes
-STR_2769    :Open park
-STR_2770    :Close park
-STR_2773    :Windowed
-STR_2774    :Fullscreen
-STR_2775    :Fullscreen (borderless window)
-STR_2776    :Language:
+STR_2765    :Tram mór
+STR_2766    :Buaigh cnámhscéal
+STR_2767    :Díchumasaigh athruithe aimsire
+STR_2769    :Oscail páirc
+STR_2770    :Dún páirc
+STR_2773    :Le fuinneoga
+STR_2774    :Lánscáileán
+STR_2775    :Lánscáileán (fuinneog gan teorainn)
+STR_2776    :Teanga:
 STR_2777    :{MOVE_X}{10}{STRING}
 STR_2778    :»{MOVE_X}{10}{STRING}
-STR_2779    :Viewport #{COMMA16}
-STR_2780    :Extra viewport
+STR_2779    :Amharcphort #{COMMA16}
+STR_2780    :Amharcphort breise
 # End of new strings
 STR_2781    :{STRINGID}:
 STR_2782    :SHIFT + 
