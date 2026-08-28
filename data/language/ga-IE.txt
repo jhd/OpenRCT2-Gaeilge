@@ -3435,22 +3435,22 @@ STR_6436    :Scoránaigh dofheicthe
 STR_6437    :Le feiceáil
 STR_6438    :{MOVE_X}{2}👁
 STR_6439    :Cigire Tíleanna: Scoránaigh dofheicthe
-STR_6440    :Transparent water
-STR_6441    :At least one non-queue footpath surface object must be selected.
-STR_6442    :At least one queue footpath surface object must be selected.
-STR_6443    :At least one footpath railing object must be selected.
-STR_6444    :Footpath Surfaces
-STR_6445    :Footpath Railings
-STR_6446    :{WINDOW_COLOUR_2}Surface name: {BLACK}{STRINGID}
-STR_6447    :{WINDOW_COLOUR_2}Railing name: {BLACK}{STRINGID}
-STR_6448    :Unsupported object format
-STR_6449    :{WINDOW_COLOUR_2}Tracks:
+STR_6440    :Uisce trédhearcach
+STR_6441    :Caithfear réad dromchla cosáin neamhscuaine amháin ar a laghad a roghnú.
+STR_6442    :Caithfear réad dromchla cosáin scuaine amháin ar a laghad a roghnú.
+STR_6443    :Caithfear réad ráille cosáin amháin ar a laghad a roghnú.
+STR_6444    :Dromchlaí Cosáin
+STR_6445    :Ráillí Cosáin
+STR_6446    :{WINDOW_COLOUR_2}Ainm dromchla: {BLACK}{STRINGID}
+STR_6447    :{WINDOW_COLOUR_2}Ainm ráille: {BLACK}{STRINGID}
+STR_6448    :Formáid réada gan tacaíocht
+STR_6449    :{WINDOW_COLOUR_2}Ráillí:
 STR_6450    :{BLACK}“{STRING}”
 STR_6451    :{BLACK}“{STRING}” - {STRING}
-STR_6452    :{WINDOW_COLOUR_2}Sells: {BLACK}{STRING}
-STR_6453    :Copy version info
-STR_6454    :Can’t rename banner…
-STR_6455    :Can’t rename sign…
+STR_6452    :{WINDOW_COLOUR_2}Díolann: {BLACK}{STRING}
+STR_6453    :Cóipeáil eolas leagain
+STR_6454    :Ní féidir ainm nua a chur ar mheirge…
+STR_6455    :Ní féidir ainm nua a chur ar chomhartha…
 STR_6456    :Gabháil Scáileáin Ollmhór
 STR_6457    :Tuairiscigh fabht ar GitHub
 STR_6458    :Lean é seo ar an bPríomh-Amharc
@@ -3489,12 +3489,12 @@ STR_6491    :Sábháladh an pháirc seo i leagan níos déanaí de OpenRCT2. Sá
 STR_6492    :Sábháladh an pháirc seo i seanleagan de OpenRCT2, agus ní féidir í a oscailt sa leagan seo de OpenRCT2. Tá an pháirc ar v{INT32}.
 STR_6493    :Sábháladh an pháirc seo i leagan níos déanaí de OpenRCT2, d’fhéadfaí roinnt sonraí a chailleadh. Sábháladh an pháirc i v{INT32}. Tá tú ar v{INT32} faoi láthair.
 STR_6494    :Grúpáil de réir saghas marcaíochta
-STR_6495    :Group rides by ride types instead of showing each vehicle separately.
+STR_6495    :Grúpáil marcaíochtaí de réir saghas in ionad gach feithicil a thaispeáint ar leithligh.
 STR_6496    :{WINDOW_COLOUR_2}{STRINGID}
-STR_6497    :Click on a tile to show its tile elements.{NEWLINE}Ctrl + click a tile element to select it directly.
-STR_6498    :Enable to maintain square map shape.
-STR_6499    :Vehicle type not supported by track design format
-STR_6500    :Track elements not supported by track design format
+STR_6497    :Cliceáil ar thíl chun a bhaill tíle a thaispeáint.{NEWLINE}Ctrl + clic ar bhall tíle chun é a roghnú go díreach.
+STR_6498    :Cumasaigh chun cruth mapa cearnóige a chothabháil.
+STR_6499    :Ní thacaítear le saghas feithicle ag formáid dearaidh ráille
+STR_6500    :Ní thacaítear le baill ráille ag formáid dearaidh ráille
 STR_6501    :Dath randamach
 STR_6502    :Iontráil luach idir {COMMA16} agus {COMMA16}
 STR_6503    :Caithfear réad stáisiúin amháin ar a laghad a roghnú
@@ -3509,7 +3509,7 @@ STR_6511    :Rolladh Nialas-G (ar dheis)
 STR_6512    :Rolladh Nialas-G Mór (ar chlé)
 STR_6513    :Rolladh Nialas-G Mór (ar dheis)
 STR_6514    :Airde neamhbhailí!
-STR_6515    :{BLACK}RollerCoaster Tycoon 1 not linked - fallback images will be used.
+STR_6515    :{BLACK}Níl RollerCoaster Tycoon 1 nasctha - úsáidfear íomhánna cúltaca.
 STR_6516    :One or more objects added require RollerCoaster Tycoon 1 linked for proper display. Fallback images will be used.
 STR_6517    :One or more objects in this park require RollerCoaster Tycoon 1 linked for proper display. Fallback images will be used.
 STR_6518    :{BLACK}Hover over a scenario to view its description and objective. Click it to start playing.
