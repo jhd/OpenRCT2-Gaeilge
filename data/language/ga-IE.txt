@@ -1793,18 +1793,18 @@ STR_2495    :Cealaigh mód tógála
 STR_2496    :Cuir cluiche ar sos
 STR_2497    :Zúmáil amharc amach
 STR_2498    :Zúmáil amharc isteach
-STR_2499    :Rotate view clockwise
-STR_2500    :Rotate construction object
-STR_2501    :Underground view toggle
-STR_2502    :Hide base land toggle
-STR_2503    :Hide vertical land toggle
-STR_2504    :See-through rides toggle
-STR_2505    :See-through scenery toggle
-STR_2506    :Invisible supports toggle
-STR_2507    :Invisible people toggle
-STR_2508    :Height marks on land toggle
-STR_2509    :Height marks on ride tracks toggle
-STR_2510    :Height marks on paths toggle
+STR_2499    :Rothlaigh amharc deiseal
+STR_2500    :Rothlaigh réad tógála
+STR_2501    :Scorán amhairc faoi thalamh
+STR_2502    :Scorán buntalamh a fholú
+STR_2503    :Scorán talamh ingearach a fholú
+STR_2504    :Scorán marcaíochtaí trédhearcacha
+STR_2505    :Scorán radharcra trédhearcach
+STR_2506    :Scorán tacaí dofheicthe
+STR_2507    :Scorán daoine dofheicthe
+STR_2508    :Scorán marcanna airde ar thalamh
+STR_2509    :Scorán marcanna airde ar ráille marcaíochta
+STR_2510    :Scorán marcanna airde ar chosáin
 STR_2511    :Coigeartaigh talamh
 STR_2512    :Coigeartaigh uisce
 STR_2513    :Tóg radharcra
@@ -1818,7 +1818,7 @@ STR_2520    :Taispeáin liosta na n-aíonna
 STR_2521    :Taispeáin liosta na foirne
 STR_2522    :Taispeáin teachtaireachtaí le déanaí
 STR_2523    :Taispeáin mapa
-STR_2524    :Screenshot
+STR_2524    :Gabháil scáileáin
 STR_2533    :Backspace
 STR_2534    :Tab
 STR_2537    :Clear
@@ -1862,29 +1862,29 @@ STR_2636    :NumPad /
 STR_2669    :NumLock
 STR_2670    :Scroll
 STR_2680    :Gach taighde críochnaithe
-STR_2684    :Large group of guests arrive
-STR_2685    :Simplex Noise Parameters
+STR_2684    :Tagann grúpa mór aíonna
+STR_2685    :Paraiméadair Torainn Simpléacs
 STR_2686    :Íosairde talún:
 STR_2687    :Uasairde talún:
-STR_2688    :Base Frequency:
-STR_2689    :Octaves:
-STR_2690    :Map Generation
+STR_2688    :Bunmhinicíocht:
+STR_2689    :Ochtacha:
+STR_2690    :Giniúint Mapa
 STR_2691    :Bunairde:
 STR_2692    :Leibhéal uisce:
 STR_2693    :Tír-raon:
-STR_2694    :Generate
-STR_2695    :Random terrain
-STR_2696    :Place trees
-STR_2700    :Autosave frequency:
-STR_2701    :Every minute
-STR_2702    :Every 5 minutes
-STR_2703    :Every 15 minutes
-STR_2704    :Every 30 minutes
-STR_2705    :Every hour
-STR_2706    :Never
-STR_2707    :Use system file browser
-STR_2708    :{WINDOW_COLOUR_1}Are you sure you want to overwrite {STRINGID}?
-STR_2709    :Overwrite
+STR_2694    :Gin
+STR_2695    :Tír-raon randamach
+STR_2696    :Leag crainn
+STR_2700    :Minicíocht uathshábhála:
+STR_2701    :Gach nóiméad
+STR_2702    :Gach 5 nóiméad
+STR_2703    :Gach 15 nóiméad
+STR_2704    :Gach 30 nóiméad
+STR_2705    :Gach uair an chloig
+STR_2706    :Gan uathshábháil
+STR_2707    :Úsáid brabhsálaí comhaid córais
+STR_2708    :{WINDOW_COLOUR_1}An bhfuil tú cinnte gur mhaith leat {STRINGID} a fhorscríobh?
+STR_2709    :Forscríobh
 STR_2720    :{UINT16}soic
 STR_2721    :{UINT16}soic
 STR_2722    :{UINT16}nóim:{UINT16}soic
@@ -1935,9 +1935,9 @@ STR_2780    :Amharcphort breise
 STR_2781    :{STRINGID}:
 STR_2782    :SHIFT + 
 STR_2783    :CTRL + 
-STR_2784    :Change keyboard shortcut
-STR_2785    :{WINDOW_COLOUR_2}Press new shortcut key for:{NEWLINE}“{STRINGID}”
-STR_2786    :Click on shortcut description to select new key
+STR_2784    :Athraigh aicearra méarchláir
+STR_2785    :{WINDOW_COLOUR_2}Brúigh eochair nua le haghaidh:{NEWLINE}“{STRINGID}”
+STR_2786    :Cliceáil ar thuairisc aicearra chun eochair nua a roghnú
 STR_2787    :{WINDOW_COLOUR_2}Luach páirce: {BLACK}{CURRENCY}
 STR_2788    :{WINDOW_COLOUR_2}Comhghairdeas!{NEWLINE}{BLACK}Bhain tú amach do chuspóir le luach comhlachta de {CURRENCY}!
 STR_2789    :{WINDOW_COLOUR_2}Theip ort do chuspóir a bhaint amach!
@@ -1954,17 +1954,17 @@ STR_2799    :View or change control key assignments
 STR_2800    :{WINDOW_COLOUR_2}Iontrálacha iomlána: {BLACK}{COMMA32}
 STR_2801    :{WINDOW_COLOUR_2}Ioncam as iontrálacha: {BLACK}{CURRENCY2DP}
 STR_2802    :Mapa
-STR_2803    :Show these guests highlighted on map
-STR_2804    :Show these staff members highlighted on map
+STR_2803    :Taispeáin na haíonna aibhsithe seo ar mapa
+STR_2804    :Taispeáin na baill foirne aibhsithe seo ar mapa
 STR_2805    :Taispeáin mapa páirce
-STR_2806    :{RED}Guests are complaining about the disgusting state of the paths in your park{NEWLINE}Check where your handymen are and consider organising them better
-STR_2807    :{RED}Guests are complaining about the amount of litter in your park{NEWLINE}Check where your handymen are and consider organising them better
-STR_2808    :{RED}Guests are complaining about the vandalism in your park{NEWLINE}Check where your security guards are and consider organising them better
-STR_2809    :{RED}Guests are hungry and can’t find anywhere to buy food
-STR_2810    :{RED}Guests are thirsty and can’t find anywhere to buy drinks
-STR_2811    :{RED}Guests are complaining because they can’t find the toilets in your park
-STR_2812    :{RED}Guests are getting lost or stuck{NEWLINE}Check whether the layout of your footpaths needs improving to help the guests find their way around
-STR_2813    :{RED}Your park entrance fee is too high!{NEWLINE}Reduce your entrance fee or improve the value of the park to attract more guests
+STR_2806    :{RED}Tá aíonna ag gearán faoi staid shamhnasach na gcosán i do pháirc{NEWLINE}Seiceáil cá bhfuil d’airígh agus smaoinigh ar iad a eagrú níos fearr
+STR_2807    :{RED}Tá aíonna ag gearán faoin iomarca bruscair i do pháirc{NEWLINE}Seiceáil cá bhfuil d’airígh agus smaoinigh ar iad a eagrú níos fearr
+STR_2808    :{RED}Tá aíonna ag gearán faoin loitiméaracht i do pháirc{NEWLINE}Seiceáil cá bhfuil do ghardaí slándála agus smaoinigh ar iad a eagrú níos fearr
+STR_2809    :{RED}Tá ocras ar aíonna agus ní féidir leo áit ar bith a aimsiú chun bia a cheannach
+STR_2810    :{RED}Tá tart ar aíonna agus ní féidir leo áit ar bith a aimsiú chun deoch a cheannach
+STR_2811    :{RED}Tá aíonna ag gearán mar ní féidir leo na leithris i do pháirc a aimsiú
+STR_2812    :{RED}Tá aíonna ag dul amú nó ag éirí sáinnithe{NEWLINE}Seiceáil an bhfuil gá le leagan amach do chosán a fheabhsú chun cabhrú leis na haíonna a mbealach a aimsiú
+STR_2813    :{RED}Tá do tháille isteach páirce ró-ard!{NEWLINE}Laghdaigh an táille nó feabhsaigh luach na páirce chun níos mó aíonna a mhealladh
 STR_2814    :{WINDOW_COLOUR_2}Gradam na páirce is míshlachtmhaire
 STR_2815    :{WINDOW_COLOUR_2}Gradam na páirce is slachtmhaire
 STR_2816    :{WINDOW_COLOUR_2}Gradam na páirce leis na rollchóstóirí is fearr
