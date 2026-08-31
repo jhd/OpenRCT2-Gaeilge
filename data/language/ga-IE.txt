@@ -2089,19 +2089,19 @@ STR_3097    :Roghnaigh luas ardaitheoir slabhra an chnoic
 STR_3099    :Roghnaigh dath
 STR_3100    :Roghnaigh an dara dath
 STR_3101    :Roghnaigh an tríú dath
-STR_3102    :Re-paint coloured scenery on landscape
-STR_3103    :Can’t re-paint this…
-STR_3104    :List rides
-STR_3105    :List shops and stalls
-STR_3106    :List information kiosks and other guest facilities
+STR_3102    :Athphéinteáil radharcra datha ar thírdhreach
+STR_3103    :Ní féidir é seo a athphéinteáil…
+STR_3104    :Liostaigh marcaíochtaí
+STR_3105    :Liostaigh siopaí agus stainníní
+STR_3106    :Liostaigh bothanna eolais agus saoráidí aíonna eile
 STR_3107    :Dún
 STR_3108    :Tástáil
 STR_3109    :Oscail
-STR_3110    :{WINDOW_COLOUR_2}Block Sections: {BLACK}{COMMA16}
-STR_3111    :Click on design to build it
-STR_3112    :Click on design to rename or delete it
-STR_3113    :Select a different design
-STR_3114    :Go back to design selection window
+STR_3110    :{WINDOW_COLOUR_2}Rannóga Bloic: {BLACK}{COMMA16}
+STR_3111    :Cliceáil ar dhearadh chun é a thógáil
+STR_3112    :Cliceáil ar dhearadh chun ainm nua a chur air nó é a scriosadh
+STR_3113    :Roghnaigh dearadh difriúil
+STR_3114    :Téigh ar ais go dtí an fhuinneog rogha dearaidh
 STR_3115    :Sábháil dearadh ráille
 STR_3116    :Sábháil dearadh ráille (Níl sé indéanta go dtí go mbeidh an mharcaíocht tástáilte agus na staitisticí ginte)
 STR_3117    :{BLACK}Ag glaoch ar mheicneoir…
