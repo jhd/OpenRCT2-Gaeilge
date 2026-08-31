@@ -2107,24 +2107,24 @@ STR_3116    :Sábháil dearadh ráille (Níl sé indéanta go dtí go mbeidh an 
 STR_3117    :{BLACK}Ag glaoch ar mheicneoir…
 STR_3118    :{BLACK}Tá {STRINGID} ag triall ar an marcaíocht
 STR_3119    :{BLACK}Tá {STRINGID} ag deisiú na marcaíochta
-STR_3120    :Locate nearest available mechanic, or mechanic fixing ride
-STR_3121    :Unable to locate mechanic, or all nearby mechanics are busy
-STR_3122    :{WINDOW_COLOUR_2}Favourite ride of: {BLACK}{COMMA32} guest
-STR_3123    :{WINDOW_COLOUR_2}Favourite ride of: {BLACK}{COMMA32} guests
-STR_3124    :Broken {STRINGID}
-STR_3125    :{WINDOW_COLOUR_2}Excitement Factor: {BLACK}+{COMMA16}%
-STR_3126    :{WINDOW_COLOUR_2}Intensity Factor: {BLACK}+{COMMA16}%
-STR_3127    :{WINDOW_COLOUR_2}Nausea Factor: {BLACK}+{COMMA16}%
+STR_3120    :Aimsigh an meicneoir is cóngaraí le fáil, nó meicneoir ag deisiú marcaíochta
+STR_3121    :Ní féidir meicneoir a aimsiú, nó tá gach meicneoir in aice láimhe gnóthach
+STR_3122    :{WINDOW_COLOUR_2}Rogha marcaíochta ag: {BLACK}{COMMA32} aoi
+STR_3123    :{WINDOW_COLOUR_2}Rogha marcaíochta ag: {BLACK}{COMMA32} aíonna
+STR_3124    :{STRINGID} briste
+STR_3125    :{WINDOW_COLOUR_2}Fachtóir Sceitimíní: {BLACK}+{COMMA16}%
+STR_3126    :{WINDOW_COLOUR_2}Fachtóir Déine: {BLACK}+{COMMA16}%
+STR_3127    :{WINDOW_COLOUR_2}Fachtóir Masmais: {BLACK}+{COMMA16}%
 STR_3128    :Sábháil Dearadh Ráille
 STR_3129    :Sábháil Dearadh Ráille le Radharcra
 STR_3130    :Sábháil
 STR_3131    :Cealaigh
-STR_3132    :{BLACK}Click items of scenery to select them to be saved with track design…
-STR_3133    :Unable to build this on a slope
-STR_3134    :{RED}(Design includes scenery which is unavailable)
-STR_3135    :{RED}(Vehicle design unavailable. Ride performance may be affected.)
-STR_3136    :Warning: This design will be built with an alternative vehicle type and may not perform as expected
-STR_3137    :Select Nearby Scenery
+STR_3132    :{BLACK}Cliceáil míreanna radharcra chun iad a shábháil leis an dearadh ráille…
+STR_3133    :Ní féidir é seo a thógáil ar fhána
+STR_3134    :{RED}(Tá radharcra sa dearadh ach níl sé ar fáil)
+STR_3135    :{RED}(Níl dearadh feithicle ar fáil. D’fhéadfadh sé sin dul i bhfeidhm ar fheidhmiú na marcaíochta.)
+STR_3136    :Rabhadh: Tógfar an dearadh seo le saghas feithicle malartach agus b’fhéidir nach bhfeidhmeoidh sé mar a bheifí ag súil leis
+STR_3137    :Roghnaigh Radharcra in Aice Láimhe
 STR_3138    :Reset Selection
 STR_3139    :Cable lift unable to work in this operating mode
 STR_3141    :Multi-circuit per ride not possible with cable lift hill
