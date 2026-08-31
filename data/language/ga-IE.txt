@@ -2125,22 +2125,22 @@ STR_3134    :{RED}(Tá radharcra sa dearadh ach níl sé ar fáil)
 STR_3135    :{RED}(Níl dearadh feithicle ar fáil. D’fhéadfadh sé sin dul i bhfeidhm ar fheidhmiú na marcaíochta.)
 STR_3136    :Rabhadh: Tógfar an dearadh seo le saghas feithicle malartach agus b’fhéidir nach bhfeidhmeoidh sé mar a bheifí ag súil leis
 STR_3137    :Roghnaigh Radharcra in Aice Láimhe
-STR_3138    :Reset Selection
-STR_3139    :Cable lift unable to work in this operating mode
-STR_3141    :Multi-circuit per ride not possible with cable lift hill
-STR_3142    :{WINDOW_COLOUR_2}Capacity: {BLACK}{STRINGID}
-STR_3143    :Show people on map
-STR_3144    :Show rides and stalls on map
-STR_3160    :Select the number of circuits per ride
-STR_3162    :Unable to allocate enough memory
-STR_3163    :Installing new data: 
-STR_3164    :{BLACK}{COMMA16} selected (maximum {COMMA16})
-STR_3167    :{WINDOW_COLOUR_2}Includes: {BLACK}{COMMA16} objects
-STR_3169    :Data for the following object not found: 
-STR_3170    :Not enough space for graphics
-STR_3171    :Too many objects of this type selected
-STR_3172    :The following object must be selected first: {STRING}
-STR_3173    :This object is currently in use
+STR_3138    :Athshocraigh Rogha
+STR_3139    :Ní féidir ardaitheoir cábla a oibriú sa mhód oibrithe seo
+STR_3141    :Níl ilchúrsa sa mharcaíocht indéanta le cnoc ardaitheora cábla
+STR_3142    :{WINDOW_COLOUR_2}Toilleadh: {BLACK}{STRINGID}
+STR_3143    :Taispeáin daoine ar mhapa
+STR_3144    :Taispeáin marcaíochtaí agus stainníní ar mhapa
+STR_3160    :Roghnaigh líon na gcúrsaí sa mharcaíocht
+STR_3162    :Ní féidir dóthain cuimhne a leithdháileadh
+STR_3163    :Ag suiteáil sonraí nua: 
+STR_3164    :{BLACK}{COMMA16} roghnaithe (uasta {COMMA16})
+STR_3167    :{WINDOW_COLOUR_2}Cuimsíonn sé: {BLACK}{COMMA16} réada
+STR_3169    :Níor aimsíodh sonraí don réad seo a leanas: 
+STR_3170    :Níl dóthain spáis ann do ghrafaicí
+STR_3171    :Tá an iomarca réad den saghas seo roghnaithe
+STR_3172    :Caithfear an réad seo a leanas a roghnú ar dtús: {STRING}
+STR_3173    :Tá an réad seo in úsáid faoi láthair
 STR_3174    :This object is required by another object
 STR_3175    :This object is always required
 STR_3176    :Unable to select this object
