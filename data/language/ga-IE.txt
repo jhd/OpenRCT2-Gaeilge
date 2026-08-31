@@ -2074,21 +2074,21 @@ STR_3069    :Cuid Uachtair
 STR_3070    :Fána go leibhéal
 STR_3071    :{WINDOW_COLOUR_2}Praghas céanna ar fud na páirce
 STR_3072    :Roghnaigh an úsáidtear an praghas seo ar fud na páirce iomláine
-STR_3073    :{RED}WARNING: Your park rating has dropped below 700!{NEWLINE}If you haven’t raised the park rating in 4 weeks, your park will be closed down
-STR_3074    :{RED}WARNING: Your park rating is still below 700!{NEWLINE}You have 3 weeks to raise the park rating
-STR_3075    :{RED}WARNING: Your park rating is still below 700!{NEWLINE}You have only 2 weeks to raise the park rating, or your park will be closed down
-STR_3076    :{RED}FINAL WARNING: Your park rating is still below 700!{NEWLINE}In just 7 days your park will be closed down unless you can raise the rating
-STR_3077    :{RED}CLOSURE NOTICE: Your park has been closed down!
-STR_3090    :Select style of entrance, exit, and station
-STR_3091    :You are not allowed to remove this section!
-STR_3092    :You are not allowed to move or modify the station for this ride!
-STR_3093    :{WINDOW_COLOUR_2}Favourite: {BLACK}{STRINGID}
+STR_3073    :{RED}Rabhadh: Thit do rátáil páirce faoi bhun 700!{NEWLINE}Mura n-ardaíonn tú an rátáil páirce i gceann 4 seachtaine, dúnfar do pháirc
+STR_3074    :{RED}Rabhadh: Tá do rátáil páirce faoi bhun 700 fós!{NEWLINE}Tá 3 seachtain agat chun an rátáil páirce a ardú
+STR_3075    :{RED}Rabhadh: Tá do rátáil páirce faoi bhun 700 fós!{NEWLINE}Níl agat ach 2 sheachtain chun an rátáil páirce a ardú, nó dúnfar do pháirc
+STR_3076    :{RED}Rabhadh Deiridh: Tá do rátáil páirce faoi bhun 700 fós!{NEWLINE}I gceann 7 lá dúnfar do pháirc mura n-ardaíonn tú an rátáil páirce
+STR_3077    :{RED}Fógra Dúnta: Tá do pháirc dúnta!
+STR_3090    :Roghnaigh stíl an bhealaigh isteach, an bhealaigh amach, agus an stáisiúin
+STR_3091    :Ní féidir leat an mhír seo a bhaint!
+STR_3092    :Ní féidir leat an stáisiún a bhogadh nó a mhionathrú don mharcaíocht seo!
+STR_3093    :{WINDOW_COLOUR_2}Rogha: {BLACK}{STRINGID}
 STR_3094    :N/A
-STR_3095    :{WINDOW_COLOUR_2}Lift hill chain speed:
-STR_3097    :Select lift hill chain speed
-STR_3099    :Select colour
-STR_3100    :Select second colour
-STR_3101    :Select third colour
+STR_3095    :{WINDOW_COLOUR_2}Luas ardaitheoir slabhra an chnoic:
+STR_3097    :Roghnaigh luas ardaitheoir slabhra an chnoic
+STR_3099    :Roghnaigh dath
+STR_3100    :Roghnaigh an dara dath
+STR_3101    :Roghnaigh an tríú dath
 STR_3102    :Re-paint coloured scenery on landscape
 STR_3103    :Can’t re-paint this…
 STR_3104    :List rides
