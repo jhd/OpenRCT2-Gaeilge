@@ -2000,21 +2000,21 @@ STR_2845    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháir
 STR_2846    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis an leagan amach is mearbhlaí’!
 STR_2847    :{TOPAZ}Tá gradam faighte ag do pháirc as a bheith ar ‘An pháirc leis na marcaíochtaí séimhe is fearr’!
 STR_2848    :{WINDOW_COLOUR_2}Gan aon ghradam le déanaí
-STR_2849    :New scenario installed successfully
-STR_2850    :New track design installed successfully
-STR_2851    :Scenario already installed
-STR_2852    :Track design already installed
-STR_2853    :Forbidden by the local authority!
-STR_2854    :{RED}Guests can’t get to the entrance of {STRINGID}!{NEWLINE}Construct a path to the entrance
-STR_2855    :{RED}{STRINGID} has no path leading from its exit!{NEWLINE}Construct a path from the ride exit
-STR_2858    :Can’t start marketing campaign…
-STR_2861    :{WINDOW_COLOUR_2}Licensed to Infogrames Interactive Inc.
+STR_2849    :Tá cnámhscéal nua suiteáilte go rathúil
+STR_2850    :Tá dearadh ráille nua suiteáilte go rathúil
+STR_2851    :Tá cnámhscéal suiteáilte cheana féin
+STR_2852    :Tá dearadh ráille suiteáilte cheana féin
+STR_2853    :Coiscthe ag an údarás áitiúil!
+STR_2854    :{RED}Ní féidir le haíonna dul go dtí bealach isteach {STRINGID}!{NEWLINE}Tóg cosán go dtí an bealach isteach
+STR_2855    :{RED}Níl cosán ag {STRINGID} ag teacht óna bhealach amach!{NEWLINE}Tóg cosán ón mbealach amach marcaíochta
+STR_2858    :Ní féidir feachtas margaíochta a thosú…
+STR_2861    :{WINDOW_COLOUR_2}Ceadúnaithe do Infogrames Interactive Inc.
 STR_2971    :Scéim datha príomhúil
-STR_2972    :Alternative colour scheme 1
-STR_2973    :Alternative colour scheme 2
-STR_2974    :Alternative colour scheme 3
-STR_2975    :Select which colour scheme to change, or paint ride with
-STR_2976    :Paint an individual area of this ride using the selected colour scheme
+STR_2972    :Scéim datha malartach 1
+STR_2973    :Scéim datha malartach 2
+STR_2974    :Scéim datha malartach 3
+STR_2975    :Roghnaigh cén scéim datha a athrú, nó péinteáil na marcaíochta léi
+STR_2976    :Péinteáil limistéar aonair den mharcaíocht seo ag úsáid na scéime datha roghnaithe
 STR_2977    :Ainm baill foirne
 STR_2978    :Cuir ainm nua ar an mball foirne seo:
 STR_2979    :Ní féidir ainm nua a chur ar bhall foirne…
