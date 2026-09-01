@@ -92,7 +92,7 @@ STR_0096    :Rollchóstóir Clasaiceach Adhmaid
 STR_0097    :Rollchóstóir Clasaiceach Seasaimh
 STR_0098    :Rollchóstóir Lainseáilte LSM
 STR_0099    :Rollchóstóir Clasaiceach Castóra Adhmaid
-STR_0512    :Dlúthchóstóir le cnoc ardaithe bíseach agus titimí casta míne.
+STR_0512    :Dlúthchóstóir le cnoc ardaitheora bíseach agus titimí casta míne.
 STR_0513    :Rollchóstóir lúbach a marcaítear ina seasamh
 STR_0514    :Luascann traenacha atá crochta faoi ráille an rollchóstóra amach i leataobh timpeall coirnéal
 STR_0515    :Rollchóstóir cruaiche le traenacha a choinnítear faoin ráille, le mórán ball ráille casta coimpléascach
@@ -739,7 +739,7 @@ STR_1368    :Leathchorcscriú (ar chlé)
 STR_1369    :Leathchorcscriú (ar dheis)
 STR_1370    :Rolladh Bairille (ar chlé)
 STR_1371    :Rolladh Bairille (ar dheis)
-STR_1372    :Cnoc Ardaithe Lainseáilte
+STR_1372    :Cnoc Ardaitheora Lainseáilte
 STR_1373    :Leathlúb Mór (ar chlé)
 STR_1374    :Leathlúb Mór (ar dheis)
 STR_1375    :Aistriú Uachtarach
@@ -748,8 +748,8 @@ STR_1377    :Rolladh Croílíne (ar chlé)
 STR_1378    :Rolladh Croílíne (ar dheis)
 STR_1379    :Cúlaitheoir (ar chlé)
 STR_1380    :Cúlaitheoir (ar dheis)
-STR_1381    :Cnoc Ardaithe Cuartha (ar chlé)
-STR_1382    :Cnoc Ardaithe Cuartha (ar dheis)
+STR_1381    :Cnoc Ardaitheora Cuartha (ar chlé)
+STR_1382    :Cnoc Ardaitheora Cuartha (ar dheis)
 STR_1383    :Ceathrúlúb
 STR_1384    :{YELLOW}{STRINGID}
 STR_1385    :Cumraíochtaí ráille eile
@@ -1112,7 +1112,7 @@ STR_1752    :Taispeáin liosta na n-aíonna aonair sa pháirc
 STR_1753    :Taispeáin liosta achoimrithe na n-aíonna sa pháirc
 STR_1754    :{BLACK}{COMMA32} aíonna
 STR_1755    :{BLACK}{COMMA32} aoi
-STR_1756    :{WINDOW_COLOUR_2}Praghas isteach:
+STR_1756    :{WINDOW_COLOUR_2}Praghas iontrála:
 STR_1757    :{WINDOW_COLOUR_2}Iontaofacht: {MOVE_X}{255}{BLACK}{COMMA16}%
 STR_1758    :Mód tógála
 STR_1759    :Mód bogtha
@@ -1546,7 +1546,7 @@ STR_2228    :{WINDOW_COLOUR_2}Brabús na míosa seo caite as bia/deoch agus{NEWL
 STR_2229    :Fána suas go hingearach
 STR_2230    :Ráille Ingearach
 STR_2231    :Coscán coinneála do thitim
-STR_2232    :Cnoc ardaithe cábla
+STR_2232    :Cnoc ardaitheora cábla
 STR_2233    :Eolas Páirce
 STR_2234    :Teachtaireachtaí Le Déanaí
 STR_2235    :{STRINGID} {STRINGID}
@@ -2084,8 +2084,8 @@ STR_3091    :Ní féidir leat an mhír seo a bhaint!
 STR_3092    :Ní féidir leat an stáisiún a bhogadh nó a mhionathrú don mharcaíocht seo!
 STR_3093    :{WINDOW_COLOUR_2}Rogha: {BLACK}{STRINGID}
 STR_3094    :N/A
-STR_3095    :{WINDOW_COLOUR_2}Luas ardaitheoir slabhra an chnoic:
-STR_3097    :Roghnaigh luas ardaitheoir slabhra an chnoic
+STR_3095    :{WINDOW_COLOUR_2}Luas ardaitheora slabhra an chnoic:
+STR_3097    :Roghnaigh luas ardaitheora slabhra an chnoic
 STR_3099    :Roghnaigh dath
 STR_3100    :Roghnaigh an dara dath
 STR_3101    :Roghnaigh an tríú dath
