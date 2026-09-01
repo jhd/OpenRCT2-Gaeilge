@@ -2174,17 +2174,17 @@ STR_3205    :Roghnú Cuspóra
 STR_3206    :Sábháil Cnámhscéal
 STR_3207    :Dearthóir Ráille
 STR_3208    :Bainisteoir Dearaí Ráille
-STR_3209    :Back to Previous Step:
-STR_3210    :Forward to Next Step:
-STR_3211    :Toise mapa:
-STR_3213    :Can’t decrease map size any further
-STR_3214    :Can’t increase map size any further
-STR_3215    :Too close to edge of map
-STR_3216    :Select park-owned land etc.
-STR_3217    :Land Owned
-STR_3218    :Construction Rights Owned
-STR_3219    :Land For Sale
-STR_3220    :Construction Rights For Sale
+STR_3209    :Téigh ar ais go dtí an chéim roimhe:
+STR_3210    :Ar aghaidh go dtí an chéad chéim eile:
+STR_3211    :Toise an mhapa:
+STR_3213    :Ní féidir toise an mhapa a laghdú a thuilleadh
+STR_3214    :Ní féidir toise an mhapa a mhéadú a thuilleadh
+STR_3215    :Róghar d’imeall an mhapa
+STR_3216    :Roghnaigh talamh faoi úinéireacht na páirce srl.
+STR_3217    :Talamh Faoi Úinéireacht
+STR_3218    :Ceartaí Tógála Faoi Úinéireacht
+STR_3219    :Talamh ar Díol
+STR_3220    :Cearta Tógála ar Díol
 STR_3221    :Set land to be owned by the park
 STR_3222    :Set construction rights only to be owned by the park
 STR_3223    :Set land to be available to purchase by the park
