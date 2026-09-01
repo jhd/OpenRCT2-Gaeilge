@@ -2141,27 +2141,27 @@ STR_3170    :Níl dóthain spáis ann do ghrafaicí
 STR_3171    :Tá an iomarca réad den saghas seo roghnaithe
 STR_3172    :Caithfear an réad seo a leanas a roghnú ar dtús: {STRING}
 STR_3173    :Tá an réad seo in úsáid faoi láthair
-STR_3174    :This object is required by another object
-STR_3175    :This object is always required
-STR_3176    :Unable to select this object
-STR_3177    :Unable to de-select this object
-STR_3179    :At least one ride vehicle/attraction object must be selected
-STR_3180    :Invalid selection of objects
-STR_3181    :Object Selection - {STRINGID}
-STR_3182    :Park entrance type must be selected
-STR_3183    :Water type must be selected
-STR_3184    :Ride Vehicles/Attractions
+STR_3174    :Teastaíonn an réad seo ó réad eile
+STR_3175    :Tá an réad seo riachtanach i gcónaí
+STR_3176    :Ní féidir an réad seo a roghnú
+STR_3177    :Ní féidir an réad seo a dhíroghnú
+STR_3179    :Caithfear réad feithicle marcaíochta/díol spéise amháin ar a laghad a roghnú
+STR_3180    :Rogha neamhbhailí réad
+STR_3181    :Roghnú Réad - {STRINGID}
+STR_3182    :Caithfear saghas bealaigh isteach páirce a roghnú
+STR_3183    :Caithfear saghas uisce a roghnú
+STR_3184    :Feithiclí Marcaíochta/Díol Spéise
 STR_3185    :Radharcra Beag
 STR_3186    :Radharcra Mór
-STR_3187    :Walls/Fences
-STR_3188    :Path Signs
-STR_3189    :Legacy footpaths
-STR_3190    :Path Extras
-STR_3191    :Scenery Groups
+STR_3187    :Ballaí/Sconsaí
+STR_3188    :Comharthaí Cosáin
+STR_3189    :Cosáin oidhreachta
+STR_3190    :Breiseanna Cosáin
+STR_3191    :Grúpaí Radharcra
 STR_3192    :Bealaí Isteach na Páirce
 STR_3193    :Uisce
-STR_3195    :Invention List
-STR_3196    :{WINDOW_COLOUR_2}Research Group: {BLACK}{STRINGID}
+STR_3195    :Liosta Aireagán
+STR_3196    :{WINDOW_COLOUR_2}Grúpa Taighde: {BLACK}{STRINGID}
 STR_3197    :{WINDOW_COLOUR_2}Items pre-invented at start of game:
 STR_3198    :{WINDOW_COLOUR_2}Items to invent during game:
 STR_3199    :Random Shuffle
