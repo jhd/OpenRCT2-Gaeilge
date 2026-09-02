@@ -2185,45 +2185,45 @@ STR_3217    :Talamh Faoi Úinéireacht
 STR_3218    :Ceartaí Tógála Faoi Úinéireacht
 STR_3219    :Talamh ar Díol
 STR_3220    :Cearta Tógála ar Díol
-STR_3221    :Set land to be owned by the park
-STR_3222    :Set construction rights only to be owned by the park
-STR_3223    :Set land to be available to purchase by the park
-STR_3224    :Set construction rights to be available to purchase by the park
-STR_3225    :Toggle on/off building a random cluster of objects around the selected position
+STR_3221    :Cuir talamh faoi úinéireacht na páirce
+STR_3222    :Cuir cearta tógála amháin faoi úinéireacht na páirce
+STR_3223    :Cuir talamh ar fáil don pháirc le ceannach
+STR_3224    :Cuir cearta tógála ar fáil don pháirc le ceannach
+STR_3225    :Scoránaigh ann/as braisle randamach réad a thógáil timpeall an ionaid roghnaithe
 STR_3226    :Tóg bealach isteach páirce
 STR_3227    :An iomarca bealaigh isteach páirce!
-STR_3228    :Set starting positions for people
-STR_3229    :Block Brakes cannot be used directly after station
-STR_3230    :Block Brakes cannot be used directly after each other
-STR_3231    :Block Brakes cannot be used directly after the top of this lift hill
+STR_3228    :Cuir ionaid tosaigh do dhaoine
+STR_3229    :Ní féidir coscáin bloic a úsáid go díreach tar éis an stáisiúin
+STR_3230    :Ní féidir coscáin bloic a úsáid go díreach tar éis a chéile
+STR_3231    :Ní féidir coscáin bloic a úsáid go díreach tar éis bharr an chnoic ardaitheora seo
 STR_3232    :Roghanna cnámhscéail - Airgeadais
 STR_3233    :Roghanna cnámhscéail - Aíonna
 STR_3235    :Taispeáin roghanna airgeadais
 STR_3236    :Taispeáin roghanna na n-aíonna
 STR_3238    :Gan Airgead
-STR_3239    :Make this park a ‘no money’ park with no financial restrictions
+STR_3239    :Déan páirc ‘gan airgead’ den pháirc seo gan srianta airgeadais
 STR_3240    :Airgead tosaigh:
 STR_3241    :Iasacht tosaigh:
 STR_3242    :Uasmhéid iasachta:
-STR_3243    :Annual interest rate:
-STR_3244    :Forbid marketing campaigns
-STR_3245    :Forbid advertising, promotional schemes, and other marketing campaigns
+STR_3243    :Ráta úis bliantúil:
+STR_3244    :Cuir cosc ar fheachtais margaíochta
+STR_3245    :Cuir cosc ar fhógraíocht, ar scéimeanna bolscaireachta agus ar fheachtais margaíochta eile
 STR_3246    :{CURRENCY}
 STR_3247    :{COMMA16}%
-STR_3248    :Ní féidir airgead tosaigh a ardú a thuilleadh!
-STR_3249    :Can’t reduce initial cash any further!
-STR_3250    :Can’t increase initial loan any further!
-STR_3251    :Can’t reduce initial loan any further!
-STR_3252    :Can’t increase maximum loan size any further!
-STR_3253    :Can’t reduce maximum loan size any further!
-STR_3254    :Can’t increase interest rate any further!
-STR_3255    :Can’t reduce interest rate any further!
+STR_3248    :Ní féidir airgead tosaigh a mhéadú a thuilleadh!
+STR_3249    :Ní féidir airgead tosaigh a laghdú a thuilleadh!
+STR_3250    :Ní féidir iasacht tosaigh a mhéadú a thuilleadh!
+STR_3251    :Ní féidir iasacht tosaigh a laghdú a thuilleadh!
+STR_3252    :Ní féidir uasmhéid iasachta a mhéadú a thuilleadh!
+STR_3253    :Ní féidir uasmhéid iasachta a laghdú a thuilleadh!
+STR_3254    :Ní féidir ráta úis a mhéadú a thuilleadh!
+STR_3255    :Ní féidir ráta úis a laghdú a thuilleadh!
 STR_3260    :Airgead in aghaidh an aoi (meán):
 STR_3261    :Sonas tosaigh na n-aíonna:
 STR_3262    :Ocras tosaigh na n-aíonna:
 STR_3263    :Tart tosaigh na n-aíonna:
-STR_3264    :Can’t increase this any further!
-STR_3265    :Can’t reduce this any further!
+STR_3264    :Ní féidir é seo a mhéadú a thuilleadh!
+STR_3265    :Ní féidir é seo a laghdú a thuilleadh!
 STR_3266    :Select how this park charges for entrance and rides
 STR_3267    :Forbid tree removal
 STR_3268    :Forbid tall trees being removed
