@@ -2196,7 +2196,7 @@ STR_3228    :Cuir ionaid tosaigh do dhaoine
 STR_3229    :Ní féidir coscáin bloic a úsáid go díreach tar éis an stáisiúin
 STR_3230    :Ní féidir coscáin bloic a úsáid go díreach tar éis a chéile
 STR_3231    :Ní féidir coscáin bloic a úsáid go díreach tar éis bharr an chnoic ardaitheora seo
-STR_3232    :Roghanna cnámhscéail - Airgeadais
+STR_3232    :Roghanna cnámhscéil - Airgeadais
 STR_3233    :Roghanna cnámhscéail - Aíonna
 STR_3235    :Taispeáin roghanna airgeadais
 STR_3236    :Taispeáin roghanna na n-aíonna
@@ -2224,26 +2224,26 @@ STR_3262    :Ocras tosaigh na n-aíonna:
 STR_3263    :Tart tosaigh na n-aíonna:
 STR_3264    :Ní féidir é seo a mhéadú a thuilleadh!
 STR_3265    :Ní féidir é seo a laghdú a thuilleadh!
-STR_3266    :Select how this park charges for entrance and rides
-STR_3267    :Forbid tree removal
-STR_3268    :Forbid tall trees being removed
-STR_3269    :Forbid landscape changes
-STR_3270    :Forbid any changes to the landscape
-STR_3271    :Forbid high construction
-STR_3272    :Forbid any tall construction
-STR_3273    :Park rating is harder to increase and maintain
-STR_3274    :Make the park rating value more challenging
-STR_3275    :Guests are more difficult to attract
-STR_3276    :Make it more difficult to attract guests to the park
-STR_3277    :Cost to buy land:
-STR_3278    :Cost to buy construction rights:
-STR_3279    :Free park entry / Pay per ride
-STR_3280    :Pay to enter park / Free rides
-STR_3281    :Entry price:
-STR_3283    :Select rides to be preserved
-STR_3285    :Scenario options - Preserved Rides
-STR_3286    :Select objective for this scenario
-STR_3287    :{WINDOW_COLOUR_2}Objective:
+STR_3266    :Roghnaigh conas a ghearrann an pháirc seo táillí ar iontráil agus ar mharcaíochtaí
+STR_3267    :Cuir cosc ar bhaint crann
+STR_3268    :Cuir cosc ar chrainn arda a bhaint
+STR_3269    :Cuir cosc ar athruithe tírdhreacha
+STR_3270    :Cuir cosc ar aon athrú ar an tírdhreach
+STR_3271    :Cuir cosc ar thógáil ard
+STR_3272    :Cuir cosc ar aon tógáil ard
+STR_3273    :Is deacra an rátáil páirce a mhéadú agus a chothabháil
+STR_3274    :Déan luach na rátála páirce níos dúshlánaí
+STR_3275    :Is deacra aíonna a mhealladh
+STR_3276    :Déan é níos deacra aíonna a mhealladh chuig an bpáirc
+STR_3277    :Costas chun talamh a cheannach:
+STR_3278    :Costas chun cearta tógála a cheannach:
+STR_3279    :Iontráil páirce saor in aisce / Íoc sa mharcaíocht
+STR_3280    :Íoc chun páirc a iontráil / Marcaíochtaí saor in aisce
+STR_3281    :Praghas iontrála:
+STR_3283    :Roghnaigh marcaíochtaí le caomhnú
+STR_3285    :Roghanna cnámhscéil - Marcaíochtaí caomhnaithe
+STR_3286    :Roghnaigh cuspóir don chnámhscéal seo
+STR_3287    :{WINDOW_COLOUR_2}Cuspóir:
 STR_3294    :Athraigh…
 STR_3295    :Athraigh ainm páirce
 STR_3296    :Athraigh ainm cnámhscéil
