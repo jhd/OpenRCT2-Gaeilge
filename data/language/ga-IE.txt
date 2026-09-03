@@ -2268,13 +2268,13 @@ STR_3314    :Iontráil ainm ar chnámhscéal:
 STR_3315    :Sonraí Páirce/Cnámhscéil
 STR_3316    :Iontráil tuairisc an chnámhscéil seo:
 STR_3317    :Gan sonraí fós
-STR_3318    :Select which group this scenario appears in
-STR_3319    :{WINDOW_COLOUR_2}Scenario Group:
-STR_3320    :Unable to save scenario file…
-STR_3321    :New objects installed successfully
-STR_3322    :{WINDOW_COLOUR_2}Objective: {BLACK}{STRINGID}
-STR_3326    :{WINDOW_COLOUR_2}(no image)
-STR_3327    :Starting positions for people not set
+STR_3318    :Roghnaigh cén grúpa ina bhfeictear an cnámhscéal seo
+STR_3319    :{WINDOW_COLOUR_2}Grúpa Cnámhscéil:
+STR_3320    :Ní féidir an comhad cnámhscéil a shábháil…
+STR_3321    :Tá réada nua suiteáilte go rathúil
+STR_3322    :{WINDOW_COLOUR_2}Cuspóir: {BLACK}{STRINGID}
+STR_3326    :{WINDOW_COLOUR_2}(gan íomha)
+STR_3327    :Níl ionaid tosaigh do dhaoine socraithe
 STR_3328    :Can’t advance to next editor stage…
 STR_3329    :Park entrance not yet built
 STR_3330    :Park must own some land
