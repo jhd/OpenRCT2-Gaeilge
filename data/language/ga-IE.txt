@@ -1132,11 +1132,11 @@ STR_1774    :Ní cheadaítear ach cnoc ardaitheora cábla amháin in aghaidh na 
 STR_1777    :Ceol marcaíochta
 STR_1790    :Roghnaigh dath éide don saghas foirne seo
 STR_1791    :{WINDOW_COLOUR_2}Dath éide:
-STR_1792    :Ag freagairt glao cliste ó {STRINGID}
+STR_1792    :Ag freagairt glao faoi chliseadh ó {STRINGID}
 STR_1793    :Ag dul go dtí {STRINGID} le haghaidh scrúdaithe
 STR_1794    :Ag deisiú {STRINGID}
 STR_1795    :Ag freagairt glao raidió
-STR_1796    :Tá sé cliste agus tá deisiú de dhíth air
+STR_1796    :Chlis air agus tá deisiú de dhíth air
 STR_1798    :Guairneán
 STR_1800    :Gearradh-amach sábháilteachta
 STR_1801    :Srianta sáinnithe dúnta
@@ -2487,10 +2487,10 @@ STR_5283    :Soilse Oscailte/Dúnta na Páirce RCT1
 STR_5284    :Cló Roghnú Cnámhscéail RCT1
 STR_5287    :Tá an mharcaíocht briste cheana féin
 STR_5288    :Tá an mharcaíocht dúnta
-STR_5289    :Níl aon bhriseadh le fáil don mharcaíocht seo
+STR_5289    :Níl aon chliseadh le fáil don mharcaíocht seo
 STR_5290    :Deisigh marcaíocht
-STR_5291    :Ní féidir briseadh a fhórsáil
-STR_5292    :Fórsáil briseadh
+STR_5291    :Ní féidir cliseadh a fhórsáil
+STR_5292    :Fórsáil cliseadh
 STR_5293    :Dún marcaíocht/díol spéise
 STR_5294    :Tástáil marcaíocht/díol spéise
 STR_5295    :Oscail marcaíocht/díol spéise
