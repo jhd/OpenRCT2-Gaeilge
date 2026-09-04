@@ -2340,25 +2340,25 @@ STR_3446    :Cealaigh Limistéar Patróil
 # New strings, cleaner
 STR_5120    :Airgeadas
 STR_5121    :Taighde
-STR_5122    :Select rides by track type (like in RCT1)
-STR_5123    :Renew rides
-STR_5125    :All destructible
-STR_5126    :Random title music
-STR_5127    :While dragging, paint landscape instead of changing elevation
-STR_5128    :Selection size
-STR_5129    :Enter selection size between {COMMA16} and {COMMA16}
-STR_5130    :Map size
-STR_5131    :Enter map size between {COMMA16} and {COMMA16}
-STR_5132    :Fix all rides
-STR_5133    :Adjust smaller area of land rights
-STR_5134    :Adjust larger area of land rights
-STR_5135    :Buy land rights and construction rights
-STR_5136    :Land rights
-STR_5137    :Unlock operating limits
+STR_5122    :Roghnaigh marcaíochtaí de réir saghas ráille (cosúil le RCT1)
+STR_5123    :Athnuaigh marcaíochtaí
+STR_5125    :Gach rud inscriosta
+STR_5126    :Ceol teidil randamach
+STR_5127    :Agus tú ag tarraingt, péinteáil an tírdhreach in ionad an airde a athrú
+STR_5128    :Toise rogha
+STR_5129    :Iontráil toise rogha idir {COMMA16} agus {COMMA16}
+STR_5130    :Toise mapa
+STR_5131    :Iontráil toise mapa idir {COMMA16} agus {COMMA16}
+STR_5132    :Deisigh gach marcaíocht
+STR_5133    :Coigeartaigh limistéar níos lú de chearta talún
+STR_5134    :Coigeartaigh limistéar níos mó de chearta talún
+STR_5135    :Ceannaigh cearta talún agus cearta tógála
+STR_5136    :Cearta talún
+STR_5137    :Díghlasáil teorainneacha oibriúcháin
 STR_5138    :{WINDOW_COLOUR_2}{STRINGID}
 STR_5139    :{WHITE}{STRINGID}
-STR_5140    :Disable brakes failure
-STR_5141    :Disable all breakdowns
+STR_5140    :Díchumasaigh teip coscán
+STR_5141    :Díchumasaigh gach cliseadh
 STR_5142    :Luas gnách
 STR_5143    :Luas mear
 STR_5144    :Luas gasta
