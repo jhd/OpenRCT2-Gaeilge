@@ -2284,32 +2284,32 @@ STR_3333    :Export custom objects with saved games
 STR_3334    :Select whether to save any additional custom object data required (add-in data not supplied with the main product) in saved game or scenario files, allowing them to be loaded by someone who doesn’t have the additional object data
 STR_3335    :Dearthóir Ráille - Roghnaigh Saghsanna Marcaíochta agus Feithiclí
 STR_3336    :Bainisteoir Dearaí Ráille - Roghnaigh Saghas Marcaíochta
-STR_3338    :{BLACK}Custom-designed layout
-STR_3339    :{BLACK}{COMMA16} design available, or custom-designed layout
-STR_3340    :{BLACK}{COMMA16} designs available, or custom-designed layout
+STR_3338    :{BLACK}Leagan amach saindeartha
+STR_3339    :{BLACK}{COMMA16} dearadh ar fáil, nó leagan amach saindeartha
+STR_3340    :{BLACK}{COMMA16} dearaí ar fáil, nó leagan amach saindeartha
 STR_3341    :Uirlisí Cluiche
 STR_3342    :Eagarthóir Cnámhscéil
-STR_3343    :Convert saved game to scenario
+STR_3343    :Comhshóigh cluiche sábháilte go cnámhscéal
 STR_3344    :Dearthóir Ráille
 STR_3345    :Bainisteoir Dearaí Ráille
 STR_3346    :Ní féidir dearadh ráille a shábháil…
-STR_3347    :Ride is too large, contains too many elements, or scenery is too spread out
+STR_3347    :Tá an mharcaíocht rómhór, tá an iomarca ball inti, nó tá an radharcra róscaipthe
 STR_3348    :Athainmnigh
 STR_3349    :Scrios
 STR_3350    :Ainm dearaidh ráille
 STR_3351    :Cuir ainm nua ar an dearadh ráille seo:
 STR_3352    :Ní féidir ainm nua a chur ar dhearadh ráille…
-STR_3353    :New name contains invalid characters
-STR_3354    :Another file exists with this name, or file is write-protected
-STR_3355    :File is write-protected or locked
+STR_3353    :Tá carachtair neamhbhailí san ainm nua
+STR_3354    :Tá comhad eile ann leis an ainm seo, nó tá an comhad cosanta ar scríobh
+STR_3355    :Tá an comhad cosanta ar scríobh nó glasáilte
 STR_3356    :Scrios Comhad
-STR_3357    :{WINDOW_COLOUR_2}Are you sure you want to permanently delete {STRING}?
+STR_3357    :{WINDOW_COLOUR_2}An bhfuil tú cinnte gur mhaith leat {STRING} a scriosadh go buan?
 STR_3358    :Ní féidir dearadh ráille a scriosadh…
 STR_3359    :{BLACK}Níl aon dearadh ráille den saghas seo
 STR_3360    :Rabhadh!
-STR_3361    :Too many track designs of this type. Some will not be listed.
-STR_3364    :Advanced
-STR_3365    :Allow selection of individual items of scenery in addition to scenery groups
+STR_3361    :An iomarca dearaí ráille den saghas seo. Ní bheidh cuid acu liostaithe.
+STR_3364    :Ardleibhéal
+STR_3365    :Ceadaítear rogha míreanna aonair radharcra chomh maith le grúpaí radharcra
 STR_3366    :{BLACK}= Marcaíocht
 STR_3367    :{BLACK}= Stainnín Bia
 STR_3368    :{BLACK}= Stainnín Dí
@@ -2318,24 +2318,24 @@ STR_3370    :{BLACK}= Both Eolais
 STR_3371    :{BLACK}= Garchabhair
 STR_3372    :{BLACK}= Meaisín Airgid
 STR_3373    :{BLACK}= Leithreas
-STR_3374    :Warning: Too many objects selected!
-STR_3375    :Not all objects in this scenery group could be selected
-STR_3376    :Install new
-STR_3377    :Install a new track design file
-STR_3378    :Install
-STR_3379    :Cancel
-STR_3380    :Unable to install this track design…
-STR_3381    :File is not compatible or contains invalid data
-STR_3382    :File copy failed
-STR_3383    :Select new name for track design
-STR_3384    :An existing track design already has this name. Please select a new name for this design:
-STR_3389    :Unable to select additional item of scenery…
-STR_3390    :Too many items selected
-STR_3437    :Clear large areas of scenery from landscape
-STR_3438    :Unable to remove all scenery from here…
-STR_3439    :Clear Scenery
-STR_3445    :Set Patrol Area
-STR_3446    :Cancel Patrol Area
+STR_3374    :Rabhadh: An iomarca réad roghnaithe!
+STR_3375    :Níorbh fhéidir gach réad sa ghrúpa radharcra seo a roghnú
+STR_3376    :Suiteáil nua
+STR_3377    :Suiteáil comhad dearaidh ráille nua
+STR_3378    :Suiteáil
+STR_3379    :Cealaigh
+STR_3380    :Ní féidir an dearadh ráille seo a shuiteáil…
+STR_3381    :Tá an comhad neamhoiriúnach nó tá sonraí neamhbhailí ann
+STR_3382    :Theip ar chóipeáil an chomhaid
+STR_3383    :Roghnaigh ainm nua do dhearadh ráille
+STR_3384    :Tá an t-ainm seo ag dearadh ráille atá ann cheana féin. Roghnaigh ainm nua don dearadh seo le do thoil:
+STR_3389    :Ní féidir mír bhreise radharcra a roghnú…
+STR_3390    :An iomarca míreanna roghnaithe
+STR_3437    :Glan limistéir mhóra radharcra ón tírdhreach
+STR_3438    :Ní féidir gach radharcra a bhaint as seo…
+STR_3439    :Glan Radharcra
+STR_3445    :Cuir Limistéar Patróil
+STR_3446    :Cealaigh Limistéar Patróil
 
 # New strings, cleaner
 STR_5120    :Airgeadas
