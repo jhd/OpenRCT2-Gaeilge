@@ -2197,7 +2197,7 @@ STR_3229    :Ní féidir coscáin bloic a úsáid go díreach tar éis an stáis
 STR_3230    :Ní féidir coscáin bloic a úsáid go díreach tar éis a chéile
 STR_3231    :Ní féidir coscáin bloic a úsáid go díreach tar éis bharr an chnoic ardaitheora seo
 STR_3232    :Roghanna cnámhscéil - Airgeadais
-STR_3233    :Roghanna cnámhscéail - Aíonna
+STR_3233    :Roghanna cnámhscéil - Aíonna
 STR_3235    :Taispeáin roghanna airgeadais
 STR_3236    :Taispeáin roghanna na n-aíonna
 STR_3238    :Gan Airgead
@@ -2484,7 +2484,7 @@ STR_5280    :Ceadaítear socruithe úinéireachta talún a chur in eagar tríd a
 STR_5281    :Gnéithe
 STR_5282    :Soilse Oscailte/Dúnta na Marcaíochta RCT1
 STR_5283    :Soilse Oscailte/Dúnta na Páirce RCT1
-STR_5284    :Cló Roghnú Cnámhscéail RCT1
+STR_5284    :Cló Roghnú Cnámhscéil RCT1
 STR_5287    :Tá an mharcaíocht briste cheana féin
 STR_5288    :Tá an mharcaíocht dúnta
 STR_5289    :Níl aon chliseadh le fáil don mharcaíocht seo
@@ -2598,7 +2598,7 @@ STR_5487    :Taispeáin teachtaireachtaí le déanaí
 STR_5489    :Taispeáin aíonna rianaithe amháin
 STR_5490    :Díchumasaigh fuaim má chailltear an fócas
 STR_5491    :Liosta aireagán
-STR_5492    :Roghanna cnámhscéail
+STR_5492    :Roghanna cnámhscéil
 STR_5493    :Seol Teachtaireacht
 STR_5495    :Liosta na nImreoirí
 STR_5496    :Imreoir
@@ -2658,92 +2658,92 @@ STR_5552    :{POP16}{POP16}Bliain {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} 
 STR_5554    :Cumasaigh uirlis sléibhe
 STR_5555    :Taispeáin feithiclí ó shaghsanna ráille eile
 STR_5556    :Caith imreoir amach
-STR_5557    :Stay connected after desynchronisation (Multiplayer)
-STR_5558    :This setting will only take effect after you have restarted OpenRCT2
+STR_5557    :Fan ceangailte tar éis díshioncronaithe (Ilimreoirí)
+STR_5558    :Ní thiocfaidh an socrú seo i bhfeidhm ach tar éis duit OpenRCT2 a atosú
 STR_5559    :Scrúduithe 10 nóim.
 STR_5560    :Sets the inspection time to ‘Every 10 minutes’ on all rides
-STR_5561    :Failed to load language
-STR_5562    :WARNING!
-STR_5563    :This feature is currently unstable, take extra caution.
-STR_5566    :Password:
-STR_5567    :Advertise
-STR_5568    :Password Required
-STR_5569    :This server requires a password
-STR_5570    :Fetch Servers
-STR_5571    :Join Game
-STR_5572    :Add To Favourites
-STR_5573    :Remove From Favourites
-STR_5574    :Server Name:
+STR_5561    :Theip ar lódáil teanga
+STR_5562    :Rabhadh!
+STR_5563    :Tá an ghné seo éagobhsaí faoi láthair, bí an-chúramach.
+STR_5566    :Pasfhocal:
+STR_5567    :Fógair
+STR_5568    :Teastaíonn Pasfhocal
+STR_5569    :Teastaíonn pasfhocal ón bhfreastalaí seo
+STR_5570    :Faigh Freastalaithe
+STR_5571    :Téigh Isteach i gCluiche
+STR_5572    :Cuir le Ceanáin
+STR_5573    :Bain ó Cheanáin
+STR_5574    :Ainm Freastalaí:
 STR_5575    :Uaslíon Imreoirí:
 STR_5576    :Port:
 STR_5577    :South Korean Won (W)
 STR_5578    :Russian Rouble (₽)
-STR_5579    :Window scale factor:
+STR_5579    :Fachtóir scála fuinneoige:
 STR_5580    :Czech koruna (Kč)
-STR_5581    :Show FPS
-STR_5582    :Trap mouse cursor in window
+STR_5581    :Taispeáin FPS
+STR_5582    :Sáinnigh cúrsóir na luiche san fhuinneog
 STR_5583    :{COMMA1DP16} m/s
 STR_5584    :SI
-STR_5585    :Unlocks ride operation limits, allowing for things like {VELOCITY} lift hills
-STR_5586    :Automatically open shops and stalls
-STR_5587    :Shops and stalls will be automatically opened after building them
+STR_5585    :Díghlasálann sé teorainneacha oibriúcháin marcaíochta, rud a cheadaíonn cnoic ardaitheora {VELOCITY}
+STR_5586    :Oscail siopaí agus stainníní go huathoibríoch
+STR_5587    :Osclófar siopaí agus stainníní go huathoibríoch tar éis iad a thógáil
 STR_5588    :Imirt le himreoirí eile
-STR_5589    :Notification Settings
+STR_5589    :Socruithe Fógraí
 STR_5590    :Gradaim páirce
-STR_5591    :Marketing campaign has finished
-STR_5592    :Park warnings
-STR_5593    :Park rating warnings
-STR_5594    :Ride has broken down
-STR_5595    :Ride has crashed
-STR_5596    :Ride warnings
+STR_5591    :Chríochnaigh feachtas margaíochta
+STR_5592    :Rabhaidh páirce
+STR_5593    :Rabhaidh rátála páirce
+STR_5594    :Chlis ar mharcaíocht
+STR_5595    :Thuairteáil marcaíocht
+STR_5596    :Rabhaidh marcaíochta
 STR_5597    :Marcaíocht / radharcra taighdte
-STR_5598    :Guest warnings
-STR_5600    :Guest has left the park
-STR_5601    :Guest is queuing for ride
-STR_5602    :Guest is on ride
-STR_5603    :Guest has left ride
-STR_5604    :Guest has bought item
-STR_5605    :Guest has used facility
-STR_5606    :Guest has died
-STR_5607    :Forcefully remove selected map element.
+STR_5598    :Rabhaidh aoi
+STR_5600    :Tá aoi tar éis an pháirc a fhágáil
+STR_5601    :Tá aoi i scuaine do mharcaíocht
+STR_5602    :Tá aoi ar mharcaíocht
+STR_5603    :Tá aoi tar éis marcaíocht a fhágáil
+STR_5604    :Tá aoi tar éis mír a cheannach
+STR_5605    :D’úsáid aoi saoráid
+STR_5606    :Fuair aoi bás
+STR_5607    :Bain ball mapa roghnaithe go fórsúil.
 STR_5608    :BH
 STR_5609    :CH
-STR_5610    :Remove the currently selected map element. This will forcefully remove it, so no cash will be used/gained. Use with caution.
+STR_5610    :Bain an ball mapa atá roghnaithe faoi láthair. Bainfear go fórsúil é, agus ní úsáidfear/ní ghnóthófar aon airgead. Úsáid go cúramach.
 STR_5611    :G
-STR_5612    :Ghost flag
+STR_5612    :Bratach taibhse
 STR_5613    :B
-STR_5614    :Broken flag
+STR_5614    :Bratach briste
 STR_5615    :L
-STR_5616    :Last element for tile flag
-STR_5617    :Move selected element up.
-STR_5618    :Move selected element down.
+STR_5616    :Bratach an bhaill dheireanaigh den tíl
+STR_5617    :Bog an ball roghnaithe suas.
+STR_5618    :Bog an ball roghnaithe síos.
 STR_5619    :RollerCoaster Tycoon
 STR_5620    :Added Attractions
 STR_5621    :Loopy Landscapes
 STR_5622    :RollerCoaster Tycoon 2
 STR_5623    :Wacky Worlds
 STR_5624    :Time Twister
-STR_5625    :“Real” Parks
-STR_5626    :Other Parks
-STR_5630    :Enable progressive unlocking
-STR_5631    :Original DLC Parks
-STR_5632    :Build your own…
+STR_5625    :Páirceanna “Fíor”
+STR_5626    :Páirceanna Eile
+STR_5630    :Cumasaigh díghlasáil fhorchéimnitheach
+STR_5631    :Bunpháirceanna DLC
+STR_5632    :Tóg do cheann féin…
 STR_5633    :CMD + 
 STR_5634    :OPTION + 
-STR_5635    :{WINDOW_COLOUR_2}Money spent: {BLACK}{CURRENCY2DP}
-STR_5636    :{WINDOW_COLOUR_2}Commands ran: {BLACK}{COMMA16}
-STR_5637    :Can’t do this…
-STR_5638    :Permission denied
-STR_5639    :Show list of players
-STR_5640    :Manage groups
-STR_5641    :Default Group:
-STR_5642    :Group
-STR_5643    :Add Group
-STR_5644    :Remove Group
+STR_5635    :{WINDOW_COLOUR_2}Airgead caite: {BLACK}{CURRENCY2DP}
+STR_5636    :{WINDOW_COLOUR_2}Orduithe rite: {BLACK}{COMMA16}
+STR_5637    :Ní féidir é seo a dhéanamh…
+STR_5638    :Cead diúltaithe
+STR_5639    :Taispeáin liosta na n-imreoirí
+STR_5640    :Bainistigh grúpaí
+STR_5641    :Grúpa Réamhshocraithe:
+STR_5642    :Grúpa
+STR_5643    :Cuir Grúpa leis
+STR_5644    :Bain an Grúpa
 STR_5645    :Chat
 STR_5646    :Terraform
-STR_5647    :Toggle Pause
-STR_5648    :Set Water Level
+STR_5647    :Scoránaigh Sos
+STR_5648    :Socraigh Leibhéal Uisce
 STR_5649    :Cruthú marcaíochta
 STR_5650    :Baint marcaíochta
 STR_5651    :Tógáil marcaíochta
@@ -2754,17 +2754,17 @@ STR_5655    :Aoi
 STR_5656    :Foireann
 STR_5657    :Airíonna páirce
 STR_5658    :Ciste páirce
-STR_5659    :Kick Player
-STR_5660    :Modify Groups
-STR_5661    :Set Player Group
+STR_5659    :Caith Imreoir Amach
+STR_5660    :Mionathraigh Grúpaí
+STR_5661    :Socraigh Grúpa Imreora
 STR_5662    :N/A
-STR_5663    :Clear Landscape
+STR_5663    :Glan Tírdhreach
 STR_5664    :Cleas
-STR_5665    :Toggle Scenery Cluster
+STR_5665    :Scoránaigh Braisle Radharcra
 STR_5666    :Passwordless Login
 STR_5701    :{WINDOW_COLOUR_2}Last action: {BLACK}{STRINGID}
 STR_5702    :Locate player’s most recent action
-STR_5703    :Can’t kick the host
+STR_5703    :Ní féidir an óstach a chaitheamh amach
 STR_5704    :Last Action
 STR_5705    :Can’t set to this group
 STR_5706    :Can’t remove group that players belong to
@@ -3628,7 +3628,7 @@ STR_6629    :Align toolbar buttons horizontally centred
 STR_6630    :This setting will align the toolbar buttons horizontally in the centre of the screen. The traditional way of aligning them is in the left and right corner.
 STR_6631    :Ag lódáil…
 STR_6632    :Ag seiceáil comhaid réada…
-STR_6633    :Ag seiceáil comhaid cnámhscéail…
+STR_6633    :Ag seiceáil comhaid cnámhscéil…
 STR_6634    :Ag seiceáil comhaid deartha ráille…
 STR_6635    :Checking asset packs…
 STR_6636    :Checking title sequences…
@@ -3720,7 +3720,7 @@ STR_6720    :At least one handyman peep animations object must be selected
 STR_6721    :At least one mechanic peep animations object must be selected
 STR_6722    :At least one security peep animations object must be selected
 STR_6723    :At least one entertainer peep animations object must be selected
-STR_6724    :Téacsanna Cnámhscéail
+STR_6724    :Téacsanna Cnámhscéil
 STR_6725    :X:
 STR_6726    :Y:
 STR_6727    :Lúb Tumadh (Ar chlé)
@@ -3748,11 +3748,11 @@ STR_6748    :Only less intense rides
 STR_6749    :Only more intense rides
 STR_6750    :Select what kind of ride intensity newly spawned guests prefer.
 STR_6751    :Queue paths cannot be used for level crossings!
-STR_6752    :Roghanna cnámhscéail - Cuspóir
-STR_6753    :Roghanna cnámhscéail - Sonraí Cnámhscéail
-STR_6754    :Roghanna cnámhscéail - Srianta Talún
+STR_6752    :Roghanna cnámhscéil - Cuspóir
+STR_6753    :Roghanna cnámhscéil - Sonraí Cnámhscéil
+STR_6754    :Roghanna cnámhscéil - Srianta Talún
 STR_6755    :Taispeáin roghanna cuspóra
-STR_6756    :Taispeáin roghanna sonraí cnámhscéail
+STR_6756    :Taispeáin roghanna sonraí cnámhscéil
 STR_6757    :Taispeáin roghanna srianta talún
 STR_6758    :Roghanna iasachta
 STR_6759    :Business model
