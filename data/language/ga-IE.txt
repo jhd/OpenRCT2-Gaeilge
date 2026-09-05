@@ -2480,8 +2480,8 @@ STR_5276    :Iontráil ainm an réada atá le cuardach
 STR_5277    :Glan
 STR_5278    :Mód bosca gainimh
 STR_5279    :Mód bosca gainimh múchta
-STR_5280    :Allow editing land ownership settings through the Map window and other options that are normally restricted to the Scenario Editor
-STR_5281    :Features
+STR_5280    :Ceadaítear socruithe úinéireachta talún a chur in eagar tríd an bhfuinneog Mapa chomh maith le roghanna eile atá srianta don Eagarthóir Cnámhscéil de ghnáth
+STR_5281    :Gnéithe
 STR_5282    :Soilse Oscailte/Dúnta na Marcaíochta RCT1
 STR_5283    :Soilse Oscailte/Dúnta na Páirce RCT1
 STR_5284    :Cló Roghnú Cnámhscéail RCT1
@@ -2501,16 +2501,16 @@ STR_5299    :{LIGHTPINK}{STRINGID}
 STR_5300    :Mearbhris foireann
 STR_5301    :Imréitigh d’iasacht
 STR_5302    :Imréitigh iasacht
-STR_5303    :Allow building in pause mode
-STR_5304    :Title Sequence:
+STR_5303    :Ceadaítear tógáil i mód sosa
+STR_5304    :Seicheamh Teidil:
 STR_5305    :RollerCoaster Tycoon 1
 STR_5306    :RollerCoaster Tycoon 1 (AA)
 STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
 STR_5308    :RollerCoaster Tycoon 2
 STR_5309    :OpenRCT2
 STR_5310    :Randamach
-STR_5311    :Debug tools
-STR_5312    :Show console
+STR_5311    :Uirlisí dífhabhtúcháin
+STR_5312    :Taispeáin consól
 STR_5313    :Taispeáin cigire tíleanna
 STR_5314    :Cigire tíleanna
 STR_5335    :Bealach isteach marcaíochta
@@ -2519,8 +2519,8 @@ STR_5337    :Bealach isteach páirce
 STR_5338    :Saghas baill
 STR_5339    :Bunairde
 STR_5340    :Airde ghlanspáis
-STR_5343    :Automatically place staff
-STR_5344    :Changelog
+STR_5343    :Cuir foireann go huathoibríoch
+STR_5344    :Loga athruithe
 STR_5345    :Cleasa airgeadais
 STR_5346    :Cleasa aíonna
 STR_5347    :Cleasa páirce
@@ -2537,59 +2537,59 @@ STR_5357    :{BLACK}Fulaingt masmais:
 STR_5358    :{BLACK}Leithreas:
 STR_5359    :Bain aíonna
 STR_5360    :Baineann sé gach aoi den mapa
-STR_5361    :Add to guest inventory
-STR_5362    :{BLACK}Preferred ride intensity:
+STR_5361    :Cuir le fardal aoi
+STR_5362    :{BLACK}Déine marcaíochta is fearr:
 STR_5363    :Níos mó ná 1
 STR_5364    :Níos lú ná 15
 STR_5365    :{BLACK}Luas foirne:
 STR_5366    :Normálta
 STR_5367    :Gasta
-STR_5368    :Reset crash status
+STR_5368    :Athshocraigh stádas tuairte
 STR_5371    :Roghnú réad
-STR_5372    :Invert right mouse dragging
+STR_5372    :Inbhéartaigh tarraingt luiche ar dheis
 STR_5373    :Ainm {STRINGID}
-STR_5374    :Date modified {STRINGID}
+STR_5374    :Dáta mionathraithe {STRINGID}
 STR_5375    :▲
 STR_5376    :▼
-STR_5404    :Name already exists
-STR_5440    :Minimise fullscreen on focus loss
-STR_5442    :Force park rating:
+STR_5404    :Tá an t-ainm ann cheana féin
+STR_5440    :Íoslaghdaigh lánscáileán má chailltear an fócas
+STR_5442    :Fórsáil rátáil páirce:
 STR_5447    :Saghas {STRINGID}
 STR_5448    :Marcaíocht / Feithicil {STRINGID}
-STR_5449    :Reduce game speed
-STR_5450    :Increase game speed
+STR_5449    :Laghdaigh luas cluiche
+STR_5450    :Méadaigh luas cluiche
 STR_5451    :Oscail fuinneog cleasa
-STR_5452    :Toggle visibility of toolbars
-STR_5453    :Select another ride
-STR_5454    :Uncap FPS
-STR_5455    :Enable sandbox mode
-STR_5456    :Disable clearance checks
-STR_5457    :Disable support limits
+STR_5452    :Scoránaigh infheictheacht na mbarraí uirlisí
+STR_5453    :Roghnaigh marcaíocht eile
+STR_5454    :Bain an teorainn de FPS
+STR_5455    :Cumasaigh mód bosca gainimh
+STR_5456    :Díchumasaigh seiceálacha glanspáis
+STR_5457    :Díchumasaigh teorainneacha tacaí
 STR_5458    :Rothlaigh deiseal
 STR_5459    :Rothlaigh tuathal
 STR_5460    :Rothlaigh amharc tuathal
-STR_5461    :Set parameters for all guests
+STR_5461    :Cuir paraiméadair do gach aoi
 STR_5462    :{CURRENCY}
 STR_5463    :Cuspóir: Spraoi a bheith agat!
-STR_5464    :General
+STR_5464    :Ginearálta
 STR_5465    :Aimsir
 STR_5466    :Foireann
 STR_5467    :ALT + 
 STR_5468    :Teachtaireachtaí le déanaí
-STR_5469    :Scroll map up
-STR_5470    :Scroll map left
-STR_5471    :Scroll map down
-STR_5472    :Scroll map right
-STR_5473    :Cycle day / night
-STR_5474    :Display text on banners in uppercase
+STR_5469    :Scrollaigh an mapa suas
+STR_5470    :Scrollaigh an mapa ar chlé
+STR_5471    :Scrollaigh an mapa síos
+STR_5472    :Scrollaigh an mapa ar dheis
+STR_5473    :Timthriall lá / oíche
+STR_5474    :Taispeáin téacs ar mheirgí i gceannlitreacha
 STR_5475    :{COMMA16} seachtain
 STR_5476    :Crua-earraí
-STR_5477    :Map rendering
-STR_5478    :Controls
+STR_5477    :Rindreáil mapa
+STR_5478    :Rialúcháin
 STR_5479    :Barra uirlisí
-STR_5480    :Show toolbar buttons for:
+STR_5480    :Taispeáin cnaipí an bharra uirlisí le haghaidh:
 STR_5481    :Téamaí
-STR_5482    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}1 minute
+STR_5482    :{WINDOW_COLOUR_2}Am ón scrúdú deireanach: {BLACK}1 nóiméad
 STR_5483    :{BLACK}({COMMA16} seachtain atá fágtha)
 STR_5484    :{BLACK}({COMMA16} seachtain atá fágtha)
 STR_5485    :{STRING}
