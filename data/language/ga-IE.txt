@@ -2451,7 +2451,7 @@ STR_5244    :Téamaí
 STR_5245    :Barra uirlisí uachtair
 STR_5246    :Barra uirlisí íochtair
 STR_5247    :Barra Uirlisí Íochtair an Eagarthóra Ráille
-STR_5248    :Barra Uirlisí Íochtair an Eagarthóra Cnámhscéalta
+STR_5248    :Barra Uirlisí Íochtair an Eagarthóra Cnámhscéil
 STR_5249    :Cnaipí Roghchláir Teidil
 STR_5250    :Cnaipe Amach Teidil
 STR_5251    :Cnaipe Roghanna Teidil
@@ -2595,11 +2595,11 @@ STR_5484    :{BLACK}({COMMA16} seachtain atá fágtha)
 STR_5485    :{STRING}
 STR_5486    :{BLACK}{COMMA16}
 STR_5487    :Taispeáin teachtaireachtaí le déanaí
-STR_5489    :Show only tracked guests
-STR_5490    :Disable audio on focus loss
-STR_5491    :Inventions list
+STR_5489    :Taispeáin aíonna rianaithe amháin
+STR_5490    :Díchumasaigh fuaim má chailltear an fócas
+STR_5491    :Liosta aireagán
 STR_5492    :Roghanna cnámhscéail
-STR_5493    :Send Message
+STR_5493    :Seol Teachtaireacht
 STR_5495    :Liosta na nImreoirí
 STR_5496    :Imreoir
 STR_5497    :Ping
@@ -2607,60 +2607,60 @@ STR_5498    :Liosta freastalaithe
 STR_5499    :Ainm Imreora:
 STR_5500    :Cuir Freastalaí Leis
 STR_5501    :Tosaigh freastalaí
-STR_5502    :Multiplayer
-STR_5503    :Enter hostname or IP address:
-STR_5504    :Show multiplayer status
-STR_5505    :Unable to connect to server.
-STR_5506    :Guests ignore intensities
-STR_5510    :Default sound device
+STR_5502    :Ilimreoirí
+STR_5503    :Iontráil óstainm nó seoladh IP:
+STR_5504    :Taispeáin stádas ilimreoirí
+STR_5505    :Ní féidir ceangal leis an bhfreastalaí.
+STR_5506    :Tugann aíonna neamhaird ar dhéine
+STR_5510    :Gléas fuaime réamhshocraithe
 STR_5511    :(ANAITHNID)
 STR_5512    :Sábháil Cluiche Mar
 STR_5513    :(Gasta) sábháil cluiche
-STR_5514    :Disable vandalism
-STR_5515    :Stops guests from vandalising your park when they’re angry
-STR_5516    :Black
-STR_5517    :Grey
-STR_5518    :White
-STR_5519    :Dark purple
-STR_5520    :Light purple
-STR_5521    :Bright purple
-STR_5522    :Dark blue
-STR_5523    :Light blue
-STR_5524    :Icy blue
-STR_5525    :Dark water
-STR_5526    :Light water
-STR_5527    :Saturated green
-STR_5528    :Dark green
-STR_5529    :Moss green
-STR_5530    :Bright green
-STR_5531    :Olive green
-STR_5532    :Dark olive green
-STR_5533    :Bright yellow
-STR_5534    :Yellow
-STR_5535    :Dark yellow
-STR_5536    :Light orange
-STR_5537    :Dark orange
-STR_5538    :Light brown
-STR_5539    :Saturated brown
-STR_5540    :Dark brown
-STR_5541    :Salmon pink
-STR_5542    :Bordeaux red
-STR_5543    :Saturated red
-STR_5544    :Bright red
-STR_5545    :Dark pink
-STR_5546    :Bright pink
-STR_5547    :Light pink
+STR_5514    :Díchumasaigh loitiméaracht
+STR_5515    :Cuireann sé cosc ar aíonna do pháirc a loitiméaracht nuair a bhíonn fearg orthu
+STR_5516    :Dubh
+STR_5517    :Liath
+STR_5518    :Bán
+STR_5519    :Corcra dorcha
+STR_5520    :Corcra geal
+STR_5521    :Gléchorcra
+STR_5522    :Gorm dorcha
+STR_5523    :Gorm geal
+STR_5524    :Gorm oighir
+STR_5525    :Uisce dorcha
+STR_5526    :Uisce geal
+STR_5527    :Uaine sáithithe
+STR_5528    :Glas dorcha
+STR_5529    :Glas caonaigh
+STR_5530    :Gléghlas
+STR_5531    :Glasbhuí
+STR_5532    :Glasbhuí dorcha
+STR_5533    :Glébhuí
+STR_5534    :Buí
+STR_5535    :Buí dorcha
+STR_5536    :Flannbhuí geal
+STR_5537    :Flannbhuí dorcha
+STR_5538    :Donn geal
+STR_5539    :Donn sáithithe
+STR_5540    :Donn dorcha
+STR_5541    :Bándearg bradáin
+STR_5542    :Dearg Bordeaux
+STR_5543    :Dearg sáithithe
+STR_5544    :Glédhearg
+STR_5545    :Bándearg dorcha
+STR_5546    :Glébhándearg
+STR_5547    :Bándearg geal
 STR_5548    :Taispeáin gach mód oibriúcháin
 STR_5549    :Bliain/Mí/Lá
 STR_5550    :{POP16}{POP16}Bliain {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_5551    :Bliain/Lá/Mí
 STR_5552    :{POP16}{POP16}Bliain {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
-STR_5554    :Enable mountain tool
-STR_5555    :Show vehicles from other track types
-STR_5556    :Kick player
+STR_5554    :Cumasaigh uirlis sléibhe
+STR_5555    :Taispeáin feithiclí ó shaghsanna ráille eile
+STR_5556    :Caith imreoir amach
 STR_5557    :Stay connected after desynchronisation (Multiplayer)
 STR_5558    :This setting will only take effect after you have restarted OpenRCT2
-STR_5559    :10 min. inspections
+STR_5559    :Scrúduithe 10 nóim.
 STR_5560    :Sets the inspection time to ‘Every 10 minutes’ on all rides
 STR_5561    :Failed to load language
 STR_5562    :WARNING!
