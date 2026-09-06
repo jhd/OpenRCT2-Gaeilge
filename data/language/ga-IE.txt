@@ -2839,36 +2839,36 @@ STR_5779    :Ioncam: {CURRENCY2DP} san uair
 STR_5780    :Costas reatha: {CURRENCY2DP} san uair
 STR_5781    :Costas reatha: Anaithnid
 STR_5782    :Tá tú ceangailte anois. Brúigh ‘{STRING}’ chun comhrá a dhéanamh.
-STR_5783    :{WINDOW_COLOUR_2}Scenario Locked
-STR_5784    :{BLACK}Complete earlier scenarios to unlock this scenario.
+STR_5783    :{WINDOW_COLOUR_2}Cnámhscéal Faoi Ghlas
+STR_5784    :{BLACK}Críochnaigh cnámhscéil níos luaithe chun an cnámhscéal seo a dhíghlasáil.
 STR_5785    :Ní féidir ainm nua a chur ar ghrúpa…
 STR_5786    :Ainm grúpa neamhbhailí
-STR_5787    :{COMMA32} players online
-STR_5788    :Default inspection interval:
-STR_5789    :Disable lightning effect
-STR_5790    :Toggles RCT1-style pricing{NEWLINE}(e.g. both ride price and entrance price)
-STR_5791    :Sets the reliability of all rides to 100%{NEWLINE}and resets their built date to “this year”
-STR_5792    :Fixes all broken down rides
-STR_5793    :Resets the crash history of a ride,{NEWLINE}so guests will not complain that its unsafe
-STR_5794    :Some scenarios disable editing of some{NEWLINE}of the rides already in the park.{NEWLINE}This cheat lifts the restriction
-STR_5795    :Guests ride every attraction in the park{NEWLINE}even if the intensity is extremely high
-STR_5796    :Forces the park to close or open
-STR_5797    :Disables weather changes and{NEWLINE}freezes the selected weather
-STR_5798    :Allows building actions in pause mode
-STR_5799    :Disables ride breakdowns and crashes due to brake failure
-STR_5800    :Prevents rides from breaking down
-STR_5801    :Disable littering
-STR_5802    :Stops guests from littering and vomiting
-STR_5803    :Rotate selected map element
+STR_5787    :{COMMA32} imreoirí ar líne
+STR_5788    :Gnátheatramh scrúdaithe:
+STR_5789    :Díchumasaigh éifeacht tintrí
+STR_5790    :Scoránaíonn praghsáil stíle RCT1{NEWLINE}(m.sh. an dá phraghas marcaíochta agus praghas iontrála)
+STR_5791    :Socraíonn iontaofacht gach marcaíochta go 100%{NEWLINE}agus athshocraíonn a dáta tógála go “an bhliain seo”
+STR_5792    :Deisíonn gach marcaíocht bhriste
+STR_5793    :Athshocraíonn stair tuairteanna na marcaíochta, mar{NEWLINE}sin ní bheidh aíonna ag gearán go bhfuil sí contúirteach
+STR_5794    :Díchumasaíonn roinnt cnámhscéal cuid de na{NEWLINE}marcaíochtaí atá sa pháirc cheana féin a chur{NEWLINE}in eagar. Ardaíonn an chleas seo an srian
+STR_5795    :Marcaíonn aíonna gach díol spéise sa{NEWLINE}pháirc fiú má tá an déine thar a bheith ard
+STR_5796    :Fórsálann dúnadh nó oscailt na páirce
+STR_5797    :Díchumasaíonn athruithe aimsire{NEWLINE}agus reonn an aimsir roghnaithe
+STR_5798    :Ceadaíonn gníomhartha tógála sa mhód sosa
+STR_5799    :Díchumasaíonn cliseadh marcaíochta agus tuairteanna de bharr teip coscán
+STR_5800    :Cuireann cosc ar chliseadh marcaíochtaí
+STR_5801    :Díchumasaigh bruscar a chaitheamh
+STR_5802    :Cuireann cosc ar aíonna bruscar a chaitheamh agus urlacan
+STR_5803    :Rothlaigh ball mapa roghnaithe
 STR_5804    :Balbhaigh fuaim
-STR_5805    :If checked, your server will be added to the{NEWLINE}public server list so everyone can find it
-STR_5806    :Toggle windowed mode
-STR_5807    :{WINDOW_COLOUR_2}Number of rides: {BLACK}{COMMA16}
-STR_5808    :{WINDOW_COLOUR_2}Number of shops and stalls: {BLACK}{COMMA16}
-STR_5809    :{WINDOW_COLOUR_2}Number of information kiosks and other facilities: {BLACK}{COMMA16}
-STR_5810    :Disable vehicle limits
-STR_5811    :If checked, you can have up to{NEWLINE}255 cars per train and 31{NEWLINE}trains per ride
-STR_5812    :Show multiplayer window
+STR_5805    :Má tá sé marcáilte, cuirfear do fhreastalaí leis an liosta{NEWLINE}poiblí freastalaithe ionas gur féidir le gach duine é a aimsiú
+STR_5806    :Scoránaigh mód fuinneoga
+STR_5807    :{WINDOW_COLOUR_2}Líon na marcaíochtaí: {BLACK}{COMMA16}
+STR_5808    :{WINDOW_COLOUR_2}Líon na siopaí agus na stainníní: {BLACK}{COMMA16}
+STR_5809    :{WINDOW_COLOUR_2}Líon na mbothanna eolais agus na saoráidí eile: {BLACK}{COMMA16}
+STR_5810    :Díchumasaigh teorainneacha feithiclí
+STR_5811    :Má tá sé marcáilte, is féidir leat{NEWLINE}suas go 255 carr sa traein{NEWLINE}agus 255 traein sa mharcaíocht
+STR_5812    :Taispeáin fuinneog ilimreoirí
 STR_5813    :“{STRING}”
 STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
 
