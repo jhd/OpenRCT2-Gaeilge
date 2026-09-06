@@ -767,8 +767,8 @@ STR_1396    :Roghanna scéime dathanna
 STR_1397    :Roghanna fuaime agus ceoil
 STR_1398    :Miosúir agus sonraí tástála
 STR_1399    :Grafaicí
-STR_1400    :Bealach Isteach
-STR_1401    :Bealach Amach
+STR_1400    :Isteach
+STR_1401    :Amach
 STR_1402    :Tóg nó bog bealach isteach go marcaíocht/díol spéise
 STR_1403    :Tóg nó bog bealach amach as marcaíocht/díol spéise
 STR_1404    :Rothlaigh 90°
@@ -1121,7 +1121,7 @@ STR_1761    :Tóg cathair ghríobháin sa treo seo
 STR_1762    :Easanna
 STR_1763    :Fánsrutha
 STR_1764    :Uchtóga lomán
-STR_1765    :Rannóg grianghraif ar mharcaíocht
+STR_1765    :Rannóg Grianghraif
 STR_1766    :Casclár cúlaithe
 STR_1767    :Tollán rothlaithe
 STR_1768    :Ní féidir líon na luascán a athrú…
@@ -1730,7 +1730,7 @@ STR_2419    :Marcaíocht saor in aisce go {STRINGID}
 STR_2420    :Iontráil leath-praghas go {STRINGID}
 STR_2421    :{STRINGID} saor in aisce
 STR_2424    :{WINDOW_COLOUR_2}Dearbháin le haghaidh iontráil saor in aisce chuig an bpáirc
-STR_2425    :{WINDOW_COLOUR_2}Dearbháin le haghaidh marcaíochtaí saor in aisce ar mharcaíocht shainiúil
+STR_2425    :{WINDOW_COLOUR_2}Dearbháin marcaíochta saor in aisce ar aon mharcaíocht
 STR_2426    :{WINDOW_COLOUR_2}Dearbháin le haghaidh iontráil leath-praghas chuig an bpáirc
 STR_2427    :{WINDOW_COLOUR_2}Dearbháin le haghaidh bia nó deoch saor in aisce
 STR_2428    :{WINDOW_COLOUR_2}Feachtas margaíochta faoin bpáirc
@@ -2084,7 +2084,7 @@ STR_3091    :Ní féidir leat an mhír seo a bhaint!
 STR_3092    :Ní féidir leat an stáisiún a bhogadh nó a mhionathrú don mharcaíocht seo!
 STR_3093    :{WINDOW_COLOUR_2}Rogha: {BLACK}{STRINGID}
 STR_3094    :N/A
-STR_3095    :{WINDOW_COLOUR_2}Luas ardaitheora slabhra an chnoic:
+STR_3095    :{WINDOW_COLOUR_2}Luas an ardaitheora:
 STR_3097    :Roghnaigh luas ardaitheora slabhra an chnoic
 STR_3099    :Roghnaigh dath
 STR_3100    :Roghnaigh an dara dath
@@ -2124,7 +2124,7 @@ STR_3133    :Ní féidir é seo a thógáil ar fhána
 STR_3134    :{RED}(Tá radharcra sa dearadh ach níl sé ar fáil)
 STR_3135    :{RED}(Níl dearadh feithicle ar fáil. D’fhéadfadh sé sin dul i bhfeidhm ar fheidhmiú na marcaíochta.)
 STR_3136    :Rabhadh: Tógfar an dearadh seo le saghas feithicle malartach agus b’fhéidir nach bhfeidhmeoidh sé mar a bheifí ag súil leis
-STR_3137    :Roghnaigh Radharcra in Aice Láimhe
+STR_3137    :Radharcra in Aice Láimhe
 STR_3138    :Athshocraigh Rogha
 STR_3139    :Ní féidir ardaitheoir cábla a oibriú sa mhód oibrithe seo
 STR_3141    :Níl ilchúrsa sa mharcaíocht indéanta le cnoc ardaitheora cábla
@@ -2833,7 +2833,7 @@ STR_5773    :Iomlán custaiméirí: {COMMA32}
 STR_5774    :Iomlán brabúis: {CURRENCY2DP}
 STR_5775    :Custaiméirí: {COMMA32} san uair
 STR_5776    :Tógtha: An bhliain seo
-STR_5777    :Tógtha: An bhliaian seo caite
+STR_5777    :Tógtha: An bhliain seo caite
 STR_5778    :Tógtha: {COMMA16} Bliana ó shin
 STR_5779    :Ioncam: {CURRENCY2DP} san uair
 STR_5780    :Costas reatha: {CURRENCY2DP} san uair
