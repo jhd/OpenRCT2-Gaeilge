@@ -1671,8 +1671,8 @@ STR_2360    :Taifeach Taispeáint:
 STR_2361    :Mínú Tírdhreacha
 STR_2362    :Scoránaigh mínú imill tíle tírdhreacha ann/as
 STR_2363    :Línte greille ar Thírdhreach
-STR_2364    :Toggle gridlines on landscape on/off
-STR_2365    :The bank refuses to increase your loan!
+STR_2364    :Scoránaigh línte greille ar thírdhreach ann/as
+STR_2365    :Diúltaíonn an banc d’iasacht a mhéadú!
 STR_2366    :Celsius (°C)
 STR_2367    :Fahrenheit (°F)
 STR_2368    :Ceann ar bith
@@ -1685,10 +1685,10 @@ STR_2374    :Ard
 STR_2375    :An-ard
 STR_2376    :Foircneach
 STR_2377    :Fíor-Foircneach
-STR_2378    :Adjust smaller area of land
-STR_2379    :Adjust larger area of land
-STR_2380    :Adjust smaller area of water
-STR_2381    :Adjust larger area of water
+STR_2378    :Coigeartaigh limistéar talún níos lú
+STR_2379    :Coigeartaigh limistéar talún níos mó
+STR_2380    :Coigeartaigh limistéar uisce níos lú
+STR_2381    :Coigeartaigh limistéar uisce níos mó
 STR_2382    :Talamh
 STR_2383    :Uisce
 STR_2384    :{WINDOW_COLOUR_2}Do chuspóir:
@@ -1948,9 +1948,9 @@ STR_2793    :(Críochnaithe ag {STRINGID})
 STR_2794    :{WINDOW_COLOUR_2}Críochnaithe ag: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2} le luach comhlachta de: {BLACK}{CURRENCY}
 STR_2795    :Sórtáil
 STR_2796    :Sórtáil an liosta marcaíochta in ord, ag úsáid an tsaghais eolais atá ar taispeáint
-STR_2797    :Scroll view when pointer at screen edge
-STR_2798    :Scroll the view when the mouse pointer is at the screen edge
-STR_2799    :View or change control key assignments
+STR_2797    :Scrollaigh an t-amharc ag imeall an scáileáin
+STR_2798    :Scrollaigh an t-amharc nuair a bhíonn pointeoir na luiche ag imeall an scáileáin
+STR_2799    :Amharc ar shannadh na n-eochracha rialaithe nó athraigh é
 STR_2800    :{WINDOW_COLOUR_2}Iontrálacha iomlána: {BLACK}{COMMA32}
 STR_2801    :{WINDOW_COLOUR_2}Ioncam as iontrálacha: {BLACK}{CURRENCY2DP}
 STR_2802    :Mapa
@@ -2262,7 +2262,7 @@ STR_3308    :{WINDOW_COLOUR_2}Rátáil sceitimíní:
 STR_3309    :{WINDOW_COLOUR_2}{COMMA32}
 STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
 STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
-STR_3312    :{WINDOW_COLOUR_2}Rides/attractions under a preservation order:
+STR_3312    :{WINDOW_COLOUR_2}Marcaíochtaí/díolta spéise faoi ordú caomhnaithe:
 STR_3313    :Ainm Cnámhscéil
 STR_3314    :Iontráil ainm ar chnámhscéal:
 STR_3315    :Sonraí Páirce/Cnámhscéil
@@ -2279,9 +2279,9 @@ STR_3328    :Ní féidir dul ar aghaidh go dtí an chéad chéim eagarthóra eil
 STR_3329    :Níl bealach isteach na páirce tógtha fós
 STR_3330    :Caithfidh talamh éigin a bheith ag an bpáirc
 STR_3331    :Tá an cosán ón mbealach isteach go dtí imeall an mhapa neamhchríochnaithe nó róchasta. Caithfidh an cosán a bheith ar leithead amháin, le chomh beag acomhal agus cúinní agus is féidir.
-STR_3332    :Park entrance is the wrong way round or has no path leading to the map edge
-STR_3333    :Export custom objects with saved games
-STR_3334    :Select whether to save any additional custom object data required (add-in data not supplied with the main product) in saved game or scenario files, allowing them to be loaded by someone who doesn’t have the additional object data
+STR_3332    :Tá bealach isteach na páirce ar an treo mícheart nó níl aon chosán ann go dtí imeall an mhapa
+STR_3333    :Easpórtáil réada saincheaptha le cluichí sábháilte
+STR_3334    :Roghnaigh ar cheart aon sonraí réada saincheaptha breise atá riachtanach (sonraí breiseáin nár soláthraíodh leis an bpríomhtháirge) a shábháil i gcomhaid cluiche nó cnámhscéil, rud a cheadaíonn do dhuine nach bhfuil na sonraí réada breise acu iad a lódáil
 STR_3335    :Dearthóir Ráille - Roghnaigh Saghsanna Marcaíochta agus Feithiclí
 STR_3336    :Bainisteoir Dearaí Ráille - Roghnaigh Saghas Marcaíochta
 STR_3338    :{BLACK}Leagan amach saindeartha
@@ -2661,7 +2661,7 @@ STR_5556    :Caith imreoir amach
 STR_5557    :Fan ceangailte tar éis díshioncronaithe (Ilimreoirí)
 STR_5558    :Ní thiocfaidh an socrú seo i bhfeidhm ach tar éis duit OpenRCT2 a atosú
 STR_5559    :Scrúduithe 10 nóim.
-STR_5560    :Sets the inspection time to ‘Every 10 minutes’ on all rides
+STR_5560    :Socraíonn an t-am scrúdaithe go ‘Gach 10 nóiméad’ ar gach marcaíocht
 STR_5561    :Theip ar lódáil teanga
 STR_5562    :Rabhadh!
 STR_5563    :Tá an ghné seo éagobhsaí faoi láthair, bí an-chúramach.
