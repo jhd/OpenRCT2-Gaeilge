@@ -1694,16 +1694,16 @@ STR_2383    :Uisce
 STR_2384    :{WINDOW_COLOUR_2}Do chuspóir:
 STR_2385    :{BLACK}Ceann ar bith
 STR_2386    :{BLACK}Ar a laghad {COMMA32} aíonna i do pháirc ag deireadh {MONTHYEAR_SENTENCE}, le rátáil páirce de 600 ar a laghad
-STR_2387    :{BLACK}To achieve a park value of at least {POP16}{POP16}{CURRENCY} at the end of {PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{MONTHYEAR_SENTENCE}
+STR_2387    :{BLACK}Luach páirce de {POP16}{POP16}{CURRENCY} ar a laghad a bhaint amach ag deireadh {PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{MONTHYEAR_SENTENCE}
 STR_2388    :{BLACK}Spraoi a bheith agat!
 STR_2389    :{BLACK}An {STRINGID} is fearr is féidir leat a thógáil!
-STR_2390    :{BLACK}To have 10 different types of rollchóstóirí operating in your park, each with an excitement value of at least 6.00
-STR_2391    :{BLACK}To have at least {COMMA32} guests in your park. You must not let the park rating drop below 700 at any time!
-STR_2392    :{BLACK}To achieve a monthly income from ride tickets of at least {POP16}{POP16}{CURRENCY}
-STR_2393    :{BLACK}To have 10 different types of rollchóstóirí operating in your park, each with a minimum length of {LENGTH}, and an excitement rating of at least 7.00
-STR_2394    :{BLACK}To finish building all 5 of the partially built rollchóstóirí in this park, designing them to achieve excitement ratings of at least {POP16}{POP16}{COMMA2DP32} each
-STR_2395    :{BLACK}To repay your loan and achieve a park value of at least {POP16}{POP16}{CURRENCY}
-STR_2396    :{BLACK}To achieve a monthly profit from food, drink and merchandise sales of at least {POP16}{POP16}{CURRENCY}
+STR_2390    :{BLACK}10 saghas éagsúla rollchóstóirí a bheith agat ag oibriú i do pháirc, gach ceann le luach sceitimíní de 6.00 ar a laghad
+STR_2391    :{BLACK}Ar a laghad {COMMA32} aíonna i do pháirc. Ní mór duit gan ligean don rátáil páirce titim faoi bhun 700 ag am ar bith!
+STR_2392    :{BLACK}Ioncam míosúil as ticéid mharcaíochta de {POP16}{POP16}{CURRENCY} ar a laghad a bhaint amach
+STR_2393    :{BLACK}10 saghas éagsúla rollchóstóirí a bheith agat ag oibriú i do pháirc, gach ceann le fad íosta de {LENGTH}, agus rátáil sceitimíní de 7.00 ar a laghad
+STR_2394    :{BLACK}Tógáil na 5 rollchóstóir leaththógtha sa pháirc seo a chríochnú, á ndearadh chun rátáil sceitimíní de {POP16}{POP16}{COMMA2DP32} ar a laghad an ceann a bhaint amach
+STR_2395    :{BLACK}D’iasacht a aisíoc agus luach páirce de {POP16}{POP16}{CURRENCY} ar a laghad a bhaint amach
+STR_2396    :{BLACK}Brabús míosúil as bia, deoch agus díolacháin marsantachta de {POP16}{POP16}{CURRENCY} ar a laghad a bhaint amach
 STR_2397    :Ceann ar bith
 STR_2398    :Líon na n-aíonna ag dáta sonraithe
 STR_2399    :Luach páirce ag dáta sonraithe
