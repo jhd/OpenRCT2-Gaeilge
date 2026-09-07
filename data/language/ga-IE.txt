@@ -2546,7 +2546,7 @@ STR_5366    :Normálta
 STR_5367    :Gasta
 STR_5368    :Athshocraigh stádas tuairte
 STR_5371    :Roghnú réad
-STR_5372    :Inbhéartaigh tarraingt luiche ar dheis
+STR_5372    :Inbhéartaigh deastarraingt na luiche
 STR_5373    :Ainm {STRINGID}
 STR_5374    :Dáta mionathraithe {STRINGID}
 STR_5375    :▲
@@ -2876,22 +2876,22 @@ STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
 STR_5815    :Taispeáin áiritheoir FPS sa chluiche
 STR_5816    :Socraíonn sé an cóimheas scálaithe.{NEWLINE}Úsáideach go háirithe agus tú{NEWLINE}ag imirt in ardtaifeach
 STR_5820    :Íoslaghdaigh má chailltear an fócas{NEWLINE}agus tú sa mód lánscáileáin
-STR_5822    :Cycle between day and night.{NEWLINE}Full cycle takes one in-game month
+STR_5822    :Timthriallaigh idir lá agus oíche.{NEWLINE}Tógann an timthriall iomlán mí amháin sa chluiche
 STR_5823    :Taispeáin meirgí i gceannlitreacha (Iompar RCT1)
-STR_5824    :Disables lightning effect{NEWLINE}during a thunderstorm
-STR_5825    :Keep the mouse cursor in the window
-STR_5826    :Invert right mouse dragging of the viewport
-STR_5827    :Sets the colour scheme used for the GUI
-STR_5828    :Changes what measurement format is used for distances, speed, etc.
-STR_5829    :Changes what currency format is used. Purely visual, there is no exact exchange rate implementation
-STR_5830    :Changes what language is used
-STR_5831    :Changes what format the{NEWLINE}temperature is displayed in
-STR_5832    :Show height as generic units instead of measurement format set under “Distance and Speed”
-STR_5833    :Changes what date format is used
-STR_5834    :Select which audio device OpenRCT2 will use
-STR_5835    :Mute the game if the window loses focus
-STR_5836    :Select music to use on the main menu.{NEWLINE}Selecting the RCT1 theme requires that you set the path to RCT1 in the Advanced tab.
-STR_5837    :Create and manage custom UI themes
+STR_5824    :Díchumasaíonn éifeacht tintrí{NEWLINE}i rith stoirme toirní
+STR_5825    :Coinnigh cúrsóir na luiche san fhuinneog
+STR_5826    :Inbhéartaigh deastarraingt na luiche ar an amharcphort
+STR_5827    :Socraíonn an scéim datha a úsáidtear don GUI
+STR_5828    :Roghnaigh cén fhormáid tomhais a úsáidtear le haghaidh faid, luais, srl.
+STR_5829    :Roghnaigh cén fhormáid airgeadra a úsáidtear. Cúrsaí cuma amháin atá i gceist, níl aon ráta malairte beacht á fheidhmiú
+STR_5830    :Roghnaigh cén teanga a úsáidtear
+STR_5831    :Roghnaigh cén fhormáid ina dtaispeántar{NEWLINE}an teocht
+STR_5832    :Taispeáin airde mar aonaid ghinearálta in ionad na formáide tomhais atá socraithe faoi “Fad agus Luas”
+STR_5833    :Roghnaigh cén fhormáid dáta a úsáidtear
+STR_5834    :Roghnaigh cén gléas fuaime a úsáidfidh OpenRCT2
+STR_5835    :Balbhaigh an cluiche má chailleann an fhuinneog an fócas
+STR_5836    :Roghnaigh ceol a úsáidfear ar an bpríomh-roghchlár.{NEWLINE}Chun an téama RCT1 a roghnú, ní mór duit an chonair go RCT1 a shocrú sa táb “Ardleibhéal”.
+STR_5837    :Cruthaigh agus bainistigh téamaí UI saincheaptha
 STR_5838    :Taispeáin cnaipe ar leith don fhuinneog airgeadais sa bharra uirlisí
 STR_5839    :Taispeáin cnaipe ar leith don fhuinneog taighde agus forbartha sa bharra uirlisí
 STR_5840    :Taispeáin cnaipe ar leith don fhuinneog cleasa sa bharra uirlisí
