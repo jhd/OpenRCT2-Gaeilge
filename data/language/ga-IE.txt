@@ -2896,18 +2896,18 @@ STR_5838    :Taispeáin cnaipe ar leith don fhuinneog airgeadais sa bharra uirli
 STR_5839    :Taispeáin cnaipe ar leith don fhuinneog taighde agus forbartha sa bharra uirlisí
 STR_5840    :Taispeáin cnaipe ar leith don fhuinneog cleasa sa bharra uirlisí
 STR_5841    :Taispeáin cnaipe ar leith don fhuinneog nuachta is déanaí sa bharra uirlisí
-STR_5842    :Sort scenarios into tabs by their difficulty (RCT2 behaviour) or their source game (RCT1 behaviour)
-STR_5843    :Enables progressive unlocking of scenarios (RCT1 behaviour)
-STR_5844    :Stay connected to a multiplayer server{NEWLINE}even if a desync or error occurs
-STR_5845    :Adds a button for{NEWLINE}debugging tools to the toolbar.{NEWLINE}Enables keyboard shortcut for developer console
-STR_5846    :Set how often OpenRCT2 automatically saves
-STR_5847    :Select park sequence used on the title screen.{NEWLINE}Title sequences from RCT1/2 require imported scenarios to function
-STR_5849    :Automatically place{NEWLINE}newly hired staff members
-STR_5851    :Sets the default inspection interval{NEWLINE}on newly built rides
-STR_5853    :Toggle sound effects on/off
-STR_5854    :Toggle ride music on/off
-STR_5855    :Set regular fullscreen, borderless fullscreen{NEWLINE}or windowed display
-STR_5856    :Set game resolution when in fullscreen mode
+STR_5842    :Sórtáil cnámhscéil i dtábanna de réir a ndeacrachta (iompar RCT2) nó a mbunchluiche (iompar RCT1)
+STR_5843    :Cumasaíonn díghlasáil fhorchéimnitheach cnámhscéal (iompar RCT1)
+STR_5844    :Fan ceangailte le freastalaí ilimreoirí{NEWLINE}fiú má tharlaíonn díshioncronú nó earráid
+STR_5845    :Cuireann cnaipe le haghaidh{NEWLINE}uirlisí dífhabhtúcháin leis an mbarra uirlisí.{NEWLINE}Cumasaíonn aicearra méarchláir le haghaidh consól forbróra
+STR_5846    :Socraigh cé chomh minic a shábhálann OpenRCT2 go huathoibríoch
+STR_5847    :Roghnaigh seicheamh páirce a úsáidtear ar an scáileán teidil.{NEWLINE}Ní fheidhmíonn seichimh teidil RCT1/2 gan cnámhscéil iompórtáilte
+STR_5849    :Socraíonn baill foirne{NEWLINE}fostaithe le déanaí go huathoibríoch
+STR_5851    :Socraíonn an gnátheatramh scrúdaithe{NEWLINE}ar mharcaíochtaí nuathógtha
+STR_5853    :Scoránaigh éifeachtaí fuaime ann/as
+STR_5854    :Scoránaigh ceol marcaíochta ann/as
+STR_5855    :Socraigh lánscáileán rialta, lánscáileán gan teorainn{NEWLINE}nó taispeáint i bhfuinneog
+STR_5856    :Socraigh taifeach an chluiche nuair a bhíonn tú i mód lánscáileáin
 STR_5857    :Roghanna cluiche
 STR_5858    :Use GPU for displaying instead of CPU. Improves compatibility with screen capture software. May slightly decrease performance.
 STR_5859    :Enables frame tweening for visually{NEWLINE}smoother gameplay. When disabled,{NEWLINE}the game will run at 40 FPS.
@@ -3196,8 +3196,8 @@ STR_6153    :Pay to enter park / Pay per ride
 STR_6154    :For security reasons, it is not recommended to run OpenRCT2 with elevated permissions.
 STR_6155    :Neither KDialog nor Zenity are installed. Please install one, or configure from the command line.
 STR_6156    :Name is reserved
-STR_6157    :Console
-STR_6160    :{WINDOW_COLOUR_2}Available vehicles: {BLACK}{STRING}
+STR_6157    :Consól
+STR_6160    :{WINDOW_COLOUR_2}Feithiclí ar fáil: {BLACK}{STRING}
 STR_6161    :Gridlines display toggle
 STR_6162    :Luch Fhiáin Chasta
 STR_6163    :Mouse shaped cars speed through tight corners and short drops, gently spinning around to disorientate the riders
@@ -3205,7 +3205,7 @@ STR_6164    :{WHITE}❌
 STR_6165    :Use vertical sync
 STR_6166    :Synchronises each frame displayed to the monitor’s refresh rate, preventing screen tearing.
 STR_6167    :Advanced
-STR_6168    :Title Sequence
+STR_6168    :Seicheamh Teidil
 STR_6170    :Interface Tweaks
 STR_6171    :Cuardach
 STR_6172    :Cuardach
@@ -3236,23 +3236,23 @@ STR_6222    :Can’t place guest entry point here…
 STR_6223    :Must be outside park boundaries!
 STR_6224    :{STRING} placed a guest entry point.
 STR_6225    :Not supported with OpenGL renderer
-STR_6226    :Enable early scenario completion
+STR_6226    :Cumasaigh críochnú cnámhscéal go luath
 STR_6227    :Triggers scenario completion when all scenario goals are met before the target date.
-STR_6228    :Scenario Options
+STR_6228    :Roghanna Cnámhscéil
 STR_6229    :{WINDOW_COLOUR_2}{STRINGID}: {STRINGID}
 STR_6230    :{BLACK}{STRINGID}:
 STR_6231    :{WINDOW_COLOUR_2}{STRINGID}: {MOVE_X}{185}{STRINGID}
 STR_6232    :Frozen
 STR_6233    :Cut-away view
 STR_6234    :Highlight path issues
-STR_6235    :Server Information
+STR_6235    :Eolas Freastalaí
 STR_6236    :Imreoirí
 STR_6237    :Grúpaí
 STR_6238    :Roghanna Ilimreoirí
 STR_6239    :Vertical Clipping
 STR_6240    :Horizontal Clipping
-STR_6241    :Select area
-STR_6242    :Clear selection
+STR_6241    :Roghnaigh limistéar
+STR_6242    :Glan an rogha
 STR_6243    :Refurbishes the ride,{NEWLINE}makes it like new
 STR_6244    :Can’t refurbish ride…
 STR_6245    :Ride doesn’t need refurbishing
@@ -3266,11 +3266,11 @@ STR_6255    :Tá URL neamhbhailí
 STR_6256    :Rendering effects
 STR_6257    :Glassy (translucent)
 STR_6258    :Clear (transparent)
-STR_6259    :Disabled
+STR_6259    :Díchumasaithe
 STR_6260    :Show blocked tiles
 STR_6261    :Taispeáin cosáin leathana
 STR_6262    :Master volume
-STR_6263    :Toggle all sound on/off
+STR_6263    :Scoránaigh gach fuaim ann/as
 STR_6264    :Always use system file browser
 STR_6265    :When enabled, your operating system’s file browser will be used instead of OpenRCT2’s.
 STR_6266    :Open custom content folder
@@ -3281,14 +3281,14 @@ STR_6270    :Dromchlaí Tír-raoin
 STR_6271    :Imill Tír-raoin
 STR_6272    :Stáisiúin
 STR_6273    :Ceol
-STR_6274    :Can’t set colour scheme…
+STR_6274    :Ní féidir scéim datha a shocrú…
 STR_6275    :Stíl stáisiúin
 STR_6276    :{RED}{STRINGID} has guests getting stuck, possibly due to invalid ride type or operating mode.
 STR_6277    :Station index: {BLACK}{STRINGID}
 STR_6278    :Méid uathshábhála
 STR_6279    :Number of autosaves that should be kept
 STR_6280    :Comhrá
-STR_6281    :Show a separate button for the Chat window in the toolbar
+STR_6281    :Taispeáin cnaipe ar leith le haghaidh fhuinneog an Chomhrá sa bharra uirlisí
 STR_6282    :Comhrá
 STR_6283    :Chat not available at this time. Are you connected to a server?
 STR_6293    :B
@@ -3302,10 +3302,10 @@ STR_6300    :Download all missing objects if available online.
 STR_6301    :Copy the selected object name to the clipboard.
 STR_6302    :Copy the entire list of missing objects to the clipboard.
 STR_6303    :Downloading object ({COMMA16} / {COMMA16}): [{STRING}]
-STR_6304    :Open scenery picker
+STR_6304    :Oscail roghnóir radharcra
 STR_6305    :Multithreading
 STR_6306    :Experimental option to use multiple threads to render, may cause instability.
-STR_6307    :Colour scheme: {BLACK}{STRINGID}
+STR_6307    :Scéim datha: {BLACK}{STRINGID}
 STR_6308    :{TOPAZ}“{STRINGID}{TOPAZ}”{NEWLINE}{STRINGID}
 STR_6309    :Reconnect
 STR_6310    :{WINDOW_COLOUR_2}Position: {BLACK}{INT32} {INT32} {INT32}
@@ -3346,7 +3346,7 @@ STR_6345    :Cigire Tíleanna: Ardaigh airde baill
 STR_6346    :Cigire Tíleanna: Laghdaigh airde baill
 STR_6347    :Path additions cannot be placed on level crossings!
 STR_6348    :Remove level crossing first!
-STR_6349    :Random title sequence
+STR_6349    :Seicheamh teidil randamach
 STR_6350    :Scatter
 STR_6351    :Scenery Scatter Tool
 STR_6352    :Density
