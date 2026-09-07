@@ -2740,7 +2740,7 @@ STR_5641    :Grúpa Réamhshocraithe:
 STR_5642    :Grúpa
 STR_5643    :Cuir Grúpa leis
 STR_5644    :Bain an Grúpa
-STR_5645    :Chat
+STR_5645    :Comhrá
 STR_5646    :Terraform
 STR_5647    :Scoránaigh Sos
 STR_5648    :Socraigh Leibhéal Uisce
@@ -2840,7 +2840,7 @@ STR_5780    :Costas reatha: {CURRENCY2DP} san uair
 STR_5781    :Costas reatha: Anaithnid
 STR_5782    :Tá tú ceangailte anois. Brúigh ‘{STRING}’ chun comhrá a dhéanamh.
 STR_5783    :{WINDOW_COLOUR_2}Cnámhscéal Faoi Ghlas
-STR_5784    :{BLACK}Críochnaigh cnámhscéil níos luaithe chun an cnámhscéal seo a dhíghlasáil.
+STR_5784    :{BLACK}Críochnaigh cnámhscéalta níos luaithe chun an cnámhscéal seo a dhíghlasáil.
 STR_5785    :Ní féidir ainm nua a chur ar ghrúpa…
 STR_5786    :Ainm grúpa neamhbhailí
 STR_5787    :{COMMA32} imreoirí ar líne
@@ -2896,12 +2896,12 @@ STR_5838    :Taispeáin cnaipe ar leith don fhuinneog airgeadais sa bharra uirli
 STR_5839    :Taispeáin cnaipe ar leith don fhuinneog taighde agus forbartha sa bharra uirlisí
 STR_5840    :Taispeáin cnaipe ar leith don fhuinneog cleasa sa bharra uirlisí
 STR_5841    :Taispeáin cnaipe ar leith don fhuinneog nuachta is déanaí sa bharra uirlisí
-STR_5842    :Sórtáil cnámhscéil i dtábanna de réir a ndeacrachta (iompar RCT2) nó a mbunchluiche (iompar RCT1)
+STR_5842    :Sórtáil cnámhscéalta i dtábanna de réir a ndeacrachta (iompar RCT2) nó a mbunchluiche (iompar RCT1)
 STR_5843    :Cumasaíonn díghlasáil fhorchéimnitheach cnámhscéal (iompar RCT1)
 STR_5844    :Fan ceangailte le freastalaí ilimreoirí{NEWLINE}fiú má tharlaíonn díshioncronú nó earráid
 STR_5845    :Cuireann cnaipe le haghaidh{NEWLINE}uirlisí dífhabhtúcháin leis an mbarra uirlisí.{NEWLINE}Cumasaíonn aicearra méarchláir le haghaidh consól forbróra
 STR_5846    :Socraigh cé chomh minic a shábhálann OpenRCT2 go huathoibríoch
-STR_5847    :Roghnaigh seicheamh páirce a úsáidtear ar an scáileán teidil.{NEWLINE}Ní fheidhmíonn seichimh teidil RCT1/2 gan cnámhscéil iompórtáilte
+STR_5847    :Roghnaigh seicheamh páirce a úsáidtear ar an scáileán teidil.{NEWLINE}Ní fheidhmíonn seichimh teidil RCT1/2 gan cnámhscéalta iompórtáilte
 STR_5849    :Socraíonn baill foirne{NEWLINE}fostaithe le déanaí go huathoibríoch
 STR_5851    :Socraíonn an gnátheatramh scrúdaithe{NEWLINE}ar mharcaíochtaí nuathógtha
 STR_5853    :Scoránaigh éifeachtaí fuaime ann/as
@@ -3086,7 +3086,7 @@ STR_6034    :{BLACK}{STRING}
 STR_6035    :Roghnaigh d’eolaire RCT1 le do thoil
 STR_6036    :Glan
 STR_6037    :Níl suiteáil bhailí RollerCoaster Tycoon 1 san fhillteán roghnaithe.
-STR_6038    :Má tá RCT1 suiteáilte agat, socraigh an rogha seo ar a eolaire chun cnámhscéil, ceoil, etc. a lódáil
+STR_6038    :Má tá RCT1 suiteáilte agat, socraigh an rogha seo ar a eolaire chun cnámhscéalta, ceol, srl. a lódáil
 STR_6039    :Mearscartáil marcaíocht
 STR_6040    :Cuir Roghanna Cnámhscéil In Eagar
 STR_6041    :{BLACK}Níl aon mheicneoir fostaithe!
