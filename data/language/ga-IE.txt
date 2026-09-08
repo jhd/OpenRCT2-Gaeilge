@@ -3146,8 +3146,8 @@ STR_6095    :Chuir {STRING} radharcra in eagar.
 STR_6096    :{STRING} set sign name to ‘{STRING}’.
 STR_6097    :Leag {STRING} ráille na marcaíochta ‘{STRING}’.
 STR_6098    :Bhain {STRING} ráille na marcaíochta.
-STR_6099    :You connected to the server.
-STR_6100    :You disconnected from the server.
+STR_6099    :Cheangail tú leis an bhfreastalaí.
+STR_6100    :Dhícheangail tú ón bhfreastalaí.
 STR_6101    :Rides don’t decrease in value over time
 STR_6102    :The value of a ride won’t decrease over time, so guests will not suddenly think that a ride is too expensive.
 STR_6103    :This option is disabled during network play.
@@ -3170,7 +3170,7 @@ STR_6127    :Comhad: {STRING}
 STR_6128    :The file could not be loaded as some of the objects referenced in it are missing or corrupt. A list of these objects is given below.
 STR_6129    :Cóipeáil
 STR_6130    :Cóipeáil iad uile
-STR_6131    :Object source
+STR_6131    :Foinse réada
 STR_6132    :Ignore research status
 STR_6133    :Access rides and scenery that have not yet been invented
 STR_6134    :Glan Radharcra
@@ -3179,7 +3179,7 @@ STR_6136    :Server sent invalid request
 STR_6137    :OpenRCT2, a free and open source recreation of and expansion to Roller Coaster Tycoon 2.
 STR_6138    :OpenRCT2 is the work of many authors, a full list can be found under the “Contributors” button. For more information, visit http://github.com/OpenRCT2/OpenRCT2
 STR_6139    :All product and company names belong to their respective holders. Use of them does not imply any affiliation with or endorsement by them.
-STR_6140    :Changelog…
+STR_6140    :Loga athruithe…
 STR_6141    :Barra Uirlisí Íochtair RCT1
 STR_6142    :{WINDOW_COLOUR_2}Ainm ráille: {BLACK}{STRING}
 STR_6143    :{WINDOW_COLOUR_2}Saghas marcaíochta: {BLACK}{STRINGID}
@@ -3192,7 +3192,7 @@ STR_6149    :Unable to connect to master server
 STR_6150    :Invalid response from master server (no JSON number)
 STR_6151    :Master server failed to return servers
 STR_6152    :Invalid response from master server (no JSON array)
-STR_6153    :Pay to enter park / Pay per ride
+STR_6153    :Íoc chun páirc a iontráil / Íoc sa mharcaíocht
 STR_6154    :For security reasons, it is not recommended to run OpenRCT2 with elevated permissions.
 STR_6155    :Neither KDialog nor Zenity are installed. Please install one, or configure from the command line.
 STR_6156    :Name is reserved
@@ -3260,10 +3260,10 @@ STR_6246    :Athchóirigh
 STR_6247    :Athchóirigh marcaíocht/díol spéise
 STR_6248    :{WINDOW_COLOUR_1}Ar mhaith leat {STRINGID} a athchóiriú ar {CURRENCY}?
 STR_6249    :{WINDOW_COLOUR_1}Ar mhaith leat {STRINGID} a athchóiriú?
-STR_6250    :{WINDOW_COLOUR_1}Are you sure you want to completely demolish {STRINGID} and gain {CURRENCY}?
+STR_6250    :{WINDOW_COLOUR_1}An bhfuil tú cinnte gur mhaith leat {STRINGID} a scartáil ar fad agus {CURRENCY} a fháil?
 STR_6251    :Níl an mharcaíocht folamh fós
 STR_6255    :Tá URL neamhbhailí
-STR_6256    :Rendering effects
+STR_6256    :Éifeachtaí rindreála
 STR_6257    :Glassy (translucent)
 STR_6258    :Clear (transparent)
 STR_6259    :Díchumasaithe
@@ -3290,15 +3290,15 @@ STR_6279    :Number of autosaves that should be kept
 STR_6280    :Comhrá
 STR_6281    :Taispeáin cnaipe ar leith le haghaidh fhuinneog an Chomhrá sa bharra uirlisí
 STR_6282    :Comhrá
-STR_6283    :Chat not available at this time. Are you connected to a server?
+STR_6283    :Níl comhrá ar fáil ag an am seo. An bhfuil tú ceangailte le freastalaí?
 STR_6293    :B
 STR_6294    :KiB
 STR_6295    :MiB
 STR_6296    :GiB
 STR_6297    :TiB
 STR_6298    :{STRING}/soic
-STR_6299    :Download all
-STR_6300    :Download all missing objects if available online.
+STR_6299    :Íoslódáil gach rud
+STR_6300    :Íoslódáil gach réad ar iarraidh má tá siad ar fáil ar líne.
 STR_6301    :Copy the selected object name to the clipboard.
 STR_6302    :Copy the entire list of missing objects to the clipboard.
 STR_6303    :Downloading object ({COMMA16} / {COMMA16}): [{STRING}]
@@ -3345,7 +3345,7 @@ STR_6344    :Cigire Tíleanna: Laghdaigh comhordanáid Y
 STR_6345    :Cigire Tíleanna: Ardaigh airde baill
 STR_6346    :Cigire Tíleanna: Laghdaigh airde baill
 STR_6347    :Path additions cannot be placed on level crossings!
-STR_6348    :Remove level crossing first!
+STR_6348    :Bain crosaire comhréidh ar dtús!
 STR_6349    :Seicheamh teidil randamach
 STR_6350    :Scatter
 STR_6351    :Scenery Scatter Tool
@@ -3354,7 +3354,7 @@ STR_6353    :Low density
 STR_6354    :Medium density
 STR_6355    :High density
 STR_6356    :Spawns ducks if park contains water
-STR_6357    :Removes all ducks from the map
+STR_6357    :Baineann gach lacha ón mapa
 STR_6358    :Leathanach {UINT16}
 STR_6361    :Enable lighting effects on rides (experimental)
 STR_6362    :If enabled, vehicles for tracked rides will be lit up at night.
@@ -3364,21 +3364,21 @@ STR_6365    :Ride casualties
 STR_6366    :Stuck or stalled vehicles
 STR_6367    :Animation frame:
 STR_6368    :For compatibility reasons, it is not recommended to run OpenRCT2 with Wine. OpenRCT2 has native support for macOS, Linux, FreeBSD and OpenBSD.
-STR_6369    :Allow building track at invalid heights
+STR_6369    :Ceadaigh ráille a thógáil ag airdí neamhbhailí
 STR_6370    :Allows placing track pieces at any height interval
 STR_6371    :The specified path contains a RollerCoaster Tycoon 1 installation, but the “csg1i.dat” file is missing. This file needs to be copied from the Loopy Landscapes or RCT Deluxe CD to the “Data” folder of the RollerCoaster Tycoon 1 install on your hard drive.
 STR_6372    :The specified path contains a RollerCoaster Tycoon 1 installation, but this version is not suitable. OpenRCT2 needs a Loopy Landscapes or RCT Deluxe install in order to use RollerCoaster Tycoon 1 assets.
-STR_6373    :Toggle clearance checks
+STR_6373    :Scoránaigh seiceálacha glanspáis
 STR_6374    :C
 STR_6375    :Marcaíocht Anaithnid
-STR_6376    :{WINDOW_COLOUR_2}Ride vehicle:{NEWLINE}{BLACK}{STRINGID} for {STRINGID}
-STR_6377    :{WINDOW_COLOUR_2}Type: {BLACK}{STRINGID} for {STRINGID}
+STR_6376    :{WINDOW_COLOUR_2}Feithicil marcaíochta:{NEWLINE}{BLACK}{STRINGID} le haghaidh {STRINGID}
+STR_6377    :{WINDOW_COLOUR_2}Saghas: {BLACK}{STRINGID} le haghaidh {STRINGID}
 STR_6378    :Receiving objects list…
 STR_6379    :Received invalid data
-STR_6380    :Update available!
+STR_6380    :Nuashonrú ar fáil!
 STR_6381    :Join OpenRCT2 Discord!
 STR_6382    :Newer release of OpenRCT2 is available: {STRING}!
-STR_6383    :Open download page
+STR_6383    :Oscail leathanach íoslódála
 STR_6384    :Sneachta
 STR_6385    :Sneachta trom
 STR_6386    :Síobadh sneachta
@@ -3608,22 +3608,22 @@ STR_6609    :Níor aimsíodh bloc ráille
 STR_6610    :Níor aimsíodh ball cosáin
 STR_6611    :Níor aimsíodh ball balla
 STR_6612    :Níor aimsíodh ball meirge
-STR_6613    :Reload object
-STR_6614    :Can’t change park entrance fee
-STR_6615    :Track on this tile needs water
-STR_6616    :Action invalid for that staff type
-STR_6617    :Can’t swap tile element with itself
-STR_6618    :Can’t restrict or derestrict object…
-STR_6619    :Object type cannot be restricted!
+STR_6613    :Athlódáil réad
+STR_6614    :Ní féidir táille iontrála na páirce a athrú
+STR_6615    :Teastaíonn uisce ón ráille ar an tíle seo
+STR_6616    :Gníomh neamhbhailí don tsaghas foirne sin
+STR_6617    :Ní féidir ball tíle a bhabhtáil leis féin
+STR_6618    :Ní féidir réad a shrianadh nó a dhíshrianadh…
+STR_6619    :Ní féidir saghas réada a shrianadh!
 STR_6620    :Níor aimsíodh an réad!
 STR_6621    :Faoi srian
-STR_6622    :Restrict object to the Scenario Editor and Sandbox mode.
+STR_6622    :Srian réad don Eagarthóir Cnámhscéil agus don mhód bosca gainimh.
 STR_6623    :Type ‘help’ for a list of available commands. Type ‘hide’ to hide the console.
 STR_6624    :Cigire Tíleanna: Sórtáil baill
 STR_6625    :Dath neamhbhailí
 STR_6626    :Animation is backwards
 STR_6627    :Luas ráille ró-ard!
-STR_6628    :Can only be placed on path edges!
+STR_6628    :Ní féidir é a chur ach ar imill cosán!
 STR_6629    :Align toolbar buttons horizontally centred
 STR_6630    :This setting will align the toolbar buttons horizontally in the centre of the screen. The traditional way of aligning them is in the left and right corner.
 STR_6631    :Ag lódáil…
@@ -3631,8 +3631,8 @@ STR_6632    :Ag seiceáil comhaid réada…
 STR_6633    :Ag seiceáil comhaid cnámhscéil…
 STR_6634    :Ag seiceáil comhaid deartha ráille…
 STR_6635    :Checking asset packs…
-STR_6636    :Checking title sequences…
-STR_6637    :Loading title sequence…
+STR_6636    :Ag seiceáil seichimh teidil…
+STR_6637    :Ag lódáil seicheamh teidil…
 STR_6638    :Enlarged UI
 STR_6639    :Modifies the interface to be more suitable for touch usage
 STR_6640    :Edit asset packs…
@@ -3651,32 +3651,32 @@ STR_6652    :Fuinneog Earráide
 STR_6653    :All sources shown
 STR_6654    :Showing {POP16}{UINT16} sources
 STR_6655    :Only ‘{POP16}{STRINGID}’
-STR_6656    :Remove all fences from the park
-STR_6657    :Land Not Owned
+STR_6656    :Bain gach sconsa den pháirc
+STR_6657    :Talamh Gan Úinéireacht
 STR_6658    :Set land to be not owned by the park, nor available for purchase
-STR_6659    :Guests ignore prices
-STR_6660    :Guests will ignore the price of rides and stalls.
-STR_6661    :Randomise all
-STR_6662    :Randomise colours for every train or vehicle.
+STR_6659    :Déanann aíonna neamhaird de phraghsanna
+STR_6660    :Déanfaidh aíonna neamhaird de phraghas na marcaíochtaí agus na stainníní.
+STR_6661    :Randamaigh uile
+STR_6662    :Randamaigh dathanna do gach traein nó feithicil.
 STR_6663    :Cleasa dáta
 STR_6664    :Taispeáin cleasa dáta
-STR_6665    :Nature/weather cheats
-STR_6666    :Show nature/weather cheats
-STR_6667    :Fauna
+STR_6665    :Cleasanna an dúlra/an aimsire
+STR_6666    :Taispeáin cleasanna an dúlra/an aimsire
+STR_6667    :Fána
 STR_6668    :Cleasa foirne
 STR_6669    :Taispeáin cleasa foirne
-STR_6670    :Guest behaviour
+STR_6670    :Iompar aoi
 STR_6671    :Taispeáin ainmneacha ‘fíora’ na foirne
-STR_6672    :Toggle between showing ‘real’ names of staff and staff numbers
-STR_6673    :Transparent
+STR_6672    :Scoránaigh idir ‘fíorainmneacha’ na foirne agus uimhreacha foirne
+STR_6673    :Trédhearach
 # Used as part of a sentence (see https://github.com/OpenRCT2/OpenRCT2/issues/22072).
 STR_6674    :{MONTH}, Bliain {COMMA16}
 STR_6675    :Ainmneacha Daoine
-STR_6676    :At least one peep names object must be selected
+STR_6676    :Ní mór réad ainmneacha peep amháin ar a laghad a roghnú
 STR_6677    :Add beaches around water bodies
-STR_6678    :Heightmap source:
+STR_6678    :Foinse na léarscáile airde:
 STR_6679    :Talamh réidh
-STR_6680    :Simplex noise
+STR_6680    :Torann simpléacs
 STR_6681    :Comhad Léarscáile Airde
 STR_6682    :Map Generator - Generator
 STR_6683    :Map Generator - Terrain
@@ -3711,29 +3711,29 @@ STR_6711    :Ainm comhaid:
 STR_6712    :Sábháil
 STR_6713    :{COMMA32} {STRINGID}
 STR_6714    :Ainm comhaid
-STR_6715    :Date modified
+STR_6715    :Dáta mionathraithe
 STR_6716    :Toise comhaid
 STR_6717    :Toise comhaid {STRINGID}
 STR_6718    :Beochanna Daoine
-STR_6719    :At least one guest peep animations object must be selected
-STR_6720    :At least one handyman peep animations object must be selected
-STR_6721    :At least one mechanic peep animations object must be selected
-STR_6722    :At least one security peep animations object must be selected
-STR_6723    :At least one entertainer peep animations object must be selected
+STR_6719    :Ní mór réad beochana peep aoi amháin ar a laghad a roghnú
+STR_6720    :Ní mór réad beochana peep airígh amháin ar a laghad a roghnú
+STR_6721    :Ní mór réad beochana peep meicneora amháin ar a laghad a roghnú
+STR_6722    :Ní mór réad beochana peep slándála amháin ar a laghad a roghnú
+STR_6723    :Ní mór réad beochana peep fuirseora amháin ar a laghad a roghnú
 STR_6724    :Téacsanna Cnámhscéil
 STR_6725    :X:
 STR_6726    :Y:
 STR_6727    :Lúb Tumadh (Ar chlé)
 STR_6728    :Lúb Tumadh (Ar dheis)
-STR_6729    :Cable lift hill must start immediately after station or block brake
-STR_6730    :Export emscripten data
-STR_6731    :Import emscripten data
-STR_6732    :Show a button in the toolbar to rotate the view anti-clockwise
+STR_6729    :Ní mór do chnoc an ardaitheora cábla tosú láithreach tar éis stáisiúin nó coscáin bloic
+STR_6730    :Easpórtáil sonraí emscripten
+STR_6731    :Iompórtáil sonraí emscripten
+STR_6732    :Taispeáin cnaipe sa bharra uirlisí chun an amharc a rothlú go tuathalach
 STR_6733    :See-Through
 STR_6734    :Map elements that are at or above the cutting height are rendered translucent.
-STR_6735    :Go up to parent folder
-STR_6736    :Preview
-STR_6737    :No preview available
+STR_6735    :Téigh suas go dtí an fillteán máthar
+STR_6736    :Réamhamharc
+STR_6737    :Níl aon réamhamharc ar fáil
 STR_6738    :{WINDOW_COLOUR_2}Rátáil páirce: {BLACK}{UINT16}
 STR_6739    :{WINDOW_COLOUR_2}Dáta: {BLACK}{STRINGID}
 STR_6740    :{WINDOW_COLOUR_2}Airgead: {BLACK}{CURRENCY2DP}
@@ -3747,7 +3747,7 @@ STR_6747    :Preferences vary (default)
 STR_6748    :Only less intense rides
 STR_6749    :Only more intense rides
 STR_6750    :Select what kind of ride intensity newly spawned guests prefer.
-STR_6751    :Queue paths cannot be used for level crossings!
+STR_6751    :Ní féidir cosáin scuaine a úsáid le haghaidh crosairí comhréidh!
 STR_6752    :Roghanna cnámhscéil - Cuspóir
 STR_6753    :Roghanna cnámhscéil - Sonraí Cnámhscéil
 STR_6754    :Roghanna cnámhscéil - Srianta Talún
@@ -3757,24 +3757,24 @@ STR_6757    :Taispeáin roghanna srianta talún
 STR_6758    :Roghanna iasachta
 STR_6759    :Business model
 STR_6760    :Earnings:
-STR_6761    :Scenario Details
+STR_6761    :Sonraí Cnámhscéil
 STR_6762    :Interface
 STR_6763    :RollerCoaster Tycoon 1
 STR_6764    :Saving and autosaves
 STR_6765    :Advanced
-STR_6766    :Clear
+STR_6766    :Glan
 STR_6767    :Fuinneog
-STR_6768    :Rendering
+STR_6768    :Rindreáil
 STR_6769    :Iompar
-STR_6770    :Frame rate limit:
-STR_6771    :Internal speed (default)
-STR_6772    :Vertical sync
-STR_6773    :Unrestricted
-STR_6774    :Time since last inspection
+STR_6770    :Teorainn ráta frámaí:
+STR_6771    :Luas inmheánach (réamhshocrú)
+STR_6772    :Sioncronú ingearach
+STR_6773    :Neamhshrianta
+STR_6774    :Am ón scrúdú deireanach
 STR_6775    :{COMMA16} nóiméad
 STR_6776    :{COMMA16} nóiméad
 STR_6777    :níos mó ná 4 uair
-STR_6778    :Preview scenarios using:
+STR_6778    :Réamhamharc cnámhscéil le:
 STR_6779    :Select the kind of preview image to use in the scenario selection screen.
 STR_6780    :Mionmhapaí
 STR_6781    :Gabhálacha scáileáin
@@ -3788,12 +3788,12 @@ STR_6788    :Sensitivity:
 STR_6789    :Analogue stick sensitivity multiplier
 STR_6790    :Deadzone: {COMMA32}%
 STR_6791    :Sensitivity: {COMMA32}%
-STR_6792    :Entrance Buildings
+STR_6792    :Foirgnimh Iontrála
 STR_6793    :Aíonna agus Foireann
 STR_6794    :Radharcra agus Téamú
 STR_6795    :{MOVE_X}{10}{STRINGID}
 STR_6796    :•{MOVE_X}{10}{STRINGID}
-STR_6797    :No preview
+STR_6797    :Gan réamhamharc
 STR_6798    :Gabháil scáileáin
 STR_6799    :Mionmhapa
 STR_7000    :nó
@@ -3810,7 +3810,7 @@ STR_7010    :Could not start replay, file ‘{STRING}’ doesn’t exist or isn�
 STR_7011    :Could not start replay
 STR_7012    :Polish Złoty (PLN)
 STR_7013    :Drag areas of path
-STR_7014    :I own the game on Steam, but I haven’t installed it yet.
+STR_7014    :Tá an cluiche agam ar Steam, ach níl sé suiteáilte agam fós.
 STR_7015    :Please close Steam if it’s running, then click ‘OK’.
 STR_7016    :OpenRCT2 has tried to trigger a download in Steam. Please open Steam and let it download the game. When Steam is finished, click ‘OK’.
 STR_7017	:Scoir
