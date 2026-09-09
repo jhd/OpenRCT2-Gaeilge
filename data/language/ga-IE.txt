@@ -2862,7 +2862,7 @@ STR_5802    :Cuireann cosc ar aíonna bruscar a chaitheamh agus urlacan
 STR_5803    :Rothlaigh ball mapa roghnaithe
 STR_5804    :Balbhaigh fuaim
 STR_5805    :Má tá sé marcáilte, cuirfear do fhreastalaí leis an liosta{NEWLINE}poiblí freastalaithe ionas gur féidir le gach duine é a aimsiú
-STR_5806    :Scoránaigh mód fuinneoga
+STR_5806    :Scoránaigh mód fuinneoige
 STR_5807    :{WINDOW_COLOUR_2}Líon na marcaíochtaí: {BLACK}{COMMA16}
 STR_5808    :{WINDOW_COLOUR_2}Líon na siopaí agus na stainníní: {BLACK}{COMMA16}
 STR_5809    :{WINDOW_COLOUR_2}Líon na mbothanna eolais agus na saoráidí eile: {BLACK}{COMMA16}
@@ -2953,7 +2953,7 @@ STR_5900    :Use original drawing code
 STR_5901    :Show segment heights
 STR_5902    :Show bounding boxes
 STR_5903    :Show paint debug window
-STR_5904    :Reset date
+STR_5904    :Athshocraigh dáta
 STR_5905    :A map generation tool that automatically creates a custom landscape
 STR_5906    :Zoom to cursor position
 STR_5907    :When enabled, zooming in will centre around the cursor, as opposed to the screen centre.
@@ -3204,7 +3204,7 @@ STR_6163    :Mouse shaped cars speed through tight corners and short drops, gent
 STR_6164    :{WHITE}❌
 STR_6165    :Use vertical sync
 STR_6166    :Synchronises each frame displayed to the monitor’s refresh rate, preventing screen tearing.
-STR_6167    :Advanced
+STR_6167    :Ardleibhéal
 STR_6168    :Seicheamh Teidil
 STR_6170    :Interface Tweaks
 STR_6171    :Cuardach
@@ -3321,10 +3321,10 @@ STR_6319    :Coscán Bloic Dúnta
 STR_6320    :Indestructible
 STR_6321    :Addition is broken
 STR_6322    :{WINDOW_COLOUR_2}Entity ID: {BLACK}{INT32}
-STR_6323    :Simulating
-STR_6324    :Simulate
-STR_6325    :Simulate ride/attraction
-STR_6326    :Can’t simulate {STRINGID}…
+STR_6323    :Ag ionsamhlú
+STR_6324    :Ionsamhlaigh
+STR_6325    :Ionsamhlaigh marcaíocht/díol spéise
+STR_6326    :Ní féidir {STRINGID} a ionsamhlú…
 STR_6327    :Transparent background for giant screenshots
 STR_6328    :With this option enabled, giant screenshots will have a transparent background instead of the default black colour.
 STR_6329    :{STRING}{STRINGID}
@@ -3353,10 +3353,10 @@ STR_6352    :Density
 STR_6353    :Low density
 STR_6354    :Medium density
 STR_6355    :High density
-STR_6356    :Spawns ducks if park contains water
+STR_6356    :Sceitheann lachain má bhíonn uisce sa pháirc
 STR_6357    :Baineann gach lacha ón mapa
 STR_6358    :Leathanach {UINT16}
-STR_6361    :Enable lighting effects on rides (experimental)
+STR_6361    :Cumasaigh maisíochtaí solais ar mharcaíochtaí (trialach)
 STR_6362    :If enabled, vehicles for tracked rides will be lit up at night.
 STR_6363    :Copied text to clipboard
 STR_6364    :{RED}{COMMA16} person has died in an accident on {STRINGID}
@@ -3384,10 +3384,10 @@ STR_6385    :Sneachta trom
 STR_6386    :Síobadh sneachta
 STR_6387    :Ní féidir ball a ísliú anseo…
 STR_6388    :Ní féidir ball a ardú anseo…
-STR_6389    :Invalid clearance
+STR_6389    :Glanspás neamhbhailí
 STR_6390    :OpenRCT2 needs files from the original RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic in order to work. Please select the directory where you installed RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic.
 STR_6391    :Please select your RCT2 or RCTC directory
-STR_6392    :Could not find {STRING} at this path.
+STR_6392    :Níorbh fhéidir {STRING} a aimsiú ag an gconair seo.
 STR_6393    :Rogha cuspóra
 STR_6394    :Cuspóir
 STR_6395    :Cothabháil
@@ -3514,16 +3514,16 @@ STR_6516    :One or more objects added require RollerCoaster Tycoon 1 linked for
 STR_6517    :One or more objects in this park require RollerCoaster Tycoon 1 linked for proper display. Fallback images will be used.
 STR_6518    :{BLACK}Hover over a scenario to view its description and objective. Click it to start playing.
 STR_6519    :Extras
-STR_6520    :Asset Packs
-STR_6521    :Low Priority
-STR_6522    :High Priority
-STR_6523    :Decrease the priority of the selected asset pack.
-STR_6524    :Increase the priority of the selected asset pack.
-STR_6525    :Reload all assets in the game with the enabled asset packs.
-STR_6526    :(base graphics, music and sound effects)
+STR_6520    :Pacáistí Sócmhainní
+STR_6521    :Ísealthosaíocht
+STR_6522    :Ardthosaíocht
+STR_6523    :Laghdaigh tosaíocht an phacáiste sócmhainní roghnaithe.
+STR_6524    :Méadaigh tosaíocht an phacáiste sócmhainní roghnaithe.
+STR_6525    :Athlódáil gach sócmhainn sa chluiche leis na pacáistí sócmhainní cumasaithe.
+STR_6526    :(bunghrafaicí, ceol agus éifeachtaí fuaime)
 STR_6527    :Comórtais
-STR_6528    :Invalid track parameters!
-STR_6529    :Invalid colour scheme parameter!
+STR_6528    :Paraiméadair ráille neamhbhailí!
+STR_6529    :Paraiméadar scéime datha neamhbhailí!
 STR_6530    :User Created Expansion Set
 STR_6531    :The Time Machine
 STR_6532    :Katy’s Dreamworld
@@ -3570,24 +3570,24 @@ STR_6571    :Umber
 STR_6572    :Beige
 STR_6573    :Invisible
 STR_6574    :Void
-STR_6575    :Allow special colour schemes
-STR_6576    :Adds special colours to colour dropdown
+STR_6575    :Ceadaigh scéimeanna datha speisialta
+STR_6576    :Cuireann dathanna speisialta leis an roghchlár anuas dathanna
 STR_6577    :Luas coscáin bloic
-STR_6578    :Set speed limit for block brakes. In block section mode, adjacent brakes with a slower speed are linked to the block brake.
-STR_6579    :Block brakes will be set to default speed when saved as track design
-STR_6580    :Reset
-STR_6581    :Are you sure you want to reset all shortcut keys on this tab?
-STR_6582    :Open keyboard shortcuts window
-STR_6583    :{WINDOW_COLOUR_2}Reversed Trains
-STR_6584    :Select to run trains backwards
+STR_6578    :Socraigh teorainn luais le haghaidh coscáin bloic. Sa mhód roinn bloic, nasctar coscáin chóngaracha a bhfuil luas níos moille acu leis an gcoscán bloic.
+STR_6579    :Socrófar coscáin bloic ag an luas réamhshocraithe nuair a shábháiltear iad mar dhearadh ráille
+STR_6580    :Athshocraigh
+STR_6581    :An bhfuil tú cinnte gur mhaith leat gach eochair aicearra a athshocrú ar an táb seo?
+STR_6582    :Oscail fuinneog na n-aicearraí méarchláir
+STR_6583    :{WINDOW_COLOUR_2}Traenacha Cúlaithe
+STR_6584    :Roghnaigh chun traenacha a rith ar gcúl
 STR_6585    :Ní féidir athruithe a dhéanamh…
 STR_6586    :OpenRCT2
-STR_6587    :The OpenRCT2 Title Theme is a work of Allister Brimble,{NEWLINE}licensed CC BY-SA 4.0.
-STR_6588    :Thanks to Herman Riddering for allowing us to record the 35er Voigt.
-STR_6589    :Show window buttons on the left
-STR_6590    :Show the window buttons (e.g. to close the window) on the left of the title bar instead of on the right.
-STR_6591    :Staff member is currently fixing a ride and can’t be fired.
-STR_6592    :Staff member is currently inspecting a ride and can’t be fired.
+STR_6587    :Is saothar le Allister Brimble é Téama Teidil OpenRCT2,{NEWLINE}ceadúnaithe faoi CC BY-SA 4.0.
+STR_6588    :Buíochas le Herman Riddering as ligean dúinn taifeadadh a dhéanamh ar an 35er Voigt.
+STR_6589    :Taispeáin cnaipí fuinneoige ar chlé
+STR_6590    :Taispeáin na cnaipí fuinneoige (m.sh. an fhuinneog a dhúnadh) ar chlé an bharra teidil in áit ar dheis.
+STR_6591    :Tá ball foirne ag deisiú marcaíochta faoi láthair agus ní féidir é a bhriseadh.
+STR_6592    :Tá ball foirne ag scrúdú marcaíochta faoi láthair agus ní féidir é a bhriseadh.
 STR_6593    :Bain sconsaí páirce
 STR_6594    :Cigire Tíleanna: Scoránaigh fána balla
 STR_6595    :{WINDOW_COLOUR_2}Údar: {BLACK}{STRING}
@@ -3621,7 +3621,7 @@ STR_6622    :Srian réad don Eagarthóir Cnámhscéil agus don mhód bosca gaini
 STR_6623    :Type ‘help’ for a list of available commands. Type ‘hide’ to hide the console.
 STR_6624    :Cigire Tíleanna: Sórtáil baill
 STR_6625    :Dath neamhbhailí
-STR_6626    :Animation is backwards
+STR_6626    :Tá an bheochan ar gcúl
 STR_6627    :Luas ráille ró-ard!
 STR_6628    :Ní féidir é a chur ach ar imill cosán!
 STR_6629    :Align toolbar buttons horizontally centred
@@ -3630,13 +3630,13 @@ STR_6631    :Ag lódáil…
 STR_6632    :Ag seiceáil comhaid réada…
 STR_6633    :Ag seiceáil comhaid cnámhscéil…
 STR_6634    :Ag seiceáil comhaid deartha ráille…
-STR_6635    :Checking asset packs…
+STR_6635    :Ag seiceáil pacáistí sócmhainní…
 STR_6636    :Ag seiceáil seichimh teidil…
 STR_6637    :Ag lódáil seicheamh teidil…
 STR_6638    :Enlarged UI
 STR_6639    :Modifies the interface to be more suitable for touch usage
-STR_6640    :Edit asset packs…
-STR_6641    :Loading/progress window
+STR_6640    :Cuir pacáistí sócmhainní in eagar…
+STR_6641    :Fuinneog lódála/dul chun cinn
 STR_6642    :{STRING} ({COMMA32} / {COMMA32})
 STR_6643    :{STRING} ({COMMA32} / {COMMA32} KiB)
 STR_6644    :Touch enhancements
@@ -3648,9 +3648,9 @@ STR_6649    :Ag lódáil cnámhscéil…
 STR_6650    :Ag lódáil cluiche shábháilte…
 STR_6651    :{STRING} ({COMMA32}%)
 STR_6652    :Fuinneog Earráide
-STR_6653    :All sources shown
-STR_6654    :Showing {POP16}{UINT16} sources
-STR_6655    :Only ‘{POP16}{STRINGID}’
+STR_6653    :Gach foinse ar taispeáint
+STR_6654    :Ag taispeáint {POP16}{UINT16} foinsí
+STR_6655    :‘{POP16}{STRINGID}’ amháin
 STR_6656    :Bain gach sconsa den pháirc
 STR_6657    :Talamh Gan Úinéireacht
 STR_6658    :Set land to be not owned by the park, nor available for purchase
@@ -3682,9 +3682,9 @@ STR_6682    :Map Generator - Generator
 STR_6683    :Map Generator - Terrain
 STR_6684    :Map Generator - Water
 STR_6685    :Map Generator - Forests
-STR_6686    :Tree to land ratio:
-STR_6687    :Min. tree altitude:
-STR_6688    :Max. tree altitude:
+STR_6686    :Cóimheas crann go talamh:
+STR_6687    :Íosairde crainn:
+STR_6688    :Uasairde crainn:
 STR_6689    :{UINT16}%
 STR_6690    :Íosairde talún
 STR_6691    :Iontráil íosairde talún idir {COMMA16} agus {COMMA16}
@@ -3702,8 +3702,8 @@ STR_6702    :Ochtaigh Simpléacs
 STR_6703    :Iontráil Ochtaigh idir {COMMA16} agus {COMMA16}
 STR_6704    :{COMMA2DP32}
 STR_6705    :Browse...
-STR_6706    :{WINDOW_COLOUR_2}Current image file: {BLACK}{STRING}
-STR_6707    :(none selected)
+STR_6706    :{WINDOW_COLOUR_2}Comhad íomhá faoi láthair: {BLACK}{STRING}
+STR_6707    :(níl aon cheann roghnaithe)
 STR_6708    :Neart Smúdála
 STR_6709    :Iontráil Neart Smúdála idir {COMMA16} agus {COMMA16}
 STR_6710    :Stable sort
@@ -3761,7 +3761,7 @@ STR_6761    :Sonraí Cnámhscéil
 STR_6762    :Interface
 STR_6763    :RollerCoaster Tycoon 1
 STR_6764    :Saving and autosaves
-STR_6765    :Advanced
+STR_6765    :Ardleibhéal
 STR_6766    :Glan
 STR_6767    :Fuinneog
 STR_6768    :Rindreáil
@@ -3800,9 +3800,9 @@ STR_7000    :nó
 STR_7001    :Ainm marcaíochta
 STR_7002    :{STRINGID} {STRINGID}
 STR_7003    :Audio file ‘{STRING}’ is truncated. Expected sample {INT32}, but only {INT32} are available. Consider reinstalling RCT2.
-STR_7004    :Force Redraw
+STR_7004    :Fórsáil Aththarraingt
 STR_7005    :Drag an area of footpath
-STR_7006    :Draw border around image buttons
+STR_7006    :Tarraing teorainn timpeall ar chnaipí íomhá
 STR_7007    :Saghas Marcaíochta
 STR_7008    :Saghas marcaíochta anaithnid ({INT32})
 STR_7009    :Receiving scripts…
