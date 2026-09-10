@@ -3463,11 +3463,11 @@ STR_6465    :Déine: {COMMA2DP32}
 STR_6466    :Masmas
 STR_6467    :Masmas: {COMMA2DP32}
 STR_6468    :Anaithnid Fós
-STR_6469    :Adjust smaller area of patrol area
-STR_6470    :Adjust larger area of patrol area
-STR_6471    :See-Through Vegetation
-STR_6472    :See-Through Vehicles
-STR_6473    :See-Through Supports
+STR_6469    :Coigeartaigh limistéar níos lú de limistéar patróil
+STR_6470    :Coigeartaigh limistéar níos mó de limistéar patróil
+STR_6471    :Fásra Trédhearcach
+STR_6472    :Feithiclí Trédhearcacha
+STR_6473    :Tacaí Trédhearcacha
 STR_6474    :Aíonna dofheicthe
 STR_6475    :Foireann dhofheicthe
 STR_6476    :Fásra dofheicthe
@@ -3513,7 +3513,7 @@ STR_6515    :{BLACK}Níl RollerCoaster Tycoon 1 nasctha - úsáidfear íomhánna
 STR_6516    :One or more objects added require RollerCoaster Tycoon 1 linked for proper display. Fallback images will be used.
 STR_6517    :One or more objects in this park require RollerCoaster Tycoon 1 linked for proper display. Fallback images will be used.
 STR_6518    :{BLACK}Hover over a scenario to view its description and objective. Click it to start playing.
-STR_6519    :Extras
+STR_6519    :Breiseanna
 STR_6520    :Pacáistí Sócmhainní
 STR_6521    :Ísealthosaíocht
 STR_6522    :Ardthosaíocht
@@ -3546,30 +3546,30 @@ STR_6548    :Taispeáin ráillí ag acomhal
 STR_6549    :Compatibility objects cannot be selected!
 STR_6550    :This entry is included for backwards compatibility with old or damaged objects. It cannot be selected, only deselected.  
 
-STR_6551    :Army green
-STR_6552    :Honeydew
-STR_6553    :Tan
-STR_6554    :Maroon
-STR_6555    :Coral pink
-STR_6556    :Forest green
+STR_6551    :Glas míleata
+STR_6552    :Drúcht meala
+STR_6553    :Crón
+STR_6554    :Marún
+STR_6555    :Bándearg coiréil
+STR_6556    :Glas coille
 STR_6557    :Chartreuse
-STR_6558    :Hunter green
+STR_6558    :Glas fiaigh
 STR_6559    :Celadon
-STR_6560    :Lime green
-STR_6561    :Sepia
-STR_6562    :Peach
-STR_6563    :Periwinkle
-STR_6564    :Viridian
-STR_6565    :Seafoam green
-STR_6566    :Violet
-STR_6567    :Lavender
-STR_6568    :Pastel orange
-STR_6569    :Deep water
-STR_6570    :Pastel pink
-STR_6571    :Umber
-STR_6572    :Beige
-STR_6573    :Invisible
-STR_6574    :Void
+STR_6560    :Líomaghlas
+STR_6561    :Séipia
+STR_6562    :Péitseog
+STR_6563    :Gormvialait
+STR_6564    :Virideach
+STR_6565    :Glas cúir na farraige
+STR_6566    :Vialait
+STR_6567    :Labhandar
+STR_6568    :Flannbhuí éadrom
+STR_6569    :Uisce domhain
+STR_6570    :Bándearg éadrom
+STR_6571    :Umbar
+STR_6572    :Béas
+STR_6573    :Dofheicthe
+STR_6574    :Folús
 STR_6575    :Ceadaigh scéimeanna datha speisialta
 STR_6576    :Cuireann dathanna speisialta leis an roghchlár anuas dathanna
 STR_6577    :Luas coscáin bloic
@@ -3633,14 +3633,14 @@ STR_6634    :Ag seiceáil comhaid deartha ráille…
 STR_6635    :Ag seiceáil pacáistí sócmhainní…
 STR_6636    :Ag seiceáil seichimh teidil…
 STR_6637    :Ag lódáil seicheamh teidil…
-STR_6638    :Enlarged UI
-STR_6639    :Modifies the interface to be more suitable for touch usage
+STR_6638    :UI Méadaithe
+STR_6639    :Athraíonn sé an comhéadan le go mbeidh sé níos oiriúnaí d’úsáid tadhaill
 STR_6640    :Cuir pacáistí sócmhainní in eagar…
 STR_6641    :Fuinneog lódála/dul chun cinn
 STR_6642    :{STRING} ({COMMA32} / {COMMA32})
 STR_6643    :{STRING} ({COMMA32} / {COMMA32} KiB)
-STR_6644    :Touch enhancements
-STR_6645    :Makes some UI elements bigger so they are easier to click or tap.
+STR_6644    :Feabhsuithe tadhaill
+STR_6645    :Déanann sé roinnt ball UI níos mó ionas go mbíonn sé níos éasca cliceáil orthu nó iad a thapáil.
 STR_6646    :Údar: {STRING}
 STR_6647    :Údair: {STRING}
 STR_6648    :Ag lódáil inneall breiseáin…
@@ -3673,15 +3673,15 @@ STR_6673    :Trédhearach
 STR_6674    :{MONTH}, Bliain {COMMA16}
 STR_6675    :Ainmneacha Daoine
 STR_6676    :Ní mór réad ainmneacha peep amháin ar a laghad a roghnú
-STR_6677    :Add beaches around water bodies
+STR_6677    :Cuir tránna timpeall ar dhobharlaigh
 STR_6678    :Foinse na léarscáile airde:
 STR_6679    :Talamh réidh
 STR_6680    :Torann simpléacs
 STR_6681    :Comhad Léarscáile Airde
-STR_6682    :Map Generator - Generator
-STR_6683    :Map Generator - Terrain
-STR_6684    :Map Generator - Water
-STR_6685    :Map Generator - Forests
+STR_6682    :Gineadóir Mapa - Gineadóir
+STR_6683    :Gineadóir Mapa - Tír-raon
+STR_6684    :Gineadóir Mapa - Uisce
+STR_6685    :Gineadóir Mapa - Coillte
 STR_6686    :Cóimheas crann go talamh:
 STR_6687    :Íosairde crainn:
 STR_6688    :Uasairde crainn:
@@ -3701,7 +3701,7 @@ STR_6701    :Iontráil Bunmhinicíocht idir {COMMA2DP32} agus {COMMA2DP32}
 STR_6702    :Ochtaigh Simpléacs
 STR_6703    :Iontráil Ochtaigh idir {COMMA16} agus {COMMA16}
 STR_6704    :{COMMA2DP32}
-STR_6705    :Browse...
+STR_6705    :Brabhsáil...
 STR_6706    :{WINDOW_COLOUR_2}Comhad íomhá faoi láthair: {BLACK}{STRING}
 STR_6707    :(níl aon cheann roghnaithe)
 STR_6708    :Neart Smúdála
@@ -3729,7 +3729,7 @@ STR_6729    :Ní mór do chnoc an ardaitheora cábla tosú láithreach tar éis 
 STR_6730    :Easpórtáil sonraí emscripten
 STR_6731    :Iompórtáil sonraí emscripten
 STR_6732    :Taispeáin cnaipe sa bharra uirlisí chun an amharc a rothlú go tuathalach
-STR_6733    :See-Through
+STR_6733    :Trédhearcach
 STR_6734    :Map elements that are at or above the cutting height are rendered translucent.
 STR_6735    :Téigh suas go dtí an fillteán máthar
 STR_6736    :Réamhamharc
@@ -3739,14 +3739,14 @@ STR_6739    :{WINDOW_COLOUR_2}Dáta: {BLACK}{STRINGID}
 STR_6740    :{WINDOW_COLOUR_2}Airgead: {BLACK}{CURRENCY2DP}
 STR_6741    :{WINDOW_COLOUR_2}Líon marcaíochtaí: {BLACK}{UINT16}
 STR_6742    :{WINDOW_COLOUR_2}Líon aíonna: {BLACK}{UINT16}
-STR_6743    :Climate
+STR_6743    :Aeráid
 STR_6744    :{WINDOW_COLOUR_2}{UINT16}%
-STR_6745    :{WINDOW_COLOUR_2}Guests’ intensity preferences:
-STR_6746    :No preferences
-STR_6747    :Preferences vary (default)
-STR_6748    :Only less intense rides
-STR_6749    :Only more intense rides
-STR_6750    :Select what kind of ride intensity newly spawned guests prefer.
+STR_6745    :{WINDOW_COLOUR_2}Roghanna déine na n-aíonna:
+STR_6746    :Gan rogha
+STR_6747    :Athraíonn na roghanna (réamhshocrú)
+STR_6748    :Marcaíochtaí níos lú déine amháin
+STR_6749    :Marcaíochtaí níos déine amháin
+STR_6750    :Roghnaigh cén cineál déine marcaíochta is fearr le haíonna nuashceite.
 STR_6751    :Ní féidir cosáin scuaine a úsáid le haghaidh crosairí comhréidh!
 STR_6752    :Roghanna cnámhscéil - Cuspóir
 STR_6753    :Roghanna cnámhscéil - Sonraí Cnámhscéil
@@ -3806,12 +3806,12 @@ STR_7006    :Tarraing teorainn timpeall ar chnaipí íomhá
 STR_7007    :Saghas Marcaíochta
 STR_7008    :Saghas marcaíochta anaithnid ({INT32})
 STR_7009    :Receiving scripts…
-STR_7010    :Could not start replay, file ‘{STRING}’ doesn’t exist or isn’t valid
-STR_7011    :Could not start replay
+STR_7010    :Níorbh fhéidir athsheinm a thosú, níl an comhad ‘{STRING}’ ann nó níl sé bailí
+STR_7011    :Níorbh fhéidir athsheinm a thosú
 STR_7012    :Polish Złoty (PLN)
 STR_7013    :Drag areas of path
 STR_7014    :Tá an cluiche agam ar Steam, ach níl sé suiteáilte agam fós.
-STR_7015    :Please close Steam if it’s running, then click ‘OK’.
+STR_7015    :Dún Steam, le do thoil, má tá sé ag rith, agus ansin cliceáil ar ‘OK’.
 STR_7016    :OpenRCT2 has tried to trigger a download in Steam. Please open Steam and let it download the game. When Steam is finished, click ‘OK’.
 STR_7017	:Scoir
 STR_7018    :{SPRITE}{MOVE_X}{17}{STRINGID}
