@@ -316,8 +316,8 @@ STR_0938    :Coigeartaigh airde agus fána talaimh
 STR_0939    :Amharc Faoi thalamh/Istigh
 STR_0940    :Folaigh Buntalamh
 STR_0941    :Folaigh Aghaidheanna Ingearacha
-STR_0942    :Marcaíochtaí Trédhearacha
-STR_0943    :Radharcra Trédhearach
+STR_0942    :Marcaíochtaí Trédhearcacha
+STR_0943    :Radharcra Trédhearcach
 STR_0944    :Sábháil
 STR_0945    :Ná Sábháil
 STR_0946    :Cealaigh
@@ -3475,9 +3475,9 @@ STR_6477    :Radharcra dofheicthe
 STR_6478    :Cosáin dhofheicthe
 STR_6479    :Marcaíochtaí dofheicthe
 STR_6480    :Feithiclí dofheicthe
-STR_6481    :Roghanna Trédhearachta
-STR_6482    :Roghanna Trédhearachta
-STR_6483    :Oscail roghanna trédhearachta
+STR_6481    :Roghanna Trédhearcachta
+STR_6482    :Roghanna Trédhearcachta
+STR_6483    :Oscail roghanna trédhearcachta
 STR_6484    :Scoránaigh fásra trédhearcach
 STR_6485    :Scoránaigh feithiclí trédhearcacha
 STR_6486    :Scoránaigh na haíonna a fholú
@@ -3668,7 +3668,7 @@ STR_6669    :Taispeáin cleasa foirne
 STR_6670    :Iompar aoi
 STR_6671    :Taispeáin ainmneacha ‘fíora’ na foirne
 STR_6672    :Scoránaigh idir ‘fíorainmneacha’ na foirne agus uimhreacha foirne
-STR_6673    :Trédhearach
+STR_6673    :Trédhearcach
 # Used as part of a sentence (see https://github.com/OpenRCT2/OpenRCT2/issues/22072).
 STR_6674    :{MONTH}, Bliain {COMMA16}
 STR_6675    :Ainmneacha Daoine
