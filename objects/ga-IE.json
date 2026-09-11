@@ -55,7 +55,7 @@
         "reference-name": "Hybrid Coaster Trains",
         "name": "Traenacha Cóstóra Hibridigh",
         "reference-description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
-        "description": "Traenacha rollchóstóra le srianta glúine, atá in ann titimeacha géara agus inbhéartuithe a dhéanamh",
+        "description": "Traenacha rollchóstóra le srianta glúine, atá in ann titimí géara agus inbhéartuithe a dhéanamh",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -683,7 +683,7 @@
         "reference-name": "Floorless Twister Trains",
         "name": "Traenacha Castóra Gan Urlár",
         "reference-description": "A spacious train with shoulder restraints and no floor, making for a more exciting ride",
-        "description": "Traein fhairsing le srianta guaillí agus gan urlár, rud a fhágann turas níos corraithí",
+        "description": "Traein fhairsing le srianta guaillí agus gan urlár, rud a chuireann le sceitimíní an turais",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -713,7 +713,7 @@
     },
     "rct1aa.ride.hyper_twister_trains": {
         "reference-name": "Hyper-Twister Trains (wide cars)",
-        "name": "Traenacha Hipear-Chastóra (gluaisteáin leathana)",
+        "name": "Traenacha Hipearchastóra (gluaisteáin leathana)",
         "reference-description": "Wide 4-across cars with raised seating and simple lap restraints",
         "description": "Gluaisteáin leathana 4-trasna le suíocháin ardaithe agus srianta simplí glúine",
         "reference-capacity": "4 passengers per car",
@@ -763,7 +763,7 @@
         "reference-name": "Splash Boats",
         "name": "Báid Steallta",
         "reference-description": "Large capacity boats, built for water tracks with very steep drops",
-        "description": "Báid ardacmhainne, tógtha do ráillí uisce le titimeacha an-ghéara",
+        "description": "Báid ardacmhainne, tógtha do ráillí uisce le titimí an-ghéara",
         "reference-capacity": "16 passengers per boat",
         "capacity": "16 phaisinéir sa bhád"
     },
@@ -1037,7 +1037,7 @@
         "reference-park_name": "Three Monkeys Park",
         "park_name": "Three Monkeys Park",
         "reference-details": "Central to this large developing park is a giant triple-track racing/duelling steel coaster",
-        "details": "I gcroílár na páirce móire seo atá á forbairt tá cóstóir ollmhór cruaiche rásaíochta/comhraic trí ráille"
+        "details": "I gcroílár na páirce móire seo atá á forbairt tá cóstóir ollmhór cruach rásaíochta/comhraic trí ráille"
     },
     "rct1aa.scenario_meta.thunderstorm_park": {
         "reference-name": "Thunderstorm Park",
@@ -1307,7 +1307,7 @@
         "reference-name": "Four-seater Cars",
         "name": "Gluaisteáin Ceithre Shuíochán",
         "reference-description": "Individual roller coaster cars built for tracks with hairpin turns and sharp drops",
-        "description": "Gluaisteáin aonair rollchóstóra, tógtha do ráillí le castaí bioracha agus titimeacha géara",
+        "description": "Gluaisteáin aonair rollchóstóra, tógtha do ráillí le castaí bioracha agus titimí géara",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -1805,7 +1805,7 @@
     },
     "rct2.footpath_railings.concrete_green": {
         "reference-name": "Concrete Railings (Dark Green)",
-        "name": "Ráillí Cosáin Coincréite (Dúghlas)"
+        "name": "Ráillí Cosáin Coincréite (Glas Dorcha)"
     },
     "rct2.footpath_railings.space": {
         "reference-name": "Space Style Railings (Red)",
@@ -1833,7 +1833,7 @@
     },
     "rct2.footpath_surface.queue_green": {
         "reference-name": "Dark Green Queue",
-        "name": "Scuaine Dhúghlas"
+        "name": "Scuaine Ghlas Dhorcha"
     },
     "rct2.footpath_surface.queue_red": {
         "reference-name": "Red Queue (Stairs)",
@@ -1857,7 +1857,7 @@
     },
     "rct2.footpath_surface.tarmac_green": {
         "reference-name": "Dark Green Tarmac Footpath",
-        "name": "Cosán Tarramhacadaim Dúghlas"
+        "name": "Cosán Tarramhacadaim Glas Dorcha"
     },
     "rct2.footpath_surface.tarmac_red": {
         "reference-name": "Red Tarmac Footpath (Stairs)",
@@ -2069,9 +2069,9 @@
     },
     "rct2.ride.4x4": {
         "reference-name": "Monster Trucks",
-        "name": "Olltrucailí",
+        "name": "Trucailí Arracht",
         "reference-description": "Powered giant 4 x 4 trucks which can climb steep slopes",
-        "description": "Olltrucailí cumhachtaithe 4 x 4 atá in ann fánaí géara a dhreapadh",
+        "description": "Trucailí Arracht cumhachtaithe 4 x 4 atá in ann fánaí géara a dhreapadh",
         "reference-capacity": "2 passengers per truck",
         "capacity": "2 phaisinéir sa trucail"
     },
@@ -2171,13 +2171,13 @@
         "reference-name": "Floorless Twister Trains",
         "name": "Traenacha Castóra Gan Urlár",
         "reference-description": "A spacious train with shoulder restraints and no floor, making for a more exciting ride",
-        "description": "Traein fhairsing le srianta guaillí agus gan urlár, rud a fhágann turas níos corraithí",
+        "description": "Traein fhairsing le srianta guaillí agus gan urlár, rud a chuireann le sceitimíní an turais",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
     "rct2.ride.bmrb": {
         "reference-name": "Hyper-Twister Trains (wide cars)",
-        "name": "Traenacha Hipear-Chastóra (gluaisteáin leathana)",
+        "name": "Traenacha Hipearchastóra (gluaisteáin leathana)",
         "reference-description": "Wide 4-across cars with raised seating and simple lap restraints",
         "description": "Gluaisteáin leathana 4-trasna le suíocháin ardaithe agus srianta simplí glúine",
         "reference-capacity": "4 passengers per car",
@@ -2223,9 +2223,9 @@
     },
     "rct2.ride.burgb": {
         "reference-name": "Burger Bar",
-        "name": "Beár Borgairí",
+        "name": "Beár Burgar",
         "reference-description": "A burger-shaped building selling burgers",
-        "description": "Foirgneamh i gcruth borgaire a dhíolann borgairí"
+        "description": "Foirgneamh i gcruth burgair a dhíolann burgair"
     },
     "rct2.ride.c3d": {
         "reference-name": "3D Cinema",
@@ -2315,7 +2315,7 @@
         "reference-name": "Coffee Shop",
         "name": "Siopa Caife",
         "reference-description": "An art-deco style shop selling cups of coffee",
-        "description": "Siopa ar stíl art deco a dhíolann cupáin chaife"
+        "description": "Siopa ar stíl art deco a dhíolann cupanna caife"
     },
     "rct2.ride.cookst": {
         "reference-name": "Cookie Shop",
@@ -2397,15 +2397,15 @@
     },
     "rct2.ride.funcake": {
         "reference-name": "Funnel Cake Shop",
-        "name": "Siopa Cácaí Tonnadóra",
+        "name": "Siopa Cácaí Fuidrimh",
         "reference-description": "A stall selling funnel cakes",
-        "description": "Stainnín a dhíolann cácaí tonnadóra"
+        "description": "Stainnín a dhíolann cácaí fuidrimh"
     },
     "rct2.ride.fwh1": {
         "reference-name": "Ferris Wheel",
         "name": "Roth Ferris",
         "reference-description": "Rotating big wheel with open chairs",
-        "description": "Roth mór rothlach le cathaoireacha oscailte",
+        "description": "Roth rothlach mór le cathaoireacha oscailte",
         "reference-capacity": "32 passengers",
         "capacity": "32 phaisinéir"
     },
@@ -2427,7 +2427,7 @@
     },
     "rct2.ride.goltr": {
         "reference-name": "Hyper-Twister Trains",
-        "name": "Traenacha Hipear-Chastóra",
+        "name": "Traenacha Hipearchastóra",
         "reference-description": "Spacious trains with simple lap restraints",
         "description": "Traenacha fairsinge le srianta simplí glúine",
         "reference-capacity": "6 passengers per car",
@@ -2505,7 +2505,7 @@
     },
     "rct2.ride.icecr2": {
         "reference-name": "Ice Cream Cone Stall",
-        "name": "Stainnín Cón Uachtar Reoite",
+        "name": "Stainnín Cón Uachtair Reoite",
         "reference-description": "A stall selling ice cream cones",
         "description": "Stainnín a dhíolann cóin uachtar reoite"
     },
@@ -2519,7 +2519,7 @@
         "reference-name": "Information Kiosk",
         "name": "Both Eolais",
         "reference-description": "A stall where guests can obtain park maps and purchase umbrellas",
-        "description": "Stainnín inar féidir le haíonna léarscáileanna páirce a fháil agus scáthanna fearthainne a cheannach"
+        "description": "Stainnín inar féidir le haíonna mapaí páirce a fháil agus scáthanna fearthainne a cheannach"
     },
     "rct2.ride.intbob": {
         "reference-name": "6-seater Bobsleighs",
@@ -2541,7 +2541,7 @@
         "reference-name": "Giga Coaster Trains",
         "name": "Traenacha Gigeachóstóra",
         "reference-description": "Roller coaster trains for the Giga Coaster, capable of smooth drops",
-        "description": "Traenacha rollchóstóra don Ghigeachóstóir, atá in ann titimeacha míne a dhéanamh",
+        "description": "Traenacha rollchóstóra don Ghigeachóstóir, atá in ann titimí míne a dhéanamh",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -2549,7 +2549,7 @@
         "reference-name": "Four-seater Cars",
         "name": "Gluaisteáin Ceithre Shuíochán",
         "reference-description": "Individual roller coaster cars built for tracks with hairpin turns and sharp drops",
-        "description": "Gluaisteáin aonair rollchóstóra, tógtha do ráillí le castaí bioracha agus titimeacha géara",
+        "description": "Gluaisteáin aonair rollchóstóra, tógtha do ráillí le castaí bioracha agus titimí géara",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -2595,15 +2595,15 @@
         "reference-name": "Lift Cabin",
         "name": "Cábán Ardaitheora",
         "reference-description": "Steel lift cabin",
-        "description": "Cábán ardaitheora cruaiche",
+        "description": "Cábán ardaitheora cruach",
         "reference-capacity": "16 passengers",
         "capacity": "16 phaisinéir"
     },
     "rct2.ride.mbsoup": {
         "reference-name": "Meatball Soup Stall",
-        "name": "Stainnín Anraith Millíní Feola",
+        "name": "Stainnín Anraith Feoilmheall",
         "reference-description": "A stall selling Chinese style meatball soup",
-        "description": "Stainnín a dhíolann anraith millíní feola ar stíl na Síne"
+        "description": "Stainnín a dhíolann anraith feoilmheall ar stíl na Síne"
     },
     "rct2.ride.mcarpet1": {
         "reference-name": "Magic Carpet",
@@ -2731,9 +2731,9 @@
     },
     "rct2.ride.pretst": {
         "reference-name": "Pretzel Stall",
-        "name": "Stainnín Pretzel",
+        "name": "Stainnín Preatsal",
         "reference-description": "A stall selling crispy pretzels",
-        "description": "Stainnín a dhíolann pretzels briosca"
+        "description": "Stainnín a dhíolann preatsail bhriosca"
     },
     "rct2.ride.ptct1": {
         "reference-name": "Wooden Roller Coaster Trains",
@@ -2909,15 +2909,15 @@
     },
     "rct2.ride.soybean": {
         "reference-name": "Soybean Milk Stall",
-        "name": "Stainnín Bainne Soighe",
+        "name": "Stainnín Bainne Pónaire Soighe",
         "reference-description": "A stall selling cartons of soybean milk",
-        "description": "Stainnín a dhíolann cartáin bainne soighe"
+        "description": "Stainnín a dhíolann cartáin bainne pónaire soighe"
     },
     "rct2.ride.spboat": {
         "reference-name": "Splash Boats",
         "name": "Báid Steallta",
         "reference-description": "Large capacity boats, built for water tracks with very steep drops",
-        "description": "Báid ardacmhainne, tógtha do ráillí uisce le titimeacha an-ghéara",
+        "description": "Báid ardacmhainne, tógtha do ráillí uisce le titimí an-ghéara",
         "reference-capacity": "16 passengers per boat",
         "capacity": "16 phaisinéir sa bhád"
     },
@@ -2941,7 +2941,7 @@
         "reference-name": "Sea Food Stall",
         "name": "Stainnín Bia Mara",
         "reference-description": "A stall selling fried tentacles",
-        "description": "Stainnín a dhíolann adharcáin friochta"
+        "description": "Stainnín a dhíolann braiteoga friochta"
     },
     "rct2.ride.srings": {
         "reference-name": "Space Rings",
@@ -2955,7 +2955,7 @@
         "reference-name": "Launched Freefall Car",
         "name": "Gluaisteán Saorthitime Lainseáilte",
         "reference-description": "Freefall car is pneumatically launched up a tall steel tower and then allowed to freefall down",
-        "description": "Lainseáiltear an gluaisteán saorthitime go haerbhrúite suas túr ard cruaiche agus ansin ligtear dó saorthitim anuas",
+        "description": "Lainseáiltear gluaisteán saorthitime go haeroibrithe suas túr ard cruach agus ansin ceadaítear a thitim anuas",
         "reference-capacity": "8 passengers",
         "capacity": "8 bpaisinéir"
     },
@@ -2991,9 +2991,9 @@
     },
     "rct2.ride.substl": {
         "reference-name": "Sub Sandwich Stall",
-        "name": "Stainnín Ceapairí Fada",
+        "name": "Stainnín Fo-cheapairí",
         "reference-description": "A stall selling fresh sub sandwiches",
-        "description": "Stainnín a dhíolann ceapairí fada úra"
+        "description": "Stainnín a dhíolann fo-cheapairí úra"
     },
     "rct2.ride.sungst": {
         "reference-name": "Sunglasses Stall",
@@ -3093,7 +3093,7 @@
     },
     "rct2.ride.tshrt": {
         "reference-name": "T-Shirt Stall",
-        "name": "Stainnín T-Léinte",
+        "name": "Stainnín T-léinte",
         "reference-description": "A stall selling souvenir T-Shirts",
         "description": "Stainnín a dhíolann T-léinte cuimhneacháin"
     },
@@ -3107,7 +3107,7 @@
     },
     "rct2.ride.twist2": {
         "reference-name": "Snow Cups",
-        "name": "Cupáin Sneachta",
+        "name": "Cupanna Sneachta",
         "reference-description": "Riders ride in pairs of seats rotating around a central snowman",
         "description": "Marcaíonn marcaigh i mbeirteanna suíochán ag rothlú timpeall fir shneachta láir",
         "reference-capacity": "18 passengers",
@@ -3171,7 +3171,7 @@
     },
     "rct2.ride.wcatc": {
         "reference-name": "Automobile Cars",
-        "name": "Gluaisteáin Mótarcharranna",
+        "name": "Gluaisteáin i gCruth Mótarcharranna",
         "reference-description": "Roller coaster cars in the shape of automobiles",
         "description": "Gluaisteáin rollchóstóra i gcruth mótarcharranna",
         "reference-capacity": "4 passengers per car",
@@ -3877,11 +3877,11 @@
     },
     "rct2.scenery_small.corroof": {
         "reference-name": "Corrugated Steel Roof",
-        "name": "Díon Cruaiche Rocaí"
+        "name": "Díon Cruach Rocaí"
     },
     "rct2.scenery_small.corroof2": {
         "reference-name": "Corrugated Steel Base",
-        "name": "Bun Cruaiche Rocaí"
+        "name": "Bun Cruach Rocaí"
     },
     "rct2.scenery_small.cwbcrv32": {
         "reference-name": "Curved Wall",
@@ -3925,7 +3925,7 @@
     },
     "rct2.scenery_small.helmet1": {
         "reference-name": "American Football Helmet",
-        "name": "Clogad Peile Meiriceánach"
+        "name": "Clogad Peile Meiriceánaí"
     },
     "rct2.scenery_small.icecube": {
         "reference-name": "Ice Cube",
@@ -4117,19 +4117,19 @@
     },
     "rct2.scenery_small.stbase": {
         "reference-name": "Steel Block",
-        "name": "Bloc Cruaiche"
+        "name": "Bloc Cruach"
     },
     "rct2.scenery_small.stlbaset": {
         "reference-name": "Steel Block",
-        "name": "Bloc Cruaiche"
+        "name": "Bloc Cruach"
     },
     "rct2.scenery_small.stldw": {
         "reference-name": "Steel Wall",
-        "name": "Balla Cruaiche"
+        "name": "Balla Cruach"
     },
     "rct2.scenery_small.stldw2": {
         "reference-name": "Steel Wall",
-        "name": "Balla Cruaiche"
+        "name": "Balla Cruach"
     },
     "rct2.scenery_small.sumrf": {
         "reference-name": "Roof",
@@ -5177,7 +5177,7 @@
     },
     "rct2.scenery_wall.wallco16": {
         "reference-name": "Corrugated Steel Wall",
-        "name": "Balla Cruaiche Rocaí"
+        "name": "Balla Cruach Rocaí"
     },
     "rct2.scenery_wall.wallcw32": {
         "reference-name": "Wall",
@@ -5225,7 +5225,7 @@
     },
     "rct2.scenery_wall.walllt32": {
         "reference-name": "Steel Latticework",
-        "name": "Laitís Chruaiche"
+        "name": "Laitís Chruach"
     },
     "rct2.scenery_wall.wallmm16": {
         "reference-name": "Railings",
@@ -5313,23 +5313,23 @@
     },
     "rct2.scenery_wall.wallst16": {
         "reference-name": "Steel Wall",
-        "name": "Balla Cruaiche"
+        "name": "Balla Cruach"
     },
     "rct2.scenery_wall.wallst32": {
         "reference-name": "Steel Wall",
-        "name": "Balla Cruaiche"
+        "name": "Balla Cruach"
     },
     "rct2.scenery_wall.wallst8": {
         "reference-name": "Steel Wall",
-        "name": "Balla Cruaiche"
+        "name": "Balla Cruach"
     },
     "rct2.scenery_wall.wallstfn": {
         "reference-name": "Steel Fence",
-        "name": "Sconsa Cruaiche"
+        "name": "Sconsa Cruach"
     },
     "rct2.scenery_wall.wallstwn": {
         "reference-name": "Steel Wall",
-        "name": "Balla Cruaiche"
+        "name": "Balla Cruach"
     },
     "rct2.scenery_wall.walltn32": {
         "reference-name": "Poles",
@@ -5879,7 +5879,7 @@
     },
     "rct2tt.ride.1960tsrt": {
         "reference-name": "Flower Power T-Shirts",
-        "name": "T-Léinte Flower Power",
+        "name": "T-léinte Flower Power",
         "reference-description": "Stall selling T-shirts with a flower motif",
         "description": "Stainnín a dhíolann T-léinte le móitíf bhlátha"
     },
@@ -6061,7 +6061,7 @@
     },
     "rct2tt.ride.jetpackx": {
         "reference-name": "Jet Pack Booster",
-        "name": "Treisitheoir Scairdphaca",
+        "name": "Treiseoir Scairdphaca",
         "reference-description": "Large jetpack-shaped coaster car for the Reverse Freefall Coaster",
         "description": "Gluaisteán mór cóstóra i gcruth scairdphaca don Chóstóir Cúlsaorthitime",
         "reference-capacity": "8 passengers per car",
@@ -6257,7 +6257,7 @@
     },
     "rct2tt.ride.trebucht": {
         "reference-name": "Trebuchet Ride",
-        "name": "Marcaíocht Crann Tabhaill",
+        "name": "Marcaíocht Chrainn Tabhaill",
         "reference-description": "Passengers ride in a carriage suspended by two large arms, based on a Dark Age siege weapon",
         "description": "Marcaíonn paisinéirí i gcarráiste ar crochadh ó dhá ghéag mhóra, bunaithe ar arm léigir ón Ré Dhorcha",
         "reference-capacity": "8 passengers",
@@ -8689,7 +8689,7 @@
     },
     "rct2ww.ride.coffeecu": {
         "reference-name": "Coffee Cup Ride",
-        "name": "Marcaíocht Cupán Caife",
+        "name": "Marcaíocht Cupa Caife",
         "reference-description": "Riders ride in pairs of themed seats rotating around a large animated coffee grinder",
         "description": "Marcaíonn marcaigh i mbeirteanna suíochán téamaithe ag rothlú timpeall meilteoir mór beoite caife",
         "reference-capacity": "18 passengers",
@@ -8931,7 +8931,7 @@
         "reference-name": "Mine Lift Cabin",
         "name": "Cábán Ardaitheora Mianaigh",
         "reference-description": "A steel lift cabin commonly used in mines",
-        "description": "Cábán ardaitheora cruaiche a úsáidtear go coitianta i mianaigh",
+        "description": "Cábán ardaitheora cruach a úsáidtear go coitianta i mianaigh",
         "reference-capacity": "16 passengers",
         "capacity": "16 phaisinéir"
     },
@@ -10245,7 +10245,7 @@
     },
     "rct2ww.scenery_small.sbh3oscr": {
         "reference-name": "Rollercoaster Award Statue",
-        "name": "Dealbh Gradam Rollchóstóra"
+        "name": "Dealbh Gradaim Rollchóstóra"
     },
     "rct2ww.scenery_small.sbh3plm1": {
         "reference-name": "Palm Tree",
@@ -10501,7 +10501,7 @@
     },
     "rct2ww.scenery_small.trckprt1": {
         "reference-name": "Diamond Cart",
-        "name": "Cairt Diamant"
+        "name": "Cairt Diamaint"
     },
     "rct2ww.scenery_small.trckprt2": {
         "reference-name": "Empty Cart",
@@ -10509,7 +10509,7 @@
     },
     "rct2ww.scenery_small.trckprt3": {
         "reference-name": "Diamond Shaft",
-        "name": "Sloc Diamant"
+        "name": "Sloc Diamaint"
     },
     "rct2ww.scenery_small.trckprt4": {
         "reference-name": "Cart Shaft",
@@ -10517,7 +10517,7 @@
     },
     "rct2ww.scenery_small.trckprt5": {
         "reference-name": "Track Bend",
-        "name": "Lúb Ráille"
+        "name": "Cor Ráille"
     },
     "rct2ww.scenery_small.trckprt6": {
         "reference-name": "Track Broke",
@@ -11921,7 +11921,7 @@
         "reference-park_name": "Mount Vesuvius",
         "park_name": "Mount Vesuvius",
         "reference-details": "Pompeii and Herculaneum were buried by Mt. Vesuvius in 79 A.D. Visit the excavations and build a park!",
-        "details": "Adhlacadh Pompeii agus Herculaneum ag Sliabh Veasúiv sa bhliain 79 A.D. Tabhair cuairt ar na tochailtí agus tóg páirc!"
+        "details": "D’adhlaic Sliabh Veasúiv Pompeii agus Herculaneum sa bhliain 79 A.D. Tabhair cuairt ar na tochailtí agus tóg páirc!"
     },
     "uces.scenario_meta.niagara_falls_gorge": {
         "reference-name": "Niagara Falls & Gorge",
