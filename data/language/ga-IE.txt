@@ -3033,7 +3033,7 @@ STR_5982    :Saghas radharcra mór: {BLACK}{COMMA16}
 STR_5983    :ID píosa radharcra mór: {BLACK}{COMMA16}
 STR_5984    :Cosáin bhlocáilte:
 STR_5985    :Fillteán nua
-STR_5986    :Clóscríobh ainm an fhillteán nua.
+STR_5986    :Clóscríobh ainm an fhillteáin nua.
 STR_5987    :Ní féidir fillteán a chruthú
 STR_5988    :No remaining land rights for sale
 STR_5989    :No remaining construction rights for sale
@@ -3041,7 +3041,7 @@ STR_5990    :No remaining land rights or construction rights for sale
 STR_5991    :Can’t paste element…
 STR_5992    :The map elements limit has been reached
 STR_5993    :Cóipeáil an ball roghnaithe
-STR_5994    :Greamaigh an ball cópieáilte
+STR_5994    :Greamaigh an ball cóipeáilte
 STR_5995    :Treiseoir
 STR_5996    :Luas Treiseora
 STR_5997    :Cuir/socraigh airgead
