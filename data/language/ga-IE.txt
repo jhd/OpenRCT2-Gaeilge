@@ -3355,15 +3355,15 @@ STR_6356    :Cruthaíonn sé lachain má bhíonn uisce sa pháirc
 STR_6357    :Baineann gach lacha ón mapa
 STR_6358    :Leathanach {UINT16}
 STR_6361    :Cumasaigh maisíochtaí solais ar mharcaíochtaí (trialach)
-STR_6362    :If enabled, vehicles for tracked rides will be lit up at night.
-STR_6363    :Copied text to clipboard
-STR_6364    :{RED}{COMMA16} person has died in an accident on {STRINGID}
-STR_6365    :Ride casualties
-STR_6366    :Stuck or stalled vehicles
-STR_6367    :Animation frame:
+STR_6362    :Má chumasaítear é seo, soilseofar feithiclí ar mharcaíochtaí ráille san oíche.
+STR_6363    :Cóipeáladh an téacs go dtí an ghearrthaisce
+STR_6364    :{RED}Fuair {COMMA16} duine bás i dtimpiste ar {STRINGID}
+STR_6365    :Taismigh mharcaíochta
+STR_6366    :Feithiclí sáinnithe nó stadta
+STR_6367    :Fráma beochana:
 STR_6368    :For compatibility reasons, it is not recommended to run OpenRCT2 with Wine. OpenRCT2 has native support for macOS, Linux, FreeBSD and OpenBSD.
 STR_6369    :Ceadaigh ráille a thógáil ag airdí neamhbhailí
-STR_6370    :Allows placing track pieces at any height interval
+STR_6370    :Ceadaíonn é píosaí ráille a shuí ag aon eatramh airde
 STR_6371    :The specified path contains a RollerCoaster Tycoon 1 installation, but the “csg1i.dat” file is missing. This file needs to be copied from the Loopy Landscapes or RCT Deluxe CD to the “Data” folder of the RollerCoaster Tycoon 1 install on your hard drive.
 STR_6372    :The specified path contains a RollerCoaster Tycoon 1 installation, but this version is not suitable. OpenRCT2 needs a Loopy Landscapes or RCT Deluxe install in order to use RollerCoaster Tycoon 1 assets.
 STR_6373    :Scoránaigh seiceálacha glanspáis
