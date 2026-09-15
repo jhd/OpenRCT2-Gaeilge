@@ -3374,8 +3374,8 @@ STR_6377    :{WINDOW_COLOUR_2}Saghas: {BLACK}{STRINGID} le haghaidh {STRINGID}
 STR_6378    :Receiving objects list…
 STR_6379    :Received invalid data
 STR_6380    :Nuashonrú ar fáil!
-STR_6381    :Join OpenRCT2 Discord!
-STR_6382    :Newer release of OpenRCT2 is available: {STRING}!
+STR_6381    :Téigh isteach i Discord OpenRCT2!
+STR_6382    :Tá eisiúint níos nuaí de OpenRCT2 ar fáil: {STRING}!
 STR_6383    :Oscail leathanach íoslódála
 STR_6384    :Sneachta
 STR_6385    :Sneachta trom
@@ -3383,13 +3383,13 @@ STR_6386    :Síobadh sneachta
 STR_6387    :Ní féidir ball a ísliú anseo…
 STR_6388    :Ní féidir ball a ardú anseo…
 STR_6389    :Glanspás neamhbhailí
-STR_6390    :OpenRCT2 needs files from the original RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic in order to work. Please select the directory where you installed RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic.
-STR_6391    :Please select your RCT2 or RCTC directory
+STR_6390    :Tá comhaid ón mbunleagan de RollerCoaster Tycoon 2 nó ó RollerCoaster Tycoon Classic de dhíth ar OpenRCT2 chun oibriú. Roghnaigh an t-eolaire inar shuiteáil tú RollerCoaster Tycoon 2 nó RollerCoaster Tycoon Classic le do thoil.
+STR_6391    :Roghnaigh d’eolaire RCT2 nó RCTC le do thoil
 STR_6392    :Níorbh fhéidir {STRING} a aimsiú ag an gconair seo.
 STR_6393    :Rogha cuspóra
 STR_6394    :Cuspóir
 STR_6395    :Cothabháil
-STR_6396    :Disable screensaver and monitor power saving
+STR_6396    :Díchumasaigh spárálaí scáileáin agus spáráil cumhachta an mhonatóra
 STR_6397    :If checked, screensaver and other monitor power saving features will be inhibited while OpenRCT2 is running.
 STR_6398    :File contains unsupported ride types. Please update to a newer version of OpenRCT2.
 STR_6399    :OpenRCT2 needs files from the original RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic in order to work. Please set the “game_path” variable in config.ini to the directory where you installed RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic, then restart OpenRCT2.
