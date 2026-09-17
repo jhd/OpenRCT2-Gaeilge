@@ -3773,19 +3773,19 @@ STR_6775    :{COMMA16} nóiméad
 STR_6776    :{COMMA16} nóiméad
 STR_6777    :níos mó ná 4 uair
 STR_6778    :Réamhamharc cnámhscéil le:
-STR_6779    :Select the kind of preview image to use in the scenario selection screen.
+STR_6779    :Roghnaigh an cineál íomhá réamhamhairc le húsáid ar an scáileán roghnaithe cnámhscéil.
 STR_6780    :Mionmhapaí
 STR_6781    :Gabhálacha scáileáin
 STR_6782    :Fógraí páirce
 STR_6783    :Fógraí marcaíochta
 STR_6784    :Fógraí aoi
 STR_6785    :Gamepad
-STR_6786    :Deadzone:
+STR_6786    :Marbhchrios:
 STR_6787    :Analogue stick deadzone (minimum movement required)
-STR_6788    :Sensitivity:
+STR_6788    :Íogaireacht:
 STR_6789    :Analogue stick sensitivity multiplier
-STR_6790    :Deadzone: {COMMA32}%
-STR_6791    :Sensitivity: {COMMA32}%
+STR_6790    :Marbhchrios: {COMMA32}%
+STR_6791    :Íogaireacht: {COMMA32}%
 STR_6792    :Foirgnimh Iontrála
 STR_6793    :Aíonna agus Foireann
 STR_6794    :Radharcra agus Téamú
@@ -3799,7 +3799,7 @@ STR_7001    :Ainm marcaíochta
 STR_7002    :{STRINGID} {STRINGID}
 STR_7003    :Audio file ‘{STRING}’ is truncated. Expected sample {INT32}, but only {INT32} are available. Consider reinstalling RCT2.
 STR_7004    :Fórsáil Aththarraingt
-STR_7005    :Drag an area of footpath
+STR_7005    :Tarraing limistéar cosáin
 STR_7006    :Tarraing teorainn timpeall ar chnaipí íomhá
 STR_7007    :Saghas Marcaíochta
 STR_7008    :Saghas marcaíochta anaithnid ({INT32})
@@ -3807,7 +3807,7 @@ STR_7009    :Receiving scripts…
 STR_7010    :Níorbh fhéidir athsheinm a thosú, níl an comhad ‘{STRING}’ ann nó níl sé bailí
 STR_7011    :Níorbh fhéidir athsheinm a thosú
 STR_7012    :Polish Złoty (PLN)
-STR_7013    :Drag areas of path
+STR_7013    :Tarraing limistéir cosáin
 STR_7014    :Tá an cluiche agam ar Steam, ach níl sé suiteáilte agam fós.
 STR_7015    :Dún Steam, le do thoil, má tá sé ag rith, agus ansin cliceáil ar ‘OK’.
 STR_7016    :OpenRCT2 has tried to trigger a download in Steam. Please open Steam and let it download the game. When Steam is finished, click ‘OK’.
@@ -3817,10 +3817,10 @@ STR_7019    :{SPRITE}{MOVE_X}{27}{STRINGID}
 STR_7020    :{MOVE_X}{10}{SPRITE}{NEWLINE_SMALLER}{MOVE_X}{36}{STRINGID}
 STR_7021    :{MOVE_X}{10}{SPRITE}{NEWLINE_SMALLER}»{MOVE_X}{36}{STRINGID}
 STR_7022    :{STRING} - - 
-STR_7023    :Make invisible
-STR_7024    :Makes the whole ride invisible
-STR_7025    :Make visible
-STR_7026    :Makes the whole ride visible
+STR_7023    :Déan dofheicthe
+STR_7024    :Déanann é an mharcaíocht ar fad dofheicthe
+STR_7025    :Déan infheicthe
+STR_7026    :Déanann é an mharcaíocht ar fad infheicthe
 STR_7027    :{MOVE_X}{29}{STRINGID}
 STR_7028    :Ceathrú-héilics suas
 STR_7029    :Ceathrú-héilics síos
