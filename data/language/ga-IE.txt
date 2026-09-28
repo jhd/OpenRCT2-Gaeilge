@@ -3508,9 +3508,9 @@ STR_6512    :Rolladh Nialas-G Mór (ar chlé)
 STR_6513    :Rolladh Nialas-G Mór (ar dheis)
 STR_6514    :Airde neamhbhailí!
 STR_6515    :{BLACK}Níl RollerCoaster Tycoon 1 nasctha - úsáidfear íomhánna cúltaca.
-STR_6516    :One or more objects added require RollerCoaster Tycoon 1 linked for proper display. Fallback images will be used.
-STR_6517    :One or more objects in this park require RollerCoaster Tycoon 1 linked for proper display. Fallback images will be used.
-STR_6518    :{BLACK}Hover over a scenario to view its description and objective. Click it to start playing.
+STR_6516    :Ní mór RollerCoaster Tycoon 1 a nascadh chun réad amháin nó níos mó a cuireadh leis a thaispeáint i gceart. Úsáidfear íomhánna cúltaca.
+STR_6517    :Ní mór RollerCoaster Tycoon 1 a nascadh chun réad amháin nó níos mó sa pháirc seo a thaispeáint i gceart. Úsáidfear íomhánna cúltaca.
+STR_6518    :{BLACK}Bog an cúrsóir thar chnámhscéal chun a thuairisc agus a chuspóir a fheiceáil. Cliceáil air chun tosú ag imirt.
 STR_6519    :Breiseanna
 STR_6520    :Pacáistí Sócmhainní
 STR_6521    :Ísealthosaíocht
@@ -3541,8 +3541,8 @@ STR_6545    :Úsáid áireamh úis RCT1
 STR_6546    :Úsáid an t-algartam áirimh úis ó RollerCoaster Tycoon 1, a d’úsáid céatadán seasta de thart ar 1.33%.
 STR_6547    :Gach Radharcra
 STR_6548    :Taispeáin ráillí ag acomhal
-STR_6549    :Compatibility objects cannot be selected!
-STR_6550    :This entry is included for backwards compatibility with old or damaged objects. It cannot be selected, only deselected.  
+STR_6549    :Ní féidir réada comhoiriúnachta a roghnú!
+STR_6550    :Tá an iontráil seo san áireamh ar mhaithe le comhoiriúnacht ar gcúl le réada seana nó damáistithe. Ní féidir í a roghnú, ach is féidir í a dhíroghnú.  
 
 STR_6551    :Glas míleata
 STR_6552    :Drúcht meala
@@ -3622,8 +3622,8 @@ STR_6625    :Dath neamhbhailí
 STR_6626    :Tá an bheochan ar gcúl
 STR_6627    :Luas ráille ró-ard!
 STR_6628    :Ní féidir é a chur ach ar imill cosán!
-STR_6629    :Align toolbar buttons horizontally centred
-STR_6630    :This setting will align the toolbar buttons horizontally in the centre of the screen. The traditional way of aligning them is in the left and right corner.
+STR_6629    :Láraigh cnaipí an bharra uirlisí go cothrománach
+STR_6630    :Ailíneoidh an socrú seo cnaipí an bharra uirlisí go cothrománach i lár an scáileáin. Go traidisiúnta, ailínítear iad sna cúinní ar chlé agus ar dheis.
 STR_6631    :Ag lódáil…
 STR_6632    :Ag seiceáil comhaid réada…
 STR_6633    :Ag seiceáil comhaid cnámhscéil…
@@ -3753,10 +3753,10 @@ STR_6755    :Taispeáin roghanna cuspóra
 STR_6756    :Taispeáin roghanna sonraí cnámhscéil
 STR_6757    :Taispeáin roghanna srianta talún
 STR_6758    :Roghanna iasachta
-STR_6759    :Business model
-STR_6760    :Earnings:
+STR_6759    :Múnla gnó
+STR_6760    :Tuilleamh:
 STR_6761    :Sonraí Cnámhscéil
-STR_6762    :Interface
+STR_6762    :Comhéadan
 STR_6763    :RollerCoaster Tycoon 1
 STR_6764    :Saving and autosaves
 STR_6765    :Ardleibhéal
