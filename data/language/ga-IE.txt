@@ -2908,50 +2908,50 @@ STR_5854    :Scoránaigh ceol marcaíochta ann/as
 STR_5855    :Socraigh lánscáileán rialta, lánscáileán gan teorainn{NEWLINE}nó taispeáint i bhfuinneog
 STR_5856    :Socraigh taifeach an chluiche nuair a bhíonn tú i mód lánscáileáin
 STR_5857    :Roghanna cluiche
-STR_5858    :Use GPU for displaying instead of CPU. Improves compatibility with screen capture software. May slightly decrease performance.
-STR_5859    :Enables frame tweening for visually{NEWLINE}smoother gameplay. When disabled,{NEWLINE}the game will run at 40 FPS.
-STR_5860    :Toggle original/decompiled track drawing
-STR_5861    :Key verification failure.
+STR_5858    :Úsáid GPU in ionad CPU chun an cluiche a thaispeáint. Feabhsaíonn sé seo comhoiriúnacht le bogearraí gabhála scáileáin. D’fhéadfadh sé seo feidhmíocht a laghdú beagán.
+STR_5859    :Cumasaítear idirshuíomh frámaí chun an imirt a dhéanamh{NEWLINE}níos rianúla ó thaobh amhairc de. Nuair a dhíchumasaítear é,{NEWLINE}rithfidh an cluiche ag 40 FPS.
+STR_5860    :Scoránaigh líníocht bhunaidh/dhíthiomsaithe ráille
+STR_5861    :Theip ar fhíorú eochrach.
 STR_5862    :Cuir cosc ar imreoirí anaithnid
-STR_5863    :Only allow players with known keys to join.
-STR_5864    :This server only allows whitelisted players to connect.
+STR_5863    :Ná lig ach d’imreoirí a bhfuil eochracha aithnidiúla acu dul isteach.
+STR_5864    :Ní ligeann an freastalaí seo ach d’imreoirí atá ar an ngealliosta ceangal leis.
 STR_5865    :Logáil stair comhrá
 STR_5866    :Logálann sé gach stair comhrá i gcomhaid i d’eolaire úsáideora.
 STR_5867    :{WINDOW_COLOUR_2}Ainm Soláthraí: {BLACK}{STRING}
 STR_5868    :{WINDOW_COLOUR_2}Ríomhphost Soláthraí: {BLACK}{STRING}
 STR_5869    :{WINDOW_COLOUR_2}Suíomh Gréasáin Soláthraí: {BLACK}{STRING}
 STR_5870    :Taispeáin eolas freastalaí
-STR_5871    :Disable plants withering
-STR_5872    :Disable plant ageing such that they don’t wilt.
-STR_5873    :Allow chain lifts on all track pieces
-STR_5874    :Allows any piece of track to be made into a chain lift
-STR_5875    :Drawing Engine:
-STR_5876    :The engine to use for drawing the game.
+STR_5871    :Díchumasaigh feo na bplandaí
+STR_5872    :Cuir cosc ar aosú plandaí ionas nach bhfeofaidh siad.
+STR_5873    :Ceadaigh ardaitheoir slabhra ar gach píosa ráille
+STR_5874    :Ceadaíonn an rogha seo aon phíosa ráille a bheith déanta ina ardaitheoir slabhra
+STR_5875    :Inneall Líníochta:
+STR_5876    :An t-inneall a úsáidfear chun an cluiche a tharraingt.
 STR_5877    :Bogearraí
 STR_5878    :Bogearraí (taispeáint crua-earraí)
-STR_5879    :OpenGL (experimental)
-STR_5880    :Selected only
-STR_5881    :Non-selected only
-STR_5882    :Custom currency
-STR_5883    :Custom currency configuration
-STR_5884    :{WINDOW_COLOUR_2}Exchange rate: 
-STR_5885    :{WINDOW_COLOUR_2}is equivalent to {COMMA32} GBP (£)
-STR_5886    :{WINDOW_COLOUR_2}Currency symbol:
+STR_5879    :OpenGL (trialach)
+STR_5880    :Roghnaithe amháin
+STR_5881    :Neamhroghnaithe amháin
+STR_5882    :Airgeadra saincheaptha
+STR_5883    :Cumraíocht airgeadra saincheaptha
+STR_5884    :{WINDOW_COLOUR_2}Ráta malairte:
+STR_5885    :{WINDOW_COLOUR_2}is ionann é agus {COMMA32} GBP (£)
+STR_5886    :{WINDOW_COLOUR_2}Siombail airgeadra:
 STR_5887    :Réimír
 STR_5888    :Iarmhír
-STR_5889    :Custom currency symbol
-STR_5890    :Enter the currency symbol to display
-STR_5892    :Go to the default directory
-STR_5893    :Exchange Rate
-STR_5894    :Enter the exchange rate
+STR_5889    :Siombail airgeadra saincheaptha
+STR_5890    :Iontráil an tsiombail airgeadra atá le taispeáint
+STR_5892    :Téigh go dtí an t-eolaire réamhshocraithe
+STR_5893    :Ráta Malairte
+STR_5894    :Iontráil an ráta malairte
 STR_5895    :Sábháil Ráille
 STR_5896    :Theip ar sábháil an ráille!
-STR_5898    :{BLACK}Can’t load the track, the file might be {newline}corrupted, broken or missing!
-STR_5899    :Toggle paint debug window
-STR_5900    :Use original drawing code
-STR_5901    :Show segment heights
-STR_5902    :Show bounding boxes
-STR_5903    :Show paint debug window
+STR_5898    :{BLACK}Ní féidir an ráille a lódáil; d’fhéadfadh an comhad a bheith {newline}truaillithe, briste nó ar iarraidh!
+STR_5899    :Scoránaigh fuinneog dífhabhtaithe péinteála
+STR_5900    :Úsáid cód líníochta bunaidh
+STR_5901    :Taispeáin airdí na dteascán
+STR_5902    :Taispeáin boscaí teorann
+STR_5903    :Taispeáin fuinneog dífhabhtaithe péinteála
 STR_5904    :Athshocraigh dáta
 STR_5905    :A map generation tool that automatically creates a custom landscape
 STR_5906    :Zoom to cursor position
@@ -3616,7 +3616,7 @@ STR_6619    :Ní féidir saghas réada a shrianadh!
 STR_6620    :Níor aimsíodh an réad!
 STR_6621    :Faoi srian
 STR_6622    :Srian réad don Eagarthóir Cnámhscéil agus don mhód bosca gainimh.
-STR_6623    :Type ‘help’ for a list of available commands. Type ‘hide’ to hide the console.
+STR_6623    :Clóscríobh ‘help’ le haghaidh liosta ordú atá ar fáil. Clóscríobh ‘hide’ chun an consól a fholach.
 STR_6624    :Cigire Tíleanna: Sórtáil baill
 STR_6625    :Dath neamhbhailí
 STR_6626    :Tá an bheochan ar gcúl
