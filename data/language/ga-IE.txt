@@ -2953,22 +2953,22 @@ STR_5901    :Taispeáin airdí na dteascán
 STR_5902    :Taispeáin boscaí teorann
 STR_5903    :Taispeáin fuinneog dífhabhtaithe péinteála
 STR_5904    :Athshocraigh dáta
-STR_5905    :A map generation tool that automatically creates a custom landscape
-STR_5906    :Zoom to cursor position
-STR_5907    :When enabled, zooming in will centre around the cursor, as opposed to the screen centre.
-STR_5908    :Allow arbitrary ride type changes
-STR_5909    :Allows changing ride type freely. May cause crashes.
-STR_5910    :Apply
-STR_5911    :See-Through Paths
-STR_5912    :See-through paths toggle
+STR_5905    :Uirlis a ghineann mapaí trí thírdhreach saincheaptha a chruthú go huathoibríoch
+STR_5906    :Zúmáil chuig suíomh an chúrsóra
+STR_5907    :Nuair a chumasaítear é seo, úsáidfear suíomh an chúrsóra mar lárphointe don zúmáil isteach seachas lár an scáileáin.
+STR_5908    :Ceadaigh saghas marcaíochta a athrú gan srian
+STR_5909    :Ceadaíonn an rogha seo saghas marcaíochta a athrú gan srian. D’fhéadfadh sé seo tuairteanna a chur faoi deara.
+STR_5910    :Feidhmigh
+STR_5911    :Cosáin thrédhearcacha
+STR_5912    :Scoránaigh cosáin thrédhearcacha
 STR_5913    :Comhrá
 STR_5914    :Marcaíocht anaithnid
 STR_5915    :Imreoir
 STR_5916    :{COMMA16} imreoir
 STR_5917    :{COMMA16} imreoir
 STR_5919    :{COMMA16}
-STR_5920    :Render weather effects
-STR_5921    :If enabled, rain and gloomy colours will be rendered during storms.
+STR_5920    :Rindreáil éifeachtaí aimsire
+STR_5921    :Má chumasaítear é seo, rindreálfar báisteach agus dathanna duairce le linn stoirmeacha.
 STR_5922    :Uasmhéid {STRINGID}
 STR_5923    :Uasmhéid {COMMA16} {STRINGID} sa traein
 STR_5924    :Sonraí dromchla
@@ -2981,25 +2981,25 @@ STR_5930    :Sonraí radharcra mór
 STR_5931    :Sonraí meirge
 STR_5932    :Corrupt element details
 STR_5933    :Airíonna
-STR_5934    :Terrain texture: {BLACK}{STRINGID}
-STR_5935    :Terrain edge: {BLACK}{STRINGID}
-STR_5936    :Land ownership: {BLACK}{STRINGID}
-STR_5937    :Not owned and not for sale
+STR_5934    :Uigeacht tír-raoin: {BLACK}{STRINGID}
+STR_5935    :Imeall tír-raoin: {BLACK}{STRINGID}
+STR_5936    :Úinéireacht talún: {BLACK}{STRINGID}
+STR_5937    :Níl an talamh faoi úinéireacht na páirce ná ar díol
 STR_5938    :Leibhéal uisce: {BLACK}{COMMA16}
 STR_5939    :Bain sconsaí páirce
-STR_5940    :Restore park fences
+STR_5940    :Athchóirigh sconsaí páirce
 STR_5941    :Bunairde:
 STR_5942    :Ainm cosáin: {BLACK}{STRINGID}
 STR_5943    :Breiseanna: {BLACK}{STRINGID}
 STR_5944    :Breiseanna: {BLACK}Gan aon cheann
-STR_5945    :Connected edges:
+STR_5945    :Imill cheangailte:
 STR_5946    :Saghas marcaíochta: {BLACK}{STRINGID}
 STR_5947    :ID marcaíochta: {BLACK}{COMMA16}
 STR_5948    :Ainm marcaíochta: {BLACK}{STRINGID}
 STR_5949    :Ardaitheoir slabhra
-STR_5950    :Apply changes to entire track piece
-STR_5951    :Track piece ID: {BLACK}{COMMA16}
-STR_5952    :Sequence number: {BLACK}{COMMA16}
+STR_5950    :Cuir na hathruithe i bhfeidhm ar an bpíosa ráille iomlán
+STR_5951    :ID píosa ráille: {BLACK}{COMMA16}
+STR_5952    :Uimhir sheicheamhach: {BLACK}{COMMA16}
 STR_5953    :Sort the map elements on the current tile based on their base height.
 STR_5954    :Aois radharcra: {BLACK}{COMMA16}
 STR_5955    :Quadrant placement: {BLACK}{STRINGID}
