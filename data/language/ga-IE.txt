@@ -3000,17 +3000,17 @@ STR_5949    :Ardaitheoir slabhra
 STR_5950    :Cuir na hathruithe i bhfeidhm ar an bpíosa ráille iomlán
 STR_5951    :ID píosa ráille: {BLACK}{COMMA16}
 STR_5952    :Uimhir sheicheamhach: {BLACK}{COMMA16}
-STR_5953    :Sort the map elements on the current tile based on their base height.
+STR_5953    :Sórtáil na baill mapa ar an tíl reatha de réir a mbunairde.
 STR_5954    :Aois radharcra: {BLACK}{COMMA16}
-STR_5955    :Quadrant placement: {BLACK}{STRINGID}
+STR_5955    :Suíomh na ceathrún: {BLACK}{STRINGID}
 STR_5956    :Iardheas
 STR_5957    :Iarthuaidh
 STR_5958    :Oirthuaidh
 STR_5959    :Oirdheas
-STR_5960    :Quadrant placement:
-STR_5961    :Entry index: {BLACK}{COMMA16}
-STR_5962    :Collision detection:
-STR_5963    :Raised Corners:
+STR_5960    :Suíomh na ceathrún:
+STR_5961    :Innéacs iontrála: {BLACK}{COMMA16}
+STR_5962    :Aimsiú imbhuailte:
+STR_5963    :Coirnéil Ardaithe:
 STR_5964    :Trasnán
 STR_5965    :Saghas bealaigh isteach: {BLACK}{STRINGID}
 STR_5966    :Cuid bealaigh isteach páirce: {BLACK}{STRINGID}
@@ -3020,7 +3020,7 @@ STR_5969    :Deas
 STR_5970    :ID bealaigh isteach: {BLACK}{COMMA16}
 STR_5971    :ID bealaigh amach: {BLACK}{COMMA16}
 STR_5972    :ID marcaíochta: {BLACK}{COMMA16}
-STR_5973    :Clamp to next
+STR_5973    :Clampáil go dtí an chéad cheann eile
 STR_5974    :Changes the base- and clearance height so that it’s at the same as the next element on the current tile. Doing this makes it easier to build on this tile.
 STR_5975    :Fána:
 STR_5976    :Cothrom
@@ -3028,7 +3028,7 @@ STR_5977    :Taobh deas suas
 STR_5978    :Taobh clé suas
 STR_5979    :Saghas balla: {BLACK}{COMMA16}
 STR_5980    :Téacs meirge: {BLACK}{STRINGID}
-STR_5981    :Not a banner
+STR_5981    :Ní meirge é
 STR_5982    :Saghas radharcra mór: {BLACK}{COMMA16}
 STR_5983    :ID píosa radharcra mór: {BLACK}{COMMA16}
 STR_5984    :Cosáin bhlocáilte:
