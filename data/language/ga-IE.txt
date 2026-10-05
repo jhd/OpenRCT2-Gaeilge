@@ -3021,7 +3021,7 @@ STR_5970    :ID bealaigh isteach: {BLACK}{COMMA16}
 STR_5971    :ID bealaigh amach: {BLACK}{COMMA16}
 STR_5972    :ID marcaíochta: {BLACK}{COMMA16}
 STR_5973    :Clampáil go dtí an chéad cheann eile
-STR_5974    :Changes the base- and clearance height so that it’s at the same as the next element on the current tile. Doing this makes it easier to build on this tile.
+STR_5974    :Athraítear an bhunairde agus an airde glanspáis chun iad a mheaitseáil le hairdí an chéad bhaill eile ar an tíl reatha. Éascaíonn é seo tógáil ar an tíl seo.
 STR_5975    :Fána:
 STR_5976    :Cothrom
 STR_5977    :Taobh deas suas
@@ -3035,11 +3035,11 @@ STR_5984    :Cosáin bhlocáilte:
 STR_5985    :Fillteán nua
 STR_5986    :Clóscríobh ainm an fhillteáin nua.
 STR_5987    :Ní féidir fillteán a chruthú
-STR_5988    :No remaining land rights for sale
-STR_5989    :No remaining construction rights for sale
-STR_5990    :No remaining land rights or construction rights for sale
-STR_5991    :Can’t paste element…
-STR_5992    :The map elements limit has been reached
+STR_5988    :Níl cearta talún ar bith fágtha ar díol
+STR_5989    :Níl cearta tógála ar bith fágtha ar díol
+STR_5990    :Níl cearta talún ná cearta tógála ar bith fágtha ar díol
+STR_5991    :Ní féidir ball a ghreamú…
+STR_5992    :Tá teorainn na mball mapa bainte amach
 STR_5993    :Cóipeáil an ball roghnaithe
 STR_5994    :Greamaigh an ball cóipeáilte
 STR_5995    :Treiseoir
@@ -3053,15 +3053,15 @@ STR_6002    :Soilseoidh lampaí agus marcaíochtaí san oíche.{NEWLINE}Ní mór
 STR_6003    :Amharc Gearrtha
 STR_6004    :Amharc Gearrtha
 STR_6005    :Cumasaigh amharc gearrtha
-STR_6006    :Cut-away view only displays map elements at or below the cut height (vertical clipping) and in the selected area (horizontal clipping).
+STR_6006    :Ní thaispeánann amharc gearrtha ach baill mapa atá ag an airde gearrtha nó faoina bun (gearradh ingearach) agus sa limistéar roghnaithe (gearradh cothrománach).
 STR_6007    :Airde gearrtha
-STR_6008    :Click to toggle raw value<->value in measurement units
+STR_6008    :Cliceáil chun scoránú idir an luach amh<->an luach in aonaid tomhais
 STR_6009    :Roghnaigh airde gearrtha
 STR_6010    :{COMMA2DP32}m
 STR_6011    :{COMMA1DP16}ft
 STR_6012    :{COMMA1DP16}
-STR_6013    :Guests will only pay the ticket to enter the park and services.{NEWLINE}Ride entry is free.
-STR_6014    :Guests will only pay entrance tickets for rides and services.{NEWLINE}They won’t pay anything to enter the park.
+STR_6013    :Ní íocfaidh aíonna ach as ticéad isteach sa pháirc agus seirbhísí.{NEWLINE}Beidh marcaíochtaí saor in aisce.
+STR_6014    :Ní íocfaidh aíonna ach as ticéid mharcaíochta agus seirbhísí.{NEWLINE}Ní íocfaidh siad aon rud chun dul isteach sa pháirc.
 STR_6015    :Ar fhána
 STR_6016    :Mionathraigh Tíl
 STR_6017    :Maolaigh ort le do thoil
