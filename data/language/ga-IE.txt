@@ -3170,7 +3170,7 @@ STR_6128    :The file could not be loaded as some of the objects referenced in i
 STR_6129    :Cóipeáil
 STR_6130    :Cóipeáil iad uile
 STR_6131    :Foinse réada
-STR_6132    :Ignore research status
+STR_6132    :Déan neamhaird de stádas taighde
 STR_6133    :Access rides and scenery that have not yet been invented
 STR_6134    :Glan Radharcra
 STR_6135    :Client sent invalid request
@@ -3240,20 +3240,20 @@ STR_6228    :Roghanna Cnámhscéil
 STR_6229    :{WINDOW_COLOUR_2}{STRINGID}: {STRINGID}
 STR_6230    :{BLACK}{STRINGID}:
 STR_6231    :{WINDOW_COLOUR_2}{STRINGID}: {MOVE_X}{185}{STRINGID}
-STR_6232    :Frozen
-STR_6233    :Cut-away view
+STR_6232    :Reoite
+STR_6233    :Amharc gearrtha
 STR_6234    :Highlight path issues
 STR_6235    :Eolas Freastalaí
 STR_6236    :Imreoirí
 STR_6237    :Grúpaí
 STR_6238    :Roghanna Ilimreoirí
-STR_6239    :Vertical Clipping
-STR_6240    :Horizontal Clipping
+STR_6239    :Gearradh Ingearach
+STR_6240    :Gearradh Cothrománach
 STR_6241    :Roghnaigh limistéar
 STR_6242    :Glan an rogha
-STR_6243    :Refurbishes the ride,{NEWLINE}makes it like new
-STR_6244    :Can’t refurbish ride…
-STR_6245    :Ride doesn’t need refurbishing
+STR_6243    :Athchóiríonn é an mharcaíocht,{NEWLINE}cuireann é cuma nua uirthi
+STR_6244    :Ní féidir marcaíocht a athchóiriú…
+STR_6245    :Ní theastaíonn athchóiriú ón marcaíocht
 STR_6246    :Athchóirigh
 STR_6247    :Athchóirigh marcaíocht/díol spéise
 STR_6248    :{WINDOW_COLOUR_1}Ar mhaith leat {STRINGID} a athchóiriú ar {CURRENCY}?
@@ -3262,16 +3262,16 @@ STR_6250    :{WINDOW_COLOUR_1}An bhfuil tú cinnte gur mhaith leat {STRINGID} a 
 STR_6251    :Níl an mharcaíocht folamh fós
 STR_6255    :Tá URL neamhbhailí
 STR_6256    :Éifeachtaí rindreála
-STR_6257    :Glassy (translucent)
-STR_6258    :Clear (transparent)
+STR_6257    :Gloiniúil (tréshoilseach)
+STR_6258    :Glé (trédhearcach)
 STR_6259    :Díchumasaithe
-STR_6260    :Show blocked tiles
+STR_6260    :Taispeáin tíleanna blocáilte
 STR_6261    :Taispeáin cosáin leathana
-STR_6262    :Master volume
+STR_6262    :Príomhairde fuaime
 STR_6263    :Scoránaigh gach fuaim ann/as
-STR_6264    :Always use system file browser
+STR_6264    :Bain úsáid as brabhsálaí comhad an chórais i gcónaí
 STR_6265    :When enabled, your operating system’s file browser will be used instead of OpenRCT2’s.
-STR_6266    :Open custom content folder
+STR_6266    :Oscail fillteán an inneachair shaincheaptha
 STR_6267    :Oscail cigire tíleanna
 STR_6268    :Advance to next tick
 STR_6269    :Invalid climate ID
@@ -3282,7 +3282,7 @@ STR_6273    :Ceol
 STR_6274    :Ní féidir scéim datha a shocrú…
 STR_6275    :Stíl stáisiúin
 STR_6276    :{RED}{STRINGID} has guests getting stuck, possibly due to invalid ride type or operating mode.
-STR_6277    :Station index: {BLACK}{STRINGID}
+STR_6277    :Innéacs stáisiúin: {BLACK}{STRINGID}
 STR_6278    :Méid uathshábhála
 STR_6279    :Number of autosaves that should be kept
 STR_6280    :Comhrá
@@ -3299,9 +3299,9 @@ STR_6299    :Íoslódáil gach rud
 STR_6300    :Íoslódáil gach réad ar iarraidh má tá siad ar fáil ar líne.
 STR_6301    :Copy the selected object name to the clipboard.
 STR_6302    :Copy the entire list of missing objects to the clipboard.
-STR_6303    :Downloading object ({COMMA16} / {COMMA16}): [{STRING}]
+STR_6303    :Ag íoslódáil réada ({COMMA16} / {COMMA16}): [{STRING}]
 STR_6304    :Oscail roghnóir radharcra
-STR_6305    :Multithreading
+STR_6305    :Ilsnáithiú
 STR_6306    :Experimental option to use multiple threads to render, may cause instability.
 STR_6307    :Scéim datha: {BLACK}{STRINGID}
 STR_6308    :{TOPAZ}“{STRINGID}{TOPAZ}”{NEWLINE}{STRINGID}
@@ -3779,7 +3779,7 @@ STR_6781    :Gabhálacha scáileáin
 STR_6782    :Fógraí páirce
 STR_6783    :Fógraí marcaíochta
 STR_6784    :Fógraí aoi
-STR_6785    :Gamepad
+STR_6785    :Ceap stiúrtha
 STR_6786    :Marbhchrios:
 STR_6787    :Analogue stick deadzone (minimum movement required)
 STR_6788    :Íogaireacht:
@@ -3797,13 +3797,13 @@ STR_6799    :Mionmhapa
 STR_7000    :nó
 STR_7001    :Ainm marcaíochta
 STR_7002    :{STRINGID} {STRINGID}
-STR_7003    :Audio file ‘{STRING}’ is truncated. Expected sample {INT32}, but only {INT32} are available. Consider reinstalling RCT2.
+STR_7003    :Tá an comhad fuaime ‘{STRING}’ teasctha. Bhíothas ag súil le sampla {INT32}, ach níl ach {INT32} ar fáil. Smaoinigh ar RCT2 a athshuiteáil.
 STR_7004    :Fórsáil Aththarraingt
 STR_7005    :Tarraing limistéar cosáin
 STR_7006    :Tarraing teorainn timpeall ar chnaipí íomhá
 STR_7007    :Saghas Marcaíochta
 STR_7008    :Saghas marcaíochta anaithnid ({INT32})
-STR_7009    :Receiving scripts…
+STR_7009    :Ag fáil scripteanna…
 STR_7010    :Níorbh fhéidir athsheinm a thosú, níl an comhad ‘{STRING}’ ann nó níl sé bailí
 STR_7011    :Níorbh fhéidir athsheinm a thosú
 STR_7012    :Polish Złoty (PLN)
