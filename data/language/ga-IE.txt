@@ -3155,39 +3155,39 @@ STR_6107    :Trucailí Arracht
 STR_6109    :Rollchóstóir Hipearchastóra
 STR_6111    :Mionrollchóstóir Clasaiceach
 STR_6113    :Rollchóstóir ard gan inbhéartuithe le titimí móra, luas ard, agus traenacha compordacha gan ach srianta barra glúine
-STR_6115    :Powered giant 4 × 4 trucks which can climb steep slopes
-STR_6116    :Wide roller coaster trains glide along smooth steel track, travelling through a variety of inversions
+STR_6115    :Trucailí ollmhóra cumhachtaithe 4 × 4 atá in ann fánaí géara a dhreapadh
+STR_6116    :Sleamhnaíonn traenacha leathana rollchóstóra ar ráille mín cruach, ag taisteal trí inbhéartuithe éagsúla
 STR_6119    :Rollchóstóir saor atá éasca a thógáil, ach a bhfuil airde theoranta aige
 STR_6120    :{BABYBLUE}Feithicil nua ar fáil anois le haghaidh {STRINGID}:{NEWLINE}{STRINGID}
-STR_6121    :Extends the park’s land rights all the way to the edges of the map
+STR_6121    :Síneann é cearta talún na páirce an bealach ar fad go dtí imill an mhapa
 STR_6122    :Níl go leor rollchóstóirí sa chnámhscéal seo!
 STR_6123    :Earráid agus réada á lódáil le haghaidh na páirce
 STR_6124    :Ainm réada
 STR_6125    :Saghas réada
 STR_6126    :Saghas anaithnid
 STR_6127    :Comhad: {STRING}
-STR_6128    :The file could not be loaded as some of the objects referenced in it are missing or corrupt. A list of these objects is given below.
+STR_6128    :Níorbh fhéidir an comhad a lódáil mar tá cuid de na réada atá luaite ann ar iarraidh nó truaillithe. Tá liosta de na réada seo thíos.
 STR_6129    :Cóipeáil
 STR_6130    :Cóipeáil iad uile
 STR_6131    :Foinse réada
 STR_6132    :Déan neamhaird de stádas taighde
-STR_6133    :Access rides and scenery that have not yet been invented
+STR_6133    :Faigh rochtain ar mharcaíochtaí agus ar radharcra nach bhfuil cumtha fós
 STR_6134    :Glan Radharcra
-STR_6135    :Client sent invalid request
-STR_6136    :Server sent invalid request
-STR_6137    :OpenRCT2, a free and open source recreation of and expansion to Roller Coaster Tycoon 2.
-STR_6138    :OpenRCT2 is the work of many authors, a full list can be found under the “Contributors” button. For more information, visit http://github.com/OpenRCT2/OpenRCT2
-STR_6139    :All product and company names belong to their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+STR_6135    :Sheol an cliant iarratas neamhbhailí
+STR_6136    :Sheol an freastalaí iarratas neamhbhailí
+STR_6137    :OpenRCT2, athchruthú agus leathnú saor, foinse oscailte ar Roller Coaster Tycoon 2.
+STR_6138    :Is saothar go leor údar é OpenRCT2; tá liosta iomlán le fáil faoin gcnaipe “Rannpháirtithe”. Le haghaidh tuilleadh eolais, tabhair cuairt ar http://github.com/OpenRCT2/OpenRCT2
+STR_6139    :Is lena sealbhóirí faoi seach gach ainm táirge agus comhlachta. Ní thugann a n-úsáid le tuiscint go bhfuil aon cheangal leo ná formhuiniú uathu.
 STR_6140    :Loga athruithe…
 STR_6141    :Barra Uirlisí Íochtair RCT1
 STR_6142    :{WINDOW_COLOUR_2}Ainm ráille: {BLACK}{STRING}
 STR_6143    :{WINDOW_COLOUR_2}Saghas marcaíochta: {BLACK}{STRINGID}
-STR_6144    :Show dirty visuals
+STR_6144    :Taispeáin íomhánna salacha
 STR_6145    :Cuir teorainn luais ar threiseoirí
 STR_6146    :Cumasaigh gach píosa ráille is féidir a léiriú
 STR_6147    :Enables all track pieces the ride type is capable of in the construction window, regardless of whether the vehicle supports them.
-STR_6148    :Connecting to master server…
-STR_6149    :Unable to connect to master server
+STR_6148    :Ag ceangal leis an bpríomhfhreastalaí…
+STR_6149    :Ní féidir ceangal leis an bpríomhfhreastalaí
 STR_6150    :Invalid response from master server (no JSON number)
 STR_6151    :Master server failed to return servers
 STR_6152    :Invalid response from master server (no JSON array)
