@@ -1645,12 +1645,12 @@ STR_2333    :Éifeachtaí fuaime
 STR_2334    :Puint (£)
 STR_2335    :Dollair ($)
 STR_2336    :Franc (F)
-STR_2337    :Deutsche mark (DM)
+STR_2337    :Marg Gearmánach (DM)
 STR_2338    :Yen (¥)
 STR_2339    :Peseta (Pts)
 STR_2340    :Lira (L)
-STR_2341    :Guilders (ƒ)
-STR_2342    :Krona (kr)
+STR_2341    :Gildir (ƒ)
+STR_2342    :Coróin (kr)
 STR_2343    :Euro (€)
 STR_2344    :Impiriúil
 STR_2345    :Méadrach
@@ -2676,9 +2676,9 @@ STR_5574    :Ainm Freastalaí:
 STR_5575    :Uaslíon Imreoirí:
 STR_5576    :Port:
 STR_5577    :South Korean Won (W)
-STR_5578    :Russian Rouble (₽)
+STR_5578    :Rúbal Rúiseach (₽)
 STR_5579    :Fachtóir scála fuinneoige:
-STR_5580    :Czech koruna (Kč)
+STR_5580    :Coróin Sheiceach (Kč)
 STR_5581    :Taispeáin FPS
 STR_5582    :Sáinnigh cúrsóir na luiche san fhuinneog
 STR_5583    :{COMMA1DP16} m/s
@@ -2740,7 +2740,7 @@ STR_5642    :Grúpa
 STR_5643    :Cuir Grúpa leis
 STR_5644    :Bain an Grúpa
 STR_5645    :Comhrá
-STR_5646    :Terraform
+STR_5646    :Coigeartaigh Talamh
 STR_5647    :Scoránaigh Sos
 STR_5648    :Socraigh Leibhéal Uisce
 STR_5649    :Cruthú marcaíochta
@@ -2815,13 +2815,13 @@ STR_5756    :Drochphasfhocal
 STR_5757    :Freastalaí Lán
 STR_5758    :{OUTLINE}{GREEN}Tá {STRING} tar éis dul isteach sa chluiche
 STR_5759    :Ag íoslódáil mapa …
-STR_5760    :Hong Kong Dollars (HK$)
-STR_5761    :New Taiwan Dollar (NT$)
-STR_5762    :Chinese Yuan (CN¥)
+STR_5760    :Dollair Hong Cong (HK$)
+STR_5761    :Dollar Nua na Téaváine (NT$)
+STR_5762    :Yuan Síneach (CN¥)
 STR_5763    :Gach comhad
 STR_5764    :Saghas marcaíochta neamhbhailí
 STR_5765    :Ní féidir marcaíochtaí de shaghas neamhbhailí a chur in eagar
-STR_5766    :Hungarian Forint (Ft)
+STR_5766    :Forint Ungárach (Ft)
 STR_5767    :Ioncam
 STR_5768    :Custaiméirí iomlána
 STR_5769    :Brabús iomlán
@@ -3806,7 +3806,7 @@ STR_7008    :Saghas marcaíochta anaithnid ({INT32})
 STR_7009    :Ag fáil scripteanna…
 STR_7010    :Níorbh fhéidir athsheinm a thosú, níl an comhad ‘{STRING}’ ann nó níl sé bailí
 STR_7011    :Níorbh fhéidir athsheinm a thosú
-STR_7012    :Polish Złoty (PLN)
+STR_7012    :Zloty Polannach (PLN)
 STR_7013    :Tarraing limistéir cosáin
 STR_7014    :Tá an cluiche agam ar Steam, ach níl sé suiteáilte agam fós.
 STR_7015    :Dún Steam, le do thoil, má tá sé ag rith, agus ansin cliceáil ar ‘OK’.
