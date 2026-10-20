@@ -2705,8 +2705,8 @@ STR_5604    :Tá aoi tar éis mír a cheannach
 STR_5605    :D’úsáid aoi saoráid
 STR_5606    :Fuair aoi bás
 STR_5607    :Bain ball mapa roghnaithe go fórsúil.
-STR_5608    :BH
-STR_5609    :CH
+STR_5608    :BA
+STR_5609    :AG
 STR_5610    :Bain an ball mapa atá roghnaithe faoi láthair. Bainfear go fórsúil é, agus ní úsáidfear/ní ghnóthófar aon airgead. Úsáid go cúramach.
 STR_5611    :G
 STR_5612    :Bratach taibhse
@@ -2979,7 +2979,7 @@ STR_5928    :Sonraí bealaigh isteach
 STR_5929    :Sonraí balla
 STR_5930    :Sonraí radharcra mór
 STR_5931    :Sonraí meirge
-STR_5932    :Corrupt element details
+STR_5932    :Sonraí baill thruaillithe
 STR_5933    :Airíonna
 STR_5934    :Uigeacht tír-raoin: {BLACK}{STRINGID}
 STR_5935    :Imeall tír-raoin: {BLACK}{STRINGID}
@@ -3142,7 +3142,7 @@ STR_6092    :D’athraigh {STRING} táille isteach na páirce go {STRING}
 STR_6093    :Leag {STRING} radharcra nua.
 STR_6094    :Bhain {STRING} radharcra.
 STR_6095    :Chuir {STRING} radharcra in eagar.
-STR_6096    :{STRING} set sign name to ‘{STRING}’.
+STR_6096    :D’athraigh {STRING} ainm an chomhartha go ‘{STRING}’.
 STR_6097    :Leag {STRING} ráille na marcaíochta ‘{STRING}’.
 STR_6098    :Bhain {STRING} ráille na marcaíochta.
 STR_6099    :Cheangail tú leis an bhfreastalaí.
@@ -3204,7 +3204,7 @@ STR_6165    :Úsáid sioncronú ingearach
 STR_6166    :Sioncronaíonn é gach fráma a thaispeántar le ráta athnuachana an mhonatóra, rud a chuireann cosc ar stróiceadh scáileáin.
 STR_6167    :Ardleibhéal
 STR_6168    :Seicheamh Teidil
-STR_6170    :Interface Tweaks
+STR_6170    :Mionathruithe Comhéadain
 STR_6171    :Cuardach
 STR_6172    :Cuardach
 STR_6173    :Iontráil an t-ainm atá le cuardach le do thoil:
@@ -3323,7 +3323,7 @@ STR_6323    :Ag ionsamhlú
 STR_6324    :Ionsamhlaigh
 STR_6325    :Ionsamhlaigh marcaíocht/díol spéise
 STR_6326    :Ní féidir {STRINGID} a ionsamhlú…
-STR_6327    :Transparent background for giant screenshots
+STR_6327    :Cúlra trédhearcach le haghaidh gabhálacha scáileáin ollmhóra
 STR_6328    :Leis an rogha seo cumasaithe, beidh cúlra trédhearcach ag gabhálacha scáileáin ollmhóra seachas an dath dubh réamhshocraithe.
 STR_6329    :{STRING}{STRINGID}
 STR_6330    :Ag íoslódáil [{STRING}] as {STRING} ({COMMA16} / {COMMA16})
@@ -3342,7 +3342,7 @@ STR_6343    :Cigire Tíleanna: Ardaigh comhordanáid Y
 STR_6344    :Cigire Tíleanna: Laghdaigh comhordanáid Y
 STR_6345    :Cigire Tíleanna: Ardaigh airde baill
 STR_6346    :Cigire Tíleanna: Laghdaigh airde baill
-STR_6347    :Path additions cannot be placed on level crossings!
+STR_6347    :Ní féidir breiseanna cosáin a chur ar chrosairí comhréidh!
 STR_6348    :Bain crosaire comhréidh ar dtús!
 STR_6349    :Seicheamh teidil randamach
 STR_6350    :Scaipeadh
@@ -3532,7 +3532,7 @@ STR_6536    :Sábháladh an pháirc seo i leagan níos déanaí de OpenRCT2. Sá
 STR_6537    :Ceadaigh gnáthchosáin a úsáid mar scuainí
 STR_6538    :Taispeánann é gnáthchosáin i liosta anuas na scuainí i bhfuinneog na gCosán.
 STR_6539    :Coscán Dúnta
-STR_6540    :{WINDOW_COLOUR_2}Special thanks to the following companies for allowing their likeness:
+STR_6540    :{WINDOW_COLOUR_2}Buíochas ar leith leis na comhlachtaí seo a leanas as cead a thabhairt a n-íomhánna a úsáid:
 STR_6541    :{WINDOW_COLOUR_2}Rocky Mountain Construction Group, Josef Wiegand GmbH & Co. KG, Intamin Amusement Rides Int. Corp. Est.
 STR_6542    :Rannpháirtithe
 STR_6543    :Rannpháirtithe…
@@ -3651,7 +3651,7 @@ STR_6654    :Ag taispeáint {POP16}{UINT16} foinsí
 STR_6655    :‘{POP16}{STRINGID}’ amháin
 STR_6656    :Bain gach sconsa den pháirc
 STR_6657    :Talamh Gan Úinéireacht
-STR_6658    :Set land to be not owned by the park, nor available for purchase
+STR_6658    :Socraigh talamh gan a bheith faoi úinéireacht na páirce ná ar fáil le ceannach
 STR_6659    :Déanann aíonna neamhaird de phraghsanna
 STR_6660    :Déanfaidh aíonna neamhaird de phraghas na marcaíochtaí agus na stainníní.
 STR_6661    :Randamaigh uile
@@ -3704,7 +3704,7 @@ STR_6706    :{WINDOW_COLOUR_2}Comhad íomhá faoi láthair: {BLACK}{STRING}
 STR_6707    :(níl aon cheann roghnaithe)
 STR_6708    :Neart Mínithe
 STR_6709    :Iontráil Neart Mínithe idir {COMMA16} agus {COMMA16}
-STR_6710    :Stable sort
+STR_6710    :Sórtáil chobhsaí
 STR_6711    :Ainm comhaid:
 STR_6712    :Sábháil
 STR_6713    :{COMMA32} {STRINGID}
@@ -3728,7 +3728,7 @@ STR_6730    :Easpórtáil sonraí emscripten
 STR_6731    :Iompórtáil sonraí emscripten
 STR_6732    :Taispeáin cnaipe sa bharra uirlisí chun an amharc a rothlú go tuathalach
 STR_6733    :Trédhearcach
-STR_6734    :Map elements that are at or above the cutting height are rendered translucent.
+STR_6734    :Rindreáiltear go tréshoilseach baill mapa atá ag an airde gearrtha nó os a cionn.
 STR_6735    :Téigh suas go dtí an fillteán máthar
 STR_6736    :Réamhamharc
 STR_6737    :Níl aon réamhamharc ar fáil
@@ -3758,7 +3758,7 @@ STR_6760    :Tuilleamh:
 STR_6761    :Sonraí Cnámhscéil
 STR_6762    :Comhéadan
 STR_6763    :RollerCoaster Tycoon 1
-STR_6764    :Saving and autosaves
+STR_6764    :Sábháil agus uathshábhálacha
 STR_6765    :Ardleibhéal
 STR_6766    :Glan
 STR_6767    :Fuinneog
@@ -3781,9 +3781,9 @@ STR_6783    :Fógraí marcaíochta
 STR_6784    :Fógraí aoi
 STR_6785    :Ceap stiúrtha
 STR_6786    :Marbhchrios:
-STR_6787    :Analogue stick deadzone (minimum movement required)
+STR_6787    :Marbhchrios an mhaide analógaigh (an ghluaiseacht íosta a theastaíonn)
 STR_6788    :Íogaireacht:
-STR_6789    :Analogue stick sensitivity multiplier
+STR_6789    :Iolraitheoir íogaireachta an mhaide analógaigh
 STR_6790    :Marbhchrios: {COMMA32}%
 STR_6791    :Íogaireacht: {COMMA32}%
 STR_6792    :Foirgnimh Iontrála
@@ -3810,7 +3810,7 @@ STR_7012    :Polish Złoty (PLN)
 STR_7013    :Tarraing limistéir cosáin
 STR_7014    :Tá an cluiche agam ar Steam, ach níl sé suiteáilte agam fós.
 STR_7015    :Dún Steam, le do thoil, má tá sé ag rith, agus ansin cliceáil ar ‘OK’.
-STR_7016    :OpenRCT2 has tried to trigger a download in Steam. Please open Steam and let it download the game. When Steam is finished, click ‘OK’.
+STR_7016    :Rinne OpenRCT2 iarracht íoslódáil a thionscnamh i Steam. Oscail Steam, le do thoil, agus lig dó an cluiche a íoslódáil. Nuair a bheidh Steam críochnaithe, cliceáil ar ‘OK’.
 STR_7017	:Scoir
 STR_7018    :{SPRITE}{MOVE_X}{17}{STRINGID}
 STR_7019    :{SPRITE}{MOVE_X}{27}{STRINGID}
@@ -3825,8 +3825,8 @@ STR_7027    :{MOVE_X}{29}{STRINGID}
 STR_7028    :Ceathrú-héilics suas
 STR_7029    :Ceathrú-héilics síos
 STR_7030    :{WINDOW_COLOUR_2}Aíonna a fuair siamsa: {BLACK}{COMMA32}
-STR_7031    :Disable grass growing
-STR_7032    :Disable grass ageing so that it doesn't grow.
+STR_7031    :Díchumasaigh fás an fhéir
+STR_7032    :Cuir cosc ar aosú an fhéir ionas nach bhfásfaidh é.
 STR_7033    :Stíl ráille
 STR_7034    :Stíl cathrach ghríobháin
 STR_7035    :Stíl siopa
