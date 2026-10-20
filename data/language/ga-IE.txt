@@ -3324,7 +3324,7 @@ STR_6324    :Ionsamhlaigh
 STR_6325    :Ionsamhlaigh marcaíocht/díol spéise
 STR_6326    :Ní féidir {STRINGID} a ionsamhlú…
 STR_6327    :Transparent background for giant screenshots
-STR_6328    :With this option enabled, giant screenshots will have a transparent background instead of the default black colour.
+STR_6328    :Leis an rogha seo cumasaithe, beidh cúlra trédhearcach ag gabhálacha scáileáin ollmhóra seachas an dath dubh réamhshocraithe.
 STR_6329    :{STRING}{STRINGID}
 STR_6330    :Ag íoslódáil [{STRING}] as {STRING} ({COMMA16} / {COMMA16})
 STR_6331    :Cruthaigh lachain
@@ -3345,12 +3345,12 @@ STR_6346    :Cigire Tíleanna: Laghdaigh airde baill
 STR_6347    :Path additions cannot be placed on level crossings!
 STR_6348    :Bain crosaire comhréidh ar dtús!
 STR_6349    :Seicheamh teidil randamach
-STR_6350    :Scatter
-STR_6351    :Scenery Scatter Tool
-STR_6352    :Density
-STR_6353    :Low density
-STR_6354    :Medium density
-STR_6355    :High density
+STR_6350    :Scaipeadh
+STR_6351    :Uirlis Scaipthe Radharcra
+STR_6352    :Dlús
+STR_6353    :Ísealdlús
+STR_6354    :Meándlús
+STR_6355    :Ard-dlús
 STR_6356    :Cruthaíonn é lachain má bhíonn uisce sa pháirc
 STR_6357    :Baineann gach lacha ón mapa
 STR_6358    :Leathanach {UINT16}
@@ -3361,18 +3361,18 @@ STR_6364    :{RED}Fuair {COMMA16} duine bás i dtimpiste ar {STRINGID}
 STR_6365    :Taismigh marcaíochta
 STR_6366    :Feithiclí sáinnithe nó stadta
 STR_6367    :Fráma beochana:
-STR_6368    :For compatibility reasons, it is not recommended to run OpenRCT2 with Wine. OpenRCT2 has native support for macOS, Linux, FreeBSD and OpenBSD.
+STR_6368    :Ar chúiseanna comhoiriúnachta, ní mholtar é OpenRCT2 a rith le Wine. Tacaíonn OpenRCT2 go dúchasach le macOS, Linux, FreeBSD agus OpenBSD.
 STR_6369    :Ceadaigh ráille a thógáil ag airdí neamhbhailí
 STR_6370    :Ceadaíonn é píosaí ráille a shuí ag aon eatramh airde
-STR_6371    :The specified path contains a RollerCoaster Tycoon 1 installation, but the “csg1i.dat” file is missing. This file needs to be copied from the Loopy Landscapes or RCT Deluxe CD to the “Data” folder of the RollerCoaster Tycoon 1 install on your hard drive.
-STR_6372    :The specified path contains a RollerCoaster Tycoon 1 installation, but this version is not suitable. OpenRCT2 needs a Loopy Landscapes or RCT Deluxe install in order to use RollerCoaster Tycoon 1 assets.
+STR_6371    :Tá suiteáil RollerCoaster Tycoon 1 sa chonair shonraithe, ach tá an comhad “csg1i.dat” ar iarraidh. Caithfear an comhad seo a chóipeáil ón CD Loopy Landscapes nó RCT Deluxe go dtí an fillteán “Data” den tsuiteáil RollerCoaster Tycoon 1 ar do thiomántán crua.
+STR_6372    :Tá suiteáil RollerCoaster Tycoon 1 sa chonair shonraithe, ach níl an leagan seo oiriúnach. Teastaíonn suiteáil Loopy Landscapes nó RCT Deluxe ó OpenRCT2 chun sócmhainní RollerCoaster Tycoon 1 a úsáid.
 STR_6373    :Scoránaigh seiceálacha glanspáis
 STR_6374    :C
 STR_6375    :Marcaíocht Anaithnid
 STR_6376    :{WINDOW_COLOUR_2}Feithicil marcaíochta:{NEWLINE}{BLACK}{STRINGID} le haghaidh {STRINGID}
 STR_6377    :{WINDOW_COLOUR_2}Saghas: {BLACK}{STRINGID} le haghaidh {STRINGID}
-STR_6378    :Receiving objects list…
-STR_6379    :Received invalid data
+STR_6378    :Ag fáil liosta na réad…
+STR_6379    :Fuarthas sonraí neamhbhailí
 STR_6380    :Nuashonrú ar fáil!
 STR_6381    :Téigh isteach i Discord OpenRCT2!
 STR_6382    :Tá eisiúint níos nuaí de OpenRCT2 ar fáil: {STRING}!
@@ -3390,13 +3390,13 @@ STR_6393    :Rogha cuspóra
 STR_6394    :Cuspóir
 STR_6395    :Cothabháil
 STR_6396    :Díchumasaigh spárálaí scáileáin agus spáráil cumhachta an mhonatóra
-STR_6397    :If checked, screensaver and other monitor power saving features will be inhibited while OpenRCT2 is running.
-STR_6398    :File contains unsupported ride types. Please update to a newer version of OpenRCT2.
-STR_6399    :OpenRCT2 needs files from the original RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic in order to work. Please set the “game_path” variable in config.ini to the directory where you installed RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic, then restart OpenRCT2.
+STR_6397    :Má mharcáiltear é, cuirfear cosc ar an spárálaí scáileáin agus ar ghnéithe eile spárála cumhachta an mhonatóra fad is atá OpenRCT2 ag rith.
+STR_6398    :Tá saghsanna marcaíochta gan tacaíocht sa chomhad. Nuashonraigh go dtí leagan níos nuaí de OpenRCT2 le do thoil.
+STR_6399    :Tá comhaid ón mbunleagan de RollerCoaster Tycoon 2 nó ó RollerCoaster Tycoon Classic de dhíth ar OpenRCT2 chun oibriú. Socraigh an athróg “game_path” in config.ini ar an eolaire inar shuiteáil tú RollerCoaster Tycoon 2 nó RollerCoaster Tycoon Classic, agus ansin atosaigh OpenRCT2.
 STR_6400    :Tá an suiteálaí as-líne GOG le haghaidh RollerCoaster Tycoon 2 íoslódáilte agam, ach níl sé suiteáilte
 STR_6401    :Tá RollerCoaster Tycoon 2 nó RollerCoaster Tycoon Classic suiteáilte agam cheana féin
-STR_6402    :OpenRCT2 Data Setup
-STR_6403    :Select which applies best to you
+STR_6402    :Socrú Sonraí OpenRCT2
+STR_6403    :Roghnaigh an ceann is fearr a bhaineann leat
 STR_6404    :Roghnaigh an suiteálaí RollerCoaster Tycoon 2 GOG le do thoil.
 STR_6405    :Roghnaigh suiteálaí GOG
 STR_6406    :Suiteálaí RollerCoaster Tycoon 2 GOG
@@ -3831,10 +3831,10 @@ STR_7033    :Stíl ráille
 STR_7034    :Stíl cathrach ghríobháin
 STR_7035    :Stíl siopa
 STR_7036    :Stíl feithicle
-STR_7037    :Operating mode
-STR_7038    :Wait and load
-STR_7039    :Ride type
-STR_7040    :Footpath additions
-STR_7041    :Park info panel
-STR_7042    :Date info panel
-STR_7043    :Can’t change land height here…
+STR_7037    :Mód oibriúcháin
+STR_7038    :Fanacht agus luchtú
+STR_7039    :Saghas marcaíochta
+STR_7040    :Breiseanna cosáin
+STR_7041    :Painéal eolais na páirce
+STR_7042    :Painéal eolais an dáta
+STR_7043    :Ní féidir airde talún a athrú anseo…
