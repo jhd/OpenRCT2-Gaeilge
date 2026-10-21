@@ -110,8 +110,8 @@ STR_0526    :Taistealaíonn paisinéirí i gcábán breathnóireachta rothlach a
 STR_0527    :Rollchóstóir mín le ráille cruach atá ábalta ar lúba ingearacha
 STR_0528    :Taistealaíonn marcaigh i mbáidíní inséidte síos ráille casta leathchiorclach nó ráille feadánach iata go hiomlán
 STR_0529    :Imíonn traein rollchóstóra le téama mianaigh go fiáin feadh ráille cruach rollchóstóra atá déanta le breathnú cosúil le sean-ráille iarnróid
-STR_0530    :Cars hang from a steel cable which runs continuously from one end of the ride to the other and back again
-STR_0531    :A compact steel-tracked roller coaster where the train travels through corkscrews and loops
+STR_0530    :Bíonn gluaisteáin ar crochadh ó chábla cruach a ritheann go leanúnach ó cheann amháin den mharcaíocht go dtí an ceann eile agus ar ais arís
+STR_0531    :Rollchóstóir dlúth le ráille cruach ina dtaistealaíonn an traein trí chorcscriúnna agus lúba
 STR_0532    :Maze is constructed from 6-foot tall hedges or walls, and guests wander around the maze leaving only when they find the exit
 STR_0533    :Wooden building with an internal staircase and an external spiral slide for use with slide mats
 STR_0534    :Guests race each other in go-karts on an asphalt track
