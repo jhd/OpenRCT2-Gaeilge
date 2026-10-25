@@ -221,7 +221,7 @@
         "reference-name": "Logs",
         "name": "Lomáin",
         "reference-description": "Log-shaped boats built for running in water channels",
-        "description": "Báid i gcruth lomán, tógtha le rith i gcainéil uisce",
+        "description": "Báid i gcruth lomán, tógtha le rith i gclaiseanna uisce",
         "reference-capacity": "4 passengers per boat",
         "capacity": "4 phaisinéir sa bhád"
     },
@@ -2587,7 +2587,7 @@
         "reference-name": "Logs",
         "name": "Lomáin",
         "reference-description": "Log-shaped boats built for running in water channels",
-        "description": "Báid i gcruth lomán, tógtha le rith i gcainéil uisce",
+        "description": "Báid i gcruth lomán, tógtha le rith i gclaiseanna uisce",
         "reference-capacity": "4 passengers per boat",
         "capacity": "4 phaisinéir sa bhád"
     },
@@ -8739,7 +8739,7 @@
         "reference-name": "Crocodile Boats",
         "name": "Báid Crogaill",
         "reference-description": "Crocodile-shaped boats built for running in water channels",
-        "description": "Báid i gcruth crogaill, tógtha le rith i gcainéil uisce",
+        "description": "Báid i gcruth crogaill, tógtha le rith i gclaiseanna uisce",
         "reference-capacity": "4 passengers per boat",
         "capacity": "4 phaisinéir sa bhád"
     },

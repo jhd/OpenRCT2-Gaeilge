@@ -112,16 +112,16 @@ STR_0528    :Taistealaíonn marcaigh i mbáidíní inséidte síos ráille casta
 STR_0529    :Imíonn traein rollchóstóra le téama mianaigh go fiáin feadh ráille cruach rollchóstóra atá déanta le breathnú cosúil le sean-ráille iarnróid
 STR_0530    :Bíonn gluaisteáin ar crochadh ó chábla cruach a ritheann go leanúnach ó cheann amháin den mharcaíocht go dtí an ceann eile agus ar ais arís
 STR_0531    :Rollchóstóir dlúth le ráille cruach ina dtaistealaíonn an traein trí chorcscriúnna agus lúba
-STR_0532    :Maze is constructed from 6-foot tall hedges or walls, and guests wander around the maze leaving only when they find the exit
-STR_0533    :Wooden building with an internal staircase and an external spiral slide for use with slide mats
-STR_0534    :Guests race each other in go-karts on an asphalt track
-STR_0535    :Boats travel along a water channel, splashing down steep slopes to soak the riders
-STR_0536    :Circular boats meander along a wide water channel, splashing through waterfalls and thrilling riders through foaming rapids
-STR_0537    :Guests bump into each other in self-drive electric dodgems
+STR_0532    :Tógtar an chathair ghríobháin as fálta nó ballaí 6 troithe ar airde, agus fánaíonn aíonna timpeall uirthi gan imeacht go dtí go bhfaighidh siad an bealach amach
+STR_0533    :Foirgneamh adhmaid le staighre inmheánach agus sleamhnán bíse seachtrach le húsáid le mataí sleamhnáin
+STR_0534    :Rásálann aíonna in aghaidh a chéile i gcairtíní ar ráille asfailt
+STR_0535    :Taistealaíonn báid feadh claise, ag stealladh síos fánaí géara chun na marcaigh a fhliuchadh go craiceann
+STR_0536    :Sníonn báid chiorclacha feadh claise leithne, ag stealladh trí easanna agus ag cur sceitimíní ar mharcaigh trí fhánsruth cúrach
+STR_0537    :Buaileann aíonna in aghaidh a chéile i dtuairtcharranna leictreacha féintiomána
 STR_0538    :Long mhór luascach foghlaithe mara
-STR_0539    :Ship is attached to an arm with a counterweight at the opposite end, and swings through a complete 360 degrees
-STR_0540    :A stall where guests can purchase food
-STR_0542    :A stall where guests can purchase drinks
+STR_0539    :Tá an long ceangailte de ghéag le frithmheáchan ag an gceann eile, agus luascann sí trí 360 céim iomlán
+STR_0540    :Stainnín inar féidir le haíonna bia a cheannach
+STR_0542    :Stainnín inar féidir le haíonna deochanna a cheannach
 STR_0544    :Stainnín a dhíolann cuimhneacháin
 STR_0545    :Traditional rotating carousel with carved wooden horses
 STR_0547    :A stall where guests can obtain park maps and purchase umbrellas
