@@ -1157,7 +1157,6 @@ STR_1816    :Roghnaigh saghas eolais le taispeáint i liosta na n-aíonna
 STR_1817    :({COMMA32})
 STR_1818    :{WINDOW_COLOUR_2}Gach aoi
 STR_1819    :{WINDOW_COLOUR_2}Gach aoi (achoimre)
-STR_1820    :{WINDOW_COLOUR_2}Aíonna {STRINGID}
 STR_1821    :{WINDOW_COLOUR_2}Aíonna ag smaoineamh {SMALLFONT}{STRINGID}
 STR_1822    :{WINDOW_COLOUR_2}Aíonna ag smaoineamh faoi {POP16}{STRINGID}
 STR_1823    :Taispeáin smaointe aíonna faoin marcaíocht/díol spéise seo
@@ -2448,9 +2447,6 @@ STR_5242    :Tá ainm an téama ann cheana féin
 STR_5243    :Baineadh úsáid as carachtair neamhbhailí
 STR_5244    :Téamaí
 STR_5245    :Barra uirlisí uachtair
-STR_5246    :Barra uirlisí íochtair
-STR_5247    :Barra Uirlisí Íochtair an Eagarthóra Ráille
-STR_5248    :Barra Uirlisí Íochtair an Eagarthóra Cnámhscéil
 STR_5249    :Cnaipí Roghchláir Teidil
 STR_5250    :Cnaipe Amach Teidil
 STR_5251    :Cnaipe Roghanna Teidil
@@ -3179,7 +3175,6 @@ STR_6137    :OpenRCT2, athchruthú agus leathnú saor, foinse oscailte ar Roller
 STR_6138    :Is saothar go leor údar é OpenRCT2; tá liosta iomlán le fáil faoin gcnaipe “Rannpháirtithe”. Le haghaidh tuilleadh eolais, tabhair cuairt ar http://github.com/OpenRCT2/OpenRCT2
 STR_6139    :Is lena sealbhóirí faoi seach gach ainm táirge agus comhlachta. Ní thugann a n-úsáid le tuiscint go bhfuil aon cheangal leo ná formhuiniú uathu.
 STR_6140    :Loga athruithe…
-STR_6141    :Barra Uirlisí Íochtair RCT1
 STR_6142    :{WINDOW_COLOUR_2}Ainm ráille: {BLACK}{STRING}
 STR_6143    :{WINDOW_COLOUR_2}Saghas marcaíochta: {BLACK}{STRINGID}
 STR_6144    :Taispeáin íomhánna salacha
@@ -3838,3 +3833,41 @@ STR_7040    :Breiseanna cosáin
 STR_7041    :Painéal eolais na páirce
 STR_7042    :Painéal eolais an dáta
 STR_7043    :Ní féidir airde talún a athrú anseo…
+STR_7044    :News ticker
+STR_7045    :RCT1 style status bar
+STR_7046    :Status bar (RCT1 style)
+STR_7047    :Step control (Track Designer)
+STR_7048    :Step control (Scenario Editor)
+STR_7049    :OpenRCT2
+STR_7050    :Guests walking
+STR_7051    :Guests heading for {STRINGID}
+STR_7052    :Guests queuing for {STRINGID}
+STR_7053    :Guests drowning
+STR_7054    :Guests on {STRINGID}
+STR_7055    :Guests in {STRINGID}
+STR_7056    :Guests at {STRINGID}
+STR_7057    :Guests sitting
+STR_7058    :Guests picked up
+STR_7059    :Guests watching {STRINGID}
+STR_7060    :Guests watching construction of {STRINGID}
+STR_7061    :Guests looking at scenery
+STR_7062    :Guests leaving the park
+STR_7063    :Guests watching new ride being constructed
+STR_7064    :Gold
+STR_7065    :Amber
+STR_7066    :Amethyst
+STR_7067    :Asparagus
+STR_7068    :Brown
+STR_7069    :Burnt pink
+STR_7070    :Cactus
+STR_7071    :Caramel
+STR_7072    :Copper
+STR_7073    :Crimson
+STR_7074    :Darker water
+STR_7075    :Emerald
+STR_7076    :Indigo
+STR_7077    :Pesto
+STR_7078    :Pine green
+STR_7079    :Ruby
+STR_7080    :Deep blue
+STR_7081    :Silver
