@@ -123,21 +123,21 @@ STR_0539    :Tá an long ceangailte de ghéag le frithmheáchan ag an gceann eil
 STR_0540    :Stainnín inar féidir le haíonna bia a cheannach
 STR_0542    :Stainnín inar féidir le haíonna deochanna a cheannach
 STR_0544    :Stainnín a dhíolann cuimhneacháin
-STR_0545    :Traditional rotating carousel with carved wooden horses
-STR_0547    :A stall where guests can obtain park maps and purchase umbrellas
+STR_0545    :Roithleagán traidisiúnta rothlach le capaill shnoite adhmaid
+STR_0547    :Stainnín inar féidir le haíonna mapaí páirce a fháil agus scáthanna fearthainne a cheannach
 STR_0548    :Foirgneamh leithris
 STR_0549    :Roth rothlach mór le cathaoireacha oscailte
-STR_0550    :Riders view a film inside the motion simulator pod while it is twisted and moved around by a hydraulic arm
-STR_0551    :Cinema showing 3D films inside a geodesic sphere shaped building
-STR_0552    :Passengers ride in a gondola suspended by large rotating arms, rotating forwards and backwards head-over-heels
-STR_0553    :Concentric pivoting rings allowing the riders free rotation in all directions
+STR_0550    :Féachann marcaigh ar scannán taobh istigh de phod an insamhlóra gluaisne agus é á chasadh agus á bhogadh thart ag géag hiodrálach
+STR_0551    :Pictiúrlann a thaispeánann scannáin 3D taobh istigh d’fhoirgneamh i gcruth sféir gheodasaigh
+STR_0552    :Marcaíonn paisinéirí i ngondala ar crochadh ó ghéaga móra rothlacha, ag rothlú chun tosaigh agus chun deiridh tóin thar ceann
+STR_0553    :Fáinní comhlárnacha maighdeogacha a ligeann do na marcaigh rothlú saor i ngach treo
 STR_0554    :The car is accelerated out of the station along a long level track using Linear Induction Motors, then heads straight up a vertical spike of track, freefalling back down to return to the station
 STR_0555    :Guests ride in a lift up or down a vertical tower to get from one level to another
 STR_0556    :Extra-wide cars descend completely vertical sloped track for the ultimate freefall roller coaster experience
 STR_0557    :An A.T.M. (Cash Machine) for guests to use if they run low on funds
 STR_0558    :Riders ride in pairs of seats rotating around the ends of three long rotating arms
 STR_0559    :Large themed building containing scary corridors and spooky rooms
-STR_0560    :A place for sick guests to go for faster recovery
+STR_0560    :Áit ar féidir le haíonna breoite dul chun teacht chucu féin níos tapúla
 STR_0561    :Circus animal show inside a big-top tent
 STR_0562    :Powered cars travel along a multi-level track past spooky scenery and special effects
 STR_0563    :Sitting in comfortable trains with only simple lap restraints riders enjoy giant smooth drops and twisting track as well as plenty of ‘air time’ over the hills

@@ -2231,7 +2231,7 @@
         "reference-name": "3D Cinema",
         "name": "Pictiúrlann 3D",
         "reference-description": "Cinema showing 3D films inside a geodesic sphere shaped building",
-        "description": "Pictiúrlann a thaispeánann scannáin 3D taobh istigh d’fhoirgneamh i gcruth sféir gheoidéisigh",
+        "description": "Pictiúrlann a thaispeánann scannáin 3D taobh istigh d’fhoirgneamh i gcruth sféir gheodasaigh",
         "reference-capacity": "20 guests",
         "capacity": "20 aoi"
     },
@@ -3063,7 +3063,7 @@
         "reference-name": "Top Spin",
         "name": "Barr-rothlú",
         "reference-description": "Passengers ride in a gondola suspended by large rotating arms, rotating forwards and backwards head-over-heels",
-        "description": "Marcaíonn paisinéirí i ngandala ar crochadh ó ghéaga móra rothlacha, ag rothlú chun tosaigh agus chun deiridh tóin thar ceann",
+        "description": "Marcaíonn paisinéirí i ngondala ar crochadh ó ghéaga móra rothlacha, ag rothlú chun tosaigh agus chun deiridh tóin thar ceann",
         "reference-capacity": "8 passengers",
         "capacity": "8 bpaisinéir"
     },
