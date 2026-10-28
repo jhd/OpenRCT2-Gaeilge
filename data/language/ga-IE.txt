@@ -131,12 +131,12 @@ STR_0550    :Féachann marcaigh ar scannán taobh istigh de phod an insamhlóra 
 STR_0551    :Pictiúrlann a thaispeánann scannáin 3D taobh istigh d’fhoirgneamh i gcruth sféir gheodasaigh
 STR_0552    :Marcaíonn paisinéirí i ngondala ar crochadh ó ghéaga móra rothlacha, ag rothlú chun tosaigh agus chun deiridh tóin thar ceann
 STR_0553    :Fáinní comhlárnacha maighdeogacha a ligeann do na marcaigh rothlú saor i ngach treo
-STR_0554    :The car is accelerated out of the station along a long level track using Linear Induction Motors, then heads straight up a vertical spike of track, freefalling back down to return to the station
-STR_0555    :Guests ride in a lift up or down a vertical tower to get from one level to another
-STR_0556    :Extra-wide cars descend completely vertical sloped track for the ultimate freefall roller coaster experience
-STR_0557    :An A.T.M. (Cash Machine) for guests to use if they run low on funds
-STR_0558    :Riders ride in pairs of seats rotating around the ends of three long rotating arms
-STR_0559    :Large themed building containing scary corridors and spooky rooms
+STR_0554    :Luasghéaraítear an gluaisteán amach as an stáisiún feadh ráille fhada chomhréidh le mótair ionduchtúcháin líneacha, ansin téann sé díreach suas spíce ingearach ráille, agus saorthiteann sé anuas chun filleadh ar an stáisiún
+STR_0555    :Marcaíonn aíonna in ardaitheoir suas nó síos túr ingearach chun dul ó leibhéal amháin go leibhéal eile
+STR_0556    :Téann gluaisteáin bhreisleathana síos ráille atá go hiomlán ingearach, le haghaidh na taithí rollchóstóra saorthitime is fearr ar fad
+STR_0557    :A.T.M. (Meaisín Airgid) le húsáid ag aíonna má bhíonn a gcuid airgid ag rith gearr orthu
+STR_0558    :Marcaíonn marcaigh i mbeirteanna suíochán ag rothlú timpeall cheann trí ghéag fhada rothlacha
+STR_0559    :Foirgneamh mór téamaithe ina bhfuil dorchlaí scanrúla agus seomraí taibhsiúla
 STR_0560    :Áit ar féidir le haíonna breoite dul chun teacht chucu féin níos tapúla
 STR_0561    :Circus animal show inside a big-top tent
 STR_0562    :Powered cars travel along a multi-level track past spooky scenery and special effects
