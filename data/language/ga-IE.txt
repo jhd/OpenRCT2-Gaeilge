@@ -2680,8 +2680,8 @@ STR_5582    :Sáinnigh cúrsóir na luiche san fhuinneog
 STR_5583    :{COMMA1DP16} m/s
 STR_5584    :SI
 STR_5585    :Díghlasálann é teorainneacha oibriúcháin marcaíochta, rud a cheadaíonn cnoic ardaitheora {VELOCITY}
-STR_5586    :Oscail siopaí agus stainníní go huathoibríoch
-STR_5587    :Osclófar siopaí agus stainníní go huathoibríoch tar éis iad a thógáil
+STR_5586    :Oscail agus dún siopaí agus stainníní go huathoibríoch
+STR_5587    :Osclófar siopaí agus stainníní go huathoibríoch tar éis iad a thógáil, agus dúnfar iad go huathoibríoch roimh thógáil.
 STR_5588    :Imirt le himreoirí eile
 STR_5589    :Socruithe Fógraí
 STR_5590    :Gradaim páirce
