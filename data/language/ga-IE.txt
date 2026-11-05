@@ -2133,7 +2133,7 @@ STR_3160    :Roghnaigh líon na gcúrsaí sa mharcaíocht
 STR_3162    :Ní féidir dóthain cuimhne a leithdháileadh
 STR_3163    :Ag suiteáil sonraí nua: 
 STR_3164    :{BLACK}{COMMA16} roghnaithe (uasta {COMMA16})
-STR_3167    :{WINDOW_COLOUR_2}Cuimsíonn é: {BLACK}{COMMA16} réada
+STR_3167    :{WINDOW_COLOUR_2}San áireamh: {BLACK}{COMMA16} réada
 STR_3169    :Níor aimsíodh sonraí don réad seo a leanas: 
 STR_3170    :Níl dóthain spáis ann do ghrafaicí
 STR_3171    :Tá an iomarca réad den saghas seo roghnaithe
@@ -2371,7 +2371,7 @@ STR_5152    :.
 STR_5153    :Cuir Téamaí in Eagar…
 STR_5154    :Taispeáint crua-earraí
 STR_5155    :Ceadaigh tástáil ar ráillí neamhchríochnaithe
-STR_5156    :Ceadaíonn é tástáil ar fhormhór na saghsanna marcaíochta fiú nuair a bhíonn an ráille neamhchríochnaithe, ní bhaineann é le móid rannóg bloic
+STR_5156    :Ceadaítear tástáil ar fhormhór na saghsanna marcaíochta fiú nuair a bhíonn an ráille neamhchríochnaithe; ní bhaineann an rogha seo le móid rannóg bloic
 STR_5158    :Scoir go dtí an roghchlár
 STR_5159    :Scoir OpenRCT2
 STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, Bliain {POP16}{COMMA16}
@@ -2531,7 +2531,7 @@ STR_5356    :{BLACK}Masmas:
 STR_5357    :{BLACK}Lamháltas masmais:
 STR_5358    :{BLACK}Leithreas:
 STR_5359    :Bain aíonna
-STR_5360    :Baineann é gach aoi den mapa
+STR_5360    :Baintear gach aoi den mhapa
 STR_5361    :Cuir le fardal aoi
 STR_5362    :{BLACK}Déine marcaíochta is fearr:
 STR_5363    :Níos mó ná 1
@@ -2612,7 +2612,7 @@ STR_5511    :(ANAITHNID)
 STR_5512    :Sábháil Cluiche Mar
 STR_5513    :(Gasta) sábháil cluiche
 STR_5514    :Díchumasaigh loitiméireacht
-STR_5515    :Cuireann é cosc ar aíonna do pháirc a lot nuair a bhíonn fearg orthu
+STR_5515    :Cuirtear cosc ar aíonna do pháirc a lot nuair a bhíonn fearg orthu
 STR_5516    :Dubh
 STR_5517    :Liath
 STR_5518    :Bán
@@ -2679,7 +2679,7 @@ STR_5581    :Taispeáin FPS
 STR_5582    :Sáinnigh cúrsóir na luiche san fhuinneog
 STR_5583    :{COMMA1DP16} m/s
 STR_5584    :SI
-STR_5585    :Díghlasálann é teorainneacha oibriúcháin marcaíochta, rud a cheadaíonn cnoic ardaitheora {VELOCITY}
+STR_5585    :Díghlasáiltear teorainneacha oibriúcháin marcaíochta, rud a cheadaíonn cnoic ardaitheora {VELOCITY}
 STR_5586    :Oscail agus dún siopaí agus stainníní go huathoibríoch
 STR_5587    :Osclófar siopaí agus stainníní go huathoibríoch tar éis iad a thógáil, agus dúnfar iad go huathoibríoch roimh thógáil.
 STR_5588    :Imirt le himreoirí eile
@@ -2783,7 +2783,7 @@ STR_5722    :Báisteach
 STR_5723    :Báisteach Throm
 STR_5724    :Stoirm Thoirní
 STR_5725    :{BLACK}Athraigh aimsir go:
-STR_5726    :Socraíonn é an aimsir reatha sa pháirc
+STR_5726    :Socraítear an aimsir reatha sa pháirc
 # tooltip for tab in options window
 STR_5734    :Rindreáil
 STR_5735    :Stádas Líonra
@@ -2841,19 +2841,19 @@ STR_5786    :Ainm grúpa neamhbhailí
 STR_5787    :{COMMA32} imreoirí ar líne
 STR_5788    :Gnátheatramh scrúdaithe:
 STR_5789    :Díchumasaigh éifeacht tintrí
-STR_5790    :Scoránaíonn praghsáil stíle RCT1{NEWLINE}(m.sh. an dá phraghas marcaíochta agus praghas iontrála)
-STR_5791    :Socraíonn iontaofacht gach marcaíochta go 100%{NEWLINE}agus athshocraíonn a dáta tógála go “an bhliain seo”
-STR_5792    :Deisíonn gach marcaíocht bhriste
-STR_5793    :Athshocraíonn stair tuairteanna na marcaíochta, mar{NEWLINE}sin ní bheidh aíonna ag gearán go bhfuil sí contúirteach
+STR_5790    :Scoránaítear praghsáil ar stíl RCT1{NEWLINE}(m.sh. praghas marcaíochta agus praghas iontrála araon)
+STR_5791    :Socraítear iontaofacht gach marcaíochta go 100%{NEWLINE}agus athshocraítear a ndáta tógála go “an bhliain seo”
+STR_5792    :Deisítear gach marcaíocht bhriste
+STR_5793    :Athshocraítear stair tuairteanna na marcaíochta, mar{NEWLINE}sin ní bheidh aíonna ag gearán go bhfuil sí contúirteach
 STR_5794    :Díchumasaíonn roinnt cnámhscéal cuid de na{NEWLINE}marcaíochtaí atá sa pháirc cheana féin a chur{NEWLINE}in eagar. Cuireann an cleas seo deireadh leis an srian
 STR_5795    :Marcaíonn aíonna gach díol spéise sa{NEWLINE}pháirc fiú má tá an déine thar a bheith ard
-STR_5796    :Fórsálann dúnadh nó oscailt na páirce
-STR_5797    :Díchumasaíonn athruithe aimsire{NEWLINE}agus reonn an aimsir roghnaithe
-STR_5798    :Ceadaíonn gníomhartha tógála sa mhód sosa
-STR_5799    :Díchumasaíonn cliseadh marcaíochta agus tuairteanna de bharr teip coscán
-STR_5800    :Cuireann cosc ar chliseadh marcaíochtaí
+STR_5796    :Fórsáiltear dúnadh nó oscailt na páirce
+STR_5797    :Díchumasaítear athruithe aimsire{NEWLINE}agus reoitear an aimsir roghnaithe
+STR_5798    :Ceadaítear gníomhartha tógála sa mhód sosa
+STR_5799    :Díchumasaítear cliseadh marcaíochta agus tuairteanna de bharr teipe coscán
+STR_5800    :Cuirtear cosc ar chliseadh marcaíochtaí
 STR_5801    :Díchumasaigh bruscar a chaitheamh
-STR_5802    :Cuireann é cosc ar aíonna bruscar a chaitheamh agus urlacan a dhéanamh
+STR_5802    :Cuirtear cosc ar aíonna bruscar a chaitheamh agus urlacan a dhéanamh
 STR_5803    :Rothlaigh ball mapa roghnaithe
 STR_5804    :Balbhaigh fuaim
 STR_5805    :Má tá sé marcáilte, cuirfear do fhreastalaí leis an liosta{NEWLINE}poiblí freastalaithe ionas gur féidir le gach duine é a aimsiú
@@ -2869,14 +2869,14 @@ STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
 
 #tooltips
 STR_5815    :Taispeáin áiritheoir FPS sa chluiche
-STR_5816    :Socraíonn é an cóimheas scálaithe.{NEWLINE}Úsáideach go háirithe agus tú{NEWLINE}ag imirt in ardtaifeach
+STR_5816    :Socraítear an cóimheas scálaithe.{NEWLINE}Úsáideach go háirithe agus tú{NEWLINE}ag imirt in ardtaifeach
 STR_5820    :Íoslaghdaigh má chailltear an fócas{NEWLINE}agus tú sa mód lánscáileáin
 STR_5822    :Timthriallaigh idir lá agus oíche.{NEWLINE}Tógann an timthriall iomlán mí amháin sa chluiche
 STR_5823    :Taispeáin meirgí i gceannlitreacha (Iompar RCT1)
-STR_5824    :Díchumasaíonn éifeacht tintrí{NEWLINE}i rith stoirme toirní
+STR_5824    :Díchumasaítear éifeacht tintrí{NEWLINE}i rith stoirme toirní
 STR_5825    :Coinnigh cúrsóir na luiche san fhuinneog
 STR_5826    :Inbhéartaigh deastarraingt na luiche ar an amharcphort
-STR_5827    :Socraíonn an scéim datha a úsáidtear don GUI
+STR_5827    :Socraítear an scéim datha a úsáidtear don GUI
 STR_5828    :Roghnaigh cén fhormáid tomhais a úsáidtear le haghaidh faid, luais, srl.
 STR_5829    :Roghnaigh cén fhormáid airgeadra a úsáidtear. Cúrsaí cuma amháin atá i gceist, níl aon ráta malairte beacht á fheidhmiú
 STR_5830    :Roghnaigh cén teanga a úsáidtear
@@ -2892,9 +2892,9 @@ STR_5839    :Taispeáin cnaipe ar leith don fhuinneog taighde agus forbartha sa 
 STR_5840    :Taispeáin cnaipe ar leith don fhuinneog cleasa sa bharra uirlisí
 STR_5841    :Taispeáin cnaipe ar leith don fhuinneog nuachta is déanaí sa bharra uirlisí
 STR_5842    :Sórtáil cnámhscéalta i dtábanna de réir a ndeacrachta (iompar RCT2) nó a mbunchluiche (iompar RCT1)
-STR_5843    :Cumasaíonn díghlasáil fhorchéimnitheach cnámhscéal (iompar RCT1)
+STR_5843    :Cumasaítear díghlasáil fhorchéimnitheach cnámhscéal (iompar RCT1)
 STR_5844    :Fan ceangailte le freastalaí ilimreoirí{NEWLINE}fiú má tharlaíonn díshioncronú nó earráid
-STR_5845    :Cuireann cnaipe le haghaidh{NEWLINE}uirlisí dífhabhtúcháin leis an mbarra uirlisí.{NEWLINE}Cumasaíonn aicearra méarchláir le haghaidh consól forbróra
+STR_5845    :Cuirtear cnaipe le haghaidh{NEWLINE}uirlisí dífhabhtúcháin leis an mbarra uirlisí.{NEWLINE}Cumasaítear aicearra méarchláir le haghaidh consóil forbróra
 STR_5846    :Socraigh cé chomh minic a shábhálann OpenRCT2 go huathoibríoch
 STR_5847    :Roghnaigh seicheamh páirce a úsáidtear ar an scáileán teidil.{NEWLINE}Ní fheidhmíonn seichimh teidil RCT1/2 gan cnámhscéalta iompórtáilte
 STR_5849    :Cuir baill foirne nuafhostaithe{NEWLINE}go huathoibríoch
@@ -2904,7 +2904,7 @@ STR_5854    :Scoránaigh ceol marcaíochta ann/as
 STR_5855    :Socraigh lánscáileán rialta, lánscáileán gan teorainn{NEWLINE}nó taispeáint i bhfuinneog
 STR_5856    :Socraigh taifeach an chluiche nuair a bhíonn tú i mód lánscáileáin
 STR_5857    :Roghanna cluiche
-STR_5858    :Úsáid GPU in ionad CPU chun an cluiche a thaispeáint. Feabhsaíonn é seo comhoiriúnacht le bogearraí gabhála scáileáin. D’fhéadfadh é seo feidhmíocht a laghdú beagán.
+STR_5858    :Úsáid GPU in ionad CPU chun an cluiche a thaispeáint. Feabhsaítear comhoiriúnacht le bogearraí gabhála scáileáin. D’fhéadfadh an fheidhmíocht laghdú beagán.
 STR_5859    :Cumasaítear idirshuíomh frámaí chun an imirt a dhéanamh{NEWLINE}níos rianúla ó thaobh amhairc de. Nuair a dhíchumasaítear é,{NEWLINE}rithfidh an cluiche ag 40 FPS.
 STR_5860    :Scoránaigh líníocht bhunaidh/dhíthiomsaithe ráille
 STR_5861    :Theip ar fhíorú eochrach.
@@ -2912,7 +2912,7 @@ STR_5862    :Cuir cosc ar imreoirí anaithnid
 STR_5863    :Ná lig ach d’imreoirí a bhfuil eochracha aitheanta acu dul isteach.
 STR_5864    :Ní ligeann an freastalaí seo ach d’imreoirí atá ar an liosta ceadaithe ceangal leis.
 STR_5865    :Logáil stair comhrá
-STR_5866    :Logálann é gach stair comhrá i gcomhaid i d’eolaire úsáideora.
+STR_5866    :Logáiltear stair an chomhrá ar fad i gcomhaid i d’eolaire úsáideora.
 STR_5867    :{WINDOW_COLOUR_2}Ainm Soláthraí: {BLACK}{STRING}
 STR_5868    :{WINDOW_COLOUR_2}Ríomhphost Soláthraí: {BLACK}{STRING}
 STR_5869    :{WINDOW_COLOUR_2}Suíomh Gréasáin Soláthraí: {BLACK}{STRING}
@@ -2953,7 +2953,7 @@ STR_5905    :Uirlis giniúna mapaí a chruthaíonn tírdhreach saincheaptha go h
 STR_5906    :Zúmáil chuig suíomh an chúrsóra
 STR_5907    :Nuair a chumasaítear é seo, úsáidfear suíomh an chúrsóra mar lárphointe don zúmáil isteach seachas lár an scáileáin.
 STR_5908    :Ceadaigh saghas marcaíochta a athrú gan srian
-STR_5909    :Ceadaíonn an rogha seo saghas marcaíochta a athrú gan srian. D’fhéadfadh é seo clistí a chur faoi deara.
+STR_5909    :Ceadaíonn an rogha seo saghas marcaíochta a athrú gan srian. D’fhéadfadh clistí tarlú dá bharr.
 STR_5910    :Feidhmigh
 STR_5911    :Cosáin Thrédhearcacha
 STR_5912    :Scoránaigh cosáin thrédhearcacha
@@ -3017,7 +3017,7 @@ STR_5970    :ID bealaigh isteach: {BLACK}{COMMA16}
 STR_5971    :ID bealaigh amach: {BLACK}{COMMA16}
 STR_5972    :ID marcaíochta: {BLACK}{COMMA16}
 STR_5973    :Clampáil go dtí an chéad cheann eile
-STR_5974    :Athraítear an bhunairde agus an airde glanspáis chun iad a mheaitseáil le hairdí an chéad bhaill eile ar an tíl reatha. Éascaíonn é seo tógáil ar an tíl seo.
+STR_5974    :Athraítear an bhunairde agus an airde glanspáis chun iad a mheaitseáil le hairdí an chéad bhaill eile ar an tíl reatha. Éascaítear tógáil ar an tíl seo dá bharr.
 STR_5975    :Fána:
 STR_5976    :Cothrom
 STR_5977    :Taobh deas suas
@@ -3155,7 +3155,7 @@ STR_6115    :Trucailí ollmhóra cumhachtaithe 4 × 4 atá in ann fánaí géara
 STR_6116    :Sleamhnaíonn traenacha leathana rollchóstóra ar ráille mín cruach, ag taisteal trí inbhéartuithe éagsúla
 STR_6119    :Rollchóstóir saor atá éasca a thógáil, ach a bhfuil airde theoranta aige
 STR_6120    :{BABYBLUE}Feithicil nua ar fáil anois le haghaidh {STRINGID}:{NEWLINE}{STRINGID}
-STR_6121    :Síneann é cearta talún na páirce an bealach ar fad go dtí imill an mhapa
+STR_6121    :Síntear cearta talún na páirce an bealach ar fad go dtí imill an mhapa
 STR_6122    :Níl go leor rollchóstóirí sa chnámhscéal seo!
 STR_6123    :Earráid agus réada á lódáil le haghaidh na páirce
 STR_6124    :Ainm réada
@@ -3180,7 +3180,7 @@ STR_6143    :{WINDOW_COLOUR_2}Saghas marcaíochta: {BLACK}{STRINGID}
 STR_6144    :Taispeáin íomhánna salacha
 STR_6145    :Cuir teorainn luais ar threiseoirí
 STR_6146    :Cumasaigh gach píosa ráille is féidir a léiriú
-STR_6147    :Cumasaíonn é gach píosa ráille atá ar chumas an tsaghais marcaíochta san fhuinneog tógála, is cuma an dtacaíonn an fheithicil leo.
+STR_6147    :Cumasaítear gach píosa ráille atá ar chumas an tsaghais marcaíochta san fhuinneog tógála, is cuma an dtacaíonn an fheithicil leo.
 STR_6148    :Ag ceangal leis an bpríomhfhreastalaí…
 STR_6149    :Ní féidir ceangal leis an bpríomhfhreastalaí
 STR_6150    :Freagra neamhbhailí ón bpríomhfhreastalaí (gan uimhir JSON)
@@ -3196,7 +3196,7 @@ STR_6161    :Scoránaigh taispeáint línte greille
 STR_6162    :Luch Fhiáin Chasta
 STR_6163    :Scinneann gluaisteáin i gcruth luiche trí choirnéil chúnga agus titimí gearra, ag rothlú go réidh chun mearbhall a chur ar na marcaigh
 STR_6165    :Úsáid sioncronú ingearach
-STR_6166    :Sioncronaíonn é gach fráma a thaispeántar le ráta athnuachana an mhonatóra, rud a chuireann cosc ar stróiceadh scáileáin.
+STR_6166    :Sioncronaítear gach fráma a thaispeántar le ráta athnuachana an mhonatóra, rud a chuireann cosc ar stróiceadh scáileáin.
 STR_6167    :Ardleibhéal
 STR_6168    :Seicheamh Teidil
 STR_6170    :Mionathruithe Comhéadain
@@ -3224,9 +3224,9 @@ STR_6217    :Infhaighteacht marcaíochta / ráille
 STR_6218    :OpenRCT2 oifigiúil
 STR_6219    :Aibhsigh fadhbanna cosáin
 STR_6220    :Déan Inúsáidte
-STR_6221    :Socróidh é seo an suíomh atá ar eolas do bhealach isteach nó amach na marcaíochta ar an tíl atá roghnaithe faoi láthair. Ní féidir ach suíomh bealaigh isteach amháin agus suíomh bealaigh amach amháin a dhéanamh inúsáidte in aghaidh an stáisiúin.
+STR_6221    :Socrófar an suíomh atá ar eolas do bhealach isteach nó amach na marcaíochta ar an tíl atá roghnaithe faoi láthair. Ní féidir ach suíomh bealaigh isteach amháin agus suíomh bealaigh amach amháin a dhéanamh inúsáidte in aghaidh an stáisiúin.
 STR_6222    :Ní féidir pointe iontrála d’aíonna a chur anseo…
-STR_6223    :Caithfidh é a bheith lasmuigh de theorainneacha na páirce!
+STR_6223    :Ní mór é a bheith lasmuigh de theorainneacha na páirce!
 STR_6224    :Leag {STRING} pointe iontrála d’aíonna.
 STR_6225    :Gan tacaíocht sa rindreálaí OpenGL
 STR_6226    :Cumasaigh críochnú cnámhscéal go luath
@@ -3246,7 +3246,7 @@ STR_6239    :Gearradh Ingearach
 STR_6240    :Gearradh Cothrománach
 STR_6241    :Roghnaigh limistéar
 STR_6242    :Glan an rogha
-STR_6243    :Athchóiríonn é an mharcaíocht,{NEWLINE}cuireann é cuma nua uirthi
+STR_6243    :Athchóirítear an mharcaíocht,{NEWLINE}agus cuirtear cuma nua uirthi
 STR_6244    :Ní féidir marcaíocht a athchóiriú…
 STR_6245    :Ní theastaíonn athchóiriú ón marcaíocht
 STR_6246    :Athchóirigh
@@ -3297,7 +3297,7 @@ STR_6302    :Cóipeáil liosta iomlán na réad atá ar iarraidh go dtí an ghea
 STR_6303    :Ag íoslódáil réada ({COMMA16} / {COMMA16}): [{STRING}]
 STR_6304    :Oscail roghnóir radharcra
 STR_6305    :Ilsnáithiú
-STR_6306    :Rogha thrialach chun snáitheanna iomadúla a úsáid le haghaidh rindreála. D’fhéadfadh é seo éagobhsaíocht a chur faoi deara.
+STR_6306    :Rogha thrialach chun snáitheanna iomadúla a úsáid le haghaidh rindreála. D’fhéadfadh éagobhsaíocht tarlú dá bharr.
 STR_6307    :Scéim datha: {BLACK}{STRINGID}
 STR_6308    :{TOPAZ}“{STRINGID}{TOPAZ}”{NEWLINE}{STRINGID}
 STR_6309    :Athcheangail
@@ -3346,8 +3346,8 @@ STR_6352    :Dlús
 STR_6353    :Ísealdlús
 STR_6354    :Meándlús
 STR_6355    :Ard-dlús
-STR_6356    :Cruthaíonn é lachain má bhíonn uisce sa pháirc
-STR_6357    :Baineann gach lacha ón mapa
+STR_6356    :Cruthaítear lachain má bhíonn uisce sa pháirc
+STR_6357    :Baintear gach lacha den mhapa
 STR_6358    :Leathanach {UINT16}
 STR_6361    :Cumasaigh éifeachtaí solais ar mharcaíochtaí (trialach)
 STR_6362    :Má chumasaítear é seo, soilseofar feithiclí ar mharcaíochtaí ráille san oíche.
@@ -3358,7 +3358,7 @@ STR_6366    :Feithiclí sáinnithe nó stadta
 STR_6367    :Fráma beochana:
 STR_6368    :Ar chúiseanna comhoiriúnachta, ní mholtar é OpenRCT2 a rith le Wine. Tacaíonn OpenRCT2 go dúchasach le macOS, Linux, FreeBSD agus OpenBSD.
 STR_6369    :Ceadaigh ráille a thógáil ag airdí neamhbhailí
-STR_6370    :Ceadaíonn é píosaí ráille a shuí ag aon eatramh airde
+STR_6370    :Ceadaítear píosaí ráille a shuí ag aon eatramh airde
 STR_6371    :Tá suiteáil RollerCoaster Tycoon 1 sa chonair shonraithe, ach tá an comhad “csg1i.dat” ar iarraidh. Caithfear an comhad seo a chóipeáil ón CD Loopy Landscapes nó RCT Deluxe go dtí an fillteán “Data” den tsuiteáil RollerCoaster Tycoon 1 ar do thiomántán crua.
 STR_6372    :Tá suiteáil RollerCoaster Tycoon 1 sa chonair shonraithe, ach níl an leagan seo oiriúnach. Teastaíonn suiteáil Loopy Landscapes nó RCT Deluxe ó OpenRCT2 chun sócmhainní RollerCoaster Tycoon 1 a úsáid.
 STR_6373    :Scoránaigh seiceálacha glanspáis
@@ -3395,7 +3395,7 @@ STR_6403    :Roghnaigh an ceann is fearr a bhaineann leat
 STR_6404    :Roghnaigh an suiteálaí RollerCoaster Tycoon 2 GOG le do thoil.
 STR_6405    :Roghnaigh suiteálaí GOG
 STR_6406    :Suiteálaí RollerCoaster Tycoon 2 GOG
-STR_6407    :D’fhéadfadh é seo cúpla nóiméad a ghlacadh.
+STR_6407    :D’fhéadfadh cúpla nóiméad a bheith i gceist.
 STR_6408    :Suiteáil “innoextract” chun suiteálaí GOG a dhíphacáil le do thoil, agus ansin atosaigh OpenRCT2.
 STR_6409    :Ní hé an comhad roghnaithe an suiteálaí as-líne GOG le haghaidh RollerCoaster Tycoon 2. B’fhéidir gur íoslódáil tú stumpa íoslódála GOG Galaxy nó gur roghnaigh tú an comhad mícheart.
 STR_6410    :Zúmáil isteach/amach
@@ -3525,7 +3525,7 @@ STR_6534    :{WINDOW_COLOUR_2}Fachtóir Déine: {BLACK}-{COMMA16}%
 STR_6535    :{WINDOW_COLOUR_2}Fachtóir Masmais: {BLACK}-{COMMA16}%
 STR_6536    :Sábháladh an pháirc seo i leagan níos déanaí de OpenRCT2. Sábháladh an pháirc i v{INT32}, tá tú ar v{INT32} faoi láthair.
 STR_6537    :Ceadaigh gnáthchosáin a úsáid mar scuainí
-STR_6538    :Taispeánann é gnáthchosáin i liosta anuas na scuainí i bhfuinneog na gCosán.
+STR_6538    :Taispeántar gnáthchosáin i liosta anuas na scuainí i bhfuinneog na gCosán.
 STR_6539    :Coscán Dúnta
 STR_6540    :{WINDOW_COLOUR_2}Buíochas ar leith leis na comhlachtaí seo a leanas as cead a thabhairt a n-íomhánna a úsáid:
 STR_6541    :{WINDOW_COLOUR_2}Rocky Mountain Construction Group, Josef Wiegand GmbH & Co. KG, Intamin Amusement Rides Int. Corp. Est.
@@ -3564,7 +3564,7 @@ STR_6572    :Béas
 STR_6573    :Dofheicthe
 STR_6574    :Folús
 STR_6575    :Ceadaigh scéimeanna datha speisialta
-STR_6576    :Cuireann dathanna speisialta leis an roghchlár anuas dathanna
+STR_6576    :Cuirtear dathanna speisialta leis an roghchlár anuas dathanna
 STR_6577    :Luas coscáin bloic
 STR_6578    :Socraigh teorainn luais le haghaidh coscáin bloic. Sa mhód roinn bloic, nasctar coscáin chóngaracha a bhfuil luas níos moille acu leis an gcoscán bloic.
 STR_6579    :Socrófar coscáin bloic ag an luas réamhshocraithe nuair a shábháiltear iad mar dhearadh ráille
@@ -3627,13 +3627,13 @@ STR_6635    :Ag seiceáil pacáistí sócmhainní…
 STR_6636    :Ag seiceáil seichimh teidil…
 STR_6637    :Ag lódáil seicheamh teidil…
 STR_6638    :UI Méadaithe
-STR_6639    :Athraíonn é an comhéadan le go mbeidh é níos oiriúnaí d’úsáid tadhaill
+STR_6639    :Cuirtear an comhéadan in oiriúint d’úsáid tadhaill
 STR_6640    :Cuir pacáistí sócmhainní in eagar…
 STR_6641    :Fuinneog lódála/dul chun cinn
 STR_6642    :{STRING} ({COMMA32} / {COMMA32})
 STR_6643    :{STRING} ({COMMA32} / {COMMA32} KiB)
 STR_6644    :Feabhsuithe tadhaill
-STR_6645    :Déanann é roinnt ball UI níos mó ionas go mbíonn é níos éasca cliceáil orthu nó iad a thapáil.
+STR_6645    :Méadaítear roinnt ball UI ionas gur fusa cliceáil orthu nó iad a thapáil.
 STR_6646    :Údar: {STRING}
 STR_6647    :Údair: {STRING}
 STR_6648    :Ag lódáil inneall breiseáin…
@@ -3813,15 +3813,15 @@ STR_7020    :{MOVE_X}{10}{SPRITE}{NEWLINE_SMALLER}{MOVE_X}{36}{STRINGID}
 STR_7021    :{MOVE_X}{10}{SPRITE}{NEWLINE_SMALLER}»{MOVE_X}{36}{STRINGID}
 STR_7022    :{STRING} - - 
 STR_7023    :Déan dofheicthe
-STR_7024    :Déanann é an mharcaíocht ar fad dofheicthe
+STR_7024    :Déantar an mharcaíocht ar fad dofheicthe
 STR_7025    :Déan infheicthe
-STR_7026    :Déanann é an mharcaíocht ar fad infheicthe
+STR_7026    :Déantar an mharcaíocht ar fad infheicthe
 STR_7027    :{MOVE_X}{29}{STRINGID}
 STR_7028    :Ceathrú-héilics suas
 STR_7029    :Ceathrú-héilics síos
 STR_7030    :{WINDOW_COLOUR_2}Aíonna a fuair siamsa: {BLACK}{COMMA32}
 STR_7031    :Díchumasaigh fás an fhéir
-STR_7032    :Cuir cosc ar aosú an fhéir ionas nach bhfásfaidh é.
+STR_7032    :Cuir cosc ar aosú an fhéir ionas nach bhfásfaidh an féar.
 STR_7033    :Stíl ráille
 STR_7034    :Stíl cathrach ghríobháin
 STR_7035    :Stíl siopa
