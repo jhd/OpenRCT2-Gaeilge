@@ -147,14 +147,14 @@ STR_0566    :Scinneann gluaisteáin aonair rollchóstóra thart ar leagan amach 
 STR_0567    :Ina suí i suíocháin ar crochadh ar dhá thaobh an ráille, iompaítear marcaigh tóin thar ceann fad is a thumann siad síos titimí géara agus a thaistealaíonn siad trí inbhéartuithe éagsúla
 STR_0569    :Ag marcaíocht in úmacha speisialta faoin ráille, mothaíonn marcaigh eispéireas na heitilte agus iad ag eitilt de ráib tríd an aer
 STR_0571    :Rothlaíonn gluaisteáin chiorclacha thart agus iad ag taisteal feadh an ráille adhmaid fhiarlánaigh
-STR_0572    :Large capacity boats travel along a wide water channel, propelled up slopes by a conveyor belt, accelerating down steep slopes to soak the riders with a giant splash
-STR_0573    :Powered helicopter shaped cars running on a steel track, controlled by the pedalling of the riders
-STR_0574    :Riders are held in special harnesses in a lying-down position, travelling through twisted track and inversions either on their backs or facing the ground
-STR_0575    :Powered trains hanging from a single rail transport people around the park
-STR_0577    :Bogied cars run on wooden tracks, turning around on special reversing sections
-STR_0578    :Cars run along track enclosed by circular hoops, traversing steep drops and heartline twists
+STR_0572    :Taistealaíonn báid ardtoillte feadh claise leithne, á dtiomáint suas fánaí ag crios iompair, ag luasghéarú síos fánaí géara chun na marcaigh a fhliuchadh go craiceann le steall mhór
+STR_0573    :Gluaisteáin chumhachtaithe i gcruth héileacaptair ag rith ar ráille cruach, á rialú ag troitheáil na marcach
+STR_0574    :Coinnítear na marcaigh in úmacha speisialta ina luí, ag taisteal trí ráille casta agus inbhéartuithe, ar a ndroim nó ag féachaint ar an talamh
+STR_0575    :Iompraíonn traenacha cumhachtaithe atá ar crochadh ó ráille aonair daoine timpeall na páirce
+STR_0577    :Ritheann gluaisteáin ar bhógaithe ar ráillí adhmaid, ag iompú thart ar chodanna speisialta cúlaithe
+STR_0578    :Ritheann gluaisteáin feadh ráille atá timpeallaithe le fáinní ciorclacha, ag trasnú titimí géara agus castaí croílíne
 STR_0579    :Cluiche séimh mionghailf
-STR_0580    :A giant steel roller coaster capable of smooth drops and hills of over 300ft
+STR_0580    :Ollrollchóstóir cruach atá in ann titimí míne agus cnoic os cionn 300ft a dhéanamh
 STR_0581    :A ring of seats is pulled to the top of a tall tower while gently rotating, then allowed to free-fall down, stopping gently at the bottom using magnetic brakes
 STR_0582    :Guests ride in hovercraft vehicles that they freely control
 STR_0583    :Building containing warped rooms and angled corridors to disorientate people walking through it
