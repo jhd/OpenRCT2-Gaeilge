@@ -17,7 +17,7 @@
     },
     "official.scenery_wall.post_flipped": {
         "reference-name": "Post",
-        "name": "Posta"
+        "name": "Cuaille"
     },
     "official.scenery_wall.support_structure_full": {
         "reference-name": "Support Structure",
@@ -369,7 +369,7 @@
         "reference-name": "Streamlined Monorail Trains",
         "name": "Traenacha Aonráille Sruthlíneacha",
         "reference-description": "Large capacity monorail trains with streamlined front and rear cars",
-        "description": "Traenacha aonráille ardacmhainne le gluaisteáin sruthlíneacha chun tosaigh agus chun deiridh",
+        "description": "Traenacha aonráille ardacmhainne le gluaisteáin shruthlíneacha chun tosaigh agus chun deiridh",
         "reference-capacity": "5 or 10 passengers per car",
         "capacity": "5 nó 10 bpaisinéir sa ghluaisteán"
     },
@@ -383,7 +383,7 @@
     },
     "rct1.ride.suspended_swinging_cars": {
         "reference-name": "Suspended Swinging Cars",
-        "name": "Gluaisteáin Crochta Luascacha",
+        "name": "Gluaisteáin Chrochta Luascacha",
         "reference-description": "Suspended roller coaster trains consisting of cars able to swing freely as the train goes around corners",
         "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin atá in ann luascadh go saor agus an traein ag dul timpeall coirnéal",
         "reference-capacity": "4 passengers per car",
@@ -407,7 +407,7 @@
         "reference-name": "Six-seater Twister Trains",
         "name": "Traenacha Castóra Sé Shuíochán",
         "reference-description": "Roller coaster trains with extra-wide cars, built for vertical drops",
-        "description": "Traenacha rollchóstóra le gluaisteáin bhreisleathana, tógtha do thitimeacha ingearacha",
+        "description": "Traenacha rollchóstóra le gluaisteáin bhreisleathana, tógtha do thitimí ingearacha",
         "reference-capacity": "6 passengers per car",
         "capacity": "6 phaisinéir sa ghluaisteán"
     },
@@ -473,7 +473,7 @@
         "reference-park_name": "Forest Frontiers",
         "park_name": "Forest Frontiers",
         "reference-details": "Deep in the forest, build a thriving theme park in a large cleared area",
-        "details": "Domhain san fhoraois, tóg páirc théama rathúil i limistéar mór glanta"
+        "details": "I bhfad isteach san fhoraois, tóg páirc théama rathúil i limistéar mór glanta"
     },
     "rct1.scenario_meta.ivory_towers": {
         "reference-name": "Ivory Towers",
@@ -561,7 +561,7 @@
         "reference-park_name": "Paradise Pier",
         "park_name": "Paradise Pier",
         "reference-details": "Convert this sleepy town’s pier into a thriving attraction",
-        "details": "Athraigh cé an bhaile chodlataigh seo ina háit tarraingteach rathúil"
+        "details": "Athraigh cé an bhaile chodlataigh seo ina háit tharraingteach rathúil"
     },
     "rct1.scenario_meta.pokey_park": {
         "reference-name": "Pokey Park",
@@ -593,7 +593,7 @@
         "reference-park_name": "Trinity Islands",
         "park_name": "Trinity Islands",
         "reference-details": "Several islands form the basis for this new park",
-        "details": "Is é roinnt oileán bunús na páirce nuaí seo"
+        "details": "Is é roinnt oileán bunús na páirce nua seo"
     },
     "rct1.scenario_meta.white_water_park": {
         "reference-name": "White Water Park",
@@ -711,7 +711,7 @@
         "reference-name": "Twister Cars",
         "name": "Gluaisteáin Castóra",
         "reference-description": "Roller coaster cars capable of heartline twists",
-        "description": "Gluaisteáin rollchóstóra atá in ann castaí píblíne a dhéanamh",
+        "description": "Gluaisteáin rollchóstóra atá in ann castaí croílíne a dhéanamh",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -743,7 +743,7 @@
         "reference-name": "Reverser Cars",
         "name": "Gluaisteáin Cúlaithe",
         "reference-description": "Bogied cars capable of turning around on special reversing sections",
-        "description": "Gluaisteáin ar bhogíthe atá in ann iompú thart ar chodanna speisialta cúlaithe",
+        "description": "Gluaisteáin ar bhógaithe atá in ann iompú thart ar chodanna speisialta cúlaithe",
         "reference-capacity": "6 passengers per car",
         "capacity": "6 phaisinéir sa ghluaisteán"
     },
@@ -831,7 +831,7 @@
         "reference-name": "Articulated Roller Coaster Trains",
         "name": "Traenacha Rollchóstóra Altacha",
         "reference-description": "Roller coaster trains with short single-row cars and open fronts",
-        "description": "Traenacha rollchóstóra le gluaisteáin ghearra aon-sraithe agus éadain oscailte",
+        "description": "Traenacha rollchóstóra le gluaisteáin ghearra aonsraithe agus éadain oscailte",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 phaisinéir sa ghluaisteán"
     },
@@ -913,7 +913,7 @@
         "reference-park_name": "Funtopia",
         "park_name": "Funtopia",
         "reference-details": "Covering land both sides of a highway, this park has several rides already operating",
-        "details": "Ag clúdach talamh ar dhá thaobh mórbhealaigh, tá roinnt marcaíochtaí ag feidhmiú sa pháirc seo cheana féin"
+        "details": "Ag clúdach talún ar dhá thaobh mórbhealaigh, tá roinnt marcaíochtaí ag feidhmiú sa pháirc seo cheana féin"
     },
     "rct1aa.scenario_meta.future_world": {
         "reference-name": "Future World",
@@ -921,7 +921,7 @@
         "reference-park_name": "Future World",
         "park_name": "Future World",
         "reference-details": "This futuristic park has plenty of space for new rides on its alien landscape",
-        "details": "Tá neart spáis sa pháirc todhchaíoch seo do mharcaíochtaí nua ar a tírdhreach eachtrán"
+        "details": "Tá neart spáis sa pháirc thodhchaíoch seo do mharcaíochtaí nua ar a tírdhreach eachtrán"
     },
     "rct1aa.scenario_meta.gentle_glen": {
         "reference-name": "Gentle Glen",
@@ -969,7 +969,7 @@
         "reference-park_name": "Hydro Hills",
         "park_name": "Hydro Hills",
         "reference-details": "A series of stepped lakes form the basis for this new park",
-        "details": "Is é sraith lochanna céimnithe bunús na páirce nuaí seo"
+        "details": "Is é sraith lochanna céimnithe bunús na páirce nua seo"
     },
     "rct1aa.scenario_meta.jolly_jungle": {
         "reference-name": "Jolly Jungle",
@@ -977,7 +977,7 @@
         "reference-park_name": "Jolly Jungle",
         "park_name": "Jolly Jungle",
         "reference-details": "Deep in the jungle lies a large area of land ready to be turned into a theme park",
-        "details": "Domhain sa dufair tá limistéar mór talún réidh le hiompú ina pháirc théama"
+        "details": "I bhfad isteach sa dufair tá limistéar mór talún réidh le hiompú ina pháirc théama"
     },
     "rct1aa.scenario_meta.magic_quarters": {
         "reference-name": "Magic Quarters",
@@ -985,7 +985,7 @@
         "reference-park_name": "Magic Quarters",
         "park_name": "Magic Quarters",
         "reference-details": "A large area of land has been cleared and partially themed ready for you to develop into a landscaped theme park",
-        "details": "Glanadh limistéar mór talún agus cuireadh téamú páirteach air, réidh duit le forbairt ina pháirc théama tírdhreachtaithe"
+        "details": "Glanadh limistéar mór talún agus cuireadh téamú páirteach air, réidh duit le forbairt ina pháirc théama thírdhreachtaithe"
     },
     "rct1aa.scenario_meta.mineral_park": {
         "reference-name": "Mineral Park",
@@ -1333,7 +1333,7 @@
     },
     "rct1ll.ride.steam_trains_american": {
         "reference-name": "American Style Steam Trains",
-        "name": "Traenacha Gaile i Stíl Mheiriceá",
+        "name": "Traenacha Gaile ar Stíl Mheiriceánach",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
         "description": "Mionthraenacha gaile déanta de mhacasamhail innill ghaile agus teandair, ag tarraingt carráistí adhmaid le díonta fabraice",
         "reference-capacity": "6 passengers per carriage",
@@ -1665,7 +1665,7 @@
     },
     "rct2.audio.circus": {
         "reference-name": "Ambient sound effects for the Circus attraction.",
-        "name": "Éifeachtaí fuaime timpeallacha don Sorcas."
+        "name": "Éifeachtaí fuaime timpeallacha don tSorcas."
     },
     "rct2.audio.title": {
         "reference-name": "Title screen music for RollerCoaster Tycoon 2.",
@@ -1889,7 +1889,7 @@
     },
     "rct2.music.fairground": {
         "reference-name": "Fairground organ style",
-        "name": "Nós Orgán Aonaigh"
+        "name": "Nós Orgáin Aonaigh"
     },
     "rct2.music.fantasy": {
         "reference-name": "Fantasy style",
@@ -1961,7 +1961,7 @@
     },
     "rct2.music.roman": {
         "reference-name": "Roman fanfare style",
-        "name": "Nós Fanfáir Rómhánach"
+        "name": "Nós Fanfáir Rómhánaigh"
     },
     "rct2.music.snow": {
         "reference-name": "Snow style",
@@ -2081,7 +2081,7 @@
     },
     "rct2.ride.aml1": {
         "reference-name": "American Style Steam Trains",
-        "name": "Traenacha Gaile i Stíl Mheiriceá",
+        "name": "Traenacha Gaile ar Stíl Mheiriceánach",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
         "description": "Mionthraenacha gaile déanta de mhacasamhail innill ghaile agus teandair, ag tarraingt carráistí adhmaid le díonta fabraice",
         "reference-capacity": "6 passengers per carriage",
@@ -2097,7 +2097,7 @@
     },
     "rct2.ride.arrsw1": {
         "reference-name": "Suspended Swinging Cars",
-        "name": "Gluaisteáin Crochta Luascacha",
+        "name": "Gluaisteáin Chrochta Luascacha",
         "reference-description": "Suspended roller coaster trains consisting of cars able to swing freely as the train goes around corners",
         "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin atá in ann luascadh go saor agus an traein ag dul timpeall coirnéal",
         "reference-capacity": "4 passengers per car",
@@ -2207,7 +2207,7 @@
         "reference-name": "Six-seater Twister Trains",
         "name": "Traenacha Castóra Sé Shuíochán",
         "reference-description": "Roller coaster trains with extra-wide cars, built for vertical drops",
-        "description": "Traenacha rollchóstóra le gluaisteáin bhreisleathana, tógtha do thitimeacha ingearacha",
+        "description": "Traenacha rollchóstóra le gluaisteáin bhreisleathana, tógtha do thitimí ingearacha",
         "reference-capacity": "6 passengers per car",
         "capacity": "6 phaisinéir sa ghluaisteán"
     },
@@ -2311,9 +2311,9 @@
     },
     "rct2.ride.cndyf": {
         "reference-name": "Candyfloss Stall",
-        "name": "Stainnín Flas Candaí",
+        "name": "Stainnín Flasa Candaí",
         "reference-description": "A candyfloss shaped building selling pink candyfloss",
-        "description": "Foirgneamh i gcruth flas candaí a dhíolann flas candaí bándearg"
+        "description": "Foirgneamh i gcruth flasa candaí a dhíolann flas candaí bándearg"
     },
     "rct2.ride.coffs": {
         "reference-name": "Coffee Shop",
@@ -2511,7 +2511,7 @@
         "reference-name": "Ice Cream Cone Stall",
         "name": "Stainnín Cón Uachtair Reoite",
         "reference-description": "A stall selling ice cream cones",
-        "description": "Stainnín a dhíolann cóin uachtar reoite"
+        "description": "Stainnín a dhíolann cóin uachtair reoite"
     },
     "rct2.ride.icetst": {
         "reference-name": "Iced Tea Stall",
@@ -2621,7 +2621,7 @@
         "reference-name": "Articulated Roller Coaster Trains",
         "name": "Traenacha Rollchóstóra Altacha",
         "reference-description": "Roller coaster trains with short single-row cars and open fronts",
-        "description": "Traenacha rollchóstóra le gluaisteáin ghearra aon-sraithe agus éadain oscailte",
+        "description": "Traenacha rollchóstóra le gluaisteáin ghearra aonsraithe agus éadain oscailte",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 phaisinéir sa ghluaisteán"
     },
@@ -2645,7 +2645,7 @@
         "reference-name": "Streamlined Monorail Trains",
         "name": "Traenacha Aonráille Sruthlíneacha",
         "reference-description": "Large capacity monorail trains with streamlined front and rear cars",
-        "description": "Traenacha aonráille ardacmhainne le gluaisteáin sruthlíneacha chun tosaigh agus chun deiridh",
+        "description": "Traenacha aonráille ardacmhainne le gluaisteáin shruthlíneacha chun tosaigh agus chun deiridh",
         "reference-capacity": "5 or 10 passengers per car",
         "capacity": "5 nó 10 bpaisinéir sa ghluaisteán"
     },
@@ -2721,7 +2721,7 @@
     },
     "rct2.ride.popcs": {
         "reference-name": "Popcorn Stall",
-        "name": "Stainnín Grán Rósta",
+        "name": "Stainnín Gráin Rósta",
         "reference-description": "A stall selling giant buckets of popcorn",
         "description": "Stainnín a dhíolann buicéid ollmhóra gráin rósta"
     },
@@ -2799,7 +2799,7 @@
         "reference-name": "Reverser Cars",
         "name": "Gluaisteáin Cúlaithe",
         "reference-description": "Bogied cars capable of turning around on special reversing sections",
-        "description": "Gluaisteáin ar bhogíthe atá in ann iompú thart ar chodanna speisialta cúlaithe",
+        "description": "Gluaisteáin ar bhógaithe atá in ann iompú thart ar chodanna speisialta cúlaithe",
         "reference-capacity": "6 passengers per car",
         "capacity": "6 phaisinéir sa ghluaisteán"
     },
@@ -2959,7 +2959,7 @@
         "reference-name": "Launched Freefall Car",
         "name": "Gluaisteán Saorthitime Lainseáilte",
         "reference-description": "Freefall car is pneumatically launched up a tall steel tower and then allowed to freefall down",
-        "description": "Lainseáiltear gluaisteán saorthitime go haeroibrithe suas túr ard cruach agus ansin ceadaítear a thitim anuas",
+        "description": "Lainseáiltear gluaisteán saorthitime go haeroibrithe suas túr ard cruach agus ansin ligtear dó saorthitim anuas",
         "reference-capacity": "8 passengers",
         "capacity": "8 bpaisinéir"
     },
@@ -3105,7 +3105,7 @@
         "reference-name": "Twist",
         "name": "Casnóg",
         "reference-description": "Riders ride in pairs of seats rotating around the ends of three long rotating arms",
-        "description": "Marcaíonn marcaigh i mbeirteanna suíochán ag rothlú timpeall cheann trí ghéag fhada rothlacha",
+        "description": "Marcaíonn marcaigh i mbeirteanna suíochán ag rothlú timpeall ar chinn trí ghéag fhada rothlacha",
         "reference-capacity": "18 passengers",
         "capacity": "18 bpaisinéir"
     },
@@ -3121,7 +3121,7 @@
         "reference-name": "Twister Cars",
         "name": "Gluaisteáin Castóra",
         "reference-description": "Roller coaster cars capable of heartline twists",
-        "description": "Gluaisteáin rollchóstóra atá in ann castaí píblíne a dhéanamh",
+        "description": "Gluaisteáin rollchóstóra atá in ann castaí croílíne a dhéanamh",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -3129,7 +3129,7 @@
         "reference-name": "Twister Cars (starting reversed)",
         "name": "Gluaisteáin Castóra (ag tosú droim ar ais)",
         "reference-description": "Roller coaster cars capable of heartline twists, starting reversed",
-        "description": "Gluaisteáin rollchóstóra atá in ann castaí píblíne a dhéanamh, ag tosú droim ar ais",
+        "description": "Gluaisteáin rollchóstóra atá in ann castaí croílíne a dhéanamh, ag tosú droim ar ais",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -3469,7 +3469,7 @@
     },
     "rct2.scenery_group.scggiant": {
         "reference-name": "Giant Garden Theming",
-        "name": "Téamú Gairdín Ollmhór"
+        "name": "Téamú Gairdín Ollmhóir"
     },
     "rct2.scenery_group.scghallo": {
         "reference-name": "Creepy Theming",
@@ -4917,7 +4917,7 @@
     },
     "rct2.scenery_small.tsg": {
         "reference-name": "Swamp Goo",
-        "name": "Ramallae Seascainne"
+        "name": "Ramallae Seascainn"
     },
     "rct2.scenery_small.tsh": {
         "reference-name": "Horse Statue",
@@ -5245,11 +5245,11 @@
     },
     "rct2.scenery_wall.wallnt32": {
         "reference-name": "Tennis Net Wall",
-        "name": "Balla Líon Leadóige"
+        "name": "Balla Lín Leadóige"
     },
     "rct2.scenery_wall.wallnt33": {
         "reference-name": "Tennis Net Wall",
-        "name": "Balla Líon Leadóige"
+        "name": "Balla Lín Leadóige"
     },
     "rct2.scenery_wall.wallpg32": {
         "reference-name": "Wall",
@@ -5257,7 +5257,7 @@
     },
     "rct2.scenery_wall.wallpost": {
         "reference-name": "Post",
-        "name": "Posta"
+        "name": "Cuaille"
     },
     "rct2.scenery_wall.wallpr32": {
         "reference-name": "Rigging",
@@ -5939,7 +5939,7 @@
         "reference-name": "Dinosaur Egg Ride",
         "name": "Marcaíocht Uibhe Dineasáir",
         "reference-description": "Riders ride in pairs, in themed seats rotating around an animated mother dinosaur",
-        "description": "Marcaíonn marcaigh ina mbeirteanna, i suíocháin téamaithe ag rothlú timpeall máthair-dhineasáir bheoite",
+        "description": "Marcaíonn marcaigh ina mbeirteanna, i suíocháin théamaithe ag rothlú timpeall máthair-dhineasáir bheoite",
         "reference-capacity": "18 passengers",
         "capacity": "18 bpaisinéir"
     },
@@ -5963,7 +5963,7 @@
         "reference-name": "Mace Ride",
         "name": "Marcaíocht Mháis",
         "reference-description": "Riders sit on a themed chair which is attached to a motor driven spinning arm.",
-        "description": "Suíonn marcaigh ar chathaoir théamaithe atá ceangailte de ghéag rothlach mótarthiomáinte.",
+        "description": "Suíonn marcaigh ar chathaoir théamaithe atá ceangailte de ghéag rothlach mhótarthiomáinte.",
         "reference-capacity": "1 guest per chair",
         "capacity": "1 aoi sa chathaoir"
     },
@@ -6003,7 +6003,7 @@
         "reference-name": "B-Movie Giant Spider Ride",
         "name": "Marcaíocht Damhán Alla Ollmhór B-Scannáin",
         "reference-description": "Riders ride in pairs of themed seats which rotate around a giant B-Movie spider",
-        "description": "Marcaíonn marcaigh i mbeirteanna suíochán téamaithe a rothlaíonn timpeall damhán alla ollmhór B-scannáin",
+        "description": "Marcaíonn marcaigh i mbeirteanna suíochán téamaithe a rothlaíonn timpeall ar dhamhán alla ollmhór B-scannáin",
         "reference-capacity": "18 passengers",
         "capacity": "18 bpaisinéir"
     },
@@ -6123,13 +6123,13 @@
         "reference-name": "Neptune’s Seafood Stall",
         "name": "Stainnín Bia Mara Neiptiúin",
         "reference-description": "A stall selling Neptune’s salty treats",
-        "description": "Stainnín a dhíolann sólaistí goirt Neiptiúin"
+        "description": "Stainnín a dhíolann sólaistí goirte Neiptiúin"
     },
     "rct2tt.ride.neptunex": {
         "reference-name": "Neptune Ride",
         "name": "Marcaíocht Neiptiúin",
         "reference-description": "Riders ride in pairs, in themed seats rotating around an animated statue of Neptune",
-        "description": "Marcaíonn marcaigh ina mbeirteanna, i suíocháin téamaithe ag rothlú timpeall dealbh bheoite de Neiptiún",
+        "description": "Marcaíonn marcaigh ina mbeirteanna, i suíocháin théamaithe ag rothlú timpeall ar dhealbh bheoite de Neiptiún",
         "reference-capacity": "18 passengers",
         "capacity": "18 bpaisinéir"
     },
@@ -6247,7 +6247,7 @@
         "reference-name": "Tommy Gun Ride",
         "name": "Marcaíocht Ghunna Tommy",
         "reference-description": "Riders ride in pairs of themed seats which rotate around a large replica Tommy Gun",
-        "description": "Marcaíonn marcaigh i mbeirteanna suíochán téamaithe a rothlaíonn timpeall macasamhail mhór de ghunna Tommy",
+        "description": "Marcaíonn marcaigh i mbeirteanna suíochán téamaithe a rothlaíonn timpeall ar mhacasamhail mhór de ghunna Tommy",
         "reference-capacity": "18 passengers",
         "capacity": "18 bpaisinéir"
     },
@@ -6279,7 +6279,7 @@
         "reference-name": "Valkyries Trains",
         "name": "Traenacha na Vailcírí",
         "reference-description": "Valkyries-themed roller coaster trains with extra-wide cars, built for vertical drops",
-        "description": "Traenacha rollchóstóra ar théama na Vailcírí le gluaisteáin bhreisleathana, tógtha do thitimeacha ingearacha",
+        "description": "Traenacha rollchóstóra ar théama na Vailcírí le gluaisteáin bhreisleathana, tógtha do thitimí ingearacha",
         "reference-capacity": "6 passengers per car",
         "capacity": "6 phaisinéir sa ghluaisteán"
     },
@@ -6287,7 +6287,7 @@
         "reference-name": "Airship Themed Monorail Trains",
         "name": "Traenacha Aonráille ar Théama Aerloinge",
         "reference-description": "Large capacity themed monorail trains with streamlined front and rear cars",
-        "description": "Traenacha aonráille téamaithe ardacmhainne le gluaisteáin sruthlíneacha chun tosaigh agus chun deiridh",
+        "description": "Traenacha aonráille téamaithe ardacmhainne le gluaisteáin shruthlíneacha chun tosaigh agus chun deiridh",
         "reference-capacity": "8 passengers per car",
         "capacity": "8 bpaisinéir sa ghluaisteán"
     },
@@ -6329,7 +6329,7 @@
         "reference-park_name": "Crater Carnage",
         "park_name": "Crater Carnage",
         "reference-details": "You own a dusty old meteor crater. In the true entrepreneurial spirit, you’ve decided to construct an asteroid theme park and convert your seemingly worthless land into a sizeable fortune.",
-        "details": "Is leatsa seanchráitéar deannachúil dreigite. De mheon fiontraíochta, tá cinneadh déanta agat páirc théama astaróideach a thógáil agus do thalamh gan mhaith de réir cosúlachta a athrú ina shaibhreas suntasach."
+        "details": "Is leatsa seanchráitéar deannachúil dreigíte. De mheon fiontraíochta, tá cinneadh déanta agat páirc théama astaróideach a thógáil agus do thalamh gan mhaith de réir cosúlachta a athrú ina shaibhreas suntasach."
     },
     "rct2tt.scenario_meta.extraterrestrial_extravaganza": {
         "reference-name": "Extraterrestrial Extravaganza",
@@ -6385,7 +6385,7 @@
         "reference-park_name": "Schneider Shores",
         "park_name": "Schneider Shores",
         "reference-details": "The 75th anniversary of your grandfather’s Schneider Cup victory is coming up in a few years. You’re going to honour his achievement by building a theme park based on the famous seaplane race.",
-        "details": "Beidh comóradh 75 bliain bhua do sheanathar i gCorn Schneider ann i gceann cúpla bliain. Tá tú chun ómós a thabhairt dá éacht trí pháirc théama a thógáil bunaithe ar an rás cáiliúil muireitleán."
+        "details": "Beidh comóradh 75 bliain ar bhua do sheanathar i gCorn Schneider ann i gceann cúpla bliain. Tá tú chun ómós a thabhairt dá éacht trí pháirc théama a thógáil bunaithe ar an rás cáiliúil muireitleán."
     },
     "rct2tt.scenario_meta.sherwood_forest": {
         "reference-name": "Sherwood Forest",
@@ -6505,27 +6505,27 @@
     },
     "rct2tt.scenery_large.corns2x2": {
         "reference-name": "Roman Palace Corner Piece",
-        "name": "Píosa Cúinne Pálás Rómhánach"
+        "name": "Píosa Cúinne Páláis Rómhánaigh"
     },
     "rct2tt.scenery_large.corvs2x2": {
         "reference-name": "Roman Palace Corner Piece",
-        "name": "Píosa Cúinne Pálás Rómhánach"
+        "name": "Píosa Cúinne Páláis Rómhánaigh"
     },
     "rct2tt.scenery_large.cratr2x2": {
         "reference-name": "Small Meteor Crater",
-        "name": "Cráitéar Beag Dreigite"
+        "name": "Cráitéar Beag Dreigíte"
     },
     "rct2tt.scenery_large.cratr4x4": {
         "reference-name": "Large Meteor Crater",
-        "name": "Cráitéar Mór Dreigite"
+        "name": "Cráitéar Mór Dreigíte"
     },
     "rct2tt.scenery_large.crsss2x2": {
         "reference-name": "Roman Palace Cross Section",
-        "name": "Mír Chroise Pálás Rómhánach"
+        "name": "Mír Chroise Páláis Rómhánaigh"
     },
     "rct2tt.scenery_large.crsvs2x2": {
         "reference-name": "Roman Palace Cross Section",
-        "name": "Mír Chroise Pálás Rómhánach"
+        "name": "Mír Chroise Páláis Rómhánaigh"
     },
     "rct2tt.scenery_large.cyclopss": {
         "reference-name": "Cyclops Statue",
@@ -6545,23 +6545,23 @@
     },
     "rct2tt.scenery_large.futsky20": {
         "reference-name": "Sandstone Skyscraper Bottom Inverted Corner",
-        "name": "Cúinne Inbhéartaithe Bun Ilstóraigh Gaineamhchloiche"
+        "name": "Cúinne Inbhéartaithe Buin Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_large.futsky22": {
         "reference-name": "Sandstone Skyscraper Bottom Inverted Corner",
-        "name": "Cúinne Inbhéartaithe Bun Ilstóraigh Gaineamhchloiche"
+        "name": "Cúinne Inbhéartaithe Buin Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_large.futsky24": {
         "reference-name": "Sandstone Skyscraper Bottom Inverted Corner",
-        "name": "Cúinne Inbhéartaithe Bun Ilstóraigh Gaineamhchloiche"
+        "name": "Cúinne Inbhéartaithe Buin Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_large.futsky25": {
         "reference-name": "Sandstone Skyscraper Bottom Inverted Corner",
-        "name": "Cúinne Inbhéartaithe Bun Ilstóraigh Gaineamhchloiche"
+        "name": "Cúinne Inbhéartaithe Buin Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_large.futsky26": {
         "reference-name": "Sandstone Skyscraper Bottom Inverted Corner",
-        "name": "Cúinne Inbhéartaithe Bun Ilstóraigh Gaineamhchloiche"
+        "name": "Cúinne Inbhéartaithe Buin Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_large.futsky28": {
         "reference-name": "Sandstone Walkway T-Junction",
@@ -6669,27 +6669,27 @@
     },
     "rct2tt.scenery_large.mcastl13": {
         "reference-name": "Castle Tower Corner Piece",
-        "name": "Píosa Cúinne Túr Caisleáin"
+        "name": "Píosa Cúinne Túir Caisleáin"
     },
     "rct2tt.scenery_large.mcastl14": {
         "reference-name": "Castle Tower Corner Piece",
-        "name": "Píosa Cúinne Túr Caisleáin"
+        "name": "Píosa Cúinne Túir Caisleáin"
     },
     "rct2tt.scenery_large.mcastl15": {
         "reference-name": "Castle Tower Cross Piece",
-        "name": "Píosa Croise Túr Caisleáin"
+        "name": "Píosa Croise Túir Caisleáin"
     },
     "rct2tt.scenery_large.mcastl16": {
         "reference-name": "Castle Tower Straight Piece",
-        "name": "Píosa Díreach Túr Caisleáin"
+        "name": "Píosa Díreach Túir Caisleáin"
     },
     "rct2tt.scenery_large.mcastl17": {
         "reference-name": "Castle Tower T Piece",
-        "name": "Píosa T Túr Caisleáin"
+        "name": "Píosa T Túir Caisleáin"
     },
     "rct2tt.scenery_large.mcastl18": {
         "reference-name": "Castle Tower T Piece",
-        "name": "Píosa T Túr Caisleáin"
+        "name": "Píosa T Túir Caisleáin"
     },
     "rct2tt.scenery_large.melmtree": {
         "reference-name": "Large Elm Tree",
@@ -6697,11 +6697,11 @@
     },
     "rct2tt.scenery_large.metoan01": {
         "reference-name": "Meteor Crater Corner",
-        "name": "Cúinne Cráitéir Dreigite"
+        "name": "Cúinne Cráitéir Dreigíte"
     },
     "rct2tt.scenery_large.metoan02": {
         "reference-name": "Meteor Crater Inverted Corner",
-        "name": "Cúinne Inbhéartaithe Cráitéir Dreigite"
+        "name": "Cúinne Inbhéartaithe Cráitéir Dreigíte"
     },
     "rct2tt.scenery_large.oldnyk20": {
         "reference-name": "New York Roof Piece",
@@ -6793,19 +6793,19 @@
     },
     "rct2tt.scenery_large.rdmet2x2": {
         "reference-name": "Small Red Meteor Crater",
-        "name": "Cráitéar Beag Dearg Dreigite"
+        "name": "Cráitéar Beag Dearg Dreigíte"
     },
     "rct2tt.scenery_large.rdmet4x4": {
         "reference-name": "Large Red Meteor Crater",
-        "name": "Cráitéar Mór Dearg Dreigite"
+        "name": "Cráitéar Mór Dearg Dreigíte"
     },
     "rct2tt.scenery_large.rdmeto01": {
         "reference-name": "Red Meteor Crater Corner",
-        "name": "Cúinne Cráitéir Dearg Dreigite"
+        "name": "Cúinne Cráitéir Dheirg Dreigíte"
     },
     "rct2tt.scenery_large.rdmeto02": {
         "reference-name": "Red Meteor Crater Corner",
-        "name": "Cúinne Cráitéir Dearg Dreigite"
+        "name": "Cúinne Cráitéir Dheirg Dreigíte"
     },
     "rct2tt.scenery_large.robncamp": {
         "reference-name": "Robin Hood’s Camp",
@@ -6813,35 +6813,35 @@
     },
     "rct2tt.scenery_large.romnc2x2": {
         "reference-name": "Roman Palace Corner Piece",
-        "name": "Píosa Cúinne Pálás Rómhánach"
+        "name": "Píosa Cúinne Páláis Rómhánaigh"
     },
     "rct2tt.scenery_large.romne2x1": {
         "reference-name": "Roman Palace End Piece",
-        "name": "Píosa Deiridh Pálás Rómhánach"
+        "name": "Píosa Deiridh Páláis Rómhánaigh"
     },
     "rct2tt.scenery_large.romnm2x2": {
         "reference-name": "Roman Palace Cross Section",
-        "name": "Mír Chroise Pálás Rómhánach"
+        "name": "Mír Chroise Páláis Rómhánaigh"
     },
     "rct2tt.scenery_large.romns2x2": {
         "reference-name": "Roman Palace Straight Piece",
-        "name": "Píosa Díreach Pálás Rómhánach"
+        "name": "Píosa Díreach Páláis Rómhánaigh"
     },
     "rct2tt.scenery_large.romvc2x2": {
         "reference-name": "Roman Palace Corner Piece",
-        "name": "Píosa Cúinne Pálás Rómhánach"
+        "name": "Píosa Cúinne Páláis Rómhánaigh"
     },
     "rct2tt.scenery_large.romve2x1": {
         "reference-name": "Roman Palace End Piece",
-        "name": "Píosa Deiridh Pálás Rómhánach"
+        "name": "Píosa Deiridh Páláis Rómhánaigh"
     },
     "rct2tt.scenery_large.romvm2x2": {
         "reference-name": "Roman Palace Cross Section",
-        "name": "Mír Chroise Pálás Rómhánach"
+        "name": "Mír Chroise Páláis Rómhánaigh"
     },
     "rct2tt.scenery_large.romvs2x2": {
         "reference-name": "Roman Palace Straight Piece",
-        "name": "Píosa Díreach Pálás Rómhánach"
+        "name": "Píosa Díreach Páláis Rómhánaigh"
     },
     "rct2tt.scenery_large.schnpit2": {
         "reference-name": "Seaplane Pits",
@@ -6869,11 +6869,11 @@
     },
     "rct2tt.scenery_large.strgs2x2": {
         "reference-name": "Roman Palace Straight Piece",
-        "name": "Píosa Díreach Pálás Rómhánach"
+        "name": "Píosa Díreach Páláis Rómhánaigh"
     },
     "rct2tt.scenery_large.strvs2x2": {
         "reference-name": "Roman Palace Straight Piece",
-        "name": "Píosa Díreach Pálás Rómhánach"
+        "name": "Píosa Díreach Páláis Rómhánaigh"
     },
     "rct2tt.scenery_large.tavernxx": {
         "reference-name": "Dark Ages Tavern",
@@ -7221,7 +7221,7 @@
     },
     "rct2tt.scenery_small.futsky03": {
         "reference-name": "Sandstone Skyscraper Bottom Corner",
-        "name": "Cúinne Bun Ilstóraigh Gaineamhchloiche"
+        "name": "Cúinne Buin Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_small.futsky04": {
         "reference-name": "Sandstone Skyscraper Curved Slope Top",
@@ -7249,7 +7249,7 @@
     },
     "rct2tt.scenery_small.futsky10": {
         "reference-name": "Sandstone Skyscraper Bottom Slope Base",
-        "name": "Bun Fána Bun Ilstóraigh Gaineamhchloiche"
+        "name": "Bun Fána Buin Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_small.futsky11": {
         "reference-name": "Sandstone Skyscraper Mid Corner",
@@ -7285,7 +7285,7 @@
     },
     "rct2tt.scenery_small.futsky19": {
         "reference-name": "Sandstone Skyscraper Bottom Corner",
-        "name": "Cúinne Bun Ilstóraigh Gaineamhchloiche"
+        "name": "Cúinne Buin Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_small.futsky21": {
         "reference-name": "Sandstone Skyscraper Mid Wall Section",
@@ -7297,7 +7297,7 @@
     },
     "rct2tt.scenery_small.futsky29": {
         "reference-name": "Sandstone Skyscraper Bottom Curved Slope",
-        "name": "Fána Cuartha Bun Ilstóraigh Gaineamhchloiche"
+        "name": "Fána Chuartha Buin Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_small.futsky33": {
         "reference-name": "Sandstone Skyscraper Walkway",
@@ -7357,7 +7357,7 @@
     },
     "rct2tt.scenery_small.futsky52": {
         "reference-name": "Sandstone Skyscraper Bottom Inverted Corner",
-        "name": "Cúinne Inbhéartaithe Bun Ilstóraigh Gaineamhchloiche"
+        "name": "Cúinne Inbhéartaithe Buin Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_small.futsky53": {
         "reference-name": "Sandstone Skyscraper Mid Corner",
@@ -7429,7 +7429,7 @@
     },
     "rct2tt.scenery_small.hevbth02": {
         "reference-name": "Heavenly Bath Pool Corner",
-        "name": "Cúinne Linn Folcadáin Neamhaí"
+        "name": "Cúinne Linne Folcadáin Neamhaí"
     },
     "rct2tt.scenery_small.hevbth03": {
         "reference-name": "Heavenly Baths Fountain",
@@ -7485,11 +7485,11 @@
     },
     "rct2tt.scenery_small.hevbth16": {
         "reference-name": "Heavenly Bath Pool Steps",
-        "name": "Céimeanna Linn Folcadáin Neamhaí"
+        "name": "Céimeanna Linne Folcadáin Neamhaí"
     },
     "rct2tt.scenery_small.hevbth17": {
         "reference-name": "Heavenly Bath Pool Edge",
-        "name": "Imeall Linn Folcadáin Neamhaí"
+        "name": "Imeall Linne Folcadáin Neamhaí"
     },
     "rct2tt.scenery_small.hevrof01": {
         "reference-name": "Heavenly Bath Roof",
@@ -7513,11 +7513,11 @@
     },
     "rct2tt.scenery_small.hovrcar1": {
         "reference-name": "Hovercar on Stand",
-        "name": "Gluaisteán Foluaineach ar Seastán"
+        "name": "Gluaisteán Foluaineach ar Sheastán"
     },
     "rct2tt.scenery_small.hovrcar2": {
         "reference-name": "Hovercar on Stand",
-        "name": "Gluaisteán Foluaineach ar Seastán"
+        "name": "Gluaisteán Foluaineach ar Sheastán"
     },
     "rct2tt.scenery_small.hovrcar3": {
         "reference-name": "Hovercar Flying",
@@ -7557,11 +7557,11 @@
     },
     "rct2tt.scenery_small.hvrbike1": {
         "reference-name": "Hoverbike on Stand",
-        "name": "Rothar Foluaineach ar Seastán"
+        "name": "Rothar Foluaineach ar Sheastán"
     },
     "rct2tt.scenery_small.hvrbike2": {
         "reference-name": "Hoverbike on Stand",
-        "name": "Rothar Foluaineach ar Seastán"
+        "name": "Rothar Foluaineach ar Sheastán"
     },
     "rct2tt.scenery_small.hvrbike3": {
         "reference-name": "Hoverbike Flying",
@@ -7897,19 +7897,19 @@
     },
     "rct2tt.scenery_small.meteorcr": {
         "reference-name": "Meteor Crater Corner",
-        "name": "Cúinne Cráitéir Dreigite"
+        "name": "Cúinne Cráitéir Dreigíte"
     },
     "rct2tt.scenery_small.meteorst": {
         "reference-name": "Meteor Crater Wall",
-        "name": "Balla Cráitéir Dreigite"
+        "name": "Balla Cráitéir Dreigíte"
     },
     "rct2tt.scenery_small.metrcrs1": {
         "reference-name": "Meteor Crater Wall with Crystals",
-        "name": "Balla Cráitéir Dreigite le Criostail"
+        "name": "Balla Cráitéir Dreigíte le Criostail"
     },
     "rct2tt.scenery_small.metrcrs2": {
         "reference-name": "Meteor Crater Wall with Crystals",
-        "name": "Balla Cráitéir Dreigite le Criostail"
+        "name": "Balla Cráitéir Dreigíte le Criostail"
     },
     "rct2tt.scenery_small.minotaur": {
         "reference-name": "Minotaur Statue",
@@ -8205,11 +8205,11 @@
     },
     "rct2tt.scenery_small.rdmeto03": {
         "reference-name": "Red Meteor Crater Wall",
-        "name": "Balla Cráitéir Dearg Dreigite"
+        "name": "Balla Cráitéir Dheirg Dreigíte"
     },
     "rct2tt.scenery_small.rdmeto04": {
         "reference-name": "Red Meteor Crater Inverted Corner",
-        "name": "Cúinne Inbhéartaithe Cráitéir Dearg Dreigite"
+        "name": "Cúinne Inbhéartaithe Cráitéir Dheirg Dreigíte"
     },
     "rct2tt.scenery_small.robnhood": {
         "reference-name": "Animatronic Robin Hood",
@@ -8461,39 +8461,39 @@
     },
     "rct2tt.scenery_small.swamplt1": {
         "reference-name": "Swamp Plant",
-        "name": "Planda Seascainne"
+        "name": "Planda Seascainn"
     },
     "rct2tt.scenery_small.swamplt2": {
         "reference-name": "Swamp Fern",
-        "name": "Raithneach Seascainne"
+        "name": "Raithneach Seascainn"
     },
     "rct2tt.scenery_small.swamplt3": {
         "reference-name": "Swamp Fern",
-        "name": "Raithneach Seascainne"
+        "name": "Raithneach Seascainn"
     },
     "rct2tt.scenery_small.swamplt4": {
         "reference-name": "Swamp Plant",
-        "name": "Planda Seascainne"
+        "name": "Planda Seascainn"
     },
     "rct2tt.scenery_small.swamplt5": {
         "reference-name": "Swamp Plant",
-        "name": "Planda Seascainne"
+        "name": "Planda Seascainn"
     },
     "rct2tt.scenery_small.swamplt6": {
         "reference-name": "Swamp Fern",
-        "name": "Raithneach Seascainne"
+        "name": "Raithneach Seascainn"
     },
     "rct2tt.scenery_small.swamplt7": {
         "reference-name": "Swamp Fern",
-        "name": "Raithneach Seascainne"
+        "name": "Raithneach Seascainn"
     },
     "rct2tt.scenery_small.swamplt8": {
         "reference-name": "Swamp Fern",
-        "name": "Raithneach Seascainne"
+        "name": "Raithneach Seascainn"
     },
     "rct2tt.scenery_small.swamplt9": {
         "reference-name": "Swamp Fern",
-        "name": "Raithneach Seascainne"
+        "name": "Raithneach Seascainn"
     },
     "rct2tt.scenery_small.swrdstne": {
         "reference-name": "Sword in the Stone",
@@ -8687,7 +8687,7 @@
         "reference-name": "Coffee Cup Ride",
         "name": "Marcaíocht Chupa Caife",
         "reference-description": "Riders ride in pairs of themed seats rotating around a large animated coffee grinder",
-        "description": "Marcaíonn marcaigh i mbeirteanna suíochán téamaithe ag rothlú timpeall meilteoir mór beoite caife",
+        "description": "Marcaíonn marcaigh i mbeirteanna suíochán téamaithe ag rothlú timpeall ar mheilteoir mór beoite caife",
         "reference-capacity": "18 passengers",
         "capacity": "18 bpaisinéir"
     },
@@ -8767,7 +8767,7 @@
         "reference-name": "Chinese Dragonhead Dodgems",
         "name": "Tuairtcharranna Ceann Dragain Síneacha",
         "reference-description": "Guests battle each other in dragonhead-shaped dodgems",
-        "description": "Troideann aíonna in aghaidh a chéile i dtuairtcharranna i gcruth ceann dragain",
+        "description": "Troideann aíonna in aghaidh a chéile i dtuairtcharranna i gcruth cinn dragain",
         "reference-capacity": "1 person per car",
         "capacity": "1 duine sa ghluaisteán"
     },
@@ -8783,7 +8783,7 @@
         "reference-name": "Fabergé Egg Ride",
         "name": "Marcaíocht Uibhe Fabergé",
         "reference-description": "Riders ride in pairs of themed seats rotating around a large Fabergé egg replica",
-        "description": "Marcaíonn marcaigh i mbeirteanna suíochán téamaithe ag rothlú timpeall macasamhail mhór d’ubh Fabergé",
+        "description": "Marcaíonn marcaigh i mbeirteanna suíochán téamaithe ag rothlú timpeall ar mhacasamhail mhór d’ubh Fabergé",
         "reference-capacity": "18 passengers",
         "capacity": "18 bpaisinéir"
     },
@@ -8791,7 +8791,7 @@
         "reference-name": "Fighting Kite Ride",
         "name": "Marcaíocht Eitleoige Troda",
         "reference-description": "Riders ride in pairs of seats rotating around the ends of three long rotating arms",
-        "description": "Marcaíonn marcaigh i mbeirteanna suíochán ag rothlú timpeall cheann trí ghéag fhada rothlacha",
+        "description": "Marcaíonn marcaigh i mbeirteanna suíochán ag rothlú timpeall ar chinn trí ghéag fhada rothlacha",
         "reference-capacity": "18 passengers",
         "capacity": "18 bpaisinéir"
     },
@@ -9007,7 +9007,7 @@
         "reference-name": "Snowmobile Dodgems",
         "name": "Tuairtcharranna Sneachta",
         "reference-description": "Guests slide around in snowmobile-shaped vehicles that they freely control",
-        "description": "Sleamhnaíonn aíonna thart i bhfeithiclí i gcruth carr sneachta a stiúrann siad go saor",
+        "description": "Sleamhnaíonn aíonna thart i bhfeithiclí i gcruth cairr sneachta a stiúrann siad go saor",
         "reference-capacity": "1 person per car",
         "capacity": "1 duine sa ghluaisteán"
     },
@@ -9071,7 +9071,7 @@
         "reference-name": "Bengal Tiger Cars",
         "name": "Gluaisteáin Tíogair Bheangálaigh",
         "reference-description": "Roller coaster cars capable of heartline twists, themed to look like Bengal tigers",
-        "description": "Gluaisteáin rollchóstóra atá in ann castaí píblíne a dhéanamh, ar théama tíogar Beangálach",
+        "description": "Gluaisteáin rollchóstóra atá in ann castaí croílíne a dhéanamh, ar théama tíogar Beangálach",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -9121,7 +9121,7 @@
         "reference-park_name": "European Extravaganza",
         "park_name": "European Extravaganza",
         "reference-details": "You have been brought in to take over a European Cultural Visitor Attraction and must increase the number of guests in order to pay back the EU subsidy by the end of the current European parliament term.",
-        "details": "Tugadh isteach thú chun Áit Chultúrtha Eorpach do Chuairteoirí a ghlacadh ar láimh agus caithfidh tú líon na n-aíonna a mhéadú chun fóirdheontas an AE a aisíoc faoi dheireadh théarma reatha Pharlaimint na hEorpa."
+        "details": "Tugadh isteach thú chun Áit Chultúrtha Eorpach do Chuairteoirí a ghlacadh ar láimh agus caithfidh tú líon na n-aíonna a mhéadú chun fóirdheontas an AE a aisíoc faoi dheireadh théarma reatha Parlaimint na hEorpa."
     },
     "rct2ww.scenario_meta.from_the_ashes": {
         "reference-name": "From the Ashes",
@@ -9129,7 +9129,7 @@
         "reference-park_name": "From the Ashes",
         "park_name": "From the Ashes",
         "reference-details": "An old park has fallen into disrepair. You gain a European Union grant to return this deprived area to its former glory! You need to renovate the park and repay the grant.",
-        "details": "Tá seanpháirc imithe ó mhaith. Faigheann tú deontas ón Aontas Eorpach chun an ceantar díothach seo a thabhairt ar ais chuig a sheanghlóir! Ní mór duit an pháirc a athchóiriú agus an deontas a aisíoc."
+        "details": "Tá seanpháirc imithe ó mhaith. Faigheann tú deontas ón Aontas Eorpach chun an ceantar bocht seo a thabhairt ar ais chuig a sheanghlóir! Ní mór duit an pháirc a athchóiriú agus an deontas a aisíoc."
     },
     "rct2ww.scenario_meta.great_wall_of_china": {
         "reference-name": "Great Wall of China",
@@ -9185,7 +9185,7 @@
         "reference-park_name": "Over the Edge",
         "park_name": "Over the Edge",
         "reference-details": "A dam has been built offering abundant, cheap hydroelectric power with which to run a park. You need to reach a high park value to help repay the loan for the dam.",
-        "details": "Tógadh damba a sholáthraíonn cumhacht hidrileictreach flúirseach shaor chun páirc a rith. Ní mór duit luach ard páirce a bhaint amach chun cabhrú le hiasacht an damba a aisíoc."
+        "details": "Tógadh damba a sholáthraíonn cumhacht hidrileictreach fhlúirseach shaor chun páirc a rith. Ní mór duit luach ard páirce a bhaint amach chun cabhrú le hiasacht an damba a aisíoc."
     },
     "rct2ww.scenario_meta.park_maharaja": {
         "reference-name": "Park Maharaja",
@@ -9209,7 +9209,7 @@
         "reference-park_name": "Rollercoaster Heaven",
         "park_name": "Rollercoaster Heaven",
         "reference-details": "You are a successful business tycoon on long sabbatical who desires to use this time transforming the city park into Rollercoaster Heaven. Money is no object!",
-        "details": "Is toicí rathúil gnó thú atá ar shabóid fhada agus is mian leat an t-am seo a chaitheamh ag athrú pháirc na cathrach ina Rollercoaster Heaven. Is cuma faoin airgead!"
+        "details": "Is toicí rathúil gnó thú atá ar shaoire shabóideach fhada agus is mian leat an t-am seo a chaitheamh ag athrú páirc na cathrach ina Rollercoaster Heaven. Is cuma faoin airgead!"
     },
     "rct2ww.scenario_meta.sugarloaf_shores": {
         "reference-name": "Sugarloaf Shores",
@@ -9281,27 +9281,27 @@
     },
     "rct2ww.scenery_large.1x2lgchm": {
         "reference-name": "Log Cabin Side Chimney",
-        "name": "Simléar Taoibh Cábán Lomán"
+        "name": "Simléar Taoibh Cábáin Lomán"
     },
     "rct2ww.scenery_large.1x4brg01": {
         "reference-name": "Suspension Bridge Start side",
-        "name": "Taobh Tosaigh Droichead Crochta"
+        "name": "Taobh Tosaigh Droichid Chrochta"
     },
     "rct2ww.scenery_large.1x4brg02": {
         "reference-name": "Suspension Bridge Start side",
-        "name": "Taobh Tosaigh Droichead Crochta"
+        "name": "Taobh Tosaigh Droichid Chrochta"
     },
     "rct2ww.scenery_large.1x4brg03": {
         "reference-name": "Suspension Bridge Tower side",
-        "name": "Taobh Túir Droichead Crochta"
+        "name": "Taobh Túir Droichid Chrochta"
     },
     "rct2ww.scenery_large.1x4brg04": {
         "reference-name": "Suspension Bridge Tower side",
-        "name": "Taobh Túir Droichead Crochta"
+        "name": "Taobh Túir Droichid Chrochta"
     },
     "rct2ww.scenery_large.1x4brg05": {
         "reference-name": "Suspension Bridge Cable Section",
-        "name": "Mír Chábla Droichead Crochta"
+        "name": "Mír Chábla Droichid Chrochta"
     },
     "rct2ww.scenery_large.3x3altre": {
         "reference-name": "Jungle Tree with Leopards",
@@ -9585,19 +9585,19 @@
     },
     "rct2ww.scenery_large.tajmcbse": {
         "reference-name": "Maharaja Palace Tower Base",
-        "name": "Bun Túir Pálás Maharaja"
+        "name": "Bun Túir Páláis Maharaja"
     },
     "rct2ww.scenery_large.tajmcolm": {
         "reference-name": "Maharaja Palace Tower Column",
-        "name": "Colún Túir Pálás Maharaja"
+        "name": "Colún Túir Páláis Maharaja"
     },
     "rct2ww.scenery_large.tajmctop": {
         "reference-name": "Maharaja Palace Tower Top",
-        "name": "Barr Túir Pálás Maharaja"
+        "name": "Barr Túir Páláis Maharaja"
     },
     "rct2ww.scenery_large.tajmdome": {
         "reference-name": "Maharaja Palace Dome",
-        "name": "Cruinneachán Pálás Maharaja"
+        "name": "Cruinneachán Páláis Maharaja"
     },
     "rct2ww.scenery_large.windmill": {
         "reference-name": "Windmill",
@@ -9637,7 +9637,7 @@
     },
     "rct2ww.scenery_small.1x1termm": {
         "reference-name": "Termite Mound",
-        "name": "Múta Teirmíteach"
+        "name": "Múta Teirmítí"
     },
     "rct2ww.scenery_small.adpanda": {
         "reference-name": "Adult Panda",
@@ -9689,15 +9689,15 @@
     },
     "rct2ww.scenery_small.conveyr1": {
         "reference-name": "Conveyer Belt Corner",
-        "name": "Cúinne Crios Iompair"
+        "name": "Cúinne Creasa Iompair"
     },
     "rct2ww.scenery_small.conveyr2": {
         "reference-name": "Conveyer Belt Rise",
-        "name": "Ardú Crios Iompair"
+        "name": "Ardú Creasa Iompair"
     },
     "rct2ww.scenery_small.conveyr3": {
         "reference-name": "Conveyer Belt End",
-        "name": "Deireadh Crios Iompair"
+        "name": "Deireadh Creasa Iompair"
     },
     "rct2ww.scenery_small.conveyr4": {
         "reference-name": "Conveyer Belt Straight",
@@ -9705,7 +9705,7 @@
     },
     "rct2ww.scenery_small.conveyr5": {
         "reference-name": "Conveyer Belt Corner Reverse",
-        "name": "Cúinne Crios Iompair (Droim ar Ais)"
+        "name": "Cúinne Creasa Iompair (Droim ar Ais)"
     },
     "rct2ww.scenery_small.fishhole": {
         "reference-name": "Fish Hole",
@@ -9801,27 +9801,27 @@
     },
     "rct2ww.scenery_small.jpflag01": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Bratach Shíoda Seapánach"
+        "name": "Bratach Shíoda Sheapánach"
     },
     "rct2ww.scenery_small.jpflag02": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Bratach Shíoda Seapánach"
+        "name": "Bratach Shíoda Sheapánach"
     },
     "rct2ww.scenery_small.jpflag03": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Bratach Shíoda Seapánach"
+        "name": "Bratach Shíoda Sheapánach"
     },
     "rct2ww.scenery_small.jpflag04": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Bratach Shíoda Seapánach"
+        "name": "Bratach Shíoda Sheapánach"
     },
     "rct2ww.scenery_small.jpflag05": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Bratach Shíoda Seapánach"
+        "name": "Bratach Shíoda Sheapánach"
     },
     "rct2ww.scenery_small.jpflag06": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Bratach Shíoda Seapánach"
+        "name": "Bratach Shíoda Sheapánach"
     },
     "rct2ww.scenery_small.oilpump": {
         "reference-name": "Oil Pump",
@@ -9869,31 +9869,31 @@
     },
     "rct2ww.scenery_small.rbrick01": {
         "reference-name": "Red Brick Inverted Roof Piece",
-        "name": "Píosa Dín Inbhéartaithe Bríce Dearg"
+        "name": "Píosa Dín Inbhéartaithe Bríce Dheirg"
     },
     "rct2ww.scenery_small.rbrick02": {
         "reference-name": "Red Brick Corner Roof Piece",
-        "name": "Píosa Dín Cúinne Bríce Dearg"
+        "name": "Píosa Dín Cúinne Bríce Dheirg"
     },
     "rct2ww.scenery_small.rbrick03": {
         "reference-name": "Red Brick Flat Roof Edge Piece",
-        "name": "Píosa Imill Dín Réidh Bríce Dearg"
+        "name": "Píosa Imill Dín Réidh Bríce Dheirg"
     },
     "rct2ww.scenery_small.rbrick04": {
         "reference-name": "Red Brick Flat Roof Corner",
-        "name": "Cúinne Dín Réidh Bríce Dearg"
+        "name": "Cúinne Dín Réidh Bríce Dheirg"
     },
     "rct2ww.scenery_small.rbrick05": {
         "reference-name": "Red Brick Roof Piece",
-        "name": "Píosa Dín Bríce Dearg"
+        "name": "Píosa Dín Bríce Dheirg"
     },
     "rct2ww.scenery_small.rbrick07": {
         "reference-name": "Red Brick Roof Piece",
-        "name": "Píosa Dín Bríce Dearg"
+        "name": "Píosa Dín Bríce Dheirg"
     },
     "rct2ww.scenery_small.rbrick08": {
         "reference-name": "Red Brick Roof Piece",
-        "name": "Píosa Dín Bríce Dearg"
+        "name": "Píosa Dín Bríce Dheirg"
     },
     "rct2ww.scenery_small.rcorr01": {
         "reference-name": "Corrugated Roof Piece",
@@ -10057,23 +10057,23 @@
     },
     "rct2ww.scenery_small.rlog01": {
         "reference-name": "Log Cabin Roof Piece",
-        "name": "Píosa Dín Cábán Lomán"
+        "name": "Píosa Dín Cábáin Lomán"
     },
     "rct2ww.scenery_small.rlog02": {
         "reference-name": "Log Cabin Roof Piece",
-        "name": "Píosa Dín Cábán Lomán"
+        "name": "Píosa Dín Cábáin Lomán"
     },
     "rct2ww.scenery_small.rlog03": {
         "reference-name": "Log Cabin Wall Piece",
-        "name": "Píosa Balla Cábán Lomán"
+        "name": "Píosa Balla Cábáin Lomán"
     },
     "rct2ww.scenery_small.rlog04": {
         "reference-name": "Log Cabin Wall Piece",
-        "name": "Píosa Balla Cábán Lomán"
+        "name": "Píosa Balla Cábáin Lomán"
     },
     "rct2ww.scenery_small.rlog05": {
         "reference-name": "Log Cabin Roof Piece",
-        "name": "Píosa Dín Cábán Lomán"
+        "name": "Píosa Dín Cábáin Lomán"
     },
     "rct2ww.scenery_small.rmarble1": {
         "reference-name": "Marble Roof",
@@ -10189,15 +10189,15 @@
     },
     "rct2ww.scenery_small.sb1hspb1": {
         "reference-name": "Suspension Bridge Base Piece",
-        "name": "Píosa Bun Droichead Crochta"
+        "name": "Píosa Buin Droichid Chrochta"
     },
     "rct2ww.scenery_small.sb1hspb2": {
         "reference-name": "Suspension Bridge Base Spacer Piece",
-        "name": "Píosa Spásálaí Bun Droichead Crochta"
+        "name": "Píosa Spásálaí Buin Droichid Chrochta"
     },
     "rct2ww.scenery_small.sb1hspb3": {
         "reference-name": "Suspension Bridge Mid Section Piece",
-        "name": "Píosa Meánchuid Droichead Crochta"
+        "name": "Píosa Meánchoda Droichid Chrochta"
     },
     "rct2ww.scenery_small.sb2palm1": {
         "reference-name": "Cabana Porch",
@@ -10281,23 +10281,23 @@
     },
     "rct2ww.scenery_small.sbskys05": {
         "reference-name": "Skyscraper Metal Set Convex Piece",
-        "name": "Píosa Dronnach Tacar Miotail Ilstóraigh"
+        "name": "Píosa Dronnach Tacair Miotail Ilstóraigh"
     },
     "rct2ww.scenery_small.sbskys06": {
         "reference-name": "Skyscraper Metal Set Concave Piece",
-        "name": "Píosa Cuasach Tacar Miotail Ilstóraigh"
+        "name": "Píosa Cuasach Tacair Miotail Ilstóraigh"
     },
     "rct2ww.scenery_small.sbskys07": {
         "reference-name": "Skyscraper Metal Set Convex Piece",
-        "name": "Píosa Dronnach Tacar Miotail Ilstóraigh"
+        "name": "Píosa Dronnach Tacair Miotail Ilstóraigh"
     },
     "rct2ww.scenery_small.sbskys08": {
         "reference-name": "Skyscraper Metal Set Concave Piece",
-        "name": "Píosa Cuasach Tacar Miotail Ilstóraigh"
+        "name": "Píosa Cuasach Tacair Miotail Ilstóraigh"
     },
     "rct2ww.scenery_small.sbskys09": {
         "reference-name": "Skyscraper Metal Set Concave Piece",
-        "name": "Píosa Cuasach Tacar Miotail Ilstóraigh"
+        "name": "Píosa Cuasach Tacair Miotail Ilstóraigh"
     },
     "rct2ww.scenery_small.sbskys10": {
         "reference-name": "Skyscraper Concave Piece",
@@ -10469,15 +10469,15 @@
     },
     "rct2ww.scenery_small.tjblock1": {
         "reference-name": "Maharaja Palace Piece",
-        "name": "Píosa Pálás Maharaja"
+        "name": "Píosa Páláis Maharaja"
     },
     "rct2ww.scenery_small.tjblock2": {
         "reference-name": "Maharaja Palace Piece",
-        "name": "Píosa Pálás Maharaja"
+        "name": "Píosa Páláis Maharaja"
     },
     "rct2ww.scenery_small.tjblock3": {
         "reference-name": "Maharaja Palace Piece",
-        "name": "Píosa Pálás Maharaja"
+        "name": "Píosa Páláis Maharaja"
     },
     "rct2ww.scenery_small.tnt1": {
         "reference-name": "TNT Stack",
@@ -10541,35 +10541,35 @@
     },
     "rct2ww.scenery_small.waborg01": {
         "reference-name": "Aboriginal Art Set Piece",
-        "name": "Píosa Tacar Ealaíne Bundúchasach Astrálach"
+        "name": "Píosa Tacair Ealaíne Bundúchasaí Astrálaí"
     },
     "rct2ww.scenery_small.waborg02": {
         "reference-name": "Aboriginal Art Set Piece",
-        "name": "Píosa Tacar Ealaíne Bundúchasach Astrálach"
+        "name": "Píosa Tacair Ealaíne Bundúchasaí Astrálaí"
     },
     "rct2ww.scenery_small.waborg03": {
         "reference-name": "Aboriginal Art Set Piece",
-        "name": "Píosa Tacar Ealaíne Bundúchasach Astrálach"
+        "name": "Píosa Tacair Ealaíne Bundúchasaí Astrálaí"
     },
     "rct2ww.scenery_small.waborg04": {
         "reference-name": "Aboriginal Art Set Piece",
-        "name": "Píosa Tacar Ealaíne Bundúchasach Astrálach"
+        "name": "Píosa Tacair Ealaíne Bundúchasaí Astrálaí"
     },
     "rct2ww.scenery_small.waborg05": {
         "reference-name": "Aboriginal Art Set Piece",
-        "name": "Píosa Tacar Ealaíne Bundúchasach Astrálach"
+        "name": "Píosa Tacair Ealaíne Bundúchasaí Astrálaí"
     },
     "rct2ww.scenery_small.waborg06": {
         "reference-name": "Aboriginal Art Set Piece",
-        "name": "Píosa Tacar Ealaíne Bundúchasach Astrálach"
+        "name": "Píosa Tacair Ealaíne Bundúchasaí Astrálaí"
     },
     "rct2ww.scenery_small.waborg07": {
         "reference-name": "Aboriginal Art Set Piece",
-        "name": "Píosa Tacar Ealaíne Bundúchasach Astrálach"
+        "name": "Píosa Tacair Ealaíne Bundúchasaí Astrálaí"
     },
     "rct2ww.scenery_small.waborg08": {
         "reference-name": "Aboriginal Art Set Piece",
-        "name": "Píosa Tacar Ealaíne Bundúchasach Astrálach"
+        "name": "Píosa Tacair Ealaíne Bundúchasaí Astrálaí"
     },
     "rct2ww.scenery_small.waztec01": {
         "reference-name": "Temple Roof Piece",
@@ -10797,7 +10797,7 @@
     },
     "rct2ww.scenery_small.wdrab09": {
         "reference-name": "Drab Step-up Piece",
-        "name": "Píosa Céim Aníos Lachtna"
+        "name": "Píosa Céime Aníos Lachtna"
     },
     "rct2ww.scenery_small.wdrab10": {
         "reference-name": "Drab Wall Piece",
@@ -10813,7 +10813,7 @@
     },
     "rct2ww.scenery_small.wdrab13": {
         "reference-name": "Drab Step-up Piece",
-        "name": "Píosa Céim Aníos Lachtna"
+        "name": "Píosa Céime Aníos Lachtna"
     },
     "rct2ww.scenery_small.wgeorg07": {
         "reference-name": "Georgian Ground Floor Wall Piece",
@@ -10841,11 +10841,11 @@
     },
     "rct2ww.scenery_small.wkreml01": {
         "reference-name": "St. Basil’s Cathedral Step-up Wall Piece",
-        "name": "Píosa Balla Céim Aníos Ardeaglais Naomh Basil"
+        "name": "Píosa Balla Céime Aníos Ardeaglais Naomh Basil"
     },
     "rct2ww.scenery_small.wkreml02": {
         "reference-name": "St. Basil’s Cathedral Step-up Wall Piece",
-        "name": "Píosa Balla Céim Aníos Ardeaglais Naomh Basil"
+        "name": "Píosa Balla Céime Aníos Ardeaglais Naomh Basil"
     },
     "rct2ww.scenery_small.wkreml03": {
         "reference-name": "St. Basil’s Cathedral Wall Piece",
@@ -11021,11 +11021,11 @@
     },
     "rct2ww.scenery_wall.tmarch1": {
         "reference-name": "Maharaja Palace Arch",
-        "name": "Áirse Pálás Maharaja"
+        "name": "Áirse Pháláis Maharaja"
     },
     "rct2ww.scenery_wall.tmarch2": {
         "reference-name": "Maharaja Palace Arch",
-        "name": "Áirse Pálás Maharaja"
+        "name": "Áirse Pháláis Maharaja"
     },
     "rct2ww.scenery_wall.w2corr01": {
         "reference-name": "Corrugated Wall Piece",
@@ -11237,39 +11237,39 @@
     },
     "rct2ww.scenery_wall.wbrick01": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Píosa Balla Bríce Dearg"
+        "name": "Píosa Balla Bríce Dheirg"
     },
     "rct2ww.scenery_wall.wbrick02": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Píosa Balla Bríce Dearg"
+        "name": "Píosa Balla Bríce Dheirg"
     },
     "rct2ww.scenery_wall.wbrick03": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Píosa Balla Bríce Dearg"
+        "name": "Píosa Balla Bríce Dheirg"
     },
     "rct2ww.scenery_wall.wbrick04": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Píosa Balla Bríce Dearg"
+        "name": "Píosa Balla Bríce Dheirg"
     },
     "rct2ww.scenery_wall.wbrick05": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Píosa Balla Bríce Dearg"
+        "name": "Píosa Balla Bríce Dheirg"
     },
     "rct2ww.scenery_wall.wbrick08": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Píosa Balla Bríce Dearg"
+        "name": "Píosa Balla Bríce Dheirg"
     },
     "rct2ww.scenery_wall.wbrick11": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Píosa Balla Bríce Dearg"
+        "name": "Píosa Balla Bríce Dheirg"
     },
     "rct2ww.scenery_wall.wbrick12": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Píosa Balla Bríce Dearg"
+        "name": "Píosa Balla Bríce Dheirg"
     },
     "rct2ww.scenery_wall.wbrick13": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Píosa Balla Bríce Dearg"
+        "name": "Píosa Balla Bríce Dheirg"
     },
     "rct2ww.scenery_wall.wcorr01": {
         "reference-name": "Corrugated Wall Piece",
@@ -11401,7 +11401,7 @@
     },
     "rct2ww.scenery_wall.wgwoc3": {
         "reference-name": "Great Wall Of China Step up Wall Section",
-        "name": "Mír Chéim Aníos Bhalla Mór na Síne"
+        "name": "Mír Chéime Aníos Bhalla Mór na Síne"
     },
     "rct2ww.scenery_wall.wigloo1": {
         "reference-name": "Igloo Wall",
@@ -11429,27 +11429,27 @@
     },
     "rct2ww.scenery_wall.wlog01": {
         "reference-name": "Log Cabin Wall Piece",
-        "name": "Píosa Balla Cábán Lomán"
+        "name": "Píosa Balla Cábáin Lomán"
     },
     "rct2ww.scenery_wall.wlog02": {
         "reference-name": "Log Cabin Wall Piece",
-        "name": "Píosa Balla Cábán Lomán"
+        "name": "Píosa Balla Cábáin Lomán"
     },
     "rct2ww.scenery_wall.wlog03": {
         "reference-name": "Log Cabin Wall Piece",
-        "name": "Píosa Balla Cábán Lomán"
+        "name": "Píosa Balla Cábáin Lomán"
     },
     "rct2ww.scenery_wall.wlog04": {
         "reference-name": "Log Cabin Wall Piece",
-        "name": "Píosa Balla Cábán Lomán"
+        "name": "Píosa Balla Cábáin Lomán"
     },
     "rct2ww.scenery_wall.wlog05": {
         "reference-name": "Log Cabin Wall Piece",
-        "name": "Píosa Balla Cábán Lomán"
+        "name": "Píosa Balla Cábáin Lomán"
     },
     "rct2ww.scenery_wall.wlog06": {
         "reference-name": "Log Cabin Wall Piece",
-        "name": "Píosa Balla Cábán Lomán"
+        "name": "Píosa Balla Cábáin Lomán"
     },
     "rct2ww.scenery_wall.wmarble1": {
         "reference-name": "Ornate Marble Wall",
@@ -11625,23 +11625,23 @@
     },
     "rct2ww.scenery_wall.wskysc01": {
         "reference-name": "Skyscraper Metal Set Wall Piece",
-        "name": "Píosa Balla Tacar Miotail Ilstóraigh"
+        "name": "Píosa Balla Tacair Miotail Ilstóraigh"
     },
     "rct2ww.scenery_wall.wskysc02": {
         "reference-name": "Skyscraper Metal Set Wall Piece",
-        "name": "Píosa Balla Tacar Miotail Ilstóraigh"
+        "name": "Píosa Balla Tacair Miotail Ilstóraigh"
     },
     "rct2ww.scenery_wall.wskysc03": {
         "reference-name": "Skyscraper Metal Set Wall Piece",
-        "name": "Píosa Balla Tacar Miotail Ilstóraigh"
+        "name": "Píosa Balla Tacair Miotail Ilstóraigh"
     },
     "rct2ww.scenery_wall.wskysc04": {
         "reference-name": "Skyscraper Lift Section Piece",
-        "name": "Píosa Mír Ardaitheora Ilstóraigh"
+        "name": "Píosa Míre Ardaitheora Ilstóraigh"
     },
     "rct2ww.scenery_wall.wskysc05": {
         "reference-name": "Skyscraper Lift Section Piece",
-        "name": "Píosa Mír Ardaitheora Ilstóraigh"
+        "name": "Píosa Míre Ardaitheora Ilstóraigh"
     },
     "rct2ww.scenery_wall.wskysc06": {
         "reference-name": "Sky Scraper Wall Piece",
@@ -11649,7 +11649,7 @@
     },
     "rct2ww.scenery_wall.wskysc07": {
         "reference-name": "Skyscraper Lift Section Piece",
-        "name": "Píosa Mír Ardaitheora Ilstóraigh"
+        "name": "Píosa Míre Ardaitheora Ilstóraigh"
     },
     "rct2ww.scenery_wall.wskysc08": {
         "reference-name": "Sky Scraper Wall Piece",
