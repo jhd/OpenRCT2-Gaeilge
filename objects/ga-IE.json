@@ -377,7 +377,7 @@
         "reference-name": "Suspended Swinging Aeroplane Cars",
         "name": "Gluaisteáin Eitleáin Crochta Luascacha",
         "reference-description": "Suspended roller coaster trains consisting of aeroplane-shaped cars able to swing freely as the train goes around corners",
-        "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin i gcruth eitleán atá in ann luascadh go saor agus an traein ag dul timpeall coirnéal",
+        "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin i gcruth eitleán atá in ann luascadh go saor agus an traein ag dul timpeall cúinní",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -385,7 +385,7 @@
         "reference-name": "Suspended Swinging Cars",
         "name": "Gluaisteáin Chrochta Luascacha",
         "reference-description": "Suspended roller coaster trains consisting of cars able to swing freely as the train goes around corners",
-        "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin atá in ann luascadh go saor agus an traein ag dul timpeall coirnéal",
+        "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin atá in ann luascadh go saor agus an traein ag dul timpeall cúinní",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -2099,7 +2099,7 @@
         "reference-name": "Suspended Swinging Cars",
         "name": "Gluaisteáin Chrochta Luascacha",
         "reference-description": "Suspended roller coaster trains consisting of cars able to swing freely as the train goes around corners",
-        "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin atá in ann luascadh go saor agus an traein ag dul timpeall coirnéal",
+        "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin atá in ann luascadh go saor agus an traein ag dul timpeall cúinní",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -2107,7 +2107,7 @@
         "reference-name": "Suspended Swinging Aeroplane Cars",
         "name": "Gluaisteáin Eitleáin Crochta Luascacha",
         "reference-description": "Suspended roller coaster trains consisting of aeroplane-shaped cars able to swing freely as the train goes around corners",
-        "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin i gcruth eitleán atá in ann luascadh go saor agus an traein ag dul timpeall coirnéal",
+        "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin i gcruth eitleán atá in ann luascadh go saor agus an traein ag dul timpeall cúinní",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -3161,7 +3161,7 @@
         "reference-name": "Swinging Floorless Cars",
         "name": "Gluaisteáin Luascacha Gan Urlár",
         "reference-description": "Suspended roller coaster trains consisting of chairlift-style seats able to swing freely as the train goes around corners",
-        "description": "Traenacha crochta rollchóstóra déanta de shuíocháin ar nós cathaoireach cábla atá in ann luascadh go saor agus an traein ag dul timpeall coirnéal",
+        "description": "Traenacha crochta rollchóstóra déanta de shuíocháin ar nós cathaoireach cábla atá in ann luascadh go saor agus an traein ag dul timpeall cúinní",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 phaisinéir sa ghluaisteán"
     },
@@ -6051,7 +6051,7 @@
         "reference-name": "Hoverboards",
         "name": "Cláir Fholuaineacha",
         "reference-description": "Guests ride on a futuristic hoverboard, swinging freely from side to side around corners",
-        "description": "Marcaíonn aíonna ar chlár foluaineach todhchaíoch, ag luascadh go saor ó thaobh go taobh timpeall coirnéal",
+        "description": "Marcaíonn aíonna ar chlár foluaineach todhchaíoch, ag luascadh go saor ó thaobh go taobh timpeall cúinní",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 phaisinéir sa ghluaisteán"
     },
@@ -6201,7 +6201,7 @@
         "reference-name": "Suspended Seaplane Cars",
         "name": "Gluaisteáin Muireitleán Crochta",
         "reference-description": "Suspended roller coaster trains consisting of seaplane-shaped cars able to swing freely as the train goes around corners",
-        "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin i gcruth muireitleán atá in ann luascadh go saor agus an traein ag dul timpeall coirnéal",
+        "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin i gcruth muireitleán atá in ann luascadh go saor agus an traein ag dul timpeall cúinní",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -8807,7 +8807,7 @@
         "reference-name": "Football Trains",
         "name": "Traenacha Peile",
         "reference-description": "Suspended roller coaster trains consisting of football-shaped cars able to swing freely as the train goes around corners",
-        "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin i gcruth liathróidí peile atá in ann luascadh go saor agus an traein ag dul timpeall coirnéal",
+        "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin i gcruth liathróidí peile atá in ann luascadh go saor agus an traein ag dul timpeall cúinní",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -8815,7 +8815,7 @@
         "reference-name": "Gorilla Trains",
         "name": "Traenacha Goraille",
         "reference-description": "Suspended roller coaster trains consisting of gorilla-shaped cars able to swing freely as the train goes around corners",
-        "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin i gcruth goraillí atá in ann luascadh go saor agus an traein ag dul timpeall coirnéal",
+        "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin i gcruth goraillí atá in ann luascadh go saor agus an traein ag dul timpeall cúinní",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -8975,7 +8975,7 @@
         "reference-name": "1950s Rockets",
         "name": "Roicéid na 1950idí",
         "reference-description": "Suspended rocket-shaped roller coaster trains consisting of cars able to swing freely as the train goes around corners",
-        "description": "Traenacha crochta rollchóstóra i gcruth roicéad, déanta de ghluaisteáin atá in ann luascadh go saor agus an traein ag dul timpeall coirnéal",
+        "description": "Traenacha crochta rollchóstóra i gcruth roicéad, déanta de ghluaisteáin atá in ann luascadh go saor agus an traein ag dul timpeall cúinní",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -9015,7 +9015,7 @@
         "reference-name": "Sloth Trains",
         "name": "Traenacha Spadán",
         "reference-description": "Suspended roller coaster trains consisting of sloth-shaped cars able to swing freely as the train goes around corners",
-        "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin i gcruth spadán atá in ann luascadh go saor agus an traein ag dul timpeall coirnéal",
+        "description": "Traenacha crochta rollchóstóra déanta de ghluaisteáin i gcruth spadán atá in ann luascadh go saor agus an traein ag dul timpeall cúinní",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },

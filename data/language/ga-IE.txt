@@ -94,12 +94,12 @@ STR_0098    :Rollchóstóir Lainseáilte LSM
 STR_0099    :Rollchóstóir Clasaiceach Castóra Adhmaid
 STR_0512    :Dlúthchóstóir le cnoc ardaitheora bíseach agus titimí casta míne.
 STR_0513    :Rollchóstóir lúbach a marcaítear ina seasamh
-STR_0514    :Luascann traenacha atá crochta faoi ráille an rollchóstóra amach i leataobh timpeall coirnéal
+STR_0514    :Luascann traenacha atá crochta faoi ráille an rollchóstóra amach i leataobh timpeall cúinní
 STR_0515    :Rollchóstóir cruach le traenacha a choinnítear faoin ráille, le mórán ball ráille casta coimpléascach
 STR_0516    :Rollchóstóir séimh do dhaoine nach bhfuil sé de mhisneach acu fós aghaidh a thabhairt ar na marcaíochtaí is mó
 STR_0517    :Marcaíonn paisinéirí i mionthraenacha feadh ráille iarnróid chaoil
 STR_0518    :Taistealaíonn paisinéirí i dtraenacha leictreacha feadh aonráille
-STR_0519    :Marcaíonn paisinéirí i mionghluaisteáin ar crochadh faoin ráille aonair, ag luascadh go saor ó thaobh go taobh timpeall coirnéal
+STR_0519    :Marcaíonn paisinéirí i mionghluaisteáin ar crochadh faoin ráille aonair, ag luascadh go saor ó thaobh go taobh timpeall cúinní
 STR_0520    :Ardán duga inar féidir le haíonna báid bheaga a iomramh nó a thiomáint ar dhobharlach
 STR_0521    :Rollchóstóir gasta casta le castaí teanna agus titimí géara. Bíonn an déine ard.
 STR_0522    :Rollchóstóir níos lú ina suíonn na marcaigh os cionn an ráille gan ghluaisteán ina dtimpeall
@@ -359,7 +359,7 @@ STR_0983    :Taighde agus Forbairt
 STR_0984    :{WINDOW_COLOUR_2}▲{BLACK}  {CURRENCY2DP}
 STR_0985    :{WINDOW_COLOUR_2}▼{BLACK}  {CURRENCY2DP}
 STR_0986    :{BLACK}{CURRENCY2DP}
-STR_0987    :An iomarca marcaíochtaí/díol spéise
+STR_0987    :An iomarca marcaíochtaí/díolta spéise
 STR_0988    :Ní féidir marcaíocht/díol spéise nua a chruthú…
 STR_0989    :{STRINGID}
 STR_0990    :Tógáil
@@ -423,7 +423,7 @@ STR_1049    :Theip ar shábháil an tírdhreacha!
 STR_1050    :Theip ar lódáil…{NEWLINE}Tá sonraí neamhbhailí sa chomhad!
 STR_1051    :Tacaí Dofheicthe
 STR_1052    :Daoine Dofheicthe
-STR_1053    :Marcaíochtaí/díol spéise sa pháirc
+STR_1053    :Marcaíochtaí/díolta spéise sa pháirc
 STR_1054    :Cuir ainm ar mharcaíocht/dhíol spéise
 STR_1055    :Cuir ainm ar dhuine
 STR_1056    :Cuir ainm ar bhall foirne
@@ -1621,7 +1621,7 @@ STR_2306    :Sábháil dearadh ráille
 STR_2307    :Roghnaigh dearadh {STRINGID}
 STR_2308    :Dearaí Ráille: {STRINGID}
 STR_2309    :Suiteáil Dearadh Ráille Nua
-STR_2310    :Tóg dearadh saincheaptha
+STR_2310    :Tóg dearadh saindeartha
 STR_2311    :{WINDOW_COLOUR_2}Rátáil sceitimíní: {BLACK}thart ar {COMMA2DP32}
 STR_2312    :{WINDOW_COLOUR_2}Rátáil déine: {BLACK}thart ar {COMMA2DP32}
 STR_2313    :{WINDOW_COLOUR_2}Rátáil mhasmais: {BLACK}thart ar {COMMA2DP32}
@@ -1962,7 +1962,7 @@ STR_2809    :{RED}Tá ocras ar aíonna agus ní féidir leo áit ar bith a aimsi
 STR_2810    :{RED}Tá tart ar aíonna agus ní féidir leo áit ar bith a aimsiú chun deoch a cheannach
 STR_2811    :{RED}Tá aíonna ag gearán mar ní féidir leo na leithris i do pháirc a aimsiú
 STR_2812    :{RED}Tá aíonna ag dul amú nó ag éirí sáinnithe{NEWLINE}Seiceáil an bhfuil gá le leagan amach do chosán a fheabhsú chun cabhrú leis na haíonna a mbealach a aimsiú
-STR_2813    :{RED}Tá do tháille isteach páirce ró-ard!{NEWLINE}Laghdaigh an táille nó feabhsaigh luach na páirce chun níos mó aíonna a mhealladh
+STR_2813    :{RED}Tá do tháille iontrála páirce ró-ard!{NEWLINE}Laghdaigh an táille nó feabhsaigh luach na páirce chun níos mó aíonna a mhealladh
 STR_2814    :{WINDOW_COLOUR_2}Gradam na páirce is míshlachtmhaire
 STR_2815    :{WINDOW_COLOUR_2}Gradam na páirce is slachtmhaire
 STR_2816    :{WINDOW_COLOUR_2}Gradam na páirce leis na rollchóstóirí is fearr
@@ -1976,7 +1976,7 @@ STR_2823    :{WINDOW_COLOUR_2}Gradam an bhia páirce is measa
 STR_2824    :{WINDOW_COLOUR_2}Gradam na leithreas is fearr
 STR_2825    :{WINDOW_COLOUR_2}Gradam na páirce is mó a chuireann díomá ar dhaoine
 STR_2826    :{WINDOW_COLOUR_2}Gradam na marcaíochtaí uisce is fearr
-STR_2827    :{WINDOW_COLOUR_2}Gradam na marcaíochtaí saincheaptha is fearr
+STR_2827    :{WINDOW_COLOUR_2}Gradam na marcaíochtaí saindeartha is fearr
 STR_2828    :{WINDOW_COLOUR_2}Gradam na scéimeanna datha marcaíochta is dallraithí
 STR_2829    :{WINDOW_COLOUR_2}Gradam an leagain amach páirce is mearbhlaí
 STR_2830    :{WINDOW_COLOUR_2}Gradam na marcaíochta séimhe is fearr
@@ -1993,7 +1993,7 @@ STR_2840    :{TOPAZ}Bronnadh an gradam ‘An pháirc leis an mbia is measa sa t�
 STR_2841    :{TOPAZ}Bronnadh an gradam ‘An pháirc leis na leithris is fearr sa tír’ ar do pháirc!
 STR_2842    :{TOPAZ}Bronnadh an gradam ‘An pháirc is mó a chuireann díomá ar dhaoine sa tír’ ar do pháirc!
 STR_2843    :{TOPAZ}Bronnadh an gradam ‘An pháirc leis na marcaíochtaí uisce is fearr sa tír’ ar do pháirc!
-STR_2844    :{TOPAZ}Bronnadh an gradam ‘An pháirc leis na marcaíochtaí saincheaptha is fearr’ ar do pháirc!
+STR_2844    :{TOPAZ}Bronnadh an gradam ‘An pháirc leis na marcaíochtaí saindeartha is fearr’ ar do pháirc!
 STR_2845    :{TOPAZ}Bronnadh an gradam ‘An pháirc leis an rogha is dallraithí ar scéimeanna datha’ ar do pháirc!
 STR_2846    :{TOPAZ}Bronnadh an gradam ‘An pháirc leis an leagan amach is mearbhlaí’ ar do pháirc!
 STR_2847    :{TOPAZ}Bronnadh an gradam ‘An pháirc leis na marcaíochtaí séimhe is fearr’ ar do pháirc!
@@ -2063,9 +2063,9 @@ STR_3060    :Oighearbhloic
 STR_3061    :Sconsaí adhmaid
 STR_3062    :Ráille rollchóstóra caighdeánach
 STR_3063    :Clais (ráille faoi uisce)
-STR_3064    :Páirceanna bunleibhéil
-STR_3065    :Páirceanna dúshlánacha
-STR_3066    :Páirceanna ardleibhéil
+STR_3064    :Páirceanna Bunleibhéil
+STR_3065    :Páirceanna Dúshlánacha
+STR_3066    :Páirceanna Ardleibhéil
 STR_3067    :Páirceanna “Fíora”
 STR_3068    :Páirceanna Eile
 STR_3069    :Cuid Uachtair
@@ -2148,7 +2148,7 @@ STR_3180    :Rogha neamhbhailí réad
 STR_3181    :Roghnú Réad - {STRINGID}
 STR_3182    :Caithfear saghas bealaigh isteach páirce a roghnú
 STR_3183    :Caithfear saghas uisce a roghnú
-STR_3184    :Feithiclí Marcaíochta/Díol Spéise
+STR_3184    :Feithiclí Marcaíochta/Díolta Spéise
 STR_3185    :Radharcra Beag
 STR_3186    :Radharcra Mór
 STR_3187    :Ballaí/Sconsaí
@@ -3134,7 +3134,7 @@ STR_6088    :D’athraigh {STRING} praghas tánaisteach na marcaíochta ‘{STRI
 STR_6089    :D’athraigh {STRING} ainm na páirce ó ‘{STRING}’ go ‘{STRING}’.
 STR_6090    :D’oscail {STRING} an pháirc.
 STR_6091    :Dhún {STRING} an pháirc.
-STR_6092    :D’athraigh {STRING} táille isteach na páirce go {STRING}
+STR_6092    :D’athraigh {STRING} táille iontrála na páirce go {STRING}
 STR_6093    :Leag {STRING} radharcra nua.
 STR_6094    :Bhain {STRING} radharcra.
 STR_6095    :Chuir {STRING} radharcra in eagar.
@@ -3194,7 +3194,7 @@ STR_6157    :Consól
 STR_6160    :{WINDOW_COLOUR_2}Feithiclí ar fáil: {BLACK}{STRING}
 STR_6161    :Scoránaigh taispeáint línte greille
 STR_6162    :Luch Fhiáin Chasta
-STR_6163    :Scinneann gluaisteáin i gcruth luiche trí choirnéil chúnga agus titimí gearra, ag rothlú go réidh chun mearbhall a chur ar na marcaigh
+STR_6163    :Scinneann gluaisteáin i gcruth luiche trí chúinní cúnga agus titimí gearra, ag rothlú go réidh chun mearbhall a chur ar na marcaigh
 STR_6165    :Úsáid sioncronú ingearach
 STR_6166    :Sioncronaítear gach fráma a thaispeántar le ráta athnuachana an mhonatóra, rud a chuireann cosc ar stróiceadh scáileáin.
 STR_6167    :Ardleibhéal
@@ -3461,13 +3461,13 @@ STR_6470    :Coigeartaigh limistéar níos mó de limistéar patróil
 STR_6471    :Fásra Trédhearcach
 STR_6472    :Feithiclí Trédhearcacha
 STR_6473    :Tacaí Trédhearcacha
-STR_6474    :Aíonna dofheicthe
-STR_6475    :Foireann dhofheicthe
-STR_6476    :Fásra dofheicthe
-STR_6477    :Radharcra dofheicthe
-STR_6478    :Cosáin dhofheicthe
-STR_6479    :Marcaíochtaí dofheicthe
-STR_6480    :Feithiclí dofheicthe
+STR_6474    :Aíonna Dofheicthe
+STR_6475    :Foireann Dhofheicthe
+STR_6476    :Fásra Dofheicthe
+STR_6477    :Radharcra Dofheicthe
+STR_6478    :Cosáin Dhofheicthe
+STR_6479    :Marcaíochtaí Dofheicthe
+STR_6480    :Feithiclí Dofheicthe
 STR_6481    :Roghanna Trédhearcachta
 STR_6482    :Roghanna Trédhearcachta
 STR_6483    :Oscail roghanna trédhearcachta
@@ -3653,8 +3653,8 @@ STR_6661    :Randamaigh uile
 STR_6662    :Randamaigh dathanna do gach traein nó feithicil.
 STR_6663    :Cleasa dáta
 STR_6664    :Taispeáin cleasa dáta
-STR_6665    :Cleasanna an dúlra/na haimsire
-STR_6666    :Taispeáin cleasanna an dúlra/na haimsire
+STR_6665    :Cleasa an dúlra/na haimsire
+STR_6666    :Taispeáin cleasa an dúlra/na haimsire
 STR_6667    :Fána
 STR_6668    :Cleasa foirne
 STR_6669    :Taispeáin cleasa foirne
