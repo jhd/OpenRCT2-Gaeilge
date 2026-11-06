@@ -161,13 +161,13 @@ STR_0583    :Foirgneamh ina bhfuil seomraí cama agus dorchlaí ar fiar chun mea
 STR_0584    :Ritheann rothair speisialta ar aonráille cruach, á dtiomáint ag troitheáil na marcach
 STR_0585    :Suíonn marcaigh i mbeirteanna suíochán ar crochadh faoin ráille agus iad ag lúbadh agus ag casadh trí inbhéartuithe géara
 STR_0586    :Ritheann gluaisteáin i gcruth báid ar ráille rollchóstóra chun cuair chasta agus titimí géara a cheadú, ag stealladh síos isteach i rannóga uisce le haghaidh rannóg abhann séimhe
-STR_0587    :After an exhilarating air-powered launch, the train speeds up a vertical track, over the top, and vertically down the other side to return to the station
-STR_0588    :Individual cars run beneath a zig-zagging track with hairpin turns and sharp drops
-STR_0589    :A large flying-carpet themed car which moves up and down cyclically on the ends of 4 arms
-STR_0590    :Riders ride in a submerged submarine through an underwater course
+STR_0587    :Tar éis lainseála aerchumhachta spreagúla, scinneann an traein suas ráille ingearach, thar an mbarr, agus síos go hingearach ar an taobh eile chun filleadh ar an stáisiún
+STR_0588    :Ritheann gluaisteáin aonair faoi ráille fiarlánach le castaí bioracha agus titimí géara
+STR_0589    :Gluaisteán mór ar théama cairpéid eitilte a ghluaiseann suas agus síos go timthriallach ar chinn 4 ghéag
+STR_0590    :Marcaíonn marcaigh i bhfomhuireán tumtha trí chúrsa faoi uisce
 STR_0591    :Sníonn báid i gcruth rafta go séimh timpeall ráille abhann
 STR_0593    :Roth rothlach le podanna paisinéirí ar crochadh, a thosaíonn ag rothlú ar dtús agus a chlaontar suas ansin le géag tacaíochta
-STR_0598    :Inverted roller coaster trains are accelerated out of the station to travel up a vertical spike of track, then reverse back through the station to travel backwards up another vertical spike of track
+STR_0598    :Luasghéaraítear traenacha rollchóstóra inbhéartaithe amach as an stáisiún chun taisteal suas spíce ingearach ráille, ansin cúlaíonn siad siar tríd an stáisiún chun taisteal ar gcúl suas spíce ingearach ráille eile
 STR_0599    :Rollchóstóir dlúth le gluaisteáin aonair agus titimí míne casta
 STR_0600    :Imíonn traenacha mianaigh cumhachtaithe go fiáin thart ar leagan amach mín casta ráille
 STR_0602    :Roller coaster trains are accelerated out of the station by linear induction motors to speed through twisting inversions
