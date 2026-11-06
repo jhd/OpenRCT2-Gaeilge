@@ -2704,11 +2704,11 @@ STR_5607    :Bain ball mapa roghnaithe go fórsúil.
 STR_5608    :BA
 STR_5609    :AG
 STR_5610    :Bain an ball mapa atá roghnaithe faoi láthair. Bainfear go fórsúil é, agus ní úsáidfear/ní ghnóthófar aon airgead. Úsáid go cúramach.
-STR_5611    :G
+STR_5611    :T
 STR_5612    :Bratach thaibhse
 STR_5613    :B
 STR_5614    :Bratach bhriste
-STR_5615    :L
+STR_5615    :D
 STR_5616    :Bratach an bhaill dheireanaigh den tíl
 STR_5617    :Bog an ball roghnaithe suas.
 STR_5618    :Bog an ball roghnaithe síos.
@@ -3362,7 +3362,7 @@ STR_6370    :Ceadaítear píosaí ráille a shuí ag aon eatramh airde
 STR_6371    :Tá suiteáil RollerCoaster Tycoon 1 sa chonair shonraithe, ach tá an comhad “csg1i.dat” ar iarraidh. Caithfear an comhad seo a chóipeáil ón CD Loopy Landscapes nó RCT Deluxe go dtí an fillteán “Data” den tsuiteáil RollerCoaster Tycoon 1 ar do thiomántán crua.
 STR_6372    :Tá suiteáil RollerCoaster Tycoon 1 sa chonair shonraithe, ach níl an leagan seo oiriúnach. Teastaíonn suiteáil Loopy Landscapes nó RCT Deluxe ó OpenRCT2 chun sócmhainní RollerCoaster Tycoon 1 a úsáid.
 STR_6373    :Scoránaigh seiceálacha glanspáis
-STR_6374    :C
+STR_6374    :G
 STR_6375    :Marcaíocht Anaithnid
 STR_6376    :{WINDOW_COLOUR_2}Feithicil mharcaíochta:{NEWLINE}{BLACK}{STRINGID} le haghaidh {STRINGID}
 STR_6377    :{WINDOW_COLOUR_2}Saghas: {BLACK}{STRINGID} le haghaidh {STRINGID}
@@ -3447,7 +3447,7 @@ STR_6455    :Ní féidir ainm nua a chur ar chomhartha…
 STR_6456    :Gabháil Scáileáin Ollmhór
 STR_6457    :Tuairiscigh fabht ar GitHub
 STR_6458    :Lean é seo ar an bPríomh-Amharc
-STR_6460    :D
+STR_6460    :Tr
 STR_6461    :Treo
 STR_6462    :Sceitimíní
 STR_6463    :Sceitimíní: {COMMA2DP32}
