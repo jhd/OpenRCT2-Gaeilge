@@ -141,7 +141,7 @@ STR_0560    :Áit ar féidir le haíonna breoite dul chun teacht chucu féin ní
 STR_0561    :Seó ainmhithe sorcais taobh istigh d’ollphuball
 STR_0562    :Taistealaíonn gluaisteáin chumhachtaithe feadh ráille il-leibhéil thar radharcra taibhsiúil agus éifeachtaí speisialta
 STR_0563    :Ina suí i dtraenacha compordacha gan ach srianta simplí glúine, baineann marcaigh taitneamh as ollthitimí míne agus ráille casta, chomh maith le neart ‘am aeir’ thar na cnoic
-STR_0564    :Ag rith ar ráille adhmaid, is cóstóir gasta, garbh, torannach é seo, a thugann taithí marcaíochta ‘as smacht’ le neart ‘am aeir’
+STR_0564    :Ag rith ar ráille adhmaid, is cóstóir gasta, garbh, torannach é seo, a thugann taithí mharcaíochta ‘as smacht’ le neart ‘am aeir’
 STR_0565    :Rollchóstóir adhmaid simplí nach féidir leis ach fánaí agus castaí séimhe a dhéanamh, ina gcoinnítear na gluaisteáin ar an ráille le rothaí frithchuimilte taoibh agus le domhantarraingt amháin
 STR_0566    :Scinneann gluaisteáin aonair rollchóstóra thart ar leagan amach dlúth fiarlánach ráille le cúinní géara agus titimí gearra géara
 STR_0567    :Ina suí i suíocháin ar crochadh ar dhá thaobh an ráille, iompaítear marcaigh tóin thar ceann fad is a thumann siad síos titimí géara agus a thaistealaíonn siad trí inbhéartuithe éagsúla
@@ -170,14 +170,14 @@ STR_0593    :Roth rothlach le podanna paisinéirí ar crochadh, a thosaíonn ag 
 STR_0598    :Luasghéaraítear traenacha rollchóstóra inbhéartaithe amach as an stáisiún chun taisteal suas spíce ingearach ráille, ansin cúlaíonn siad siar tríd an stáisiún chun taisteal ar gcúl suas spíce ingearach ráille eile
 STR_0599    :Rollchóstóir dlúth le gluaisteáin aonair agus titimí míne casta
 STR_0600    :Imíonn traenacha mianaigh cumhachtaithe go fiáin thart ar leagan amach mín casta ráille
-STR_0602    :Roller coaster trains are accelerated out of the station by linear induction motors to speed through twisting inversions
-STR_0603    :A wooden style roller coaster with a steel track, allowing for steep drops and inversions
-STR_0604    :Riders ride single file on a narrow monorail track, as they race through tight inversions and direction changes
+STR_0602    :Luasghéaraítear traenacha rollchóstóra amach as an stáisiún le mótair ionduchtúcháin líneacha chun scinneadh trí inbhéartuithe casta
+STR_0603    :Rollchóstóir ar stíl adhmaid le ráille cruach, rud a cheadaíonn titimí géara agus inbhéartuithe
+STR_0604    :Marcaíonn marcaigh duine i ndiaidh a chéile ar aonráille caol, agus iad ag rásaíocht trí inbhéartuithe géara agus athruithe treo
 STR_0605    :Taistealaíonn marcaigh sa tobagán síos ráille cruach lúbach, ag teannadh na gcoscán chun a luas a rialú
-STR_0606    :An older-style wooden roller coaster with a fast and rough ride, with plenty of air-time, some lateral G’s, and designed to feel ‘out-of-control’
-STR_0607    :An intense, older-style steel looping roller coaster where the riders ride in a standing position
-STR_0608    :Roller coaster trains are accelerated by linear synchronous motors, speeding through tight twists and turns
-STR_0609    :An older-style wooden roller coaster with a fast and rough ride featuring articulated trains, plenty of air-time and twisting track
+STR_0606    :Rollchóstóir adhmaid ar sheanstíl le turas gasta agus garbh, le neart ‘am aeir’, roinnt fórsaí G taobhacha, agus é deartha chun mothú ‘as smacht’
+STR_0607    :Rollchóstóir lúbach cruach dian ar sheanstíl ina marcaíonn na marcaigh ina seasamh
+STR_0608    :Luasghéaraítear traenacha rollchóstóra le mótair shioncrónacha líneacha, ag scinneadh trí chastaí agus chora géara
+STR_0609    :Rollchóstóir adhmaid ar sheanstíl le turas gasta agus garbh ina bhfuil traenacha altacha, neart ‘am aeir’ agus ráille casta
 STR_0767    :Aoi {INT32}
 STR_0768    :Airíoch {INT32}
 STR_0769    :Meicneoir {INT32}

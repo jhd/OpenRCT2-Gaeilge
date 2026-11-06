@@ -3161,7 +3161,7 @@
         "reference-name": "Swinging Floorless Cars",
         "name": "Gluaisteáin Luascacha Gan Urlár",
         "reference-description": "Suspended roller coaster trains consisting of chairlift-style seats able to swing freely as the train goes around corners",
-        "description": "Traenacha crochta rollchóstóra déanta de shuíocháin ar nós cathaoireach cábla atá in ann luascadh go saor agus an traein ag dul timpeall cúinní",
+        "description": "Traenacha crochta rollchóstóra déanta de shuíocháin ar stíl chathaoireach cábla atá in ann luascadh go saor agus an traein ag dul timpeall cúinní",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 phaisinéir sa ghluaisteán"
     },
@@ -3353,7 +3353,7 @@
         "reference-park_name": "Fungus Woods",
         "park_name": "Fungus Woods",
         "reference-details": "Restricted to only older-style wooden rides, your challenge is to build a thriving theme park in Fungus Woods",
-        "details": "Srianta le marcaíochtaí adhmaid ar an sean-nós amháin, is é do dhúshlán páirc théama rathúil a thógáil i Fungus Woods"
+        "details": "Srianta le marcaíochtaí adhmaid ar sheanstíl amháin, is é do dhúshlán páirc théama rathúil a thógáil i Fungus Woods"
     },
     "rct2.scenario_meta.ghost_town": {
         "reference-name": "Ghost Town",
@@ -5915,7 +5915,7 @@
         "reference-name": "Caveman Cars",
         "name": "Gluaisteáin Fir Uaimhe",
         "reference-description": "Self-drive go-karts in Stone Age style",
-        "description": "Cairtíní féintiomána i stíl na Clochaoise",
+        "description": "Cairtíní féintiomána ar stíl na Clochaoise",
         "reference-capacity": "Single-seater",
         "capacity": "Suíochán aonair"
     },
@@ -6111,7 +6111,7 @@
         "reference-name": "Lemonade Market Stall",
         "name": "Stainnín Margaidh Líomanáide",
         "reference-description": "A themed stall selling old style, fresh lemonade.",
-        "description": "Stainnín téamaithe a dhíolann líomanáid úr ar an sean-nós."
+        "description": "Stainnín téamaithe a dhíolann líomanáid úr ar sheanstíl."
     },
     "rct2tt.ride.moonjuce": {
         "reference-name": "Moon Juice",
@@ -9063,7 +9063,7 @@
         "reference-name": "TGV Trains",
         "name": "Traenacha TGV",
         "reference-description": "Roller coaster trains in the style of French high-speed trains (TGV) that are accelerated by linear induction motors",
-        "description": "Traenacha rollchóstóra i stíl traenacha ardluais na Fraince (TGV) a luasghéaraítear le mótair ionduchtúcháin líneacha",
+        "description": "Traenacha rollchóstóra ar stíl traenacha ardluais na Fraince (TGV) a luasghéaraítear le mótair ionduchtúcháin líneacha",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
