@@ -163,7 +163,7 @@
         "reference-name": "Dinghies",
         "name": "Báidíní",
         "reference-description": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
-        "description": "Báidíní inséidte atá in ann casadh síos ráille feadáin leathchiorclaigh nó iomlán iata",
+        "description": "Báidíní inséidte atá in ann casadh síos ráille feadáin leathchiorclaigh nó iata go hiomlán",
         "reference-capacity": "2 passengers per dinghy",
         "capacity": "2 phaisinéir sa bháidín"
     },
@@ -185,7 +185,7 @@
         "reference-name": "Go-Karts (with helmets)",
         "name": "Cairtíní (le clogaid)",
         "reference-description": "Self-driven petrol-engined go-karts that come with safety helmets",
-        "description": "Cairtíní féintiomána le hinnill pheitril a thagann le clogaid sábháilteachta",
+        "description": "Cairtíní féintiomána le hinnill peitril a thagann le clogaid sábháilteachta",
         "reference-capacity": "single-seater",
         "capacity": "suíochán aonair"
     },
@@ -345,7 +345,7 @@
         "reference-name": "Steam Trains",
         "name": "Traenacha Gaile",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
-        "description": "Mionthraenacha gaile déanta de mhacasamhail innill ghaile agus teandair, ag tarraingt carráistí oscailte adhmaid",
+        "description": "Mionthraenacha gaile déanta de mhacasamhail innill gaile agus teandair, ag tarraingt carráistí oscailte adhmaid",
         "reference-capacity": "6 passengers per carriage",
         "capacity": "6 phaisinéir sa charráiste"
     },
@@ -497,7 +497,7 @@
         "reference-park_name": "Katie’s Dreamland",
         "park_name": "Katie’s Dreamland",
         "reference-details": "A small theme park with a few rides and room for expansion. Your aim is to double the park value.",
-        "details": "Páirc bheag théama le roinnt marcaíochtaí agus slí le leathnú. Is é d’aidhm luach na páirce a dhúbailt."
+        "details": "Páirc théama bheag le roinnt marcaíochtaí agus slí le leathnú. Is é d’aidhm luach na páirce a dhúbailt."
     },
     "rct1.scenario_meta.leafy_lake": {
         "reference-name": "Leafy Lake",
@@ -783,7 +783,7 @@
         "reference-name": "Steam Trains with Covered Cars",
         "name": "Traenacha Gaile le Carráistí Clúdaithe",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
-        "description": "Mionthraenacha gaile déanta de mhacasamhail innill ghaile agus teandair, ag tarraingt carráistí adhmaid le díonta fabraice",
+        "description": "Mionthraenacha gaile déanta de mhacasamhail innill gaile agus teandair, ag tarraingt carráistí adhmaid le díonta fabraice",
         "reference-capacity": "6 passengers per carriage",
         "capacity": "6 phaisinéir sa charráiste"
     },
@@ -821,7 +821,7 @@
     },
     "rct1aa.ride.virginia_reel_tubs": {
         "reference-name": "Virginia Reel Tubs",
-        "name": "Tobáin Ríl Virginia",
+        "name": "Tobáin Ríle Virginia",
         "reference-description": "Circular cars that spin around as they travel along the track",
         "description": "Gluaisteáin chiorclacha a rothlaíonn thart agus iad ag taisteal feadh an ráille",
         "reference-capacity": "4 passengers per car",
@@ -865,7 +865,7 @@
         "reference-park_name": "Canary Mines",
         "park_name": "Canary Mines",
         "reference-details": "This abandoned mine already has the makings of a tourist attraction with its miniature railway and a pair of vertical drop roller coasters",
-        "details": "Tá tús áite turasóireachta ag an mianach tréigthe seo cheana féin lena mhioniarnród agus a phéire rollchóstóirí titime ingearaí"
+        "details": "Tá ábhar áite turasóireachta sa mhianach tréigthe seo cheana féin lena mhioniarnród agus a phéire rollchóstóirí titime ingearaí"
     },
     "rct1aa.scenario_meta.coaster_canyon": {
         "reference-name": "Coaster Canyon",
@@ -889,7 +889,7 @@
         "reference-park_name": "Fiasco Forest",
         "park_name": "Fiasco Forest",
         "reference-details": "Full of badly designed and dangerous rides, you have a very limited budget and time to fix the problems and turn the park around",
-        "details": "Lán de mharcaíochtaí atá droch-dheartha agus contúirteach, tá buiséad agus am an-teoranta agat chun na fadhbanna a réiteach agus an pháirc a chur ina ceart"
+        "details": "Lán de mharcaíochtaí atá drochdheartha agus contúirteach, tá buiséad agus am an-teoranta agat chun na fadhbanna a réiteach agus an pháirc a chur ina ceart"
     },
     "rct1aa.scenario_meta.fruit_farm": {
         "reference-name": "Fruit Farm",
@@ -1073,7 +1073,7 @@
         "reference-park_name": "Whispering Cliffs",
         "park_name": "Whispering Cliffs",
         "reference-details": "Develop the seaside cliffs into a thriving amusement park",
-        "details": "Forbair na haillte cois farraige ina bpáirc siamsaíochta rathúil"
+        "details": "Forbair na haillte cois farraige ina bpáirc shiamsaíochta rathúil"
     },
     "rct1aa.scenery_wall.glass_wall": {
         "reference-name": "Glass Wall",
@@ -1335,7 +1335,7 @@
         "reference-name": "American Style Steam Trains",
         "name": "Traenacha Gaile ar Stíl Mheiriceánach",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
-        "description": "Mionthraenacha gaile déanta de mhacasamhail innill ghaile agus teandair, ag tarraingt carráistí adhmaid le díonta fabraice",
+        "description": "Mionthraenacha gaile déanta de mhacasamhail innill gaile agus teandair, ag tarraingt carráistí adhmaid le díonta fabraice",
         "reference-capacity": "6 passengers per carriage",
         "capacity": "6 phaisinéir sa charráiste"
     },
@@ -1601,7 +1601,7 @@
         "reference-park_name": "Woodworm Park",
         "park_name": "Woodworm Park",
         "reference-details": "This historical park is only allowed to build older-styled rides",
-        "details": "Ní cheadaítear don pháirc stairiúil seo ach marcaíochtaí ar an sean-nós a thógáil"
+        "details": "Ní cheadaítear don pháirc stairiúil seo ach marcaíochtaí ar sheanstíl a thógáil"
     },
     "rct1ll.scenery_wall.medieval_wooden_fence": {
         "reference-name": "Wooden Fence",
@@ -2005,7 +2005,7 @@
     },
     "rct2.park_entrance.pkesfh": {
         "reference-name": "Park Entrance Building",
-        "name": "Foirgneamh Bealach Isteach na Páirce"
+        "name": "Foirgneamh Bhealach Isteach na Páirce"
     },
     "rct2.peep_animations.entertainer_astronaut": {
         "reference-name": "Astronaut costume",
@@ -2045,7 +2045,7 @@
     },
     "rct2.peep_animations.entertainer_snowman": {
         "reference-name": "Snowman costume",
-        "name": "Culaith Fhir Shneachta"
+        "name": "Culaith Fhir Sneachta"
     },
     "rct2.peep_animations.entertainer_tiger": {
         "reference-name": "Tiger costume",
@@ -2083,7 +2083,7 @@
         "reference-name": "American Style Steam Trains",
         "name": "Traenacha Gaile ar Stíl Mheiriceánach",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
-        "description": "Mionthraenacha gaile déanta de mhacasamhail innill ghaile agus teandair, ag tarraingt carráistí adhmaid le díonta fabraice",
+        "description": "Mionthraenacha gaile déanta de mhacasamhail innill gaile agus teandair, ag tarraingt carráistí adhmaid le díonta fabraice",
         "reference-capacity": "6 passengers per carriage",
         "capacity": "6 phaisinéir sa charráiste"
     },
@@ -2215,7 +2215,7 @@
         "reference-name": "Beef Noodles Stall",
         "name": "Stainnín Núdal Mairteola",
         "reference-description": "A stall selling Chinese style beef noodles",
-        "description": "Stainnín a dhíolann núdail mhairteola ar stíl na Síne"
+        "description": "Stainnín a dhíolann núdail mairteola ar stíl na Síne"
     },
     "rct2.ride.bob1": {
         "reference-name": "Bobsleigh Trains",
@@ -2347,7 +2347,7 @@
         "reference-name": "Dinghies",
         "name": "Báidíní",
         "reference-description": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
-        "description": "Báidíní inséidte atá in ann casadh síos ráille feadáin leathchiorclaigh nó iomlán iata",
+        "description": "Báidíní inséidte atá in ann casadh síos ráille feadáin leathchiorclaigh nó iata go hiomlán",
         "reference-capacity": "2 passengers per dinghy",
         "capacity": "2 phaisinéir sa bháidín"
     },
@@ -2577,7 +2577,7 @@
         "reference-name": "Go-Karts",
         "name": "Cairtíní",
         "reference-description": "Self-drive petrol-engined go-karts",
-        "description": "Cairtíní féintiomána le hinnill pheitril",
+        "description": "Cairtíní féintiomána le hinnill peitril",
         "reference-capacity": "single-seater",
         "capacity": "suíochán aonair"
     },
@@ -2677,7 +2677,7 @@
         "reference-name": "Steam Trains",
         "name": "Traenacha Gaile",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
-        "description": "Mionthraenacha gaile déanta de mhacasamhail innill ghaile agus teandair, ag tarraingt carráistí oscailte adhmaid",
+        "description": "Mionthraenacha gaile déanta de mhacasamhail innill gaile agus teandair, ag tarraingt carráistí oscailte adhmaid",
         "reference-capacity": "6 passengers per carriage",
         "capacity": "6 phaisinéir sa charráiste"
     },
@@ -2685,7 +2685,7 @@
         "reference-name": "Steam Trains with Covered Cars",
         "name": "Traenacha Gaile le Carráistí Clúdaithe",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
-        "description": "Mionthraenacha gaile déanta de mhacasamhail innill ghaile agus teandair, ag tarraingt carráistí adhmaid le díonta fabraice",
+        "description": "Mionthraenacha gaile déanta de mhacasamhail innill gaile agus teandair, ag tarraingt carráistí adhmaid le díonta fabraice",
         "reference-capacity": "6 passengers per carriage",
         "capacity": "6 phaisinéir sa charráiste"
     },
@@ -2909,7 +2909,7 @@
         "reference-name": "Souvenir Stall",
         "name": "Stainnín Cuimhneachán",
         "reference-description": "A stall selling souvenir cuddly toys and umbrellas",
-        "description": "Stainnín a dhíolann bréagáin bhoga chuimhneacháin agus scáthanna fearthainne"
+        "description": "Stainnín a dhíolann bréagáin bhoga cuimhneacháin agus scáthanna fearthainne"
     },
     "rct2.ride.soybean": {
         "reference-name": "Soybean Milk Stall",
@@ -3025,7 +3025,7 @@
         "reference-name": "Swinging Inverter Ship",
         "name": "Long Luascach Inbhéartaithe",
         "reference-description": "Ship is attached to an arm with a counterweight at the opposite end, and swings through a complete 360 degrees",
-        "description": "Tá an long cheangailte de ghéag le frithmheáchan ag an gceann eile, agus luascann sí trí 360 céim iomlán",
+        "description": "Tá an long ceangailte de ghéag le frithmheáchan ag an gceann eile, agus luascann sí trí 360 céim iomlán",
         "reference-capacity": "12 passengers",
         "capacity": "12 phaisinéir"
     },
@@ -3075,7 +3075,7 @@
         "reference-name": "Trams",
         "name": "Tramanna",
         "reference-description": "Old-timer replica trams",
-        "description": "Macasamhlacha de sheantramanna",
+        "description": "Macasamhla de sheantramanna",
         "reference-capacity": "10 passengers per car",
         "capacity": "10 bpaisinéir sa ghluaisteán"
     },
@@ -3113,7 +3113,7 @@
         "reference-name": "Snow Cups",
         "name": "Cupanna Sneachta",
         "reference-description": "Riders ride in pairs of seats rotating around a central snowman",
-        "description": "Marcaíonn marcaigh i mbeirteanna suíochán ag rothlú timpeall fir shneachta láir",
+        "description": "Marcaíonn marcaigh i mbeirteanna suíochán ag rothlú timpeall fir sneachta láir",
         "reference-capacity": "18 passengers",
         "capacity": "18 bpaisinéir"
     },
@@ -3167,7 +3167,7 @@
     },
     "rct2.ride.vreel": {
         "reference-name": "Virginia Reel Tubs",
-        "name": "Tobáin Ríl Virginia",
+        "name": "Tobáin Ríle Virginia",
         "reference-description": "Circular cars that spin around as they travel along the track",
         "description": "Gluaisteáin chiorclacha a rothlaíonn thart agus iad ag taisteal feadh an ráille",
         "reference-capacity": "4 passengers per car",
@@ -3249,7 +3249,7 @@
         "reference-park_name": "Botany Breakers",
         "park_name": "Botany Breakers",
         "reference-details": "Your challenge is to build a high-profit park on this paradise island",
-        "details": "Is é do dhúshlán páirc ardbhrabúis a thógáil ar an oileán paradais seo"
+        "details": "Is é do dhúshlán páirc ardbhrabúis a thógáil ar an oileán parthais seo"
     },
     "rct2.scenario_meta.build_your_own_six_flags_belgium": {
         "reference-name": "Build your own Six Flags Belgium",
@@ -3313,7 +3313,7 @@
         "reference-park_name": "Crazy Castle",
         "park_name": "Crazy Castle",
         "reference-details": "You have inherited a large castle. Your job is to convert it into a small theme park.",
-        "details": "Tá caisleán mór faighte le hoidhreacht agat. Is é do jabsa é a athrú ina pháirc bheag théama."
+        "details": "Tá caisleán mór faighte le hoidhreacht agat. Is é do jabsa é a athrú ina pháirc théama bheag."
     },
     "rct2.scenario_meta.dusty_greens": {
         "reference-name": "Dusty Greens",
@@ -3329,7 +3329,7 @@
         "reference-park_name": "Electric Fields",
         "park_name": "Electric Fields",
         "reference-details": "You have inherited a small farm, and your challenge is to build a small theme park amongst the fields and farm buildings",
-        "details": "Tá feirm bheag faighte le hoidhreacht agat, agus is é do dhúshlán páirc bheag théama a thógáil i measc na ngort agus fhoirgnimh na feirme"
+        "details": "Tá feirm bheag faighte le hoidhreacht agat, agus is é do dhúshlán páirc théama bheag a thógáil i measc na ngort agus foirgnimh na feirme"
     },
     "rct2.scenario_meta.extreme_heights": {
         "reference-name": "Extreme Heights",
@@ -3821,7 +3821,7 @@
     },
     "rct2.scenery_small.chbbase": {
         "reference-name": "Checkerboard Block",
-        "name": "Bloc Clár Táiplise"
+        "name": "Bloc Cláir Táiplise"
     },
     "rct2.scenery_small.chest1": {
         "reference-name": "Treasure Chest",
@@ -4961,7 +4961,7 @@
     },
     "rct2.scenery_small.tsnb": {
         "reference-name": "Snowball",
-        "name": "Liathróid Shneachta"
+        "name": "Liathróid Sneachta"
     },
     "rct2.scenery_small.tsnc": {
         "reference-name": "Log Cabin",
@@ -5793,7 +5793,7 @@
     },
     "rct2tt.footpath_railings.rainbow": {
         "reference-name": "Rainbow Railings",
-        "name": "Ráillí Cosáin Tuar Ceatha"
+        "name": "Ráillí Cosáin Tuair Ceatha"
     },
     "rct2tt.footpath_railings.rocky": {
         "reference-name": "Jungle Railings",
@@ -5825,11 +5825,11 @@
     },
     "rct2tt.footpath_surface.queue_rainbow": {
         "reference-name": "Rainbow Queue",
-        "name": "Scuaine Thuair Cheatha"
+        "name": "Scuaine Thuair Ceatha"
     },
     "rct2tt.footpath_surface.rainbow": {
         "reference-name": "Rainbow Footpath",
-        "name": "Cosán Tuar Ceatha"
+        "name": "Cosán Tuair Ceatha"
     },
     "rct2tt.footpath_surface.rocky": {
         "reference-name": "Rocky Footpath",
@@ -5923,7 +5923,7 @@
         "reference-name": "Cerberus Trains",
         "name": "Traenacha Cerberus",
         "reference-description": "Spacious trains with simple lap restraints with cars shaped like the multi-headed dog from the Underworld",
-        "description": "Traenacha fairsinge le srianta simplí glúine le gluaisteáin i gcruth mhadra ilcheannach an Domhain Thíos",
+        "description": "Traenacha fairsinge le srianta simplí glúine le gluaisteáin i gcruth mhadra ilcheannaigh an Domhain Thíos",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -6001,7 +6001,7 @@
     },
     "rct2tt.ride.gintspdr": {
         "reference-name": "B-Movie Giant Spider Ride",
-        "name": "Marcaíocht Damhán Alla Ollmhór B-Scannáin",
+        "name": "Marcaíocht Damháin Alla Ollmhóir B-Scannáin",
         "reference-description": "Riders ride in pairs of themed seats which rotate around a giant B-Movie spider",
         "description": "Marcaíonn marcaigh i mbeirteanna suíochán téamaithe a rothlaíonn timpeall ar dhamhán alla ollmhór B-scannáin",
         "reference-capacity": "18 passengers",
@@ -6017,7 +6017,7 @@
     },
     "rct2tt.ride.harpiesx": {
         "reference-name": "Harpies Trains",
-        "name": "Traenacha Hairpí",
+        "name": "Traenacha Airpeanna",
         "reference-description": "Roller coaster trains in the shape of mythological bird-like creatures. Riders are held in special harnesses in a lying-down position, travelling either on their backs or facing the ground",
         "description": "Traenacha rollchóstóra i gcruth créatúr miotaseolaíoch ar nós éan. Coinnítear na marcaigh in úmacha speisialta ina luí, ag taisteal ar a ndroim nó ag féachaint ar an talamh",
         "reference-capacity": "4 passengers per car",
@@ -6223,7 +6223,7 @@
         "reference-name": "Stampeding Herd Trains",
         "name": "Traenacha Tréada ar Táinrith",
         "reference-description": "Roller coaster trains in which the riders ride in a standing position, themed to look like a stampeding dinosaur herd",
-        "description": "Traenacha rollchóstóra ina marcaíonn na marcaigh ina seasamh, ar théama tréad dineasár ar táinrith",
+        "description": "Traenacha rollchóstóra ina marcaíonn na marcaigh ina seasamh, ar théama tréada dineasár ar táinrith",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -6321,7 +6321,7 @@
         "reference-park_name": "Coastersaurus",
         "park_name": "Coastersaurus",
         "reference-details": "You’ve been given the task of constructing a Jurassic era theme park. To optimize your visitors’ access to the exotic plant and animal exhibits, you will need to build rides going over and into the valley.",
-        "details": "Tugadh de chúram duit páirc théama ó ré Jurassic a thógáil. Chun rochtain do chuairteoirí ar na taispeántais phlandaí agus ainmhithe coimhthíocha a bharrfheabhsú, beidh ort marcaíochtaí a thógáil os cionn an ghleanna agus isteach ann."
+        "details": "Tugadh de chúram duit páirc théama ó ré Jurassic a thógáil. Chun rochtain do chuairteoirí ar na taispeántais plandaí agus ainmhithe coimhthíocha a bharrfheabhsú, beidh ort marcaíochtaí a thógáil os cionn an ghleanna agus isteach ann."
     },
     "rct2tt.scenario_meta.crater_carnage": {
         "reference-name": "Crater Carnage",
@@ -6409,7 +6409,7 @@
     },
     "rct2tt.scenery_group.scg1920w": {
         "reference-name": "Roaring Twenties Wall Sets",
-        "name": "Tacair Bhallaí na bhFichidí Fiáine"
+        "name": "Tacair Ballaí na bhFichidí Fiáine"
     },
     "rct2tt.scenery_group.scg1960s": {
         "reference-name": "Rock ’n’ Roll Theming",
@@ -6457,7 +6457,7 @@
     },
     "rct2tt.scenery_large.alencrsh": {
         "reference-name": "UFO Crash Site",
-        "name": "Láthair Timpiste UFO"
+        "name": "Láthair Thimpiste UFO"
     },
     "rct2tt.scenery_large.alnstr08": {
         "reference-name": "Alien Structure Large",
@@ -7233,19 +7233,19 @@
     },
     "rct2tt.scenery_small.futsky06": {
         "reference-name": "Sandstone Skyscraper Mid Curved Slope",
-        "name": "Meánfhána Cuartha Ilstóraigh Gaineamhchloiche"
+        "name": "Meánfhána Chuartha Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_small.futsky07": {
         "reference-name": "Sandstone Skyscraper Mid Wall Section",
-        "name": "Meánmhír Balla Ilstóraigh Gaineamhchloiche"
+        "name": "Meánmhír Bhalla Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_small.futsky08": {
         "reference-name": "Sandstone Skyscraper Mid Wall Section",
-        "name": "Meánmhír Balla Ilstóraigh Gaineamhchloiche"
+        "name": "Meánmhír Bhalla Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_small.futsky09": {
         "reference-name": "Sandstone Skyscraper Mid Wall Section",
-        "name": "Meánmhír Balla Ilstóraigh Gaineamhchloiche"
+        "name": "Meánmhír Bhalla Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_small.futsky10": {
         "reference-name": "Sandstone Skyscraper Bottom Slope Base",
@@ -7257,15 +7257,15 @@
     },
     "rct2tt.scenery_small.futsky12": {
         "reference-name": "Sandstone Skyscraper Mid Wall Section",
-        "name": "Meánmhír Balla Ilstóraigh Gaineamhchloiche"
+        "name": "Meánmhír Bhalla Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_small.futsky13": {
         "reference-name": "Sandstone Skyscraper Roof Spire",
-        "name": "Spuaic Dín Ilstóraigh Gaineamhchloiche"
+        "name": "Spuaic Dhín Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_small.futsky14": {
         "reference-name": "Sandstone Skyscraper Roof Spire",
-        "name": "Spuaic Dín Ilstóraigh Gaineamhchloiche"
+        "name": "Spuaic Dhín Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_small.futsky15": {
         "reference-name": "Sandstone Skyscraper Docking Bay",
@@ -7289,7 +7289,7 @@
     },
     "rct2tt.scenery_small.futsky21": {
         "reference-name": "Sandstone Skyscraper Mid Wall Section",
-        "name": "Meánmhír Balla Ilstóraigh Gaineamhchloiche"
+        "name": "Meánmhír Bhalla Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_small.futsky23": {
         "reference-name": "Sandstone Skyscraper Inverted Corner Top",
@@ -7309,7 +7309,7 @@
     },
     "rct2tt.scenery_small.futsky35": {
         "reference-name": "Sandstone Skyscraper Mid Curved Slope",
-        "name": "Meánfhána Cuartha Ilstóraigh Gaineamhchloiche"
+        "name": "Meánfhána Chuartha Ilstóraigh Gaineamhchloiche"
     },
     "rct2tt.scenery_small.futsky36": {
         "reference-name": "Obsidian Skyscraper Door Piece",
@@ -7441,15 +7441,15 @@
     },
     "rct2tt.scenery_small.hevbth05": {
         "reference-name": "Heavenly Baths Arch",
-        "name": "Áirse Fholcadáin Neamhaí"
+        "name": "Áirse Folcadán Neamhaí"
     },
     "rct2tt.scenery_small.hevbth06": {
         "reference-name": "Heavenly Baths Arch",
-        "name": "Áirse Fholcadáin Neamhaí"
+        "name": "Áirse Folcadán Neamhaí"
     },
     "rct2tt.scenery_small.hevbth07": {
         "reference-name": "Heavenly Baths Arch",
-        "name": "Áirse Fholcadáin Neamhaí"
+        "name": "Áirse Folcadán Neamhaí"
     },
     "rct2tt.scenery_small.hevbth08": {
         "reference-name": "Heavenly Baths Stairway",
@@ -7893,7 +7893,7 @@
     },
     "rct2tt.scenery_small.medtrget": {
         "reference-name": "Archery Target",
-        "name": "Sprioc Boghdóireachta"
+        "name": "Sprioc Bhoghdóireachta"
     },
     "rct2tt.scenery_small.meteorcr": {
         "reference-name": "Meteor Crater Corner",
@@ -8365,7 +8365,7 @@
     },
     "rct2tt.scenery_small.spcshp04": {
         "reference-name": "Space Ship Solar Panels",
-        "name": "Painéil Ghréine Spásloinge"
+        "name": "Painéil Gréine Spásloinge"
     },
     "rct2tt.scenery_small.spcshp05": {
         "reference-name": "Space Ship Gravity Section",
@@ -8465,11 +8465,11 @@
     },
     "rct2tt.scenery_small.swamplt2": {
         "reference-name": "Swamp Fern",
-        "name": "Raithneach Seascainn"
+        "name": "Raithneach Sheascainn"
     },
     "rct2tt.scenery_small.swamplt3": {
         "reference-name": "Swamp Fern",
-        "name": "Raithneach Seascainn"
+        "name": "Raithneach Sheascainn"
     },
     "rct2tt.scenery_small.swamplt4": {
         "reference-name": "Swamp Plant",
@@ -8481,19 +8481,19 @@
     },
     "rct2tt.scenery_small.swamplt6": {
         "reference-name": "Swamp Fern",
-        "name": "Raithneach Seascainn"
+        "name": "Raithneach Sheascainn"
     },
     "rct2tt.scenery_small.swamplt7": {
         "reference-name": "Swamp Fern",
-        "name": "Raithneach Seascainn"
+        "name": "Raithneach Sheascainn"
     },
     "rct2tt.scenery_small.swamplt8": {
         "reference-name": "Swamp Fern",
-        "name": "Raithneach Seascainn"
+        "name": "Raithneach Sheascainn"
     },
     "rct2tt.scenery_small.swamplt9": {
         "reference-name": "Swamp Fern",
-        "name": "Raithneach Seascainn"
+        "name": "Raithneach Sheascainn"
     },
     "rct2tt.scenery_small.swrdstne": {
         "reference-name": "Sword in the Stone",
@@ -8765,7 +8765,7 @@
     },
     "rct2ww.ride.dragdodg": {
         "reference-name": "Chinese Dragonhead Dodgems",
-        "name": "Tuairtcharranna Ceann Dragain Síneacha",
+        "name": "Tuairtcharranna Cinn Dragain Síneacha",
         "reference-description": "Guests battle each other in dragonhead-shaped dodgems",
         "description": "Troideann aíonna in aghaidh a chéile i dtuairtcharranna i gcruth cinn dragain",
         "reference-capacity": "1 person per car",
@@ -8863,7 +8863,7 @@
         "reference-name": "Chinese Junk Swing Ride",
         "name": "Marcaíocht Junk Luascach Síneach",
         "reference-description": "Ship is attached to an arm with a counterweight at the opposite end, and swings through a complete 360 degrees",
-        "description": "Tá an long cheangailte de ghéag le frithmheáchan ag an gceann eile, agus luascann sí trí 360 céim iomlán",
+        "description": "Tá an long ceangailte de ghéag le frithmheáchan ag an gceann eile, agus luascann sí trí 360 céim iomlán",
         "reference-capacity": "12 passengers",
         "capacity": "12 phaisinéir"
     },
@@ -8895,7 +8895,7 @@
         "reference-name": "Routemaster Buses",
         "name": "Busanna Routemaster",
         "reference-description": "Replicas of the famous London Routemaster bus",
-        "description": "Macasamhlacha den bhus cáiliúil Routemaster i Londain",
+        "description": "Macasamhla den bhus cáiliúil Routemaster i Londain",
         "reference-capacity": "10 passengers per car",
         "capacity": "10 bpaisinéir sa ghluaisteán"
     },
@@ -8911,7 +8911,7 @@
         "reference-name": "Manta Ray Boats",
         "name": "Báid Manta",
         "reference-description": "Coaster boats in the shape of a manta ray",
-        "description": "Báid chóstóra i gcruth manta",
+        "description": "Báid cóstóra i gcruth manta",
         "reference-capacity": "6 passengers per boat",
         "capacity": "6 phaisinéir sa bhád"
     },
@@ -8933,9 +8933,9 @@
     },
     "rct2ww.ride.ostrich": {
         "reference-name": "Ostrich Trains",
-        "name": "Traenacha Ostrais",
+        "name": "Traenacha Ostraise",
         "reference-description": "Roller coaster trains in which the riders ride in a standing position and the cars are themed to look like ostriches",
-        "description": "Traenacha rollchóstóra ina marcaíonn na marcaigh ina seasamh agus na gluaisteáin ar théama ostrais",
+        "description": "Traenacha rollchóstóra ina marcaíonn na marcaigh ina seasamh agus na gluaisteáin ar théama ostraisí",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -8991,7 +8991,7 @@
         "reference-name": "San Francisco Trams",
         "name": "Tramanna San Francisco",
         "reference-description": "Replicas of the San Francisco Trams",
-        "description": "Macasamhlacha de thramanna San Francisco",
+        "description": "Macasamhla de thramanna San Francisco",
         "reference-capacity": "10 passengers per car",
         "capacity": "10 bpaisinéir sa ghluaisteán"
     },
@@ -9031,7 +9031,7 @@
         "reference-name": "Maharaja Steam Trains",
         "name": "Traenacha Gaile Maharaja",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling closed-top wooden carriages",
-        "description": "Mionthraenacha gaile déanta de mhacasamhail innill ghaile agus teandair, ag tarraingt carráistí adhmaid le díon dúnta",
+        "description": "Mionthraenacha gaile déanta de mhacasamhail innill gaile agus teandair, ag tarraingt carráistí adhmaid le díon dúnta",
         "reference-capacity": "6 passengers per carriage",
         "capacity": "6 phaisinéir sa charráiste"
     },
@@ -9225,7 +9225,7 @@
         "reference-park_name": "Wacky Waikiki",
         "park_name": "Wacky Waikiki",
         "reference-details": "The people of Hawaii are bored of surfing and are looking for something more intense. You need to build a park with this in mind to keep the area’s tourist attraction rating high.",
-        "details": "Tá muintir Haváí bréan den surfáil agus iad ag lorg rud éigin níos déine. Caithfidh tú páirc a thógáil leis seo san áireamh chun rátáil turasóireachta an cheantair a choinneáil ard."
+        "details": "Tá muintir Haváí bréan den surfáil agus iad ag lorg ruda éigin níos déine. Caithfidh tú páirc a thógáil leis seo san áireamh chun rátáil turasóireachta an cheantair a choinneáil ard."
     },
     "rct2ww.scenery_group.scgafric": {
         "reference-name": "Africa Theming",
@@ -11901,7 +11901,7 @@
         "reference-park_name": "Kiddie Karnival",
         "park_name": "Kiddie Karnival",
         "reference-details": "Hey kids! Let’s have fun!",
-        "details": "Hé, a pháistí! Bainigí spraoi as!"
+        "details": "Hé, a pháistí! Bainimis spraoi as!"
     },
     "uces.scenario_meta.luna_park_cleveland": {
         "reference-name": "Luna Park, Cleveland",
@@ -11989,6 +11989,6 @@
         "reference-park_name": "Urbis Incognitus",
         "park_name": "Urbis Incognitus",
         "reference-details": "The Romans are tired of boring gladiator fights. Give them a better thrill, turn a Roman city into the greatest amusement park of all time!",
-        "details": "Tá na Rómhánaigh bréan de throideanna leadránacha gliaireoirí. Tabhair scleondar níos fearr dóibh, athraigh cathair Rómhánach ina páirc shiamsaíochta is fearr riamh!"
+        "details": "Tá na Rómhánaigh bréan de throideanna leadránacha gliairí. Tabhair scleondar níos fearr dóibh, athraigh cathair Rómhánach ina páirc shiamsaíochta is fearr riamh!"
     }
 }
