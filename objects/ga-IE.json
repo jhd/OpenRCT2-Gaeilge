@@ -29,7 +29,7 @@
     },
     "official.terrain_edge.stucco": {
         "reference-name": "Stucco",
-        "name": "Stucco"
+        "name": "Stucó"
     },
     "official.terrain_edge.void": {
         "reference-name": "Void",
@@ -5657,7 +5657,7 @@
     },
     "rct2.terrain_surface.designer_grid": {
         "reference-name": "Designer Grid",
-        "name": "Designer Grid"
+        "name": "Greille Dhearthóra"
     },
     "rct2.terrain_surface.dirt": {
         "reference-name": "Dirt",
@@ -5673,7 +5673,7 @@
     },
     "rct2.terrain_surface.grid": {
         "reference-name": "Grid",
-        "name": "Grid"
+        "name": "Greille"
     },
     "rct2.terrain_surface.ice": {
         "reference-name": "Ice",
