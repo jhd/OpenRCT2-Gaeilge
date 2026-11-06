@@ -101,7 +101,7 @@ STR_0517    :Marcaíonn paisinéirí i mionthraenacha feadh ráille iarnróid ch
 STR_0518    :Taistealaíonn paisinéirí i dtraenacha leictreacha feadh aonráille
 STR_0519    :Marcaíonn paisinéirí i mionghluaisteáin ar crochadh faoin ráille aonair, ag luascadh go saor ó thaobh go taobh timpeall cúinní
 STR_0520    :Ardán duga inar féidir le haíonna báid bheaga a iomramh nó a thiomáint ar dhobharlach
-STR_0521    :Rollchóstóir gasta casta le castaí teanna agus titimí géara. Bíonn an déine ard.
+STR_0521    :Rollchóstóir gasta casta le castaí géara agus titimí géara. Bíonn an déine ard.
 STR_0522    :Rollchóstóir níos lú ina suíonn na marcaigh os cionn an ráille gan ghluaisteán ina dtimpeall
 STR_0523    :Taistealaíonn marcaigh go mall i bhfeithiclí cumhachtaithe feadh cúrsa ráille
 STR_0524    :Lainseáiltear gluaisteán saorthitime go haeroibrithe suas túr ard cruach agus ansin ligtear dó saorthitim anuas
@@ -155,25 +155,25 @@ STR_0577    :Ritheann gluaisteáin ar bhógaithe ar ráillí adhmaid, ag iompú 
 STR_0578    :Ritheann gluaisteáin feadh ráille atá timpeallaithe le fáinní ciorclacha, ag trasnú titimí géara agus castaí croílíne
 STR_0579    :Cluiche séimh mionghailf
 STR_0580    :Ollrollchóstóir cruach atá in ann titimí míne agus cnoic os cionn 300ft a dhéanamh
-STR_0581    :A ring of seats is pulled to the top of a tall tower while gently rotating, then allowed to free-fall down, stopping gently at the bottom using magnetic brakes
-STR_0582    :Guests ride in hovercraft vehicles that they freely control
-STR_0583    :Building containing warped rooms and angled corridors to disorientate people walking through it
-STR_0584    :Special bicycles run on a steel monorail track, propelled by the pedalling of the riders
-STR_0585    :Riders sit in pairs of seats suspended beneath the track as they loop and twist through tight inversions
-STR_0586    :Boat shaped cars run on roller coaster track to allow twisting curves and steep drops, splashing down into sections of water for gentle river sections
+STR_0581    :Tarraingítear fáinne suíochán go barr túir aird agus é ag rothlú go réidh, ansin ligtear dó saorthitim anuas, ag stopadh go séimh ag an mbun le coscáin mhaighnéadacha
+STR_0582    :Marcaíonn aíonna i bhfeithiclí foluaineacha a rialaíonn siad go saor
+STR_0583    :Foirgneamh ina bhfuil seomraí cama agus dorchlaí ar fiar chun mearbhall a chur ar dhaoine atá ag siúl tríd
+STR_0584    :Ritheann rothair speisialta ar aonráille cruach, á dtiomáint ag troitheáil na marcach
+STR_0585    :Suíonn marcaigh i mbeirteanna suíochán ar crochadh faoin ráille agus iad ag lúbadh agus ag casadh trí inbhéartuithe géara
+STR_0586    :Ritheann gluaisteáin i gcruth báid ar ráille rollchóstóra chun cuair chasta agus titimí géara a cheadú, ag stealladh síos isteach i rannóga uisce le haghaidh rannóg abhann séimhe
 STR_0587    :After an exhilarating air-powered launch, the train speeds up a vertical track, over the top, and vertically down the other side to return to the station
 STR_0588    :Individual cars run beneath a zig-zagging track with hairpin turns and sharp drops
 STR_0589    :A large flying-carpet themed car which moves up and down cyclically on the ends of 4 arms
 STR_0590    :Riders ride in a submerged submarine through an underwater course
-STR_0591    :Raft-shaped boats gently meander around a river track
-STR_0593    :Rotating wheel with suspended passenger pods, which first starts spinning and is then tilted up by a supporting arm
+STR_0591    :Sníonn báid i gcruth rafta go séimh timpeall ráille abhann
+STR_0593    :Roth rothlach le podanna paisinéirí ar crochadh, a thosaíonn ag rothlú ar dtús agus a chlaontar suas ansin le géag tacaíochta
 STR_0598    :Inverted roller coaster trains are accelerated out of the station to travel up a vertical spike of track, then reverse back through the station to travel backwards up another vertical spike of track
-STR_0599    :A compact roller coaster with individual cars and smooth twisting drops
-STR_0600    :Powered mine trains career along a smooth and twisted track layout
+STR_0599    :Rollchóstóir dlúth le gluaisteáin aonair agus titimí míne casta
+STR_0600    :Imíonn traenacha mianaigh cumhachtaithe go fiáin thart ar leagan amach mín casta ráille
 STR_0602    :Roller coaster trains are accelerated out of the station by linear induction motors to speed through twisting inversions
 STR_0603    :A wooden style roller coaster with a steel track, allowing for steep drops and inversions
 STR_0604    :Riders ride single file on a narrow monorail track, as they race through tight inversions and direction changes
-STR_0605    :Riders toboggan down a meandering steel track, braking to control their speed
+STR_0605    :Taistealaíonn marcaigh sa tobagán síos ráille cruach lúbach, ag teannadh na gcoscán chun a luas a rialú
 STR_0606    :An older-style wooden roller coaster with a fast and rough ride, with plenty of air-time, some lateral G’s, and designed to feel ‘out-of-control’
 STR_0607    :An intense, older-style steel looping roller coaster where the riders ride in a standing position
 STR_0608    :Roller coaster trains are accelerated by linear synchronous motors, speeding through tight twists and turns
@@ -3194,7 +3194,7 @@ STR_6157    :Consól
 STR_6160    :{WINDOW_COLOUR_2}Feithiclí ar fáil: {BLACK}{STRING}
 STR_6161    :Scoránaigh taispeáint línte greille
 STR_6162    :Luch Fhiáin Chasta
-STR_6163    :Scinneann gluaisteáin i gcruth luiche trí chúinní cúnga agus titimí gearra, ag rothlú go réidh chun mearbhall a chur ar na marcaigh
+STR_6163    :Scinneann gluaisteáin i gcruth luiche trí chúinní géara agus titimí gearra, ag rothlú go réidh chun mearbhall a chur ar na marcaigh
 STR_6165    :Úsáid sioncronú ingearach
 STR_6166    :Sioncronaítear gach fráma a thaispeántar le ráta athnuachana an mhonatóra, rud a chuireann cosc ar stróiceadh scáileáin.
 STR_6167    :Ardleibhéal

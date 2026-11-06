@@ -67,7 +67,7 @@
         "reference-name": "Modern Twister Trains",
         "name": "Traenacha Castóra Nua-Aimseartha",
         "reference-description": "Spacious trains with lap restraints, capable of tight twists and inversions",
-        "description": "Traenacha fairsinge le srianta glúine, atá in ann castaí teanna agus inbhéartuithe a dhéanamh",
+        "description": "Traenacha fairsinge le srianta glúine, atá in ann castaí géara agus inbhéartuithe a dhéanamh",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -695,7 +695,7 @@
         "reference-name": "Flying Saucers",
         "name": "Sásair Eitilte",
         "reference-description": "Guests ride in saucer-shaped hovercraft vehicles that they freely control",
-        "description": "Marcaíonn aíonna i bhfeithiclí foluaineacha i gcruth sásair a stiúrann siad go saor",
+        "description": "Marcaíonn aíonna i bhfeithiclí foluaineacha i gcruth sásair a rialaíonn siad go saor",
         "reference-capacity": "1 person per car",
         "capacity": "1 duine sa ghluaisteán"
     },
@@ -1295,7 +1295,7 @@
         "reference-name": "Face-off Cars",
         "name": "Gluaisteáin Aghaidh ar Aghaidh",
         "reference-description": "Riders sit in pairs facing either forwards or backwards as they loop and twist through tight inversions",
-        "description": "Suíonn marcaigh ina mbeirteanna aghaidh chun tosaigh nó chun deiridh agus iad ag lúbadh agus ag casadh trí inbhéartuithe teanna",
+        "description": "Suíonn marcaigh ina mbeirteanna aghaidh chun tosaigh nó chun deiridh agus iad ag lúbadh agus ag casadh trí inbhéartuithe géara",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -2251,7 +2251,7 @@
         "reference-name": "Crooked House",
         "name": "Teach Cam",
         "reference-description": "Building containing warped rooms and angled corridors to disorientate people walking through it",
-        "description": "Foirgneamh ina bhfuil seomraí cama agus dorchlaí ar sceabha chun mearbhall a chur ar dhaoine atá ag siúl tríd",
+        "description": "Foirgneamh ina bhfuil seomraí cama agus dorchlaí ar fiar chun mearbhall a chur ar dhaoine atá ag siúl tríd",
         "reference-capacity": "5 guests",
         "capacity": "5 aoi"
     },
@@ -2395,7 +2395,7 @@
         "reference-name": "Flying Saucers",
         "name": "Sásair Eitilte",
         "reference-description": "Guests ride in saucer-shaped hovercraft vehicles that they freely control",
-        "description": "Marcaíonn aíonna i bhfeithiclí foluaineacha i gcruth sásair a stiúrann siad go saor",
+        "description": "Marcaíonn aíonna i bhfeithiclí foluaineacha i gcruth sásair a rialaíonn siad go saor",
         "reference-capacity": "1 person per car",
         "capacity": "1 duine sa ghluaisteán"
     },
@@ -2869,7 +2869,7 @@
         "reference-name": "Face-off Cars",
         "name": "Gluaisteáin Aghaidh ar Aghaidh",
         "reference-description": "Riders sit in pairs facing either forwards or backwards as they loop and twist through tight inversions",
-        "description": "Suíonn marcaigh ina mbeirteanna aghaidh chun tosaigh nó chun deiridh agus iad ag lúbadh agus ag casadh trí inbhéartuithe teanna",
+        "description": "Suíonn marcaigh ina mbeirteanna aghaidh chun tosaigh nó chun deiridh agus iad ag lúbadh agus ag casadh trí inbhéartuithe géara",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 phaisinéir sa ghluaisteán"
     },
@@ -5971,7 +5971,7 @@
         "reference-name": "Flower Power Dodgems",
         "name": "Tuairtcharranna Flower Power",
         "reference-description": "Riders ride in flower-shaped hovercraft vehicles that they freely control",
-        "description": "Marcaíonn marcaigh i bhfeithiclí foluaineacha i gcruth blátha a stiúrann siad go saor",
+        "description": "Marcaíonn marcaigh i bhfeithiclí foluaineacha i gcruth blátha a rialaíonn siad go saor",
         "reference-capacity": "1 passenger per car",
         "capacity": "1 phaisinéir sa ghluaisteán"
     },
@@ -9007,7 +9007,7 @@
         "reference-name": "Snowmobile Dodgems",
         "name": "Tuairtcharranna Sneachta",
         "reference-description": "Guests slide around in snowmobile-shaped vehicles that they freely control",
-        "description": "Sleamhnaíonn aíonna thart i bhfeithiclí i gcruth cairr sneachta a stiúrann siad go saor",
+        "description": "Sleamhnaíonn aíonna thart i bhfeithiclí i gcruth cairr sneachta a rialaíonn siad go saor",
         "reference-capacity": "1 person per car",
         "capacity": "1 duine sa ghluaisteán"
     },
